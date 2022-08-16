@@ -1,0 +1,6504 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Uncode\n"
+"Report-Msgid-Bugs-To: info@undsgn.com\n"
+"POT-Creation-Date: 2019-09-03 12:20+0200\n"
+"PO-Revision-Date: 2019-09-03 17:06+0200\n"
+"Last-Translator: Manuel Masia | Pixedelic <manu@pixedelic.com>\n"
+"Language-Team: Undsgn <info@undsgn.com>\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.9\n"
+"X-Poedit-Basepath: ../../uncode\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:71
+msgid "Opps! Something went wrong…"
+msgstr "Ajjajj, valami nem jól sikerült..."
+
+#: 404.php:72
+msgid "Page not found. Please continue to our"
+msgstr "Az oldal nem található. Látogass el helyette a"
+
+#: 404.php:72
+msgid "home page"
+msgstr "kezdőlapra"
+
+#: comments.php:28
+#, php-format
+msgctxt "comments"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Hozzászólás"
+msgstr[1] "%1$s Hozzászólás"
+
+#: comments.php:35 comments.php:55
+msgid "Comment navigation"
+msgstr "Komment navigáció"
+
+#: comments.php:37 comments.php:57
+msgid "Older Comments"
+msgstr "Régebbi hozzászólások"
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments"
+msgstr "Újabb hozzászólások"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "A hozzászólás lezárva."
+
+#: comments.php:75
+msgid "Log out"
+msgstr "Kijelentkezés"
+
+#: comments.php:77
+msgctxt "noun"
+msgid "Comment"
+msgstr "Hozzászólás"
+
+#: comments.php:84
+#, fuzzy
+msgid "Add comment"
+msgstr "1 hozzászólás"
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "Nincs találat"
+
+#: content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Készen állsz az első bejegyzés közzétételére? <a href=\"%1$s\">Tedd meg itt</"
+"a>."
+
+#: content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sajnos nem találtunk semmit, ami a keresésedre illeszkedik. Próbáld meg "
+"esetleg más szavakkal."
+
+#: content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Úgy tűnik, hogy nem találjuk, amiért jöttél. Talán egy keresés segíthet."
+
+#: content.php:50
+msgid "Please activate Uncode Core plugin"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:30
+#: core/inc/admin-pages/uncode-panel-functions.php:60
+#: core/inc/admin-pages/uncode-panel-functions.php:61
+#, fuzzy
+msgid "Support"
+msgstr "Az oldal nem támogatja a widgetet"
+
+#: core/inc/admin-pages/support.php:40
+msgid "General"
+msgstr "Általános"
+
+#: core/inc/admin-pages/support.php:41
+msgid ""
+"General information about WordPress, Server Requirements and Uncode Theme "
+"versions."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:46
+msgid "First Steps"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:47
+msgid ""
+"Uncode Theme and plugins installation guide, Demo Contents import and theme "
+"update."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:52
+msgid "Theme Options"
+msgstr "Sablon beállítások"
+
+#: core/inc/admin-pages/support.php:53
+msgid ""
+"Options are the backbone of Uncode and they give you full control over your "
+"website."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:58
+#, fuzzy
+msgid "Page & Posts"
+msgstr "Kapcsolódó termékek"
+
+#: core/inc/admin-pages/support.php:59
+msgid ""
+"Discover how to create, customise and manage pages, blog posts and portfolio "
+"items."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:64
+#, fuzzy
+#| msgid "Page Select"
+msgid "Page Builder"
+msgstr "Oldal választó"
+
+#: core/inc/admin-pages/support.php:65
+msgid ""
+"Learn how to create beautiful pages quickly with the powerful Uncode’s Page "
+"Builder."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:70
+#, fuzzy
+#| msgid "Header"
+msgid "Headers"
+msgstr "Fejléc"
+
+#: core/inc/admin-pages/support.php:71
+msgid ""
+"Uncode works with 4 different header types fully integrated with the Theme "
+"Options."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:76
+msgid "Extra"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:77
+msgid ""
+"Advanced features and additional plugins to boost your Uncode Theme "
+"functionalities."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:82
+msgid "How To"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:83
+msgid ""
+"Discover how to work with some of the most common elements and features of "
+"Uncode."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:88
+msgid "FAQ"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:89
+msgid ""
+"Search the frequent asked questions from the customer community before open "
+"a ticket."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:112
+msgid "Knowledge Base"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:141
+#, fuzzy
+#| msgid "Left Center"
+msgid "Help Center"
+msgstr "Bal középen"
+
+#: core/inc/admin-pages/support.php:145
+#, php-format
+msgid ""
+"According to Envato’s terms, Uncode comes with 6 months of support for every "
+"purchase, and free lifetime theme updates. This support can be %s via "
+"ThemeForest."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:145
+msgid "extended through subscriptions"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:147
+msgid ""
+"Support is limited to questions regarding the Uncode's features, or problems "
+"with the theme. To open a support ticket, please navigate to our Help Center "
+"homepage and click the 'Submit a request' in the top right corner. One of "
+"our Support Team members will respond to you shortly."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:149
+msgid "Item Support DOES include:"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:151
+msgid "Availability of the theme's authors to answer questions;"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:152
+msgid "Answers to technical queries about the theme's features;"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:153
+msgid "Assistance with reported bugs and issues."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:156
+msgid "Item Support DOES NOT include:"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:158
+#, fuzzy
+#| msgid "Custom font size"
+msgid "Customization services;"
+msgstr "Egyéni betűméret"
+
+#: core/inc/admin-pages/support.php:159
+msgid "Installation services;"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:160
+msgid "Help and support for non-bundled third-party plugins that you install."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:163
+msgid "Submit a request"
+msgstr ""
+
+#: core/inc/admin-pages/uncode-panel-functions.php:16
+#, php-format
+msgid ""
+"Thank you for choosing %s theme from ThemeForest. Please register your "
+"purchase and make sure that you've fulfilled all of the requirements."
+msgstr ""
+
+#: core/inc/admin-pages/uncode-panel-functions.php:18
+#, php-format
+msgid ""
+"%s - Creative Multiuse WordPress Theme is now installed and ready to use!"
+msgstr ""
+
+#: core/inc/admin-pages/uncode-panel-functions.php:22
+#: core/inc/admin-pages/welcome.php:23
+#, fuzzy
+msgid "Welcome"
+msgstr "Üdvözöl az "
+
+#: core/inc/admin-pages/uncode-panel-functions.php:23
+#, fuzzy
+#| msgid "Welcome to "
+msgid "Welcome to Uncode"
+msgstr "Üdvözöl az "
+
+#: core/inc/admin-pages/uncode-panel-functions.php:28
+#: core/inc/admin-pages/uncode-panel-functions.php:29
+#, fuzzy
+#| msgid "Plugin"
+msgid "Plugins"
+msgstr "Bővítmény"
+
+#: core/inc/admin-pages/uncode-panel-functions.php:30
+msgid ""
+"Uncode Core and Uncode WPBakery Page Builder are the only required plugins. "
+"Any other plugins are optional."
+msgstr ""
+
+#: core/inc/admin-pages/uncode-panel-functions.php:37
+#: core/inc/admin-pages/uncode-panel-functions.php:38 core/inc/admin.php:139
+msgid "Import Demo"
+msgstr "Demo importálása"
+
+#: core/inc/admin-pages/uncode-panel-functions.php:39
+#, fuzzy
+#| msgid ""
+#| "Here you can import with one click all the content from our demo site, "
+#| "this is the easiest way to setup your theme. It will allow you to quickly "
+#| "edit everything instead of creating content from scratch. When you import "
+#| "the data following things will happen:"
+msgid ""
+"Here you can import demo layouts. This is the easiest way to start building "
+"your site. Before you install any demos, please read through the following "
+"information."
+msgstr ""
+"Itt egy kattintással be tudod importálni az összes tartalmat a demo "
+"oldalunkról, ez a legegyszerűbb módja, hogy telepítsd a sablont. Lehetőséged "
+"van rá, hogy csak gyorsan szerkessz mindent ahelyett, hogy az összes "
+"tartalmat létrehoznád. Amikor importálod az adatokat, a következő fog "
+"történni:"
+
+#: core/inc/admin-pages/uncode-panel-functions.php:44
+#: core/inc/admin-pages/uncode-panel-functions.php:45
+#, fuzzy
+#| msgid "Font Sources"
+msgid "Font Stacks"
+msgstr "Betűtípusok forrása"
+
+#: core/inc/admin-pages/uncode-panel-functions.php:46
+msgid ""
+"Import fonts from the most popular fonts libraries and create your Font "
+"Stacks."
+msgstr ""
+
+#: core/inc/admin-pages/uncode-panel-functions.php:51
+#: core/inc/admin-pages/uncode-panel-functions.php:52
+msgid "Options Utils"
+msgstr "Beállítás eszközök"
+
+#: core/inc/admin-pages/uncode-panel-functions.php:53
+msgid ""
+"Find useful tools to save as manual backup or to export/import your Theme "
+"Options."
+msgstr ""
+
+#: core/inc/admin-pages/uncode-panel-functions.php:62
+msgid ""
+"Our online documentation is an incredible resource for learning how to use "
+"Uncode. We also offer private support throughout our Help Center."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:25
+#, fuzzy
+#| msgid "Reset Options"
+msgid "Registration"
+msgstr "Beállítások alaphelyzetbe"
+
+#: core/inc/admin-pages/welcome.php:29
+msgid ""
+"Uncode is ready to be used. Please register your product to import Demo "
+"Contents, to install Premium Plugins and get automatic updates."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:39
+msgid "Envato Purchase Code"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:43
+#, php-format
+msgid "Please insert your Envato Purchase Code. %s."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:43 core/inc/admin-pages/welcome.php:70
+#: core/inc/admin-pages/welcome.php:251 core/inc/admin-pages/welcome.php:281
+#: core/inc/admin-pages/welcome.php:290
+msgid "More info"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:51 core/inc/admin-pages/welcome.php:457
+msgid "Where can I find my Envato Purchase Code?"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:51
+#, fuzzy
+#| msgid "Video"
+msgid "video"
+msgstr "Videó"
+
+#: core/inc/admin-pages/welcome.php:53
+#, php-format
+msgid "Access your %s with the account that was used to purchase Uncode"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:53
+msgid "ThemeForest downloads"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:54
+msgid ""
+"Look for Uncode in your list of purchases, click the Download button and "
+"select 'License Certificate & Purchase Code'"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:55
+msgid ""
+"Copy the 'Item Purchase Code' into the field 'Envato Purchase Code' of the "
+"Registration page"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:57
+msgid "Your ThemeForest Downloads"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:70
+#, php-format
+msgid ""
+"Confirm that, according to the Envato License Terms, each license entitles "
+"one person for a single project. Creating multiple unregistered "
+"installations is a copyright violation. %s."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:75
+#, fuzzy
+#| msgid "Related Products"
+msgid "Register your product"
+msgstr "Kapcsolódó termékek"
+
+#: core/inc/admin-pages/welcome.php:85
+msgid "Deregister your product"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:95 core/inc/admin.php:21
+msgid "System Status"
+msgstr "Rendszer állapot"
+
+#: core/inc/admin-pages/welcome.php:99
+msgid ""
+"Under System Status, you can find important information about your WordPress "
+"setup."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:101
+#, php-format
+msgid ""
+"Under System Status, you can find important information about your server "
+"setup. If you see red errors that indicate problems, likely, you're not in "
+"compliance with Uncode's %s."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:101
+#, fuzzy
+#| msgid "Server Environment"
+msgid "Server Requirements"
+msgstr "Szerver környezet"
+
+#: core/inc/admin-pages/welcome.php:108
+msgid "Theme version"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:109
+#, fuzzy
+#| msgid "The version of WordPress installed on your site."
+msgid "The version of Uncode installed on your site."
+msgstr "A weboldalad WordPress verziója."
+
+#: core/inc/admin-pages/welcome.php:119
+msgid "Child Theme"
+msgstr "Gyermek sablon"
+
+#: core/inc/admin-pages/welcome.php:120
+#, fuzzy
+#| msgid "The version of WordPress installed on your site."
+msgid "Name and version of child theme installed on your site."
+msgstr "A weboldalad WordPress verziója."
+
+#: core/inc/admin-pages/welcome.php:122
+#, php-format
+msgctxt "Child theme name and version"
+msgid "%s - %s"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:129
+#, fuzzy
+#| msgid "Product Description"
+msgid "Product Registration"
+msgstr "Termékleírás"
+
+#: core/inc/admin-pages/welcome.php:130
+msgid ""
+"Please validate your product license as outlined in Envato's license terms."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:134 core/inc/admin-pages/welcome.php:136
+msgid "Theme registered"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:137
+msgid "Not registered"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:145
+#, fuzzy
+#| msgid "Uncode font"
+msgid "Uncode Core"
+msgstr "Uncode betűtípus"
+
+#: core/inc/admin-pages/welcome.php:146
+#, fuzzy
+#| msgid "Whether or not you have WordPress Multisite enabled."
+msgid "Whether or not you have Uncode Core active."
+msgstr "Engedélyezve van-e a WordPress Multisite."
+
+#: core/inc/admin-pages/welcome.php:147
+#, php-format
+msgid "Not active, please <a href=\"%s\">activate it</a>"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:153
+#, fuzzy
+#| msgid "Frontend stylesheet"
+msgid "Frontend Stylesheet"
+msgstr "Publikus stíluslap"
+
+#: core/inc/admin-pages/welcome.php:154 core/inc/admin-pages/welcome.php:197
+msgid ""
+"Uncode is generating a stylesheet when the options are saved. The file must "
+"be writtable."
+msgstr ""
+"Amikor a beállításokat elmentjük, az Uncode legenerál egy stíluslapot. A "
+"fájlnak írhatónak kell lenni."
+
+#: core/inc/admin-pages/welcome.php:186 core/inc/admin-pages/welcome.php:225
+#, fuzzy, php-format
+msgid ""
+"WordPress doesn't have direct access to this file <code>%s</code>. This is "
+"most likely due to a conflict with server file permissions. It is also "
+"possible that WordPress' file access is not configured correctly. The custom "
+"CSS will be output inline."
+msgstr ""
+"A WordPress nem fér hozzá a(z) <code>%s</code> fájlhoz egy jogosultság "
+"ütközés miatt az Uncode mappán belül, vagy a te WordPress fájl-hozzáférési "
+"beállításaid nem a közvetlen módúak. Az egyéni css inline módon lesz "
+"megjelenítve."
+
+#: core/inc/admin-pages/welcome.php:191 core/inc/admin-pages/welcome.php:230
+#, fuzzy, php-format
+msgid ""
+"WordPress doesn't have direct access to this folder <code>%s</code>. This is "
+"most likely due to a conflict with server file permissions. It is also "
+"possible that WordPress' file access is not configured correctly. The custom "
+"CSS will be output inline."
+msgstr ""
+"A WordPress nem fér hozzá a(z) <code>%s</code> fájlhoz egy jogosultság "
+"ütközés miatt az Uncode mappán belül, vagy a te WordPress fájl-hozzáférési "
+"beállításaid nem a közvetlen módúak. Az egyéni css inline módon lesz "
+"megjelenítve."
+
+#: core/inc/admin-pages/welcome.php:196
+#, fuzzy
+#| msgid "Backend stylesheet"
+msgid "Backend Stylesheet"
+msgstr "Admin stíluslap"
+
+#: core/inc/admin-pages/welcome.php:237
+msgid "PHP Version"
+msgstr "PHP verzió"
+
+#: core/inc/admin-pages/welcome.php:240
+#, php-format
+msgid "%s - Please update your PHP version We recommend at least PHP 5.6.0"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:245
+msgid "WP Memory Limit"
+msgstr "WP Memória limit"
+
+#: core/inc/admin-pages/welcome.php:246
+msgid ""
+"Memory Limits not satisfied may produce possible errors on the frontend of "
+"the site as blank pages."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:251
+#, fuzzy, php-format
+msgid "%s - We recommend setting memory to at least 96 MB. %s"
+msgstr ""
+"%s - Javasoljuk, hogy a memória mérete legalább 64MB legyen. Lásd: <a href="
+"\"%s\" target=\"_blank\">A PHP számára foglalt memória növelése</a>"
+
+#: core/inc/admin-pages/welcome.php:259
+msgid "PHP Max Input Vars"
+msgstr "PHP max bemeneti változók"
+
+#: core/inc/admin-pages/welcome.php:260
+msgid "Max Input Vars not satisfied may result in loss of Theme Options."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:264
+#, fuzzy, php-format
+msgid ""
+"%s - We recommend setting PHP max_input_vars to at least %s. See: <a href="
+"\"%s\" target=\"_blank\">Increasing the PHP max vars limit</a>"
+msgstr ""
+"%s - Javasoljuk, hogy a memória mérete legalább 64MB legyen. Lásd: <a href="
+"\"%s\" target=\"_blank\">A PHP számára foglalt memória növelése</a>"
+
+#: core/inc/admin-pages/welcome.php:271
+#, fuzzy
+#| msgid "PHP Max Input Vars"
+msgid "PHP Max Input Vars (allowed)"
+msgstr "PHP max bemeneti változók"
+
+#: core/inc/admin-pages/welcome.php:272
+msgid ""
+"The effective maximum number of variables your server can use for a single "
+"function to avoid overloads. If this value is lower than max_input_vars your "
+"server is applying restrictions on the actual number of vars that can be "
+"used."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:272
+msgid "If you modified the server settings refresh the option to test."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:277 core/inc/admin-pages/welcome.php:286
+msgid "Calculating…"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:281 core/inc/admin-pages/welcome.php:290
+#, fuzzy, php-format
+msgid " - We recommend setting PHP max_input_vars to at least %s. %s"
+msgstr ""
+"%s - Javasoljuk, hogy a memória mérete legalább 64MB legyen. Lásd: <a href="
+"\"%s\" target=\"_blank\">A PHP számára foglalt memória növelése</a>"
+
+#: core/inc/admin-pages/welcome.php:283 core/inc/admin-pages/welcome.php:292
+#, fuzzy
+#| msgid "is available"
+msgid "No available data"
+msgstr "elérhető"
+
+#: core/inc/admin.php:74
+#, fuzzy
+#| msgid "Theme Options updated."
+msgid "Theme Options saved!"
+msgstr "Sablon beállítások frissítve."
+
+#: core/inc/admin.php:75
+#, fuzzy
+#| msgid "Theme Options updated."
+msgid "Theme Options not saved."
+msgstr "Sablon beállítások frissítve."
+
+#: core/inc/admin.php:78
+msgid " Error: 400 - Request content was invalid."
+msgstr ""
+
+#: core/inc/admin.php:79
+msgid " Error: 401 - Unauthorized access."
+msgstr ""
+
+#: core/inc/admin.php:80
+msgid " Error: 403 - Forbidden resource can't be accessed."
+msgstr ""
+
+#: core/inc/admin.php:81
+msgid " Error: 404 - Requested page not found."
+msgstr ""
+
+#: core/inc/admin.php:82
+msgid " Error: 408 - Request time out."
+msgstr ""
+
+#: core/inc/admin.php:83
+msgid " Error: 500 - Internal server error."
+msgstr ""
+
+#: core/inc/admin.php:84
+msgid " Error: 503 - Service unavailable."
+msgstr ""
+
+#: core/inc/admin.php:85
+msgid " Your session has expired."
+msgstr ""
+
+#: core/inc/admin.php:86
+msgid " Unknown error."
+msgstr ""
+
+#: core/inc/admin.php:89
+#, fuzzy
+msgid "All Media Categories"
+msgstr "Kategóriák:"
+
+#: core/inc/admin.php:94 core/inc/main.php:885
+msgid "Read more"
+msgstr "Tovább"
+
+#: core/inc/admin.php:100
+msgid "Please enter a valid Envato Purchase Code"
+msgstr ""
+
+#: core/inc/admin.php:101
+msgid "You must accept the Terms of Service in order to perform this action"
+msgstr ""
+
+#: core/inc/admin.php:111
+#, fuzzy
+#| msgid "Save New Layout"
+msgid "Save Anyway"
+msgstr "Új elrendezés mentése"
+
+#: core/inc/admin.php:112
+msgid "Don't show this message again"
+msgstr ""
+
+#: core/inc/admin.php:113
+#, fuzzy
+#| msgid "Animation speed"
+msgid "Confirmation Required"
+msgstr "Animáció sebesség"
+
+#: core/inc/admin.php:115
+msgid "<strong>Important warning!</strong>"
+msgstr ""
+
+#: core/inc/admin.php:116
+#, php-format
+msgid ""
+"Before saving Theme Options you need to increase the "
+"<em><strong>max_input_vars</strong></em> value of your PHP configuration. "
+"Your current allowed value is too low and you risk to loose your settings if "
+"you choose to continue, please set it to at least <strong class=\"vars-"
+"placeholder\">dddd</strong>: <a href=\"%s\" target=\"_blank\">more info</a>."
+msgstr ""
+
+#: core/inc/admin.php:117
+#, php-format
+msgid ""
+"If you decide to continue, we strongly suggest you to perform a backup "
+"first, <a href=\"%s\" target=\"_blank\">more info</a>."
+msgstr ""
+
+#: core/inc/admin.php:128
+msgid "Please read this article before updating the theme"
+msgstr ""
+
+#: core/inc/admin.php:130
+msgid "Read the Change Log"
+msgstr ""
+
+#: core/inc/admin.php:136
+#, fuzzy
+#| msgid "Update Required"
+msgid "Uncode Registration Required"
+msgstr "Frissítés szükséges"
+
+#: core/inc/admin.php:137
+msgid "Register Uncode"
+msgstr ""
+
+#: core/inc/admin.php:138
+msgid "Please register your copy of Uncode Theme to update the theme."
+msgstr ""
+
+#: core/inc/admin.php:140
+msgid "Please register your copy of Uncode Theme to import premium contents."
+msgstr ""
+
+#: core/inc/admin.php:141
+#, php-format
+msgid "Please register your copy of Uncode Theme to %s the following plugin:"
+msgstr ""
+
+#: core/inc/admin.php:142
+#, php-format
+msgid "Please register your copy of Uncode Theme to %s the following plugins:"
+msgstr ""
+
+#: core/inc/admin.php:205 core/inc/admin.php:206
+msgid "Add Media"
+msgstr "Média hozzáadása"
+
+#: core/inc/admin.php:207 core/inc/admin.php:208
+msgid "Media selection"
+msgstr "Média kiválasztása"
+
+#: core/inc/admin.php:209
+#, fuzzy
+#| msgid "All medias"
+msgid "All media"
+msgstr "Összes média"
+
+#: core/inc/admin.php:222
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: core/inc/admin.php:222
+msgid "Manage Vimeos"
+msgstr "Vimeo kezelése"
+
+#: core/inc/admin.php:222
+#, php-format
+msgid "Vimeo <span class=\"count\">(%s)</span>"
+msgid_plural "Vimeos <span class=\"count\">(%s)</span>"
+msgstr[0] "Vimeo <span class=\"count\">(%s)</span>"
+msgstr[1] "Vimeo <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:223
+msgid "Youtube"
+msgstr "Youtube"
+
+#: core/inc/admin.php:223
+msgid "Manage Youtubes"
+msgstr "Youtube kezelése"
+
+#: core/inc/admin.php:223
+#, php-format
+msgid "Youtube <span class=\"count\">(%s)</span>"
+msgid_plural "Youtubes <span class=\"count\">(%s)</span>"
+msgstr[0] "Youtube <span class=\"count\">(%s)</span>"
+msgstr[1] "Youtube <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:224
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: core/inc/admin.php:224
+msgid "Manage Soundclouds"
+msgstr "Soundcloud kezelése"
+
+#: core/inc/admin.php:224
+#, php-format
+msgid "Soundcloud <span class=\"count\">(%s)</span>"
+msgid_plural "Soundclouds <span class=\"count\">(%s)</span>"
+msgstr[0] "Soundcloud <span class=\"count\">(%s)</span>"
+msgstr[1] "Soundcloud <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:225
+msgid "Spotify"
+msgstr "Spotify"
+
+#: core/inc/admin.php:225
+msgid "Manage Spotifys"
+msgstr "Spotify kezelése"
+
+#: core/inc/admin.php:225
+#, php-format
+msgid "Spotify <span class=\"count\">(%s)</span>"
+msgid_plural "Spotifys <span class=\"count\">(%s)</span>"
+msgstr[0] "Spotify <span class=\"count\">(%s)</span>"
+msgstr[1] "Spotify <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:226
+msgid "Facebook"
+msgstr "Facebook"
+
+#: core/inc/admin.php:226
+#, fuzzy
+msgid "Manage Facebooks"
+msgstr "Flickr kezelése"
+
+#: core/inc/admin.php:226
+#, fuzzy, php-format
+msgid "Facebook <span class=\"count\">(%s)</span>"
+msgid_plural "Facebooks <span class=\"count\">(%s)</span>"
+msgstr[0] "Flickr <span class=\"count\">(%s)</span>"
+msgstr[1] "Flickr <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:227
+msgid "Twitter"
+msgstr "Twitter"
+
+#: core/inc/admin.php:227
+#, fuzzy
+msgid "Manage Tweets"
+msgstr "Vimeo kezelése"
+
+#: core/inc/admin.php:227
+#, fuzzy, php-format
+msgid "Twitter <span class=\"count\">(%s)</span>"
+msgid_plural "Tweets <span class=\"count\">(%s)</span>"
+msgstr[0] "Vimeo <span class=\"count\">(%s)</span>"
+msgstr[1] "Vimeo <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:228
+msgid "Flickr"
+msgstr "Flickr"
+
+#: core/inc/admin.php:228
+msgid "Manage Flickrs"
+msgstr "Flickr kezelése"
+
+#: core/inc/admin.php:228
+#, php-format
+msgid "Flickr <span class=\"count\">(%s)</span>"
+msgid_plural "Flickrs <span class=\"count\">(%s)</span>"
+msgstr[0] "Flickr <span class=\"count\">(%s)</span>"
+msgstr[1] "Flickr <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:229
+msgid "Instagram"
+msgstr "Instagram"
+
+#: core/inc/admin.php:229
+msgid "Manage Instagrams"
+msgstr "Instagram kezelése"
+
+#: core/inc/admin.php:229
+#, php-format
+msgid "Instagram <span class=\"count\">(%s)</span>"
+msgid_plural "Instagrams <span class=\"count\">(%s)</span>"
+msgstr[0] "Instagram <span class=\"count\">(%s)</span>"
+msgstr[1] "Instagram <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:230
+#, fuzzy
+msgid "SVG"
+msgstr "Add meg a logó színét, ha az SVG vagy szöveges."
+
+#: core/inc/admin.php:230
+#, fuzzy
+msgid "Manage SVGs"
+msgstr "Vimeo kezelése"
+
+#: core/inc/admin.php:230
+#, fuzzy, php-format
+msgid "SVG <span class=\"count\">(%s)</span>"
+msgid_plural "SVGs <span class=\"count\">(%s)</span>"
+msgstr[0] "Vimeo <span class=\"count\">(%s)</span>"
+msgstr[1] "Vimeo <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:231
+msgid "HTML"
+msgstr ""
+
+#: core/inc/admin.php:231
+#, fuzzy
+msgid "Manage HTMLs"
+msgstr "Vimeo kezelése"
+
+#: core/inc/admin.php:231
+#, fuzzy, php-format
+msgid "HTML <span class=\"count\">(%s)</span>"
+msgid_plural "HTMLs <span class=\"count\">(%s)</span>"
+msgstr[0] "Minden <span class=\"count\">(%s)</span>"
+msgstr[1] "Minden <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:232
+msgid "iFrame"
+msgstr ""
+
+#: core/inc/admin.php:232
+#, fuzzy
+msgid "Manage iFrames"
+msgstr "Vimeo kezelése"
+
+#: core/inc/admin.php:232
+#, fuzzy, php-format
+msgid "iFrame <span class=\"count\">(%s)</span>"
+msgid_plural "iFrames <span class=\"count\">(%s)</span>"
+msgstr[0] "Vimeo <span class=\"count\">(%s)</span>"
+msgstr[1] "Vimeo <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:276
+#, fuzzy
+msgid "Alt Text"
+msgstr "Szöveg"
+
+#: core/inc/admin.php:292
+msgid "Width"
+msgstr "Szélesség"
+
+#: core/inc/admin.php:296
+msgid "Height"
+msgstr "Magasság"
+
+#: core/inc/admin.php:300
+msgid "Media Poster (Image ID)"
+msgstr "Média poszter (Kép ID)"
+
+#: core/inc/admin.php:307
+msgid "Loop?"
+msgstr ""
+
+#: core/inc/admin.php:313
+msgid "Autoplay?"
+msgstr ""
+
+#: core/inc/admin.php:319
+#, fuzzy
+#| msgid "HTML Body background"
+msgid "Mobile video background?"
+msgstr "HTML body háttér"
+
+#: core/inc/admin.php:325
+msgid "Alternative video source 1"
+msgstr "Alternatív videó forrás 1"
+
+#: core/inc/admin.php:329
+msgid "Alternative video source 2"
+msgstr "Alternatív videó forrás 2"
+
+#: core/inc/admin.php:336
+#, fuzzy
+msgid "Animated?"
+msgstr "Animáció sebesség"
+
+#: core/inc/admin.php:345
+#, fuzzy
+msgid "Animation time (default 100)"
+msgstr "Animáció késleltetés"
+
+#: core/inc/admin.php:353
+msgid "ID"
+msgstr "ID"
+
+#: core/inc/admin.php:361
+#, fuzzy
+msgid "Twitter original"
+msgstr "Twitter"
+
+#: core/inc/admin.php:369
+msgid "Team member?"
+msgstr "Csapattag?"
+
+#: core/inc/admin.php:377
+msgid "Socials"
+msgstr "Közösségi"
+
+#: core/inc/admin.php:617 core/inc/admin.php:672 core/inc/admin.php:1493
+msgid "Send to OptionTree"
+msgstr "OptionTree küldés"
+
+#: core/inc/admin.php:618 core/inc/admin.php:673 core/inc/admin.php:716
+#: core/inc/admin.php:1494 core/inc/admin.php:1533
+msgid "Remove Media"
+msgstr "Média eltávolítása"
+
+#: core/inc/admin.php:624 core/inc/admin.php:679
+msgid "Select…"
+msgstr "Kiválasztás…"
+
+#: core/inc/admin.php:627 core/inc/admin.php:687 core/inc/admin.php:1504
+#, fuzzy
+msgid "Featured media"
+msgstr "Kiemelt kép"
+
+#: core/inc/admin.php:631 core/inc/admin.php:692 core/inc/admin.php:1510
+#, fuzzy
+msgid "Add media"
+msgstr "Média hozzáadása"
+
+#: core/inc/admin.php:634 core/inc/admin.php:720
+#, fuzzy
+msgid "Select a media assigned to the category."
+msgstr "Válaszd ki a kategóriához rendelt színt."
+
+#: core/inc/admin.php:637 core/inc/admin.php:724
+msgid "Color"
+msgstr "Szín"
+
+#: core/inc/admin.php:645 core/inc/admin.php:734
+msgid "Select a color assigned to the category."
+msgstr "Válaszd ki a kategóriához rendelt színt."
+
+#: core/inc/admin.php:1071
+#, php-format
+msgid "The Adaptive Images system is using %1$s of the %2$s space left."
+msgstr ""
+"Az Adaptív Képek rendszer által használt terület %1$s a maradék %2$s "
+"területből."
+
+#: core/inc/admin.php:1269
+msgid ""
+"In order to run Uncode you need first to deactivate WPBakery Page Builder "
+"and install the Uncode WPBakery Page Builder."
+msgstr ""
+
+#: core/inc/admin.php:1270
+msgid "Deactivate WPBakery Page Builder"
+msgstr ""
+
+#: core/inc/admin.php:1286
+msgid "Warning: PHP max_input_vars."
+msgstr ""
+
+#: core/inc/admin.php:1289
+#, php-format
+msgid ""
+"Before saving the theme options you need to address an issue marked on the "
+"<strong><a href=\"%s\">System Status</a></strong>."
+msgstr ""
+
+#: core/inc/admin.php:1332
+#, php-format
+msgid ""
+"The menu transparency will not be visible without a declared header <a class="
+"\"page-options-header-section\" href=\"%s\">here</a>."
+msgstr ""
+
+#: core/inc/admin.php:1415
+msgid "Facebook profile URL"
+msgstr ""
+
+#: core/inc/admin.php:1417
+msgid "Twitter username or profile URL"
+msgstr ""
+
+#: core/inc/admin.php:1419
+msgid "Google+"
+msgstr "Google+"
+
+#: core/inc/admin.php:1421
+msgid "Dribbble profile URL"
+msgstr ""
+
+#: core/inc/admin.php:1423
+msgid "Instagram profile URL"
+msgstr ""
+
+#: core/inc/admin.php:1425
+msgid "Pinterest page URL"
+msgstr ""
+
+#: core/inc/admin.php:1427
+msgid "Xing profile URL"
+msgstr ""
+
+#: core/inc/admin.php:1429
+msgid "YouTube page URL"
+msgstr ""
+
+#: core/inc/admin.php:1431
+msgid "Vimeo page URL"
+msgstr ""
+
+#: core/inc/admin.php:1433
+msgid "Tumblr page URL"
+msgstr ""
+
+#: core/inc/admin.php:1451
+#, fuzzy
+#| msgid "Navigation"
+msgid "Qualification"
+msgstr "Navigáció"
+
+#: core/inc/admin.php:1455
+msgid "Enter a descriptive sentence."
+msgstr ""
+
+#: core/inc/admin.php:1537
+msgid "Select a media assigned to the author page."
+msgstr ""
+
+#: core/inc/admin.php:1679
+#, fuzzy
+msgid "Related Posts"
+msgstr "Kapcsolódó termékek"
+
+#: core/inc/admin.php:1753
+#, php-format
+msgid ""
+"Please activate Content Block in WPBakery Page Builder > <a href=\"%1s"
+"\">Role Manager</a>. More info on the documentation, <a href=\"%2s\" target="
+"\"_blank\">click here</a>"
+msgstr ""
+
+#: core/inc/admin.php:1826
+#, php-format
+msgid ""
+"Envato WordPress Toolkit has been deprecated. Please deactivate it and <a "
+"href=\"%1$s\">register your theme here</a>."
+msgstr ""
+
+#: core/inc/admin.php:1870
+#, fuzzy
+#| msgid ""
+#| "The following plugin needs to be updated to its latest version to ensure "
+#| "maximum compatibility with this theme: %1$s."
+#| msgid_plural ""
+#| "The following plugins need to be updated to their latest version to "
+#| "ensure maximum compatibility with this theme: %1$s."
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: <em>Uncode Core</em>."
+msgstr ""
+"A következő bővítmény frissítést igényel a legfrissebb verzióra, hogy a "
+"maximális kompatibilitása biztosítva legyen ezzel a sablonnal: %1$s."
+
+#: core/inc/admin.php:1878 core/inc/admin.php:1886
+#, fuzzy
+#| msgid "This theme requires the following plugin: %1$s."
+#| msgid_plural "This theme requires the following plugins: %1$s."
+msgid "This theme requires the following plugin: <em>Uncode Core</em>."
+msgstr "Ennek a sablonnak szüksége van a következő bővítményre: %1$s."
+
+#: core/inc/api/api-functions.php:196
+#, php-format
+msgid ""
+"<span class=\"uncode-premium-plugin-activation-error\">You need to register "
+"Uncode before to download this plugin. <a href=\"%s\">Register Uncode</a></"
+"span>"
+msgstr ""
+
+#: core/inc/api/api-functions.php:207
+msgid ""
+"<span class=\"uncode-premium-plugin-activation-error\">The Envato Purchase "
+"Code seems to be invalid. Please try to unregister and register the product "
+"again. If the issue persists <a href=\"https://support.undsgn.com/hc/en-us/"
+"articles/360000836318\" target=\"_blank\">contact the theme author.</a> "
+"(Error 23)</span>"
+msgstr ""
+
+#: core/inc/api/api-functions.php:210
+#, php-format
+msgid ""
+"<span class=\"uncode-premium-plugin-activation-error\">Purchase code "
+"verification failed. <a href=\"https://support.undsgn.com/hc/en-us/"
+"articles/360000836318\" target=\"_blank\">Please contact the theme author.</"
+"a> (Error %s)</span>"
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:64
+msgid "Purchase Code saved."
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:83
+msgid "Invalid nonce or empty data."
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:124
+msgid ""
+"Your Envato Purchase Code doesn't seem to be valid. Please double-check it, "
+"and try again."
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:128
+msgid ""
+"According to the Envato License Terms, you have exceeded the maximum number "
+"of activations permitted for a single Purchase Code. Please purchase an "
+"additional license. <a href=\"https://support.undsgn.com/hc/en-us/"
+"articles/360000849998\" target=\"_blank\">More info</a>"
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:132
+msgid ""
+"There was a problem contacting the Envato API server for Purchase Code "
+"verification. Please try again later, or contact the theme author."
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:136
+msgid ""
+"There is a problem contacting the Undsgn server for the Purchase Code "
+"verification. Please disable any firewall service, deactivate any possible "
+"server authentication, verify you have an updated cURL module, verify if "
+"your host is blocking connections to external domains and make sure to "
+"whitelist 'api.undsgn.com'. Please consult <a href=\"https://support.undsgn."
+"com/hc/en-us/articles/115004287985\" target=\"_blank\">this page</a> and if "
+"the problem persists, <a href=\"https://support.undsgn.com/hc/en-us/"
+"articles/360000836318\" target=\"_blank\"> contact the theme author.</a>"
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:153
+#, php-format
+msgid ""
+"There was an unexpected problem with your Purchase Code verification. <a "
+"href=\"https://support.undsgn.com/hc/en-us/articles/360000836318\" target="
+"\"_blank\">Please contact the theme author.</a> (Error %s)"
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:157
+msgid ""
+"The Envato Purchase Code doesn't seem to be properly formatted. Please "
+"double check it and try again."
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:161
+msgid ""
+"The Envato Purchase Code doesn't seem to be associated with an Uncode Theme "
+"purchase. Please double check it and try again."
+msgstr ""
+
+#: core/inc/colors.php:12
+msgid "Accent"
+msgstr "Kiemelés"
+
+#: core/inc/customizer-woocommerce.php:96 woocommerce/cart/mini-cart.php:52
+#: woocommerce/cart/mini-cart.php:53
+msgid "Remove this item"
+msgstr "Tétel eltávolítása"
+
+#: core/inc/customizer-woocommerce.php:114
+msgid "Subtotal:"
+msgstr "Részösszeg:"
+
+#: core/inc/customizer-woocommerce.php:117
+#, fuzzy
+#| msgid "View Cart"
+msgid "View cart"
+msgstr "Kosár megtekintése"
+
+#: core/inc/customizer-woocommerce.php:118 woocommerce/cart/mini-cart.php:100
+msgid "Checkout"
+msgstr "Pénztár"
+
+#: core/inc/customizer-woocommerce.php:122
+#: core/inc/customizer-woocommerce.php:167
+#, fuzzy
+#| msgid "Your cart is currently empty"
+msgid "Your cart is currently empty."
+msgstr "A kosarad jelenleg üres"
+
+#: core/inc/customizer-woocommerce.php:172
+#: core/inc/customizer-woocommerce.php:174
+msgid "Cart"
+msgstr "Kosár"
+
+#: core/inc/customizer-woocommerce.php:226
+#, fuzzy
+#| msgid "Proceed to Checkout"
+msgid "Proceed to checkout"
+msgstr "Tovább a pénztárhoz"
+
+#: core/inc/deprecated-functions.php:21
+#, php-format
+msgid ""
+"<strong>Make sure all your plugins are up to date:</strong> %1$s is "
+"<strong>deprecated</strong> since version %2$s! Use %3$s instead."
+msgstr ""
+
+#: core/inc/deprecated-functions.php:23
+#, php-format
+msgid ""
+"<strong>Make sure all your plugins are up to date:</strong> %1$s is "
+"<strong>deprecated</strong> since version %2$s with no alternative available."
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:85
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (Érvénytelen)"
+
+#: core/inc/edit_custom_walker.php:89
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (Függőben)"
+
+#: core/inc/edit_custom_walker.php:98
+msgid "MEGAMENU TITLE"
+msgstr "MEGAMENÜ CÍM"
+
+#: core/inc/edit_custom_walker.php:100
+msgid "MEGAMENU"
+msgstr "MEGAMENÜ"
+
+#: core/inc/edit_custom_walker.php:100
+msgid "sub item"
+msgstr "al-elem"
+
+#: core/inc/edit_custom_walker.php:127
+msgid "Move up"
+msgstr "Mozgasd fel"
+
+#: core/inc/edit_custom_walker.php:140
+msgid "Move down"
+msgstr "Mozgasd le"
+
+#: core/inc/edit_custom_walker.php:142 core/inc/edit_custom_walker.php:144
+msgid "Edit Menu Item"
+msgstr "Menü elem szerkesztése"
+
+#: core/inc/edit_custom_walker.php:153
+msgid "URL"
+msgstr "URL"
+
+#: core/inc/edit_custom_walker.php:160
+msgid "Navigation Label"
+msgstr "Navigációs címke"
+
+#: core/inc/edit_custom_walker.php:166
+msgid "Title Attribute"
+msgstr "Cím tulajdonság"
+
+#: core/inc/edit_custom_walker.php:173
+msgid "Open link in a new window/tab"
+msgstr "Link megnyitása új ablakban/lapon"
+
+#: core/inc/edit_custom_walker.php:178
+msgid "CSS Classes (optional)"
+msgstr "CSS class-ok (opcionális)"
+
+#: core/inc/edit_custom_walker.php:184
+msgid "Link Relationship (XFN)"
+msgstr "Link kapcsolat (XFN)"
+
+#: core/inc/edit_custom_walker.php:190 core/inc/media-enhanced.php:348
+#: woocommerce/single-product/tabs/description.php:16
+msgid "Description"
+msgstr "Leírás"
+
+#: core/inc/edit_custom_walker.php:192
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+"A leírás a menüben fog megjelenni, ha a jelenlegi sablon ezt támogatja."
+
+#: core/inc/edit_custom_walker.php:202
+#, fuzzy
+msgid "Icon"
+msgstr "Add meg a közösségi háló ikonját."
+
+#: core/inc/edit_custom_walker.php:211
+msgid "Megamenu"
+msgstr "Megamenü"
+
+#: core/inc/edit_custom_walker.php:220
+msgid "Button style"
+msgstr "Gomb stílus"
+
+#: core/inc/edit_custom_walker.php:226
+msgid "Move"
+msgstr "Mozgatás"
+
+#: core/inc/edit_custom_walker.php:227
+msgid "Up one"
+msgstr "Egyet fel"
+
+#: core/inc/edit_custom_walker.php:228
+msgid "Down one"
+msgstr "Egyet le"
+
+#: core/inc/edit_custom_walker.php:231
+msgid "To the top"
+msgstr "Legfelülre"
+
+#: core/inc/edit_custom_walker.php:238
+#, php-format
+msgid "Original: %s"
+msgstr "Eredeti: %s"
+
+#: core/inc/edit_custom_walker.php:251
+msgid "Remove"
+msgstr "Eltávolítás"
+
+#: core/inc/edit_custom_walker.php:252
+msgid "Cancel"
+msgstr "Mégse"
+
+#: core/inc/export/uncode_export.php:6
+msgid ""
+"You do not have sufficient permissions to export the content of this site."
+msgstr ""
+"Nincs elengedő jogosultságod ahhoz, hogy az oldal tartalmát exportálhasd."
+
+#: core/inc/export/uncode_export.php:12
+msgid "Export"
+msgstr "Exportálás"
+
+#: core/inc/export/uncode_export.php:40
+msgid "Overview"
+msgstr "Áttekintés"
+
+#: core/inc/export/uncode_export.php:41
+msgid ""
+"You can export a file of your site&#8217;s content in order to import it "
+"into another installation or platform. The export file will be an XML file "
+"format called WXR. Posts, pages, comments, custom fields, categories, and "
+"tags can be included. You can choose for the WXR file to include only "
+"certain posts or pages by setting the dropdown filters to limit the export "
+"by category, author, date range by month, or publishing status."
+msgstr ""
+"Exportálhatsz egy fájlt az oldalad tartalmával, hogy egy másik telepítésben "
+"vagy platformon felhasználhasd. A kimeneti fájl egy WXR-nek nevezett XML "
+"formátumban lesz. Bejegyzések, oldalak, hozzászólások, kategóriák és címkék "
+"kerülnek bele. Beállíthatod, hogy csak bizonyos bejegyzések vagy oldalak "
+"kerüjenek bele úgy, hogy a lenyíló szűrők segítségével korlátozod az "
+"exportálást kategóriára, szerzőre, havi időintervallumra vagy publikálási "
+"státuszra."
+
+#: core/inc/export/uncode_export.php:42
+msgid ""
+"Once generated, your WXR file can be imported by another WordPress site or "
+"by another blogging platform able to access this format."
+msgstr ""
+"Miután legenerálódott, a WXR fájlt beimportálhatod egy másik WordPress "
+"oldalon vagy egyéb publikációs platformon, ami támogatja ennek a formátumnak "
+"a kezelését."
+
+#: core/inc/export/uncode_export.php:46
+msgid "For more information:"
+msgstr "További információk:"
+
+#: core/inc/export/uncode_export.php:47
+msgid "Documentation on Export"
+msgstr "Dokumentáció az exportálásról"
+
+#: core/inc/export/uncode_export.php:48
+msgid "Support Forums"
+msgstr "Támogató fórumok"
+
+#: core/inc/export/uncode_export.php:86
+msgid ""
+"When you click the button below WordPress will create an XML file for you to "
+"save to your computer."
+msgstr ""
+"Amikor az alábbi gombon kattintasz, a WordPress létrehoz egy XML fájlt, amit "
+"lementhetsz a gépedre."
+
+#: core/inc/export/uncode_export.php:87
+msgid ""
+"This format, which we call WordPress eXtended RSS or WXR, will contain your "
+"posts, pages, comments, custom fields, categories, and tags."
+msgstr ""
+"Ez a formátum, a WordPress eXtended RSS vagy WXR, tartalmazni fogja a "
+"bejegyzéseidet, oldalaidat, hozzászólásaidat, egyéni mezőidet, kategóriáidat "
+"és címkéidet."
+
+#: core/inc/export/uncode_export.php:88
+msgid ""
+"Once you&#8217;ve saved the download file, you can use the Import function "
+"in another WordPress installation to import the content from this site."
+msgstr ""
+"Amikor lementetted a fájlt, használd egy másik WordPress importálás "
+"funkcióját, hogy ennek az oldalnak a tartalmát beimportálhasd."
+
+#: core/inc/export/uncode_export.php:90
+msgid "Choose what to export"
+msgstr "Exportálandók kiválasztása"
+
+#: core/inc/export/uncode_export.php:94
+msgid "All content"
+msgstr "Minden tartalom"
+
+#: core/inc/export/uncode_export.php:95
+msgid ""
+"This will contain all of your posts, pages, comments, custom fields, terms, "
+"navigation menus and custom posts."
+msgstr ""
+"Ez tartalmazni fogja az összes bejegyzést, hozzászólást, egyéni mezőt, "
+"tulajdonságot, navigációs menüt és egyéni bejegyzést."
+
+#: core/inc/export/uncode_export.php:97
+msgid "Posts"
+msgstr "Bejegyzések"
+
+#: core/inc/export/uncode_export.php:100
+msgid "Categories:"
+msgstr "Kategóriák:"
+
+#: core/inc/export/uncode_export.php:101 core/inc/export/uncode_export.php:107
+#: core/inc/export/uncode_export.php:124 core/inc/export/uncode_export.php:139
+#: core/inc/export/uncode_export.php:156
+msgid "All"
+msgstr "Összes"
+
+#: core/inc/export/uncode_export.php:104 core/inc/export/uncode_export.php:136
+msgid "Authors:"
+msgstr "Szerzők:"
+
+#: core/inc/export/uncode_export.php:111 core/inc/export/uncode_export.php:143
+msgid "Date range:"
+msgstr "Időintervallum:"
+
+#: core/inc/export/uncode_export.php:113 core/inc/export/uncode_export.php:145
+msgid "Start Date"
+msgstr "Kezdő dátum"
+
+#: core/inc/export/uncode_export.php:117 core/inc/export/uncode_export.php:149
+msgid "End Date"
+msgstr "Vég dátum"
+
+#: core/inc/export/uncode_export.php:122 core/inc/export/uncode_export.php:154
+msgid "Status:"
+msgstr "Státusz:"
+
+#: core/inc/export/uncode_export.php:133
+msgid "Pages"
+msgstr "Oldalak"
+
+#: core/inc/export/uncode_export.php:177
+msgid "Download Export File"
+msgstr "Export fájl letöltése"
+
+#: core/inc/helpers.php:178
+msgid "Minutes"
+msgstr "Perc"
+
+#: core/inc/helpers.php:180
+msgid "Minute"
+msgstr "Perc"
+
+#: core/inc/helpers.php:1226 vc_templates/uncode_consent_notice.php:31
+msgid ""
+"This content is blocked. Please review your [uncode_privacy_box]Privacy "
+"Settings[/uncode_privacy_box]."
+msgstr ""
+
+#: core/inc/main.php:78
+msgid "Primary Menu"
+msgstr "Elsődleges menü"
+
+#: core/inc/main.php:79
+msgid "Secondary Menu"
+msgstr "Másodlagos menü"
+
+#: core/inc/main.php:80
+msgid "Call To Action Menu"
+msgstr ""
+
+#: core/inc/main.php:146 core/inc/main.php:159
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Adj hozzá widgeteket, hogy megjelenjenek az oldalsávban."
+
+#: core/inc/main.php:157
+msgid "Sidebar"
+msgstr "Oldalsáv"
+
+#: core/inc/main.php:317 vc_templates/uncode_countdown.php:63
+msgid "days"
+msgstr "nap"
+
+#: core/inc/main.php:318 vc_templates/uncode_countdown.php:63
+msgid "hours"
+msgstr "óra"
+
+#: core/inc/main.php:319 vc_templates/uncode_countdown.php:63
+msgid "minutes"
+msgstr "perc"
+
+#: core/inc/main.php:320 vc_templates/uncode_countdown.php:63
+msgid "seconds"
+msgstr "másodperc"
+
+#: core/inc/main.php:324 vc_templates/uncode_index.php:1211
+msgid "Loading…"
+msgstr "Betöltés…"
+
+#: core/inc/main.php:325
+#, fuzzy
+#| msgid "Slider"
+msgid "slide"
+msgstr "Csúszka"
+
+#: core/inc/main.php:326
+#, fuzzy
+#| msgid "Footer"
+msgid "footer"
+msgstr "Lábléc"
+
+#: core/inc/media-enhanced.php:4 core/inc/media-enhanced.php:304
+msgid "Add oEmbed, external IMG, SVG code, HTML or Shortcode"
+msgstr "Adj hozzá oEmbed, külső IMG és SVG kódot, HTML-t vagy shortcode-ot"
+
+#: core/inc/media-enhanced.php:4
+msgid "Add Multimedia"
+msgstr "Multimédia hozzáadása"
+
+#: core/inc/media-enhanced.php:304
+msgid "Add New"
+msgstr "Új hozzáadása"
+
+#: core/inc/media-enhanced.php:308
+msgid "Item added to library."
+msgstr "Az elem bekerült a médiatárba."
+
+#: core/inc/media-enhanced.php:312
+msgid "Item updated."
+msgstr "Elem frissítve."
+
+#: core/inc/media-enhanced.php:314
+msgid "Fill all the required fields."
+msgstr "Töltsd ki az összes kötelező mezőt."
+
+#: core/inc/media-enhanced.php:322
+msgid "Enter title here*"
+msgstr "Itt add meg a címet*"
+
+#: core/inc/media-enhanced.php:330
+msgid "Permalink:"
+msgstr "Permalink:"
+
+#: core/inc/media-enhanced.php:332
+msgid "View Post"
+msgstr "Bejegyzés megtekintése"
+
+#: core/inc/media-enhanced.php:338
+msgid "Insert from URL*"
+msgstr "Beillesztés URL-ből"
+
+#: core/inc/media-enhanced.php:344
+msgid "Caption"
+msgstr "Felirat"
+
+#: core/inc/media-enhanced.php:373 core/inc/media-enhanced.php:379
+msgid "Publish"
+msgstr "Publikálás"
+
+#: core/inc/media-enhanced.php:382
+msgid "Save"
+msgstr "Mentés"
+
+#: core/inc/media-enhanced.php:386
+#: core/plugins_activation/class-tgm-plugin-activation.php:2878
+msgid "Update"
+msgstr "Frissítés"
+
+#: core/inc/related-posts/class-hook-settings-page.php:20
+#, fuzzy
+msgid "Related Posts for WordPress"
+msgstr "Kapcsolódó termékek"
+
+#: core/inc/template-tags.php:77
+msgid "Prev"
+msgstr "Előző"
+
+#: core/inc/template-tags.php:78
+msgid "Next"
+msgstr "Következő"
+
+#: core/inc/template-tags.php:187
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Közzétéve: %s"
+
+#: core/inc/template-tags.php:192
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "%s jóvoltából"
+
+#: core/inc/template-tags.php:209 core/inc/template-tags.php:215
+msgid ", "
+msgstr ", "
+
+#: core/inc/template-tags.php:211
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Közzétéve: %1$s"
+
+#: core/inc/template-tags.php:217
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Címkék: %1$s"
+
+#: core/inc/template-tags.php:223
+msgid "Leave a comment"
+msgstr "Szólj hozzá"
+
+#: core/inc/template-tags.php:223
+msgid "1 Comment"
+msgstr "1 hozzászólás"
+
+#: core/inc/template-tags.php:223
+msgid "% Comments"
+msgstr "% hozzászólás"
+
+#: core/inc/template-tags.php:227
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: core/inc/template-tags.php:250
+#, php-format
+msgid "Year: %s"
+msgstr "Év: %s"
+
+#: core/inc/template-tags.php:250
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: core/inc/template-tags.php:252
+#, php-format
+msgid "Month: %s"
+msgstr "Hónap: %s"
+
+#: core/inc/template-tags.php:252
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y F"
+
+#: core/inc/template-tags.php:254
+#, php-format
+msgid "Day: %s"
+msgstr "Nap: %s"
+
+#: core/inc/template-tags.php:254
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "Y. F j."
+
+#: core/inc/template-tags.php:257
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Széljegyzetek"
+
+#: core/inc/template-tags.php:259
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galériák"
+
+#: core/inc/template-tags.php:261
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Képek"
+
+#: core/inc/template-tags.php:263
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videók"
+
+#: core/inc/template-tags.php:265
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Idézetek"
+
+#: core/inc/template-tags.php:267
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Linkek"
+
+#: core/inc/template-tags.php:269
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Állapotok"
+
+#: core/inc/template-tags.php:271
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Hangok"
+
+#: core/inc/template-tags.php:273
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Beszélgetések"
+
+#: core/inc/template-tags.php:276
+#, fuzzy, php-format
+msgid "Archives %s"
+msgstr "Archívumok: %s"
+
+#: core/inc/template-tags.php:282
+msgid "Archives"
+msgstr "Archívumok"
+
+#: core/inc/uncode-comment-walker.php:69
+#, fuzzy
+msgid "Edit this comment"
+msgstr "1 hozzászólás"
+
+#: core/inc/uncode-comment-walker.php:71
+#, fuzzy
+#| msgid "Your comment is awaiting approval"
+msgid "Your comment is awaiting moderation"
+msgstr "Hozzászólásod jóváhagyásra vár"
+
+#: core/inc/uncode-comment-walker.php:74
+msgid "Reply"
+msgstr "Válasz"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:336
+#, fuzzy
+#| msgid "Install Plugins"
+msgid "Install or Update Plugins"
+msgstr "Bővítmények telepítése"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:337
+msgid "Install Plugins"
+msgstr "Bővítmények telepítése"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Bővítmény telepítése: %s"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:341
+#, fuzzy, php-format
+msgid "Updating Plugin: %s"
+msgstr "Bővítmény telepítése: %s"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:342
+msgid "Something went wrong with the plugin API."
+msgstr "Valami balul sült el a bővítmény API-val."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:345
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ennek a sablonnak szüksége van a következő bővítményre: %1$s."
+msgstr[1] "Ennek a sablonnak szüksége van a következő bővítményekre: %1$s."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:358
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"A következő bővítmény frissítést igényel a legfrissebb verzióra, hogy a "
+"maximális kompatibilitása biztosítva legyen ezzel a sablonnal: %1$s."
+msgstr[1] ""
+"A következő bővítmények frissítést igényelnek a legfrissebb verzióra, hogy a "
+"maximális kompatibilitásuk biztosítva legyen ezzel a sablonnal: %1$s."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:364
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Egy frissítés elérhető a(z) %1$s számára."
+msgstr[1] "Frissítések érhetőek el a következő bővítmények számára: %1$s."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:370
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "A következő szükséges bővítmény jelenleg inaktív: %1$s."
+msgstr[1] "A következő szükséges bővítmények jelenleg inaktívak: %1$s."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Bővítmény telepítésének kezdése"
+msgstr[1] "Bővítmények telepítésének kezdése"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Bővítmény frissítésének kezdése"
+msgstr[1] "Bővítmények frissítésének kezdése"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Bővítmény aktiválásának kezdése"
+msgstr[1] "Bővítmények aktiválásának kezdése"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:396
+msgid "Return to Required Plugins Installer"
+msgstr "Vissza a szükséges bővítmények telepítőre"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:397
+#: core/plugins_activation/class-tgm-plugin-activation.php:928
+#: core/plugins_activation/class-tgm-plugin-activation.php:2677
+#: core/plugins_activation/class-tgm-plugin-activation.php:3776
+msgid "Return to the Dashboard"
+msgstr "Vissza a vezérlőpultra"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:398
+#: core/plugins_activation/class-tgm-plugin-activation.php:3352
+msgid "Plugin activated successfully."
+msgstr "Bővítmény sikeresen aktiválva."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:399
+#: core/plugins_activation/class-tgm-plugin-activation.php:3145
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "A következő bővítmény sikeresen aktiválva:"
+msgstr[1] "A következő bővítmények sikeresen aktiválva:"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nem történt változás. A(z) %1$s bővítmény már aktív."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:403
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Bővítmény nem aktiválva. Egy magasabb verziószám szükséges ehhez a sablonhoz "
+"a(z) %s bővítményből. Kérlek, frissítsd."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:405
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Minden bővítmény telepítve és sikeresen aktiválva. %1$s"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:406
+msgid "Dismiss this notice"
+msgstr "Értesítés eltüntetése"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:407
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:408
+msgid "Please contact the administrator of this site for help."
+msgstr "Segítséghez, kérlek, lépj kapcsolatba az oldal adminisztrátorával."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:614
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Ez a bővítmény frissítést igényel, hogy kompatibilis legyen ezzel a "
+"sablonnal."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:615
+msgid "Update Required"
+msgstr "Frissítés szükséges"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:1037
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"A távoli bővítmény csomag nem tartalmaz egy mappát a kívánt slug-gal, és az "
+"átnevezés nem működött."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:1037
+#: core/plugins_activation/class-tgm-plugin-activation.php:1040
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Kérlek, vedd fel a kapcsolatot a bővítmény szolgáltatójával, és kérd meg, "
+"hogy a WordPress irányelveknek megfelelően csomagolja be a bővítményt."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:1040
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"A távoli bővítmény csomag tartalmaz egy vagy több fájlt, de a fájlok "
+"nincsenek egy mappába csomagolva."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:1255
+#: core/plugins_activation/class-tgm-plugin-activation.php:3135
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "és"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2123
+#, fuzzy, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2414
+msgid "Required"
+msgstr "Szükséges"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2417
+msgid "Recommended"
+msgstr "Ajánlott"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2433
+msgid "WordPress Repository"
+msgstr "WordPress tároló"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2436
+msgid "External Source"
+msgstr "Külső forrás"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2439
+msgid "Pre-Packaged"
+msgstr "Előrecsomagolt"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2456
+msgid "Not Installed"
+msgstr "Nincs telepítve"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2460
+msgid "Installed But Not Activated"
+msgstr "Tepelítve, de nem aktivált"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2462
+msgid "Active"
+msgstr "Aktív"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2468
+msgid "Required Update not Available"
+msgstr "Szükséges frissítés nem elérhető"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2471
+msgid "Requires Update"
+msgstr "Frissítés szükséges"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2474
+msgid "Update recommended"
+msgstr "Frissítése ajánlott"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2483
+#, fuzzy, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2529
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Minden <span class=\"count\">(%s)</span>"
+msgstr[1] "Minden <span class=\"count\">(%s)</span>"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2533
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Telepítendő <span class=\"count\">(%s)</span>"
+msgstr[1] "Telepítendő <span class=\"count\">(%s)</span>"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2537
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Frissítés elérhető <span class=\"count\">(%s)</span>"
+msgstr[1] "Frissítés elérhető <span class=\"count\">(%s)</span>"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2541
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Aktiválandó <span class=\"count\">(%s)</span>"
+msgstr[1] "Aktiválandó <span class=\"count\">(%s)</span>"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2623
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ismeretlen"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2632
+msgid "Installed version:"
+msgstr "Telepített verzió:"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2641
+msgid "Minimum required version:"
+msgstr "Minimális szükséges verzió:"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2654
+msgid "Available version:"
+msgstr "Elérhető verzió:"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2677
+#, fuzzy
+msgid "No plugins to install, update or activate."
+msgstr ""
+"Egy bővítményt sem kell telepíteni, frissíteni vagy aktiválni <a href=\"%1$s"
+"\">Vissza a vezérlőpultra</a>"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2693
+msgid "Plugin"
+msgstr "Bővítmény"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2695
+msgid "Type"
+msgstr "Típus"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr "Forrás"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2700
+msgid "Version"
+msgstr "Verzió"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2701
+msgid "Status"
+msgstr "Státusz"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2750
+#, fuzzy, php-format
+msgid "Install %2$s"
+msgstr "%2$s telepítése"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2755
+#, fuzzy, php-format
+msgid "Update %2$s"
+msgstr "%2$s frissítése"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2761
+#, fuzzy, php-format
+msgid "Activate %2$s"
+msgstr "%2$s aktiválása"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2839
+msgid "Upgrade message from the plugin author:"
+msgstr "Frissítési üzenet a bővítmény szerzőjétől:"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2872
+msgid "Install"
+msgstr "Telepítés"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2881
+msgid "Activate"
+msgstr "Aktiválás"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2912
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Egy bővítmény sem lett kiválasztva telepítésre. Nem történt semmi."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2914
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Egy bővítmény sem lett kiválasztva frissítésre. Nem történt semmi."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2961
+msgid "No plugins are available to be installed at this time."
+msgstr "Jelenleg nem érhető el telepítendő bővítmény."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2963
+msgid "No plugins are available to be updated at this time."
+msgstr "Jelenleg nem érhető el frissítendő bővítmény."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3083
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Egy bővítmény sem lett kiválasztva aktiválásra. Nem történt semmi."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3115
+msgid "No plugins are available to be activated at this time."
+msgstr "Jelenleg nem érhető el aktiválandó bővítmény."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3351
+msgid "Plugin activation failed."
+msgstr "Bővítmény aktiválása sikertelen."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3691
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Bővítmény frissítése: %1$s (%2$d/%3$d)"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3694
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Hiba történt %1$s telepítése közben: <strong>%2$s</strong>."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3696
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s telepítése sikertelen."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3700
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"A telepítési és aktiválási folyamat megkezdődik. Ez a folyamat szervertől "
+"függően egy darabig eltarthat, ezért legyél türelmes."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3702
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s sikeresen telepítve és aktiválva."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3703
+msgid "All installations and activations have been completed."
+msgstr "Minden telepítés és aktiválás befejeződött."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3705
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Bővítmény telepítése és aktiválása: %1$s (%2$d/%3$d)"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3708
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"A telepítési folyamat megkezdődik. Ez a folyamat szervertől függően egy "
+"darabig eltarthat, ezért legyél türelmes."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3710
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s sikeresen telepítve."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3711
+msgid "All installations have been completed."
+msgstr "Minden telepítés befejeződött."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3713
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Bővítmény telepítése: %1$s (%2$d/%3$d)"
+
+#: footer.php:121 partials/menus.php:1100 vc_templates/uncode_copyright.php:40
+msgid "All rights reserved"
+msgstr "Minden jog fenntartva"
+
+#: footer.php:178 partials/headers.php:370
+#, fuzzy
+#| msgid "Content Block"
+msgid "Edit Content Block"
+msgstr "Tartalom blokk"
+
+#: footer.php:178
+#, fuzzy
+#| msgid "Content Block"
+msgid "Footer Content Block"
+msgstr "Tartalom blokk"
+
+#: functions.php:17
+#, fuzzy
+msgid "PHP version obsolete"
+msgstr "PHP verzió"
+
+#: functions.php:18
+msgid "Ooops, obsolete PHP version"
+msgstr ""
+
+#: page.php:355 partials/elements.php:1392 single.php:345
+msgid "Pages:"
+msgstr "Oldalak:"
+
+#: partials/elements.php:1170
+msgid "Sticky"
+msgstr "Ragadós"
+
+#: partials/elements.php:1469
+#: woocommerce/single-product/add-to-cart/simple.php:62
+#, fuzzy
+msgid "Read More"
+msgstr "Tovább"
+
+#: partials/elements.php:1513 partials/elements.php:1515
+#, fuzzy
+msgid "by"
+msgstr "- "
+
+#: partials/elements.php:1537 partials/elements.php:2246
+msgctxt "comments"
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] "Hozzászólás"
+msgstr[1] "Hozzászólás"
+
+#: partials/elements.php:1998
+msgid "Sale!"
+msgstr ""
+
+#: partials/elements.php:2000
+#, fuzzy
+#| msgid "out of 5"
+msgid "Out of stock"
+msgstr "/ 5"
+
+#: partials/elements.php:2177 partials/elements.php:2201
+#: partials/elements.php:2269
+#, php-format
+msgid "View all posts in %s"
+msgstr "%s kategóriában minden bejegyzés megtekintése"
+
+# In Hungarian, prepositions are mainly suffixes, so this 'in' is not make any sense here. That is why I used the "Categories: " listing instead.
+#: partials/elements.php:2179 partials/elements.php:2203
+#: partials/elements.php:2274
+#, fuzzy
+msgid "In"
+msgstr "Kategóriák: "
+
+# In Hungarian, "by" -> "által" or "jóvoltából" gets behind the subject, so in this place it has no meaning. That is why I used the "Author: " instead.
+#: partials/elements.php:2182 partials/elements.php:2230
+#, fuzzy
+msgid "By"
+msgstr "Szerző: "
+
+#: partials/elements.php:2298
+#, fuzzy
+#| msgid "Home"
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "Kezdőlap"
+
+#: partials/elements.php:2308
+msgid "Home"
+msgstr "Kezdőlap"
+
+#: partials/elements.php:2311
+#, fuzzy
+msgid "Archive by Category"
+msgstr "Kategória archívum: "
+
+#: partials/elements.php:2314
+#, fuzzy
+msgid "Search Results for"
+msgstr "Keresési találatok: "
+
+#: partials/elements.php:2317
+#, fuzzy
+msgid "Posts Tagged"
+msgstr "Címkézett bejegyzések: "
+
+#: partials/elements.php:2320
+#, fuzzy
+msgid "Articles Posted by"
+msgstr "Cikkek tőle: "
+
+#: partials/elements.php:2323
+msgid "Error 404"
+msgstr "404 hiba"
+
+#: partials/elements.php:2522
+msgid "Page"
+msgstr "Oldal"
+
+#: partials/headers.php:370
+#, fuzzy
+#| msgid "Content Block"
+msgid "Header Content Block"
+msgstr "Tartalom blokk"
+
+#: partials/menus.php:92 partials/menus.php:203
+msgid "logo"
+msgstr ""
+
+#: partials/menus.php:553
+msgid "Search"
+msgstr "Keresés"
+
+#: partials/menus.php:562 searchform.php:11
+msgid "Search…"
+msgstr "Keresés…"
+
+#: search.php:86
+msgid "Results for:"
+msgstr "Keresési találatok:"
+
+#: searchform.php:11 woocommerce/product-searchform.php:27
+msgid "Search for:"
+msgstr "Keresés:"
+
+#: single-portfolio.php:463 woocommerce/single-product/share.php:35
+msgid "Share"
+msgstr "Megosztás"
+
+#: vc_templates/uncode_author_profile.php:34
+msgid "All author posts"
+msgstr ""
+
+#: vc_templates/uncode_author_profile.php:114
+#, php-format
+msgid "%1$s post page"
+msgstr ""
+
+#: vc_templates/uncode_index.php:532 vc_templates/vc_gallery.php:521
+msgid "Show all"
+msgstr "Mutasd mindet"
+
+#: vc_templates/uncode_index.php:1193
+msgid "Nothing found."
+msgstr "Nem található."
+
+#: vc_templates/uncode_index.php:1211
+msgid "Load more"
+msgstr "Mutass többet"
+
+#: vc_templates/vc_accordion_tab.php:6
+msgid "Section"
+msgstr "Szakasz"
+
+#: vc_templates/vc_accordion_tab.php:31
+msgid "Empty section. Edit page to add content here."
+msgstr "Üres szakasz. Tartalom hozzáadásához szerkeszd az oldalt."
+
+#: vc_templates/vc_tab.php:24
+msgid "Empty tab. Edit page to add content here."
+msgstr "Üres fül. Tartalom hozzáadásához szerkeszd az oldalt."
+
+#: woocommerce/cart/mini-cart.php:77
+msgid "No products in the cart."
+msgstr "Nincs termék a kosárban."
+
+#: woocommerce/cart/mini-cart.php:99
+msgid "View Cart"
+msgstr "Kosár megtekintése"
+
+#: woocommerce/order/order-details-customer.php:24
+#, fuzzy
+msgid "Customer details"
+msgstr "Vásárló részletei"
+
+#: woocommerce/order/order-details-customer.php:29
+#: woocommerce/order/order-details.php:77
+msgid "Note:"
+msgstr "Megjegyzés:"
+
+#: woocommerce/order/order-details-customer.php:36
+msgid "Email:"
+msgstr "Email:"
+
+#: woocommerce/order/order-details-customer.php:43
+msgid "Telephone:"
+msgstr "Telefon:"
+
+#: woocommerce/order/order-details-customer.php:59
+#, fuzzy
+#| msgid "Billing Address"
+msgid "Billing address"
+msgstr "Számlázási cím"
+
+#: woocommerce/order/order-details-customer.php:62
+#: woocommerce/order/order-details-customer.php:79
+#: woocommerce/single-product/meta.php:24
+msgid "N/A"
+msgstr "Nem ismert"
+
+#: woocommerce/order/order-details-customer.php:76
+#, fuzzy
+#| msgid "Shipping Address"
+msgid "Shipping address"
+msgstr "Szállítási cím"
+
+#: woocommerce/order/order-details.php:38
+#, fuzzy
+#| msgid "Order Details"
+msgid "Order details"
+msgstr "Rendelés részletei"
+
+#: woocommerce/order/order-details.php:42
+#: woocommerce/single-product-reviews.php:23
+msgid "Product"
+msgstr "Termék"
+
+#: woocommerce/order/order-details.php:43
+msgid "Total"
+msgstr "Összesen"
+
+#: woocommerce/product-searchform.php:28
+#, fuzzy
+#| msgctxt "placeholder"
+#| msgid "Search Products&hellip;"
+msgid "Search products&hellip;"
+msgstr "Termékkeresés&hellip;"
+
+#: woocommerce/product-searchform.php:28
+#, fuzzy
+#| msgid "Search"
+msgctxt "submit button"
+msgid "Search"
+msgstr "Keresés"
+
+#: woocommerce/single-product/add-to-cart/variable.php:33
+msgid "This product is currently out of stock and unavailable."
+msgstr "Ez a termék jelenleg nincs készleten és nem elérhető."
+
+#: woocommerce/single-product/add-to-cart/variable.php:42
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:24
+msgid "SKU"
+msgstr "SKU"
+
+#: woocommerce/single-product/meta.php:29
+#, fuzzy
+msgid "Category"
+msgstr "Válaszd ki a kategóriához rendelt színt."
+
+#: woocommerce/single-product/meta.php:29
+#, fuzzy
+msgid "Categories"
+msgstr "Kategóriák:"
+
+#: woocommerce/single-product/meta.php:29
+#: woocommerce/single-product/meta.php:34
+#, fuzzy
+msgid "<span class=\"detail-label\">"
+msgid_plural "<span class=\"detail-label\">"
+msgstr[0] "<span class=\"detail-label\">Címke</span>"
+msgstr[1] "<span class=\"detail-label\">Címkék</span>"
+
+#: woocommerce/single-product/meta.php:34
+#, fuzzy
+msgid "Tag"
+msgstr "Fül"
+
+#: woocommerce/single-product/meta.php:34
+msgid "Tags"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:106
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/related.php:18
+#, fuzzy
+#| msgid "Related Products"
+msgid "Related products"
+msgstr "Kapcsolódó termékek"
+
+#: woocommerce/single-product/review.php:59
+msgid "Your comment is awaiting approval"
+msgstr "Hozzászólásod jóváhagyásra vár"
+
+#: woocommerce/single-product/review.php:70
+msgid "verified owner"
+msgstr "ellenőrzött tulajdonos"
+
+#: woocommerce/single-product/tabs/additional-information.php:16
+#, fuzzy
+msgid "Additional information"
+msgstr "További információ"
+
+#: woocommerce/single-product/up-sells.php:51
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:23
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] "%s vélemény"
+msgstr[1] "%s vélemény"
+
+#: woocommerce/single-product-reviews.php:25
+msgid "Reviews"
+msgstr "Vélemények"
+
+#: woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr "Még nincs vélemény."
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr "Vélemény hozzáadása"
+
+#: woocommerce/single-product-reviews.php:60
+#, fuzzy, php-format
+#| msgid "Be the first to review"
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Legyél az első véleményíró"
+
+#: woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Válaszolj %s részére"
+
+#: woocommerce/single-product-reviews.php:67
+msgid "Name"
+msgstr "Név"
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Email"
+msgstr "Email"
+
+#: woocommerce/single-product-reviews.php:72
+msgid "Submit"
+msgstr "Küldés"
+
+#: woocommerce/single-product-reviews.php:78
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+#, fuzzy
+#| msgid "Your Rating"
+msgid "Your rating"
+msgstr "Értékelésed"
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Rate&hellip;"
+msgstr "Értékelés&hellip;"
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Perfect"
+msgstr "Tökéletes"
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Good"
+msgstr "Jó"
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Average"
+msgstr "Átlagos"
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Not that bad"
+msgstr "Nem olyan rossz"
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Very Poor"
+msgstr "Elég szegény"
+
+#: woocommerce/single-product-reviews.php:92
+#, fuzzy
+#| msgid "Your Review"
+msgid "Your review"
+msgstr "Véleményed"
+
+#: woocommerce/single-product-reviews.php:101
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Csak bejelentkezett felhasználók hagyhatnak vélemányt, akik már "
+"megvásárolták a terméket."
+
+#, fuzzy
+#~ msgid "Your kits:"
+#~ msgstr "A te kit-jeid: "
+
+#~ msgid "No kits found for the API key you provided."
+#~ msgstr "Nem található kit a megadott API kulcshoz."
+
+#~ msgid "No kits ID inserted."
+#~ msgstr "Nincs megadva kit ID."
+
+#~ msgid "The following fonts were found for project %1$s:"
+#~ msgstr "A következő betűtípusokat találtuk a(z) %1$s projekthez:"
+
+#~ msgid ""
+#~ "No fonts found for project %1$s on %2$s. Make sure your project id is "
+#~ "correct and this domain is added to it in your Fontdeck account."
+#~ msgstr ""
+#~ "A(z) %1$s projekthez nem található betűtípus itt: %2$s. Bizonyosodj meg "
+#~ "arról, hogy a projekt azonosítód helyes, és ez a domain hozzá van adva a "
+#~ "Fontdeck fiókodban."
+
+#~ msgid "Sorry, there was an error accessing %1$s"
+#~ msgstr "Sajnáljuk, de hibába ütközött a(z) %1$s elérése"
+
+#~ msgid "Delete"
+#~ msgstr "Törlés"
+
+#, fuzzy
+#~ msgid "Date"
+#~ msgstr "Dátum- és időválasztó"
+
+#~ msgid "WP Version"
+#~ msgstr "WP verzió"
+
+#~ msgid "Language"
+#~ msgstr "Nyelv"
+
+#~ msgid "The current language used by WordPress. Default = English"
+#~ msgstr ""
+#~ "A jelenlegi nyelvi beállítás, amit a WordPress használ. Alapértelmezett = "
+#~ "Angol"
+
+#~ msgid "WP Multisite"
+#~ msgstr "WP Multisite"
+
+#~ msgid ""
+#~ "The maximum amount of memory (RAM) that your site can use at one time."
+#~ msgstr "A maximális memória (RAM) mérete, amit a weboldalad használhat."
+
+#, fuzzy
+#~ msgid "Server Memory Limit"
+#~ msgstr "WP Memória limit"
+
+#~ msgid ""
+#~ "The maximum number of variables your server can use for a single function "
+#~ "to avoid overloads."
+#~ msgstr ""
+#~ "A változók maximális száma, amit a szerver használhat egy funkció közben, "
+#~ "hogy elkerülje a túlterhelést."
+
+#~ msgid "WP Debug Mode"
+#~ msgstr "WP hibakereső mód"
+
+#~ msgid "Displays whether or not WordPress is in Debug Mode."
+#~ msgstr "Megmutatja, hogy a WordPress hibakereső módban van-e."
+
+#~ msgid "Add Medias"
+#~ msgstr "Médiák hozzáadása"
+
+#~ msgid "Medias selection"
+#~ msgstr "Médiák kiválasztása"
+
+#~ msgid "Select medias"
+#~ msgstr "Médiák kiválasztása"
+
+#~ msgid "Remove All"
+#~ msgstr "Összes eltávolítása"
+
+#~ msgid "Post media display"
+#~ msgstr "Bejegyzés média megjelenítés"
+
+#~ msgid "Carousel"
+#~ msgstr "Lapozó"
+
+#~ msgid "Stack"
+#~ msgstr "Kupac"
+
+#~ msgid "Isotope"
+#~ msgstr "Izotóp"
+
+#~ msgid "Medias"
+#~ msgstr "Médiák"
+
+#~ msgid "Like"
+#~ msgstr "Lájk"
+
+#~ msgid "Likes"
+#~ msgstr "Lájkok"
+
+#~ msgid "Recommend this"
+#~ msgstr "Ajánld ezt"
+
+#~ msgid "You already recommended this"
+#~ msgstr "Már ajánlottad ezt"
+
+#~ msgid "Most recommended posts"
+#~ msgstr "Legajánlottabb bejegyzések"
+
+#~ msgid "Your site’s most liked posts."
+#~ msgstr "Az oldalad leglájkoltabb bejegyzései."
+
+#~ msgid "Title:"
+#~ msgstr "Cím:"
+
+#~ msgid "Number of posts to show:"
+#~ msgstr "Megjelenített bejegyzések száma:"
+
+#~ msgid "Show post count"
+#~ msgstr "Bejegyzések számának mutatása"
+
+#~ msgid "There was an error when reading this WXR file"
+#~ msgstr "Ennek a WXR fájlnak a beolvasása során hiba történt"
+
+#~ msgid ""
+#~ "Details are shown above. The importer will now try again with a different "
+#~ "parser..."
+#~ msgstr ""
+#~ "A részleteket lásd fentebb. Az importáló most megpróbálja újra egy másik "
+#~ "értelmezővel..."
+
+#~ msgid ""
+#~ "This does not appear to be a WXR file, missing/invalid WXR version number"
+#~ msgstr ""
+#~ "Ez nem tűnik WXR fájlnak, hiányzik vagy érvénytelen a WXR verziószám."
+
+#~ msgid "Install Demo"
+#~ msgstr "Demo telepítése"
+
+#~ msgid "No WordPress settings will be modified."
+#~ msgstr "Egyetlen WordPress beállítás sem lesz módosítva."
+
+#~ msgid "Please click import only once and wait, it can take few minutes."
+#~ msgstr ""
+#~ "Kérlek csak egyszer kattints az importálásra, majd várj, pár percet "
+#~ "igénybe vehet."
+
+#, fuzzy
+#~ msgid "INSTALL DEMO"
+#~ msgstr "Demo telepítése"
+
+#, fuzzy
+#~ msgid "THEME OPTIONS"
+#~ msgstr "Sablon beállítások"
+
+#, fuzzy
+#~ msgid "IMPORT MENU"
+#~ msgstr "Sablon beállítások importálása"
+
+#, fuzzy
+#~ msgid "WIDGETS"
+#~ msgstr ""
+#~ "Bejegyzések, oldalak, néhány kép, néhány widget és menü kerül "
+#~ "importálásra."
+
+#~ msgid "Import completed!"
+#~ msgstr "Importálás kész!"
+
+#, fuzzy
+#~ msgid "Uncode Core (required) - Plugin is not active"
+#~ msgstr "A következő szükséges bővítmény jelenleg inaktív: %1$s."
+
+#, fuzzy
+#~ msgid "Are you sure?"
+#~ msgstr "Biztos vagy benne, hogy vissza akarsz térni az alapbeállításokhoz?"
+
+#~ msgid "Import in progress…"
+#~ msgstr "Importálás folyamatban…"
+
+#~ msgid "Don&#39;t close the browser or navigate away."
+#~ msgstr "Ne zárd be a böngészőt, és ne navigálj máshova."
+
+#~ msgid "Please be patient, the import procedure can take few minutes."
+#~ msgstr ""
+#~ "Kérlek, hogy legyél türelmes, az importálási folyamat pár percet igénybe "
+#~ "vehet."
+
+#~ msgid ""
+#~ "Theme options import data could not be read. Please try a different file."
+#~ msgstr ""
+#~ "Sablon beállítások importálási adatai nem olvashatók. Kérlek, próbálkozz "
+#~ "másik fájllal."
+
+#~ msgid "Widget import data could not be read. Please try a different file."
+#~ msgstr ""
+#~ "Widget importálási adatok nem olvashatók. Kérlek, próbálkozz másik "
+#~ "fájllal."
+
+#~ msgid "Sidebar does not exist in theme (using Inactive)"
+#~ msgstr "Ebben a sablonban nem létezik oldalsáv (inaktív használata)"
+
+#~ msgid "Site does not support widget"
+#~ msgstr "Az oldal nem támogatja a widgetet"
+
+#~ msgid "Widget already exists"
+#~ msgstr "A widget már létezik"
+
+#~ msgid "Imported"
+#~ msgstr "Importálva"
+
+#~ msgid "Imported to Inactive"
+#~ msgstr "Importálva inaktívként"
+
+#~ msgid "No Title"
+#~ msgstr "Nincs cím"
+
+#~ msgid "Sorry, there has been an error."
+#~ msgstr "Sajnáljuk, hiba történt."
+
+#~ msgid "The file does not exist, please try again."
+#~ msgstr "A fájl nem létezik, kérlek, próbáld újra."
+
+#~ msgid "Go ahead and visit the %s or start customizing %s"
+#~ msgstr "Hajrá, nézd meg a %s vagy kezd el testreszabni a %s"
+
+# In Hungarian, one must use the inflected noun in this sentence.
+#~ msgid "front page"
+#~ msgstr "kezdőlapot"
+
+# In Hungarian, one must use the inflected noun in this sentence.
+#~ msgid "your theme"
+#~ msgstr "sablonod"
+
+#~ msgid "Import log"
+#~ msgstr "Importálás napló"
+
+#~ msgid ""
+#~ "The export file could not be found at <code>%s</code>. It is likely that "
+#~ "this was caused by a permissions problem."
+#~ msgstr ""
+#~ "Az export fájl nem található: <code>%s</code>. Valószínű, hogy ezt egy "
+#~ "jogosultsági probléma okozza."
+
+#~ msgid ""
+#~ "This WXR file (version %s) may not be supported by this version of the "
+#~ "importer. Please consider updating."
+#~ msgstr ""
+#~ "Ez a WXR fájl (verzió: %s) lehet, hogy nem támogatott az importáló által. "
+#~ "Kérlek, fontold meg a frissítést."
+
+#~ msgid ""
+#~ "Failed to import author %s. Their posts will be attributed to the current "
+#~ "user."
+#~ msgstr ""
+#~ "A szerző (%s) importálása sikertelen. A bejegyzések a jelenlegi "
+#~ "felhasználóhoz lesznek tulajdonítva."
+
+#~ msgid "Assign Authors"
+#~ msgstr "Szerzők hozzárendelése"
+
+#~ msgid ""
+#~ "To make it easier for you to edit and save the imported content, you may "
+#~ "want to reassign the author of the imported item to an existing user of "
+#~ "this site. For example, you may want to import all the entries as "
+#~ "<code>admin</code>s entries."
+#~ msgstr ""
+#~ "Az importált tartalom szerkesztésének és mentésének egyszerűbbé "
+#~ "tételéhez, érdemes az importált tartalom szerzőjét hozzárendelni az oldal "
+#~ "egy létező felhasználójához. Például az összes bejegyzést <code>admin</"
+#~ "code> bejegyzéseként importálni."
+
+#~ msgid ""
+#~ "If a new user is created by WordPress, a new password will be randomly "
+#~ "generated and the new user&#8217;s role will be set as %s. Manually "
+#~ "changing the new user&#8217;s details will be necessary."
+#~ msgstr ""
+#~ "Ha a WordPress egy új felhasználót hoz létre, egy véletlenszerűen "
+#~ "generált jelszó lesz létrehozva, és az új felhasználó jogosultsága %s "
+#~ "lesz. Az új felhasználó adatait muszáj lesz kézzel megváltoztatni."
+
+#~ msgid "Import Attachments"
+#~ msgstr "Csatolmányok importálása"
+
+#~ msgid "Download and import file attachments"
+#~ msgstr "Csatolmányok letöltése és importálása"
+
+#~ msgid "Import author:"
+#~ msgstr "Importálás szerző:"
+
+#~ msgid "or create new user with login name:"
+#~ msgstr ""
+#~ "vagy hozzunk létre egy új felhasználót ezzel a bejelentkezési névvel:"
+
+#~ msgid "as a new user:"
+#~ msgstr "mint egy új felhasználó:"
+
+#~ msgid "assign posts to an existing user:"
+#~ msgstr "bejegyzések hozzárendelése egy létező felhasználóhoz:"
+
+#~ msgid "or assign posts to an existing user:"
+#~ msgstr "vagy bejegyzések hozzárendelése egy létező felhasználóhoz:"
+
+#~ msgid "- Select -"
+#~ msgstr "- Kiválasztás -"
+
+#~ msgid ""
+#~ "Failed to create new user for %s. Their posts will be attributed to the "
+#~ "current user."
+#~ msgstr ""
+#~ "Sikertelen felhasználó létrehozás %s számára. Bejegyzései a jelenlegi "
+#~ "felhasználónak lesznek tualjdonítva."
+
+#~ msgid "Failed to import category %s"
+#~ msgstr "%s kategória importálása sikertelen"
+
+#~ msgid "Failed to import post tag %s"
+#~ msgstr "%s bejegyzés címke importálása sikertelen"
+
+#~ msgid "Failed to import %s %s"
+#~ msgstr "%s %s importálása sikertelen"
+
+#~ msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+#~ msgstr ""
+#~ "&#8220;%s&#8221; importálása sikertelen. Érvénytelen bejegyzés típus: %s"
+
+#~ msgid "%s &#8220;%s&#8221; already exists."
+#~ msgstr "%s &#8220;%s&#8221; már létezik."
+
+#~ msgid "Failed to import %s &#8220;%s&#8221;"
+#~ msgstr "%s &#8220;%s&#8221; importálása sikertelen"
+
+#~ msgid "Menu item skipped due to missing menu slug"
+#~ msgstr "Menü elem átugorva egy hiányzó menü slug miatt"
+
+#~ msgid "Menu item skipped due to invalid menu slug: %s"
+#~ msgstr "Menü elem átugorva egy hiányzó menü slug miatt: %s"
+
+#~ msgid "Fetching attachments is not enabled"
+#~ msgstr "Csatolmányok lekérése nem engedélyezett"
+
+#~ msgid "Invalid file type"
+#~ msgstr "Érvénytelen fájltípus"
+
+#, fuzzy
+#~ msgid "Remote server returned %1$d %2$s for %3$s"
+#~ msgstr "A távoli szerver hibával tért vissza %1$d %2$s"
+
+#~ msgid "Remote file is incorrect size"
+#~ msgstr "A távoli fájl mérete helytelen"
+
+#~ msgid "Zero size file downloaded"
+#~ msgstr "Nulla hosszú fájl töltődött le"
+
+#~ msgid "Remote file is too large, limit is %s"
+#~ msgstr "A távoli fájl túl nagy, a korlát %s"
+
+#~ msgid "Import WordPress"
+#~ msgstr "WordPress importálása"
+
+#~ msgid ""
+#~ "A new version of this importer is available. Please update to version %s "
+#~ "to ensure compatibility with newer export files."
+#~ msgstr ""
+#~ "Elérhető egy új verzió ebből az importálóból. Kérlek, frissíts a(z) %s "
+#~ "verzióra, hogy biztosítsd az újabb export fájlokkal való kompatibilitást."
+
+#~ msgid ""
+#~ "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll "
+#~ "import the posts, pages, comments, custom fields, categories, and tags "
+#~ "into this site."
+#~ msgstr ""
+#~ "Hogysmint? Töltsd fel a WordPress eXtended RSS (WXR) fájlt, és "
+#~ "beimportáljuk az oldalra a bejegyzéseket, oldalakat, hozzászólásokat, "
+#~ "egyéni mezőket, kategóriákat és címkéket."
+
+#~ msgid ""
+#~ "Choose a WXR (.xml) file to upload, then click Upload file and import."
+#~ msgstr ""
+#~ "Válassz ki egy WXR (.xml) fájlt feltöltésre, majd nyomd meg a fájl "
+#~ "feltöltését az importáláshoz."
+
+#~ msgid "Install Required Plugins"
+#~ msgstr "Szükséges bővítmények telepítése"
+
+#~ msgid "This theme recommends the following plugin: %1$s."
+#~ msgid_plural "This theme recommends the following plugins: %1$s."
+#~ msgstr[0] "Ez a sablon a következő bővítményt ajánlja: %1$s."
+#~ msgstr[1] "Ez a sablon a következő bővítményeket ajánlja: %1$s."
+
+#~ msgid "The following recommended plugin is currently inactive: %1$s."
+#~ msgid_plural ""
+#~ "The following recommended plugins are currently inactive: %1$s."
+#~ msgstr[0] "A következő ajánlott bővítmény jelenleg inaktív: %1$s."
+#~ msgstr[1] "A következő ajánlott bővítményej jelenleg inaktívak: %1$s."
+
+#~ msgid "Options Import/Export"
+#~ msgstr "Beállítás import/export"
+
+#~ msgid "Transparent"
+#~ msgstr "Átlátszó"
+
+#~ msgid "background-repeat"
+#~ msgstr "background-repeat"
+
+#~ msgid "background-attachment"
+#~ msgstr "background-attachment"
+
+#~ msgid "background-position"
+#~ msgstr "background-position"
+
+#~ msgid "background-size"
+#~ msgstr "background-size"
+
+#~ msgid "Title"
+#~ msgstr "Cím"
+
+#~ msgid "Failed to save the dynamics css files!"
+#~ msgstr "A dinamikus css fájlok mentése sikertelen!"
+
+#~ msgid "Specify the body background color and media."
+#~ msgstr "Add meg a body háttérszínét és médiáját."
+
+#~ msgid "Section scroller"
+#~ msgstr "Szakasz görgető"
+
+#, fuzzy
+#~ msgid ""
+#~ "Activate to create a section scroller navigation. NB. Every row must have "
+#~ "a unique name."
+#~ msgstr ""
+#~ "Aktiváld a szakasz görgető navigációt. NB. Minden sornak egyedi név "
+#~ "szükséges."
+
+#~ msgid "Inherit"
+#~ msgstr "Öröklődés"
+
+#~ msgid "Menu"
+#~ msgstr "Menü"
+
+#~ msgid "Override the menu."
+#~ msgstr "Menü felülírása."
+
+#~ msgid "Menu width"
+#~ msgstr "Menü szélessége"
+
+#~ msgid "Override the menu width."
+#~ msgstr "Menü szélesség felülírása."
+
+#~ msgid "Full"
+#~ msgstr "Teljes"
+
+#~ msgid "Limit"
+#~ msgstr "Korlátozott"
+
+#, fuzzy
+#~ msgid "Remove transparency"
+#~ msgstr "Átlátszóság eltávolítása"
+
+#, fuzzy
+#~ msgid ""
+#~ "Override to remove the transparency eventually declared in 'Customize -> "
+#~ "Light/Dark skin'."
+#~ msgstr ""
+#~ "Bíráld felül, hogy a 'Testreszabás -> Világos/Sötét felszín' pontban "
+#~ "megadott átlászóságot eltávolíthasd."
+
+#~ msgid "Remove shadow"
+#~ msgstr "Árnyék eltávolítása"
+
+#~ msgid ""
+#~ "Override to remove the shadow eventually declared in 'Menu -> Visuals'."
+#~ msgstr ""
+#~ "Bíráld felül, hogy a 'Menü -> Látvány' pontban megadott árnyékot "
+#~ "eltávolíthasd."
+
+#~ msgid "No Content Blocks found"
+#~ msgstr "Nem található tartalom blokk"
+
+#~ msgid "None"
+#~ msgstr "Nincs"
+
+#~ msgid "Revolution Slider"
+#~ msgstr "Revolution Slider"
+
+#~ msgid "No sliders found"
+#~ msgstr "Nem található slider"
+
+#~ msgid "LayerSlider"
+#~ msgstr "LayerSlider"
+
+#~ msgid "Override the header type."
+#~ msgstr "Fejéctípus felülbírálása"
+
+#~ msgid "Basic"
+#~ msgstr "Alap"
+
+#~ msgid "Specify the Content Block."
+#~ msgstr "Határozd meg a tartalom blokkot"
+
+#~ msgid "Revslider"
+#~ msgstr "Revslider"
+
+#~ msgid "Specify the Revolution Slider."
+#~ msgstr "Add meg a Revolution Slider-t."
+
+#~ msgid "Specify the LayerSlider."
+#~ msgstr "Add meg a LayerSlider-t."
+
+#~ msgid "Container full width"
+#~ msgstr "Konténer teljes szélesség"
+
+#~ msgid "Activate to expand the header container to full width."
+#~ msgstr "Aktiváld, hogy kiterjeszd a fejléc konténert teljes szélességre."
+
+#~ msgid "Content full width"
+#~ msgstr "Tartalom teljes szélesség"
+
+#~ msgid "Activate to expand the header content to full width."
+#~ msgstr "Aktiváld, hogy kiterjeszd a fejléc tartalmát teljes szélességre."
+
+#~ msgid "Custom inner width"
+#~ msgstr "Egyéni belső szélesség"
+
+#~ msgid "Adjust the inner content width in %."
+#~ msgstr "Állítsd a belső tartalom szélességet %-ban."
+
+#~ msgid "Content alignment"
+#~ msgstr "Tartalom igazítás"
+
+#~ msgid "Specify the text/content alignment."
+#~ msgstr "Add meg a szöveg/tartalom igazítását."
+
+#~ msgid "Left"
+#~ msgstr "Bal"
+
+#~ msgid "Center"
+#~ msgstr "Közép"
+
+#~ msgid "Right"
+#~ msgstr "Jobb"
+
+#~ msgid ""
+#~ "Define the height of the header in px or in % (relative to the window "
+#~ "height)."
+#~ msgstr ""
+#~ "Határozd meg a fejléc magasságát px-ben vagy %-ban (relatív az ablak "
+#~ "magasságához képest)."
+
+#~ msgid "Minimal height"
+#~ msgstr "Minimum magasság"
+
+#~ msgid "Enter a minimun height for the header in pixel."
+#~ msgstr "Írj be egy minimum magasságot a fejlécnek pixelben."
+
+#~ msgid "Skin"
+#~ msgstr "Felszín"
+
+#~ msgid "Specify the header text skin."
+#~ msgstr "Add meg a fejlécszöveg felszínét."
+
+#~ msgid "Light"
+#~ msgstr "Világos"
+
+#~ msgid "Dark"
+#~ msgstr "Sötét"
+
+#~ msgid "Position"
+#~ msgstr "Pozíció"
+
+#~ msgid "Specify the position of the header content inside the container."
+#~ msgstr "Add meg a fejléc tartalmának pozícióját a konténeren belül."
+
+#~ msgid "Left Top"
+#~ msgstr "Bal fent"
+
+#~ msgid "Left Bottom"
+#~ msgstr "Bal alul"
+
+#~ msgid "Center Top"
+#~ msgstr "Középen felül"
+
+#~ msgid "Center Center"
+#~ msgstr "Középen középen"
+
+#~ msgid "Center Bottom"
+#~ msgstr "Középen alul"
+
+#~ msgid "Right Top"
+#~ msgstr "Jobb felül"
+
+#~ msgid "Right Center"
+#~ msgstr "Jobb középen"
+
+#~ msgid "Right Bottom"
+#~ msgstr "Jobb alul"
+
+#~ msgid "h1"
+#~ msgstr "h1"
+
+#~ msgid "h2"
+#~ msgstr "h2"
+
+#~ msgid "h3"
+#~ msgstr "h3"
+
+#~ msgid "h4"
+#~ msgstr "h4"
+
+#~ msgid "h5"
+#~ msgstr "h5"
+
+#~ msgid "h6"
+#~ msgstr "h6"
+
+#~ msgid "BigText"
+#~ msgstr "NagySzöveg"
+
+#~ msgid "Default CSS"
+#~ msgstr "Alapértelmezett CSS"
+
+#~ msgid "Featured image in header"
+#~ msgstr "Kiemelt kép a fejlécben"
+
+#~ msgid "Activate to use the featured image in the header."
+#~ msgstr "Aktiváld a kiemelt kép fejlécben való használatához."
+
+#~ msgid "Background"
+#~ msgstr "Háttér"
+
+#~ msgid "Specify the background media and color."
+#~ msgstr "Add meg a háttérszínt és médiát."
+
+#~ msgid "Overlay color"
+#~ msgstr "Átfedés szín"
+
+#~ msgid "Specify the overlay background color."
+#~ msgstr "Add meg az átfedés háttérszínét."
+
+#~ msgid "Overlay color opacity"
+#~ msgstr "Átfedő szín átlátszóság"
+
+#~ msgid "Set the overlay opacity."
+#~ msgstr "Add meg az átfedés átlátszóságát."
+
+#~ msgid "Scroll opacity"
+#~ msgstr "Görgetés átlátszóság"
+
+#~ msgid "Activate alpha animation when scrolling down."
+#~ msgstr "Aktiváld az alfa animációt lefelé görgetéskor."
+
+#~ msgid "Scroll down arrow"
+#~ msgstr "Lefelé görgetés nyíl"
+
+#~ msgid "Activate the scroll down arrow button."
+#~ msgstr "Aktiváld a lefelé görgetés nyíl gombot."
+
+#~ msgid "Header section name"
+#~ msgstr "Fejléc szakasz neve"
+
+#~ msgid "Insert the header section name, required for the onepage scroll."
+#~ msgstr ""
+#~ "Add meg a fejléc szakaszának nevét, szükséges az egyoldalas görgetéshez."
+
+#~ msgid "Parallax"
+#~ msgstr "Parallax"
+
+#~ msgid "Activate the background parallax effect."
+#~ msgstr "Aktiváld a a háttér parallax effektjét."
+
+#~ msgid "Title in header"
+#~ msgstr "Cím a fejlécben"
+
+#~ msgid "Activate to show title in the header."
+#~ msgstr "Aktiváld, hogy a cím a fejlécben megjelenjen."
+
+#~ msgid "Title font family"
+#~ msgstr "Cím betűtípus"
+
+#~ msgid "Specify the font for the title."
+#~ msgstr "Add meg a cím betűtípusát."
+
+#~ msgid "Title font size"
+#~ msgstr "Cím betűméret"
+
+#~ msgid "Specify the font size for the title."
+#~ msgstr "Add meg a cím betűinek méretét."
+
+#~ msgid "Title line height"
+#~ msgstr "Cím sormagasság"
+
+#~ msgid "Specify the line height for the title."
+#~ msgstr "Add meg a cím sorának magasságát."
+
+#~ msgid "Title letter spacing"
+#~ msgstr "Cím betűköz"
+
+#~ msgid "Specify the letter spacing for the title."
+#~ msgstr "Add meg a cím betűi közötti térközt"
+
+#~ msgid "Title font weight"
+#~ msgstr "Cím betűvastagság"
+
+#~ msgid "Specify the font weight for the title."
+#~ msgstr "Add meg a cím betűinek vastagságát."
+
+#~ msgid "Title italic"
+#~ msgstr "Cím dőlt"
+
+#~ msgid "Activate the font style italic for the title."
+#~ msgstr "Aktiváld a dőlt betűstílust a cím számára."
+
+#~ msgid "Title text transform"
+#~ msgstr "Cím szöveg transzformáció"
+
+#~ msgid "Specify the title text transformation."
+#~ msgstr "Add meg a cím szövegének transzformációját."
+
+#~ msgid "Uppercase"
+#~ msgstr "Nagybetűs"
+
+#~ msgid "Lowercase"
+#~ msgstr "Kisbetűs"
+
+#~ msgid "Capitalize"
+#~ msgstr "Kiskapitális"
+
+#~ msgid "Custom content"
+#~ msgstr "Egyéni tartalom"
+
+#~ msgid "Activate custom contents instead of the default page title."
+#~ msgstr "Aktiváld az egyéni tartalmakat az alapértelmezett oldalcím helyett."
+
+#~ msgid "Text content"
+#~ msgstr "Szöveg tartalom"
+
+#~ msgid "Text animation"
+#~ msgstr "Szöveg animáció"
+
+#~ msgid "Specify the entrance animation of the title text."
+#~ msgstr "Add meg a cím szövegének megjelenési animációját."
+
+#~ msgid "Top to bottom"
+#~ msgstr "Fentről le"
+
+#~ msgid "Left to right"
+#~ msgstr "Balról jobbra"
+
+#~ msgid "Right to left"
+#~ msgstr "Jobbról balra"
+
+#~ msgid "Bottom to top"
+#~ msgstr "Lentről fel"
+
+#~ msgid "Zoom in"
+#~ msgstr "Zoom be"
+
+#~ msgid "Zoom out"
+#~ msgstr "Zoom ki"
+
+#~ msgid "Alpha"
+#~ msgstr "Alfa"
+
+#~ msgid "Animation delay"
+#~ msgstr "Animáció késleltetés"
+
+#~ msgid ""
+#~ "Specify the entrance animation delay of the title text in milliseconds."
+#~ msgstr ""
+#~ "Add meg címszöveg animált megjelenésének késleltetését "
+#~ "milliszekundumokban."
+
+#~ msgid "ms 100"
+#~ msgstr "100ms"
+
+#~ msgid "ms 200"
+#~ msgstr "200ms"
+
+#~ msgid "ms 300"
+#~ msgstr "300ms"
+
+#~ msgid "ms 400"
+#~ msgstr "400ms"
+
+#~ msgid "ms 500"
+#~ msgstr "500ms"
+
+#~ msgid "ms 600"
+#~ msgstr "600ms"
+
+#~ msgid "ms 700"
+#~ msgstr "700ms"
+
+#~ msgid "ms 800"
+#~ msgstr "800ms"
+
+#~ msgid "ms 900"
+#~ msgstr "900ms"
+
+#~ msgid "ms 1000"
+#~ msgstr "1000ms"
+
+#~ msgid "ms 1100"
+#~ msgstr "1100ms"
+
+#~ msgid "ms 1200"
+#~ msgstr "1200ms"
+
+#~ msgid "ms 1300"
+#~ msgstr "1300ms"
+
+#~ msgid "ms 1400"
+#~ msgstr "1400ms"
+
+#~ msgid "ms 1500"
+#~ msgstr "1500ms"
+
+#~ msgid "ms 1600"
+#~ msgstr "1600ms"
+
+#~ msgid "ms 1700"
+#~ msgstr "1700ms"
+
+#~ msgid "ms 1800"
+#~ msgstr "1800ms"
+
+#~ msgid "ms 1900"
+#~ msgstr "1900ms"
+
+#~ msgid "ms 2000"
+#~ msgstr "2000ms"
+
+#~ msgid ""
+#~ "Specify the entrance animation speed of the title text in milliseconds."
+#~ msgstr ""
+#~ "Add meg címszöveg animált megjelenésének sebességét milliszekundumokban."
+
+#~ msgid "Default (400)"
+#~ msgstr "Alapértelmezett (400)"
+
+#~ msgid "Override the content skin."
+#~ msgstr "A tartalom felszínének felülbírálása."
+
+#~ msgid "Content width"
+#~ msgstr "Tartalom szélessége"
+
+#~ msgid "Override the content width."
+#~ msgstr "Tartalomszélesség felülbírálása."
+
+#~ msgid "Custom width"
+#~ msgstr "Egyéni szélesség"
+
+#~ msgid "Define the custom width for the content area in px or in %."
+#~ msgstr ""
+#~ "Határozd meg a tartalom terület egyéni szélességét px-ben vagy %-ban."
+
+#~ msgid "Show breadcrumb"
+#~ msgstr "Kenyérmorzsa megjelenítése"
+
+#~ msgid "Override to show the navigation breadcrumb."
+#~ msgstr "Bíráld felül, hogy megjelenjen a kenyérmorzsa-navigáció."
+
+#~ msgid "Yes"
+#~ msgstr "Igen"
+
+#~ msgid "No"
+#~ msgstr "Nem"
+
+#~ msgid "Breadcrumb align"
+#~ msgstr "Kenyérmorzsa igazítás"
+
+#~ msgid "Specify the breadcrumb alignment"
+#~ msgstr "Add meg a kenyérmorzsa igazítását"
+
+#~ msgid "Show title"
+#~ msgstr "Cím mutatása"
+
+#~ msgid "Override to show the title in the content area."
+#~ msgstr "Bíráld felül, hogy megjelenjen a cím a tartalom területen."
+
+#~ msgid "Show media"
+#~ msgstr "Média mutatása"
+
+#~ msgid "Override to show the media in the content area."
+#~ msgstr "Bíráld felül, hogy megjelenjen a média a tartalom területen."
+
+#, fuzzy
+#~ msgid "Show tags"
+#~ msgstr "Részletek mutatása"
+
+#, fuzzy
+#~ msgid "Override to show the tags module."
+#~ msgstr "Bíráld felül, hogy megjelenjen a kenyérmorzsa-navigáció."
+
+#, fuzzy
+#~ msgid "Tags alignment"
+#~ msgstr "Tartalom igazítás"
+
+#, fuzzy
+#~ msgid "Specify the tags alignment."
+#~ msgstr "Add meg a kenyérmorzsa igazítását"
+
+#~ msgid "Left align"
+#~ msgstr "Balra igazított"
+
+#~ msgid "Center align"
+#~ msgstr "Középre igazított"
+
+#~ msgid "Right align"
+#~ msgstr "Jobbra igazított"
+
+#, fuzzy
+#~ msgid "Show share"
+#~ msgstr "Mutasd mindet"
+
+#, fuzzy
+#~ msgid "Override to show the share module."
+#~ msgstr "Bíráld felül, hogy megjelenjen a kenyérmorzsa-navigáció."
+
+#, fuzzy
+#~| msgid "details layout"
+#~ msgid "Media layout"
+#~ msgstr "részletek elrendezése"
+
+#, fuzzy
+#~| msgid "Specify the layout template for all the %s posts."
+#~ msgid "Specify the layout mode for the product images section."
+#~ msgstr "Add meg az elrendezés sablonját az összes %s bejegyzésnek."
+
+#, fuzzy
+#~| msgctxt "color picker"
+#~| msgid "Standard"
+#~ msgid "Standard"
+#~ msgstr "Alapérték"
+
+#, fuzzy
+#~ msgid "Media layout size"
+#~ msgstr "Cím betűméret"
+
+#, fuzzy
+#~| msgid "Specify the font size for the title."
+#~ msgid "Specify the size of the media layout area."
+#~ msgstr "Add meg a cím betűinek méretét."
+
+#, fuzzy
+#~| msgid "Text content"
+#~ msgid "Sticky content"
+#~ msgstr "Szöveg tartalom"
+
+#, fuzzy
+#~ msgid "on"
+#~ msgstr "Add meg a közösségi háló ikonját."
+
+#, fuzzy
+#~| msgid "Off"
+#~ msgid "off"
+#~ msgstr "Ki"
+
+#, fuzzy
+#~| msgid "Zoom in"
+#~ msgid "Zoom"
+#~ msgstr "Zoom be"
+
+#, fuzzy
+#~ msgid "Activate to enable drag zoom effect on product image."
+#~ msgstr "Aktiváld a kiemelt kép fejlécben való használatához."
+
+#, fuzzy
+#~ msgid "Content Block - Before Content"
+#~ msgstr "Nem található tartalom blokk"
+
+#~ msgid "Background color"
+#~ msgstr "Háttérszín"
+
+#~ msgid "Specify a custom content background color."
+#~ msgstr "Adj meg egy egyéni tartalom háttérszínt."
+
+#~ msgid "Content"
+#~ msgstr "Tartalom"
+
+#~ msgid "Activate the sidebar"
+#~ msgstr "Oldalsáv aktiválása"
+
+#~ msgid "Override the sidebar visibility."
+#~ msgstr "Az oldalsáv láthatóságának felülírása."
+
+#~ msgid "Specify the sidebar."
+#~ msgstr "Add meg az oldalsávot."
+
+#~ msgid "Specify the position of the sidebar."
+#~ msgstr "Add meg az oldalsáv pozícióját."
+
+#~ msgid "Size"
+#~ msgstr "Méret"
+
+#~ msgid "Set the size of the sidebar."
+#~ msgstr "Add meg az oldalsáv méretét."
+
+#, fuzzy
+#~ msgid "Sticky sidebar"
+#~ msgstr "Webhely oldalsávok"
+
+#, fuzzy
+#~ msgid "Activate to have a sticky sidebar."
+#~ msgstr "Aktiváld, hogy megjelenjen az oldalsáv."
+
+#~ msgid "Override the sidebar text skin color."
+#~ msgstr "Oldalsáv szöveg felszín színének felülbírálása."
+
+#~ msgid "Specify the sidebar background color."
+#~ msgstr "Add meg az oldalsáv háttérszínét."
+
+#~ msgid "Sidebar filling space"
+#~ msgstr "Oldalsáv kitöltő terület"
+
+#~ msgid "Activate to remove padding around the sidebar and fill the height."
+#~ msgstr ""
+#~ "Aktiváld, hogy a az oldalsáv körüli térköz eltávolítódjon, és kitöltse a "
+#~ "magasságot."
+
+#~ msgid "Details"
+#~ msgstr "Részletek"
+
+#~ msgid "details"
+#~ msgstr "részletek"
+
+#~ msgid "Override the %s visibility."
+#~ msgstr "Bíráld felül a(z) %s láthatóságát."
+
+#~ msgid "details layout"
+#~ msgstr "részletek elrendezése"
+
+#~ msgid "Specify the layout template for all the %s posts."
+#~ msgstr "Add meg az elrendezés sablonját az összes %s bejegyzésnek."
+
+#~ msgid "Details on the top"
+#~ msgstr "Részletek felül"
+
+#~ msgid "Details on the right"
+#~ msgstr "Részletek a jobb oldalon"
+
+#~ msgid "Details on the bottom"
+#~ msgstr "Részletek alul"
+
+#~ msgid "Details on the left"
+#~ msgstr "Részletek a bal oldalon"
+
+#~ msgid "Sidebar size"
+#~ msgstr "Oldalsáv mérete"
+
+#~ msgid "Set the sidebar size."
+#~ msgstr "Add meg az oldalsáv méretét."
+
+#~ msgid "Specify the background color."
+#~ msgstr "Add meg a háttérszínt."
+
+#, fuzzy
+#~ msgid "Navigation parent"
+#~ msgstr "Navigációs sáv"
+
+#, fuzzy
+#~ msgid "Specify the parent page to create the navigation logic."
+#~ msgstr "Add meg a cím betűi közötti térközt"
+
+#~ msgid "Footer width"
+#~ msgstr "Lábléc szélesség"
+
+#~ msgid "Override the footer width."
+#~ msgstr "Bíráld felül a lábléc szélességét."
+
+#, fuzzy
+#~ msgid "Custom fields"
+#~ msgstr ""
+#~ "Ez a formátum, a WordPress eXtended RSS vagy WXR, tartalmazni fogja a "
+#~ "bejegyzéseidet, oldalaidat, hozzászólásaidat, egyéni mezőidet, "
+#~ "kategóriáidat és címkéidet."
+
+#, fuzzy
+#~ msgid "Page Options"
+#~ msgstr "Oldal opciók"
+
+#~ msgid "404 content"
+#~ msgstr "404 tartalom"
+
+#~ msgid "Specify a content for the 404 page."
+#~ msgstr "Add meg a 404 oldal tartalmát."
+
+#~ msgid "Default"
+#~ msgstr "Alapértelmezett"
+
+#~ msgid "No Revolution Sliders found"
+#~ msgstr "Nem található Revolution Slider"
+
+#~ msgid "No LayerSliders found"
+#~ msgstr "Nem található LayerSlider"
+
+#, fuzzy
+#~| msgid "Letter spacing"
+#~ msgid "Letter Spacing 0"
+#~ msgstr "Betűköz"
+
+#~ msgid "No fonts activated."
+#~ msgstr "Nincs aktivált betűtípus."
+
+#~ msgid "Override the primary menu created in 'Appearance -> Menus'."
+#~ msgstr ""
+#~ "Bíráld felül az elsődleges menüt, ami a 'Megjelenés -> Menük' pontban "
+#~ "lett létrehozva."
+
+#~ msgid "Specify the header type."
+#~ msgstr "Add meg a fejléc típusát."
+
+#~ msgid "Specify the RevSlider."
+#~ msgstr "Add meg a RevSlider-t."
+
+#~ msgid "Custom text"
+#~ msgstr "Egyéni szöveg"
+
+#~ msgid ""
+#~ "Add custom text for the header. Every newline in the field is a new line "
+#~ "in the title."
+#~ msgstr ""
+#~ "Adj egyéni szöveget a fejléchez. Minden új sor a mezőben egy új sort "
+#~ "jelent a címben is."
+
+#~ msgid "Header width"
+#~ msgstr "Fejléc szélessége"
+
+#~ msgid "Override the header width."
+#~ msgstr "Bíráld felül a fejléc szélességét."
+
+#, fuzzy
+#~ msgid "Featured media in header"
+#~ msgstr "Kiemelt kép a fejlécben"
+
+#~ msgid "Activate to show the navigation breadcrumb."
+#~ msgstr "Aktiváld, hogy megjelenjen a kenyérmorzsa-navigáció."
+
+#~ msgid "Activate to show the title in the content area."
+#~ msgstr "Aktiváld, hogy megelenjen a cím a tartalom területen."
+
+#~ msgid "Activate to show the medias in the content area."
+#~ msgstr "Aktiváld, hogy megjelenjenek a médiák a tartalom területen."
+
+#, fuzzy
+#~ msgid ""
+#~ "Activate to show the tags and choose visbility by post to post bases."
+#~ msgstr ""
+#~ "Aktiváld, hogy megjelenjenek a hozzászólások és a láthatóságot "
+#~ "bejegyzésenként választhasd ki."
+
+#~ msgid "Show comments"
+#~ msgstr "Hozzászólások mutatása"
+
+#~ msgid ""
+#~ "Activate to show the comments and choose visbility by post to post bases."
+#~ msgstr ""
+#~ "Aktiváld, hogy megjelenjenek a hozzászólások és a láthatóságot "
+#~ "bejegyzésenként választhasd ki."
+
+#, fuzzy
+#~ msgid "Activate to show the share module."
+#~ msgstr "Aktiváld, hogy megjelenjenek a menü szegélyei."
+
+#~ msgid "Specify the content width."
+#~ msgstr "Add meg a tartalom szélességét."
+
+#~ msgid "Single post width"
+#~ msgstr "Egy bejegyzés szélessége"
+
+#~ msgid "Specify the single post width from 1 to 12."
+#~ msgstr "Add meg egy bejegyzés szélességét 1 és 12 között."
+
+#~ msgid "Single teaser text length"
+#~ msgstr "Egy ízelítő szöveg hossza"
+
+#~ msgid ""
+#~ "Enter the number of words you want for the teaser. If nothing in entered "
+#~ "the full content will be showed."
+#~ msgstr ""
+#~ "Írd be az ízelítő szavainak számát. Ha semmit nem adsz meg, a teljes "
+#~ "tartalom lesz megjelenítve."
+
+#~ msgid "Activate to show the sidebar."
+#~ msgstr "Aktiváld, hogy megjelenjen az oldalsáv."
+
+#~ msgid "Navigation bar"
+#~ msgstr "Navigációs sáv"
+
+#~ msgid "Activate to show the navigation bar."
+#~ msgstr "Aktiváld, hogy megjelenjen a navigációs sáv."
+
+#~ msgid "Navigation index"
+#~ msgstr "Navigációs index"
+
+#~ msgid "Specify the page you want to use as index."
+#~ msgstr "Add meg az oldalt, amit index-ként használnál."
+
+#~ msgid "Index custom label"
+#~ msgstr "Index egyéni címke"
+
+#~ msgid "Enter a custom label for the index button."
+#~ msgstr "Adj meg egy egyéni feliratot az index gombnak."
+
+#, fuzzy
+#~ msgid "Navigation titles"
+#~ msgstr "Navigációs index"
+
+#, fuzzy
+#~ msgid "Activate to show the next/prev post title."
+#~ msgstr "Aktiváld, hogy megjelenjen az oldalsáv."
+
+#~ msgid "Override the Content Block."
+#~ msgstr "Tartalom blokk felülbírálása."
+
+#, fuzzy
+#~ msgid ""
+#~ "Create here all the custom fields that can be used inside the posts "
+#~ "module."
+#~ msgstr ""
+#~ "Készítsd el itt az összes %s részlet címkét, amire csak szükséged van."
+
+#, fuzzy
+#~ msgid "Unique custom field ID"
+#~ msgstr "Egyedi közösség ID"
+
+#~ msgid ""
+#~ "This value is created automatically and it shouldn't be edited unless you "
+#~ "know what you are doing."
+#~ msgstr ""
+#~ "Ez az érték automatikusan generálódik, és nem kellene szerkeszteni, "
+#~ "hacsak nem tudod, hogy mit csinálsz."
+
+#, fuzzy
+#~ msgid "Authors"
+#~ msgstr "Szerzők:"
+
+#~ msgid "Logo"
+#~ msgstr "Logó"
+
+#~ msgid "Layout"
+#~ msgstr "Elrendezés"
+
+#~ msgid "Post"
+#~ msgstr "Bejegyzés"
+
+#~ msgid "404"
+#~ msgstr "404"
+
+#~ msgid "Palette"
+#~ msgstr "Paletta"
+
+#~ msgid "Typography"
+#~ msgstr "Tipográfia"
+
+#~ msgid "Customize"
+#~ msgstr "Testreszabás"
+
+#~ msgid "Sidebars"
+#~ msgstr "Oldalsávok"
+
+#~ msgid "Connections"
+#~ msgstr "Kapcsolatok"
+
+#, fuzzy
+#~ msgid "Google Maps"
+#~ msgstr "Google Fonts"
+
+#~ msgid "Redirect"
+#~ msgstr "Átirányítás"
+
+#~ msgid "CSS & JS"
+#~ msgstr "CSS és JS"
+
+#~ msgid "Performance"
+#~ msgstr "Teljesítmény"
+
+#~ msgid "Site width"
+#~ msgstr "Webhely szélesség"
+
+#~ msgid "Enter the width of your site."
+#~ msgstr "Add meg a weboldalad szélességét."
+
+#~ msgid "Site layout align"
+#~ msgstr "Webhely elrendezés igazítás"
+
+#~ msgid ""
+#~ "Specify the alignment of the content area when is less then 100% width."
+#~ msgstr ""
+#~ "Add meg a tartalom terület igazítását, amikor kevesebb mint 100% széles."
+
+#~ msgid "Boxed"
+#~ msgstr "Dobozolt"
+
+#~ msgid "Activate for the boxed layout."
+#~ msgstr "Aktiváld a dobozolt elrendezésért."
+
+#, fuzzy
+#~ msgid "Body frame"
+#~ msgstr "Body betűtípus"
+
+#, fuzzy
+#~ msgid "Specify the thickness of the frame around the body"
+#~ msgstr "Add meg a fejléc tartalmának pozícióját a konténeren belül."
+
+#, fuzzy
+#~ msgid "Specify the body frame color."
+#~ msgstr "Add meg a kiemelőszínt."
+
+#~ msgid "Content area full width"
+#~ msgstr "Tartalom terület teljes szélesség"
+
+#~ msgid "Activate to expand the content area to full width."
+#~ msgstr "Aktiváld, hogy a tartalom terület kiterjedjen teljes szélességre."
+
+#~ msgid "Upload a logo. You can use Images, SVG code or HTML code."
+#~ msgstr "Tölts fel logót. Használhatsz képeket, SVG vagy HTML kódot."
+
+#, fuzzy
+#~ msgid "Logo - Light"
+#~ msgstr "Logó magassága"
+
+#~ msgid "Logo height"
+#~ msgstr "Logó magassága"
+
+#~ msgid "Enter the height of the logo in px."
+#~ msgstr "Add meg a logó magasságát px-ben."
+
+#, fuzzy
+#~ msgid "Logo height mobile"
+#~ msgstr "Logó magassága"
+
+#, fuzzy
+#~ msgid "Enter the height of the logo in px for mobile version."
+#~ msgstr "Add meg a logó magasságát px-ben."
+
+#~ msgid "Specify the menu layout."
+#~ msgstr "Add meg a menü elrendezését."
+
+#~ msgid "Menu horizontal position"
+#~ msgstr "Menü vízszintes pozíció"
+
+#~ msgid "Specify the horizontal position of the menu."
+#~ msgstr "Add meg a menü vízszintes pozícióját."
+
+#~ msgid "Menu vertical alignment"
+#~ msgstr "Menü függőleges igazítás"
+
+#~ msgid "Specify the vertical alignment of the menu."
+#~ msgstr "Add meg a menü függőleges igazítását."
+
+#~ msgid "Top"
+#~ msgstr "Felül"
+
+#~ msgid "Middle"
+#~ msgstr "Középen"
+
+#~ msgid "Bottom"
+#~ msgstr "Lent"
+
+#~ msgid "Menu horizontal alignment"
+#~ msgstr "Menü vízszintes igazítás"
+
+#~ msgid "Specify the horizontal alignment of the menu."
+#~ msgstr "Add meg a menü vízszintes igazítását."
+
+#~ msgid "Left Align"
+#~ msgstr "Balra igazított"
+
+#~ msgid "Center Align"
+#~ msgstr "Középre igazított"
+
+#~ msgid "Right Align"
+#~ msgstr "Jobbra igazított"
+
+#~ msgid "Vertical menu width"
+#~ msgstr "Függőleges menü szélesség"
+
+#~ msgid "Vertical menu width in px"
+#~ msgstr "Függőleges menü szélesség px-ben"
+
+#~ msgid "Menu full width"
+#~ msgstr "Menü teljes szélesség"
+
+#~ msgid ""
+#~ "Activate to expand the menu to full width. (Only for the horizontal "
+#~ "menus)."
+#~ msgstr ""
+#~ "Aktiváld, hogy a menü kiterjedjen a teljes szélességre (csak a vízszintes "
+#~ "menük esetében)."
+
+#~ msgid "Visuals"
+#~ msgstr "Látvány"
+
+#, fuzzy
+#~| msgid "Hide dropdown arrows"
+#~ msgid "Menu divider shadow"
+#~ msgstr "Legördülő nyilak elrejtése"
+
+#, fuzzy
+#~| msgid "Activate to show the menu shadows."
+#~ msgid "Activate to show the menu devider shadow."
+#~ msgstr "Aktiváld, hogy megjelenjenek a menü árnyékok."
+
+#, fuzzy
+#~| msgid "Hide dropdown arrows"
+#~ msgid "Menu dropdown shadow"
+#~ msgstr "Legördülő nyilak elrejtése"
+
+#, fuzzy
+#~| msgid "Hide dropdown arrows"
+#~ msgid "Menu dropdown darker shadow"
+#~ msgstr "Legördülő nyilak elrejtése"
+
+#~ msgid "Menu borders"
+#~ msgstr "Menü szegélyek"
+
+#~ msgid "Activate to show the menu borders."
+#~ msgstr "Aktiváld, hogy megjelenjenek a menü szegélyei."
+
+#~ msgid "Hide dropdown arrows"
+#~ msgstr "Legördülő nyilak elrejtése"
+
+#~ msgid "Activate to hide the dropdow arrows."
+#~ msgstr "Aktiváld, hogy a legördülő nyilak el legyenek rejtve."
+
+#~ msgid "Animation"
+#~ msgstr "Animáció"
+
+#~ msgid "Menu sticky"
+#~ msgstr "Ragadós menü"
+
+#~ msgid ""
+#~ "Activate the sticky menu. This is a menu that is locked into place so "
+#~ "that it does not disappear when the user scrolls down the page."
+#~ msgstr ""
+#~ "Aktiváld a ragadós menüt. Ez egy olyan menü, ami rögzítve van, így nem "
+#~ "tűnik el akkor sem, amikor a felhasználó legörget az oldalon."
+
+#, fuzzy
+#~ msgid "Menu sticky mobile"
+#~ msgstr "Ragadós menü"
+
+#, fuzzy
+#~ msgid ""
+#~ "Activate the sticky menu on mobile devices. This is a menu that is locked "
+#~ "into place so that it does not disappear when the user scrolls down the "
+#~ "page."
+#~ msgstr ""
+#~ "Aktiváld a ragadós menüt. Ez egy olyan menü, ami rögzítve van, így nem "
+#~ "tűnik el akkor sem, amikor a felhasználó legörget az oldalon."
+
+#, fuzzy
+#~ msgid "Menu centered mobile"
+#~ msgstr "Menü elrejtés"
+
+#~ msgid "Menu hide"
+#~ msgstr "Menü elrejtés"
+
+#~ msgid ""
+#~ "Activate the autohide menu. This is a menu that is hiding after the user "
+#~ "have scrolled down the page."
+#~ msgstr ""
+#~ "Aktiváld az automatikus elrejtésű menüt. Ez egy olyan menü, ami eltűnik, "
+#~ "amikor a felhasználó lefelé görgetett az oldalon."
+
+#, fuzzy
+#~ msgid "Menu hide mobile"
+#~ msgstr "Menü elrejtés"
+
+#, fuzzy
+#~ msgid ""
+#~ "Activate the autohide menu on mobile devices. This is a menu that is "
+#~ "hiding after the user have scrolled down the page."
+#~ msgstr ""
+#~ "Aktiváld az automatikus elrejtésű menüt. Ez egy olyan menü, ami eltűnik, "
+#~ "amikor a felhasználó lefelé görgetett az oldalon."
+
+#~ msgid "Menu shrink"
+#~ msgstr "Zsugorodó menü"
+
+#~ msgid ""
+#~ "Activate the shrink menu. This is a menu where the logo shrinks after the "
+#~ "user have scrolled down the page."
+#~ msgstr ""
+#~ "Aktiváld a zsugorodó menüt. Ez egy olyan menü, ahol a logó "
+#~ "összezsugorodik, miután a felhasználó lefelé görgetett az oldalon."
+
+#, fuzzy
+#~ msgid "Menu sub-levels animated"
+#~ msgstr "Menü függőleges igazítás"
+
+#, fuzzy
+#~ msgid "Menu open items animation"
+#~ msgstr "Menü függőleges igazítás"
+
+#, fuzzy
+#~ msgid "Specify the menu items animation when opening."
+#~ msgstr "Add meg az átfedő menü felszínt."
+
+#, fuzzy
+#~ msgid "Menu overlay animation"
+#~ msgstr "Menü függőleges igazítás"
+
+#, fuzzy
+#~ msgid "Specify the overlay menu animation when opening and closing."
+#~ msgstr "Add meg az átfedő menü felszínt."
+
+#~ msgid "Minimum logo height"
+#~ msgstr "Logó minimum magasság"
+
+#~ msgid "Enter the minimal height of the shrinked logo in <b>px</b>."
+#~ msgstr ""
+#~ "Add meg az összezsugorodott logó minimális magasságát <b>px</b>-ben."
+
+#~ msgid "Menu first level uppercase"
+#~ msgstr "Menü első szint nagybetűs"
+
+#~ msgid "Activate to transform the first menu level to uppercase."
+#~ msgstr "Aktiváld, hogy a menü első szintje csupa nagybetűs legyen."
+
+#~ msgid "Menu other levels uppercase"
+#~ msgstr "Menü többi szint nagybetűs"
+
+#~ msgid "Activate to transform all the others menu level to uppercase."
+#~ msgstr "Aktiváld, hogy a menü összes többi szintje csupa nagybetűs legyen."
+
+#~ msgid "Additionals"
+#~ msgstr "Kiegészítők"
+
+#~ msgid "Hide secondary menu"
+#~ msgstr "Másodlagos menü elrejtése"
+
+#~ msgid "Activate to hide the secondary menu."
+#~ msgstr "Aktiváld a másodlagos menü elrejtéséhez."
+
+#, fuzzy
+#~| msgid "Secondary menu skin"
+#~ msgid "Secondary menu padding"
+#~ msgstr "Másdolagos menü felszín"
+
+#, fuzzy
+#~| msgid "Activate to hide the secondary menu."
+#~ msgid "Activate to increase secondary menu padding."
+#~ msgstr "Aktiváld a másodlagos menü elrejtéséhez."
+
+#, fuzzy
+#~ msgid "Social icons"
+#~ msgstr "Közösségi linkek"
+
+#, fuzzy
+#~ msgid "Activate to show the social connection icons in the menu bar."
+#~ msgstr "Aktiváld, hogy megjelenjen a keresés ikon a menüsávon."
+
+#~ msgid "Search icon"
+#~ msgstr "Keresés ikon"
+
+#~ msgid "Activate to show the search icon in the menu bar."
+#~ msgstr "Aktiváld, hogy megjelenjen a keresés ikon a menüsávon."
+
+#, fuzzy
+#~ msgid "Search overlay animation"
+#~ msgstr "Add meg az átfedés átlátszóságát."
+
+#, fuzzy
+#~ msgid "Specify the search overlay animation when opening and closing."
+#~ msgstr "Aktiváld az alfa animációt lefelé görgetéskor."
+
+#~ msgid "Woocommerce cart"
+#~ msgstr "Woocommerce kosár"
+
+#~ msgid "Activate to show the Woocommerce icon in the menu bar."
+#~ msgstr "Aktiváld a Woocommerce ikon menüsávon való megjelenítéséhez."
+
+#, fuzzy
+#~ msgid "Woocommerce cart on menu bar"
+#~ msgstr "Woocommerce kosár"
+
+#~ msgid "Top line text"
+#~ msgstr "Felső sor szövege"
+
+#~ msgid "Insert additional text on top of the menu."
+#~ msgstr "Szúrj be további szöveget a menü felett."
+
+#~ msgid "Create here all the %s details label that you need."
+#~ msgstr ""
+#~ "Készítsd el itt az összes %s részlet címkét, amire csak szükséged van."
+
+#~ msgid "Unique %s detail ID"
+#~ msgstr "Egyedi %s részlet ID"
+
+#~ msgid "Specify the sidebar text skin color."
+#~ msgstr "Add meg az oldalsáv szöveg felszín színét."
+
+#~ msgid "Sidebar color"
+#~ msgstr "Oldalsáv szín"
+
+#~ msgid "Site sidebars"
+#~ msgstr "Webhely oldalsávok"
+
+#~ msgid ""
+#~ "Define here all the sidebars you will need. A default sidebar is already "
+#~ "defined."
+#~ msgstr ""
+#~ "Add meg itt az összes oldalsávot, amire szükséged lehet. Egy "
+#~ "alapértelmezett oldalsáv már definiált."
+
+#~ msgid "Unique sidebar ID"
+#~ msgstr "Egyedi oldalsáv ID"
+
+#~ msgid "Custom fonts"
+#~ msgstr "Egyéni betűtípusok"
+
+#~ msgid "Define here all the fonts you will need."
+#~ msgstr "Add meg itt az összes betűtípus, amire szükséged lehet."
+
+#~ msgid "Unique font ID"
+#~ msgstr "Egyedi betűtípus ID"
+
+#~ msgid "Specify a font."
+#~ msgstr "Adj meg egy betűtípust."
+
+#, fuzzy
+#~ msgid "Font family"
+#~ msgstr "UI betűtípus"
+
+#, fuzzy
+#~ msgid "Enter a font family."
+#~ msgstr "Cím betűtípus"
+
+#, fuzzy
+#~ msgid "Default font size"
+#~ msgstr "Egyéni betűméret"
+
+#, fuzzy
+#~ msgid "Font size H1"
+#~ msgstr "Betűméret"
+
+#, fuzzy
+#~ msgid "Font size for H1 in <b>px</b>."
+#~ msgstr "Betűméret <b>px</b>-ben."
+
+#, fuzzy
+#~ msgid "Font size H2"
+#~ msgstr "Betűméret"
+
+#, fuzzy
+#~ msgid "Font size for H2 in <b>px</b>."
+#~ msgstr "Betűméret <b>px</b>-ben."
+
+#, fuzzy
+#~ msgid "Font size H3"
+#~ msgstr "Betűméret"
+
+#, fuzzy
+#~ msgid "Font size for H3 in <b>px</b>."
+#~ msgstr "Betűméret <b>px</b>-ben."
+
+#, fuzzy
+#~ msgid "Font size H4"
+#~ msgstr "Betűméret"
+
+#, fuzzy
+#~ msgid "Font size for H4 in <b>px</b>."
+#~ msgstr "Betűméret <b>px</b>-ben."
+
+#, fuzzy
+#~ msgid "Font size H5"
+#~ msgstr "Betűméret"
+
+#, fuzzy
+#~ msgid "Font size for H5 in <b>px</b>."
+#~ msgstr "Betűméret <b>px</b>-ben."
+
+#, fuzzy
+#~ msgid "Font size H6"
+#~ msgstr "Betűméret"
+
+#, fuzzy
+#~ msgid "Font size for H6 in <b>px</b>."
+#~ msgstr "Betűméret <b>px</b>-ben."
+
+#~ msgid "Define here all the additional font sizes you will need."
+#~ msgstr "Add meg itt az összes egyéb betűméretet, amire szükséged lehet."
+
+#~ msgid "Unique font size ID"
+#~ msgstr "Egyedi betűméret ID"
+
+#~ msgid "Font size"
+#~ msgstr "Betűméret"
+
+#~ msgid "Font size in <b>px</b>."
+#~ msgstr "Betűméret <b>px</b>-ben."
+
+#~ msgid "Custom line height"
+#~ msgstr "Egyéni sormagasság"
+
+#~ msgid "Define here all the additional font line heights you will need."
+#~ msgstr "Add meg itt az összes további sormagasságot, amire szükséged lehet."
+
+#~ msgid "Unique font height ID"
+#~ msgstr "Egyedi sormagasság ID"
+
+#~ msgid "Font line height"
+#~ msgstr "Betű sormagasság"
+
+#~ msgid "Insert a line height."
+#~ msgstr "Adj meg egy sormagasságot."
+
+#~ msgid "Custom letter spacing"
+#~ msgstr "Egyéni betűköz"
+
+#~ msgid "Define here all the letter spacings you will need."
+#~ msgstr "Add meg az összes betűközt, amire szükséged lehet."
+
+#~ msgid "Unique letter spacing ID"
+#~ msgstr "Egyedi betűköz ID"
+
+#~ msgid "Letter spacing"
+#~ msgstr "Betűköz"
+
+#~ msgid "Letter spacing with the unit (em or px). Ex. 0.2em"
+#~ msgstr "BEtűköz a mértékegyésggel (em vagy px). Pl. 0.2em"
+
+#~ msgid "Color palettes"
+#~ msgstr "Színpaletták"
+
+#~ msgid "Define all the colors you will need."
+#~ msgstr "Add meg az összes színt, amire szükséged lehet."
+
+#~ msgid "Black"
+#~ msgstr "Fekete"
+
+#~ msgid "Dark 1"
+#~ msgstr "Sötét 1"
+
+#~ msgid "Dark 2"
+#~ msgstr "Sotét 2"
+
+#~ msgid "Dark 3"
+#~ msgstr "Sötét 3"
+
+#~ msgid "Dark 4"
+#~ msgstr "Sötét 4"
+
+#~ msgid "White"
+#~ msgstr "Fehér"
+
+#~ msgid "Light 1"
+#~ msgstr "Világos 1"
+
+#~ msgid "Light 2"
+#~ msgstr "Világos 2"
+
+#~ msgid "Light 3"
+#~ msgstr "Világos 3"
+
+#~ msgid "Light 4"
+#~ msgstr "Világos 4"
+
+#~ msgid "Cerulean"
+#~ msgstr "Égszínkék"
+
+#~ msgid "International Orange"
+#~ msgstr "Nemzetközi narancs"
+
+#~ msgid "Malachite"
+#~ msgstr "Malachit"
+
+#~ msgid "Sunglow"
+#~ msgstr "Napragyogás"
+
+#~ msgid "Unique color ID"
+#~ msgstr "Egyedi szín ID"
+
+#~ msgid "Colorpicker"
+#~ msgstr "Színválasztó"
+
+#~ msgid ""
+#~ "Specify the color for this palette. You can also define a color with the "
+#~ "alpha value."
+#~ msgstr ""
+#~ "Add meg ennek a palettának a színét. Megadhatsz egy színt alfa értékkel "
+#~ "is."
+
+#, fuzzy
+#~ msgid ""
+#~ "Specify the gradient color for this palette. NB. You can use a gradient "
+#~ "color only as a background color."
+#~ msgstr ""
+#~ "Add meg ennek a palettának a színét. Megadhatsz egy színt alfa értékkel "
+#~ "is."
+
+#~ msgid "Light skin"
+#~ msgstr "Világos felszín"
+
+#~ msgid "SVG/Text logo color"
+#~ msgstr "SVG/Szöveg logó szín"
+
+#~ msgid "Specify the logo color if it's a SVG or textual."
+#~ msgstr "Add meg a logó színét, ha az SVG vagy szöveges."
+
+#~ msgid "Menu text color"
+#~ msgstr "Menü szöveg szín"
+
+#~ msgid "Specify the menu text color."
+#~ msgstr "Add meg a menü szövegének színét."
+
+#~ msgid "Primary menu background color"
+#~ msgstr "Elsődleges menü háttérszín"
+
+#~ msgid "Specify the primary menu background color."
+#~ msgstr "Add meg az elspdleges menü háttérszínét."
+
+#~ msgid "Primary menu background opacity"
+#~ msgstr "Elsődleges menü háttér átlátszóság"
+
+#~ msgid "Adjust the primary menu background transparency."
+#~ msgstr "Állítsd be az elsődleges menü hátterének átlátszóságát."
+
+#~ msgid "Primary submenu background color"
+#~ msgstr "Elsődleges almenü háttérszín"
+
+#~ msgid "Specify the primary submenu text color."
+#~ msgstr "Add meg az elsődleges almenü szöveg színét."
+
+#~ msgid "Primary menu border color"
+#~ msgstr "Elsődleges menü szegélyszín"
+
+#~ msgid "Specify the primary menu border color."
+#~ msgstr "Add meg az elsődleges menü szegélyszínét."
+
+#~ msgid "Primary menu border opacity"
+#~ msgstr "Elsődleges menü szegély átlátszóság"
+
+#~ msgid "Adjust the primary menu border transparency."
+#~ msgstr "Állítsd be az elsődleges menü szegélyének átlátszóságát."
+
+#~ msgid "Secondary menu background color"
+#~ msgstr "Másodlagos menü háttérszín"
+
+#~ msgid "Specify the secondary menu background color."
+#~ msgstr "Add meg a másodlagos menü háttérszínét."
+
+#~ msgid "Headings color"
+#~ msgstr "Címsorok színei"
+
+#~ msgid "Specify the headings text color."
+#~ msgstr "Add meg a címsorok szövegszíneit."
+
+#~ msgid "Content text color"
+#~ msgstr "Tartalom szövegszín"
+
+#~ msgid "Specify the content area text color."
+#~ msgstr "Add meg a tartalomterület szövegszínét."
+
+#~ msgid "Content background color"
+#~ msgstr "Tartalom háttérszín"
+
+#~ msgid "Specify the content background color."
+#~ msgstr "Add meg a tartalom háttérszínét."
+
+#~ msgid "Dark skin"
+#~ msgstr "Sötét felszín"
+
+#~ msgid "HTML body background"
+#~ msgstr "HTML body háttér"
+
+#~ msgid "Accent color"
+#~ msgstr "Kiemelőszín"
+
+#~ msgid "Specify the accent color."
+#~ msgstr "Add meg a kiemelőszínt."
+
+#, fuzzy
+#~| msgid "Link Color"
+#~ msgid "Links color"
+#~ msgstr "Link szín"
+
+#, fuzzy
+#~| msgid "Specify the logo color if it's a SVG or textual."
+#~ msgid "Specify the color of links in page textual contents."
+#~ msgstr "Add meg a logó színét, ha az SVG vagy szöveges."
+
+#~ msgid "Body font family"
+#~ msgstr "Body betűtípus"
+
+#~ msgid "Specify the body font family."
+#~ msgstr "Add meg a body betűtípusát."
+
+#~ msgid "UI font family"
+#~ msgstr "UI betűtípus"
+
+#~ msgid "Specify the UI font family."
+#~ msgstr "Add meg az UI betűtípusát."
+
+#~ msgid "UI font weight"
+#~ msgstr "UI betűvastagság"
+
+#~ msgid "Specify the UI font weight."
+#~ msgstr "Add meg az UI betűvastagságát."
+
+#~ msgid "Headings font family"
+#~ msgstr "Címsorok betűtípusa"
+
+#~ msgid "Specify the headings font family."
+#~ msgstr "Add meg a címsorok betűtípusát."
+
+#~ msgid "Headings font weight"
+#~ msgstr "Címsorok betűvastagsága"
+
+#~ msgid "Specify the Headings font weight."
+#~ msgstr "Add meg a címsorok betűvastagságát."
+
+#, fuzzy
+#~ msgid "Activate to style all the input text with the underline."
+#~ msgstr "Aktiváld, hogy megelenjen a cím a tartalom területen."
+
+#~ msgid "Overlay menu skin"
+#~ msgstr "Átfedő menü felszín"
+
+#~ msgid "Specify the overlay menu skin."
+#~ msgstr "Add meg az átfedő menü felszínt."
+
+#, fuzzy
+#~ msgid "Menu highlight color"
+#~ msgstr "Menü szöveg szín"
+
+#~ msgid "Primary menu skin"
+#~ msgstr "Elsődleges menü felszín"
+
+#~ msgid "Specify the primary menu skin."
+#~ msgstr "Add meg az elsődleges menü felszínt."
+
+#~ msgid "Primary submenu skin"
+#~ msgstr "Elsődleges almenü felszín"
+
+#~ msgid "Specify the primary submenu skin."
+#~ msgstr "Add meg az elsődleges almenü felszínt."
+
+#~ msgid "Secondary menu skin"
+#~ msgstr "Másdolagos menü felszín"
+
+#~ msgid "Specify the secondary menu skin."
+#~ msgstr "Add meg a másodlagos menü felszínt."
+
+#, fuzzy
+#~ msgid "Menu font size"
+#~ msgstr "Cím betűméret"
+
+#, fuzzy
+#~ msgid "Submenu font size"
+#~ msgstr "Egyéni betűméret"
+
+#, fuzzy
+#~ msgid "Mobile menu font size"
+#~ msgstr "Cím betűméret"
+
+#, fuzzy
+#~ msgid "Specify the menu font size for mobile."
+#~ msgstr "Add meg a menü betűtípusát."
+
+#~ msgid "Menu font family"
+#~ msgstr "Menü betűtípus"
+
+#~ msgid "Specify the menu font family."
+#~ msgstr "Add meg a menü betűtípusát."
+
+#~ msgid "Menu font weight"
+#~ msgstr "Menü betűvastagság"
+
+#~ msgid "Specify the menu font weight."
+#~ msgstr "Add meg a menü betűvastagságát."
+
+#~ msgid "Specify the content skin."
+#~ msgstr "Add meg a tartalom felszínt."
+
+#, fuzzy
+#~| msgid "Buttons text transform"
+#~ msgid "Buttons and Forms"
+#~ msgstr "Gombok szövegtranszformációja"
+
+#~ msgid "Buttons font family"
+#~ msgstr "Gombok betűtípusa"
+
+#~ msgid "Specify the buttons font family."
+#~ msgstr "Add meg a gombok betűtípusát."
+
+#~ msgid "Buttons font weight"
+#~ msgstr "Gombok betűvastagsága"
+
+#~ msgid "Specify the buttons font weight."
+#~ msgstr "Add meg a gombok betűvastagságát."
+
+#~ msgid "Buttons text transform"
+#~ msgstr "Gombok szövegtranszformációja"
+
+#~ msgid "Specify the buttons text transform."
+#~ msgstr "Add meg a gombok szövegtranszformációját."
+
+#, fuzzy
+#~| msgid "Custom letter spacing"
+#~ msgid "Buttons letter spacing"
+#~ msgstr "Egyéni betűköz"
+
+#, fuzzy
+#~| msgid "Specify the letter spacing for the title."
+#~ msgid "Specify the letter spacing value."
+#~ msgstr "Add meg a cím betűi közötti térközt"
+
+#, fuzzy
+#~| msgid "Specify the font for the title."
+#~ msgid "Specify an effect on hover state."
+#~ msgstr "Add meg a cím betűtípusát."
+
+#~ msgid "Copyright area skin"
+#~ msgstr "Copyright terület felszín"
+
+#~ msgid "Specify the copyright area skin color."
+#~ msgstr "Add meg a copyright terület felszín színét."
+
+#~ msgid "Copyright area custom background color"
+#~ msgstr "Copyright terület egyéni háttérszín"
+
+#~ msgid "Specify a custom copyright area background color."
+#~ msgstr "Adj meg egy egyéni copyright terület háttérszínt."
+
+#, fuzzy
+#~ msgid "Smooth scroller"
+#~ msgstr "Szakasz görgető"
+
+#, fuzzy
+#~ msgid ""
+#~ "Activate this to always have a constant speed when scrolling to point."
+#~ msgstr "Aktiváld az alfa animációt lefelé görgetéskor."
+
+#, fuzzy
+#~ msgid "Specify the scroll speed time in milliseconds."
+#~ msgstr ""
+#~ "Add meg címszöveg animált megjelenésének sebességét milliszekundumokban."
+
+#~ msgid "CPT"
+#~ msgstr "CPT"
+
+#, fuzzy
+#~ msgid "Enter a custom portfolio post type label."
+#~ msgstr "Adj meg egy egyéni portfólió bejegyzés típus slug-ot."
+
+#~ msgid "CPT slug"
+#~ msgstr "CPT slug"
+
+#~ msgid "Enter a custom portfolio post type slug."
+#~ msgstr "Adj meg egy egyéni portfólió bejegyzés típus slug-ot."
+
+#, fuzzy
+#~ msgid "Activate to show the Uncode help button in the WP admin bar."
+#~ msgstr "Aktiváld a Woocommerce ikon menüsávon való megjelenítéséhez."
+
+#~ msgid "Footer full width"
+#~ msgstr "Lábléc teljes szélesség"
+
+#~ msgid "Expand the footer to full width."
+#~ msgstr "Terjeszd ki a láblécet teljes szélességre."
+
+#~ msgid "Widget area"
+#~ msgstr "Widget terület"
+
+#~ msgid "Specify the Content Block to use as a footer content."
+#~ msgstr "Add meg a tartalom blokkot, amit lábléc tartalomként használnál."
+
+#~ msgid "Copyright area"
+#~ msgstr "Copyright terület"
+
+#~ msgid "Automatic copyright text"
+#~ msgstr "Automatikus copyright szöveg"
+
+#~ msgid "Activate to use an automatic copyright text."
+#~ msgstr "Aktiváld automatikus copyright szöveg használatához."
+
+#~ msgid "Custom copyright text"
+#~ msgstr "Egyéni copyright szöveg"
+
+#~ msgid "Insert a custom text for the footer copyright area."
+#~ msgstr "Írj be egy szöveget, ami a lábléc copyright területére kerül."
+
+#~ msgid "Specify the footer copyright text alignment."
+#~ msgstr "Add meg a lábléc copyright szövegének igazítását."
+
+#~ msgid "Social links"
+#~ msgstr "Közösségi linkek"
+
+#~ msgid "Activate to have the social icons in the footer copyright area."
+#~ msgstr ""
+#~ "Aktiváld a lébléc copyright területén megjelenő közösségi ikonjaiért."
+
+#~ msgid "Scroll up button"
+#~ msgstr "Oldal tetejére gomb"
+
+#~ msgid "Activate to add a scroll up button in the footer."
+#~ msgstr "Aktiváld, hogy legyen egy oldal tetejére görgető gomb a láblécben."
+
+#, fuzzy
+#~ msgid "Scroll up button on mobile"
+#~ msgstr "Oldal tetejére gomb"
+
+#, fuzzy
+#~ msgid "Activate to add a scroll up button in the footer for mobile devices."
+#~ msgstr "Aktiváld, hogy legyen egy oldal tetejére görgető gomb a láblécben."
+
+#~ msgid "Social Networks"
+#~ msgstr "Közösségi hálók"
+
+#~ msgid "Define here all the social networks you will need."
+#~ msgstr "Add meg itt az összes közösségi hálót, amire szükséged lehet."
+
+#~ msgid "Unique social ID"
+#~ msgstr "Egyedi közösség ID"
+
+#, fuzzy
+#~ msgid "Social Network Icon"
+#~ msgstr "Közösségi háló link"
+
+#~ msgid "Specify the social network icon."
+#~ msgstr "Add meg a közösségi háló ikonját."
+
+#~ msgid "Social Network Link"
+#~ msgstr "Közösségi háló link"
+
+#~ msgid "Enter your social network link."
+#~ msgstr "Add meg a közösségi hálód hivatkozását."
+
+#, fuzzy
+#~ msgid ""
+#~ "Activate to hide the social icon in the menu (if the social connections "
+#~ "in the menu is active)."
+#~ msgstr ""
+#~ "Aktiváld a lébléc copyright területén megjelenő közösségi ikonjaiért."
+
+#~ msgid "CSS"
+#~ msgstr "CSS"
+
+#~ msgid "Enter here your custom CSS."
+#~ msgstr "Add meg egyéni CSS kódjaid."
+
+#~ msgid "Javascript"
+#~ msgstr "Javascript"
+
+#~ msgid "Enter here your custom Javacript code."
+#~ msgstr "Itt add meg egyéni Javascript kódjaid."
+
+#~ msgid "Adaptive images"
+#~ msgstr "Adaptív képek"
+
+#~ msgid ""
+#~ "Activate to take advantage of the Adaptive Images system. Adaptive Images "
+#~ "detects your visitor's screen size and automatically delivers device "
+#~ "appropriate re-scaled images."
+#~ msgstr ""
+#~ "Aktiváld, hogy kihasználhasd az Adaptív Képek rendszer lehetőségeit. Az "
+#~ "Adaptív Képek detektálja a felhasználóid képernyőméretét, és "
+#~ "automatikusan a megfelelően átméretezett képeket szolgálja ki."
+
+#, fuzzy
+#~ msgid "Asynchronous adaptive image system"
+#~ msgstr "Adaptív képek"
+
+#, fuzzy
+#~ msgid "Activate to use a bluring effect when loading the images."
+#~ msgstr "Aktiváld a kiemelt kép fejlécben való használatához."
+
+#~ msgid "Image sizes range"
+#~ msgstr "Kép méret tartomány"
+
+#~ msgid ""
+#~ "Enter all the image sizes you want use for the Adaptive Images system. "
+#~ "NB. The values needs to be comma separated."
+#~ msgstr ""
+#~ "Add meg az összes Adaptív Képek rendszerben használni kívánt képméretet. "
+#~ "NB. Az értékeket vesszővel kell elválasztani."
+
+#~ msgid "Apache Server Configs"
+#~ msgstr "Apache szerver beállítások"
+
+#~ msgid ""
+#~ "Activate the enhanced .htaccess, this will improve the web site's "
+#~ "performance and security."
+#~ msgstr ""
+#~ "Aktiváld a bővített .htaccess fájlt, ez növelni fogja a weboldalad "
+#~ "teljesítményét és biztonságát."
+
+#, fuzzy
+#~ msgid "Production mode"
+#~ msgstr "Termék"
+
+#~ msgid "Activate page redirect"
+#~ msgstr "Oldal átirányítás aktiválása"
+
+#~ msgid ""
+#~ "Activate to redirect all the website calls to a specific page. NB. This "
+#~ "can only be visible when the user is not logged in."
+#~ msgstr ""
+#~ "Aktiváld, hogy egy kiválasztott oldalra legyen irányítva az összes "
+#~ "forgalom. NB. Ez csak akkor lesz látható, amikor a felhasználó nincs "
+#~ "belépve."
+
+#~ msgid "Redirect page"
+#~ msgstr "Átirányítási oldal"
+
+#~ msgid ""
+#~ "Specify the redirect page. NB. This page will be presented without menu "
+#~ "and footer."
+#~ msgstr ""
+#~ "Add meg az átirányítási oldalt. NB. Ez az oldal menü és lábléc nélkül fog "
+#~ "megjelenni."
+
+#~ msgid "WooCommerce"
+#~ msgstr "WooCommerce"
+
+#~ msgid "Products"
+#~ msgstr "Termékek"
+
+#~ msgid "Social Menu"
+#~ msgstr "Közösségi menü"
+
+#~ msgid "Cart icon"
+#~ msgstr "Kosár ikon"
+
+#~ msgid "Specify the cart icon"
+#~ msgstr "Add meg a kosár ikont"
+
+#, fuzzy
+#~ msgid "Activate this to enable default WooCommerce hooks on product loops."
+#~ msgstr "Aktiváld a kiemelt kép fejlécben való használatához."
+
+#~ msgid "Justify"
+#~ msgstr "Sorkizárt"
+
+#, fuzzy
+#~ msgid "Center Split"
+#~ msgstr "Középre igazított"
+
+#~ msgid "Lateral"
+#~ msgstr "Oldalsó"
+
+#~ msgid "Offcanvas"
+#~ msgstr "Vásznon kívüli"
+
+#~ msgid "Overlay"
+#~ msgstr "Átfedő"
+
+#, fuzzy
+#~ msgid "Overlay Center"
+#~ msgstr "Átfedés szín"
+
+#~ msgid "OptionTree Cleanup"
+#~ msgstr "OptionTree tisztítás"
+
+#~ msgid ""
+#~ "OptionTree has outdated data that should be removed. Please go to %s for "
+#~ "more information."
+#~ msgstr ""
+#~ "Az OptionTree eltávolításra szoruló adatokkal rendelkezik. További "
+#~ "információt itt találsz: %s."
+
+#~ msgid "Multiple Media Posts"
+#~ msgstr "Többszörös média bejegyzések"
+
+#~ msgid ""
+#~ "There are currently %s OptionTree media posts in your database. At some "
+#~ "point in the past, a version of OptionTree added multiple %s media post "
+#~ "objects cluttering up your %s table. There is no associated risk or harm "
+#~ "that these posts have caused other than to add size to your overall "
+#~ "database. Thankfully, there is a way to remove all these orphaned media "
+#~ "posts and get your database cleaned up."
+#~ msgstr ""
+#~ "Jelenleg %s OptionTree média bejegyzés található az adatbázisban. "
+#~ "Valamikor korábban egy OptionTree verzió többszörös %s média bejegyzés "
+#~ "objektumot adott hozzá, ami teleszemeteli a(z) %s táblát. Ezzel "
+#~ "kapcsolatban nem áll fenn gyanú vagy veszély, hogy bármit okoztak volna "
+#~ "azon kívül, hogy az adatbázis méretét növelik. Szerencsére lehetőség van "
+#~ "ezeket az elárvult bejegyzéseket eltávolítani, és ezzel az adatbázist "
+#~ "kitisztítani."
+
+#~ msgid ""
+#~ "By clicking the button below, OptionTree will delete %s records and "
+#~ "consolidate them into one single OptionTree media post for uploading "
+#~ "attachments to. Additionally, the attachments will have their parent ID "
+#~ "updated to the correct media post."
+#~ msgstr ""
+#~ "Az alábbi gomb megnyomásával az OptionTree %s rekordot fog törölni és egy "
+#~ "OptionTree média bejegyzéssé összevonni. Emellett a csatolmányok szülő ID-"
+#~ "jait is frissíti a megfelelő média bejegyzésre."
+
+#~ msgid ""
+#~ "This could take a while to fully process depending on how many records "
+#~ "you have in your database, so please be patient and wait for the script "
+#~ "to finish."
+#~ msgstr ""
+#~ "A teljes folyamat eltarthat egy darabig attól függően, hogy hány rekord "
+#~ "van az adatbázisban, ezért legyél türelemmel, és várd meg a szkriptet, "
+#~ "hogy végezzen."
+
+#~ msgid ""
+#~ "%s Your server is running in safe mode. Which means this page will "
+#~ "automatically reload after deleting %s posts, you can filter this number "
+#~ "using %s if your server is having trouble processing that many at one "
+#~ "time."
+#~ msgstr ""
+#~ "%s A szervered biztonságos módban működik. Ez azt jelenti, hogy ez az "
+#~ "oldal %s bejegyzés sikeres törlése után automatikusan újratöltődik. Ezt a "
+#~ "számot módosíthatod az %s filter használatával, ha problémád akadna "
+#~ "ekkora mennyiség egyidejű feldolgozásával."
+
+#~ msgid "Consolidate Posts"
+#~ msgstr "Bejegyzések összevonása"
+
+#~ msgid "Reloading..."
+#~ msgstr "Újratöltés..."
+
+#~ msgid "Clean up script has completed, the page will now reload..."
+#~ msgstr "A tisztító szkript végzett, az oldal most újratölt..."
+
+#~ msgid "Outdated Table"
+#~ msgstr "Elavult tábla"
+
+#~ msgid ""
+#~ "If you have upgraded from an old 1.x version of OptionTree at some point, "
+#~ "you have an extra %s table in your database that can be removed. It's not "
+#~ "hurting anything, but does not need to be there. If you want to remove "
+#~ "it. Click the button below."
+#~ msgstr ""
+#~ "Ha valaha frissítettél az OptionTree valamelyik régi 1.x verziójáról, "
+#~ "akkor van egy extra %s tábla az adatbázisodban, ami törölhető. Nem fog "
+#~ "fájni senkinek, nincs rá szükség. Ha törölni szeretnéd, kattints az "
+#~ "alábbi gombra."
+
+#~ msgid "Drop Table"
+#~ msgstr "Tábla eldobása"
+
+#~ msgid "Deleting the outdated and unused %s table..."
+#~ msgstr "Az elavult és nem használt %s tábla törlése..."
+
+#~ msgid ""
+#~ "The %s table has been successfully deleted. The page will now reload..."
+#~ msgstr "Sikeresen törölve lett az %s tábla. Az oldal most újratölt..."
+
+#~ msgid "Something went wrong. The %s table was not deleted."
+#~ msgstr "Valami nem jól sikerült. Az %s tábla nem lett törölve."
+
+#~ msgid "Theme Options reset."
+#~ msgstr "Sablon beállítások alaphelyzetben."
+
+#~ msgid "Save Changes"
+#~ msgstr "Változások mentése"
+
+#~ msgid ""
+#~ "The Theme Options UI Builder is being overridden by a custom file in your "
+#~ "theme. Any changes you make via the UI Builder will not be saved."
+#~ msgstr ""
+#~ "A sablon beállítások felület készítőt felülbírálja egy egyéni fájl a "
+#~ "sablonodban. A felület készítőn keresztül végzett módosítások nem lesznek "
+#~ "mentve."
+
+#~ msgid "OptionTree"
+#~ msgstr "OptionTree"
+
+#~ msgid "Settings"
+#~ msgstr "Beállítások"
+
+#~ msgid "Save Settings"
+#~ msgstr "Beállítások mentése"
+
+#~ msgid "Theme Options UI"
+#~ msgstr "Sablon beállítások felület"
+
+#~ msgid "Import"
+#~ msgstr "Importálás"
+
+#~ msgid "Layouts"
+#~ msgstr "Elrendezések"
+
+#~ msgid "Theme Options UI Builder"
+#~ msgstr "Sablon beállítások felület készítő"
+
+#~ msgid "Settings XML"
+#~ msgstr "Beállítások XML"
+
+#~ msgid "Settings PHP File"
+#~ msgstr "Beállítások PHP fájl"
+
+#~ msgid "Layout Management"
+#~ msgstr "Elrendezés kezelés"
+
+#~ msgid "Documentation"
+#~ msgstr "Dokumentáció"
+
+#~ msgid "Creating Options"
+#~ msgstr "Létrehozási beállítások"
+
+#~ msgid "Option Types"
+#~ msgstr "Opciótípusok"
+
+#~ msgid "Function References"
+#~ msgstr "Funkció referencia"
+
+#~ msgid "Theme Mode"
+#~ msgstr "Sablon mód"
+
+#~ msgid "Meta Boxes"
+#~ msgstr "Meta dobozok"
+
+#~ msgid "Code Examples"
+#~ msgstr "Példakódok"
+
+#~ msgid "Layouts Overview"
+#~ msgstr "Elrendezés áttekintés"
+
+#~ msgid "Overview of available Theme Option fields."
+#~ msgstr "Elérhető sablon beállítások áttekintése."
+
+#~ msgid "Option types in alphabetical order & hooks to filter them."
+#~ msgstr "Opciótípusok ábécésorrendben, valamint hurkok a szűrésükhöz."
+
+#~ msgid "Function Reference:ot_get_option()"
+#~ msgstr "Funkció referencia:ot_get_option()"
+
+#~ msgid "Function Reference:get_option_tree()"
+#~ msgstr "Funkció referencia:get_option_tree()"
+
+#~ msgid "Code examples for front-end development."
+#~ msgstr "Példakódok front-end fejlesztéshez."
+
+#~ msgid "What's a layout anyhow?"
+#~ msgstr "Egyébként mi egy elrendezés?"
+
+#~ msgid "The %s input field for %s only allows numeric values."
+#~ msgstr ""
+#~ "A(z) %s beviteli mező csak szám értéked engedélyez a(z) %s beállítás "
+#~ "számára."
+
+#~ msgid "The %s Colorpicker only allows valid hexadecimal or rgba values."
+#~ msgstr ""
+#~ "A(z) %s színválasztó csak érvényes hexadecimális és rgba értékeket "
+#~ "engedélyez."
+
+#~ msgid "Are you sure you want to reset back to the defaults?"
+#~ msgstr "Biztos vagy benne, hogy vissza akarsz térni az alapbeállításokhoz?"
+
+#~ msgid "You can't remove this! But you can edit the values."
+#~ msgstr "Ezt nem távolíthatod el, de szerkesztheted az értékeket."
+
+#~ msgid "Are you sure you want to remove this?"
+#~ msgstr "Biztos vagy benne, hogy eltávolítod?"
+
+#~ msgid "Are you sure you want to activate this layout?"
+#~ msgstr "Biztosan aktiválni akarod ezt az elrendezést?"
+
+#~ msgid "Sorry, you can't have settings three levels deep."
+#~ msgstr "Sajnáljuk, de nem lehetnek beállításaid 3 szint mélységben."
+
+#~ msgid "Delete Gallery"
+#~ msgstr "Galéria törlése"
+
+#~ msgid "Edit Gallery"
+#~ msgstr "Geléria szerkesztése"
+
+#~ msgid "Create Gallery"
+#~ msgstr "Galéria létrehozása"
+
+#~ msgid "Are you sure you want to delete this Gallery?"
+#~ msgstr "Biztosan törölni szeretnéd ezt a galériát?"
+
+#~ msgid "Today"
+#~ msgstr "Ma"
+
+#~ msgid "Now"
+#~ msgstr "Most"
+
+#~ msgid "Close"
+#~ msgstr "Bezárás"
+
+#~ msgid "Featured Image"
+#~ msgstr "Kiemelt kép"
+
+#~ msgid "Image"
+#~ msgstr "Kép"
+
+#~ msgid "Option Tree"
+#~ msgstr "Opció fa"
+
+#~ msgid "Sample Text Field Label"
+#~ msgstr "Minta szöveges mező címke"
+
+#~ msgid "Description for the sample text field."
+#~ msgstr "Minta szöveges mező leírása."
+
+#~ msgid "Settings updated."
+#~ msgstr "Beállítások frissítve."
+
+#~ msgid "Settings could not be saved."
+#~ msgstr "A beállításokat nem lehet menteni."
+
+#~ msgid "Settings Imported."
+#~ msgstr "Beállítások importálva."
+
+#~ msgid "Settings could not be imported."
+#~ msgstr "A beállításokat nem lehet importálni."
+
+#~ msgid "Data Imported."
+#~ msgstr "Adatok importálva."
+
+#~ msgid "Data could not be imported."
+#~ msgstr "Az adatokat nem lehet importálni."
+
+#~ msgid "Layouts Imported."
+#~ msgstr "Elrendezések importálva."
+
+#~ msgid "Layouts could not be imported."
+#~ msgstr "Az elrendezéseket nem lehetett importálni."
+
+#~ msgid "Layouts Updated."
+#~ msgstr "Elrendezések frissítve."
+
+#~ msgid "Layouts could not be updated."
+#~ msgstr "Az elrendezéseket nem lehetett frissíteni."
+
+#~ msgid "Layouts have been deleted."
+#~ msgstr "Elrendezések törölve."
+
+#~ msgid "Layout activated."
+#~ msgstr "Elrendezések aktiválva."
+
+#~ msgid "Border"
+#~ msgstr "Szegély"
+
+#~ msgid "Box Shadow"
+#~ msgstr "Vetett árnyél"
+
+#~ msgid "Category Checkbox"
+#~ msgstr "Kategória jelölőnégyzet"
+
+#~ msgid "Category Select"
+#~ msgstr "Kategória választó"
+
+#~ msgid "Checkbox"
+#~ msgstr "Jelölőnégyzet"
+
+#~ msgid "Colorpicker Opacity"
+#~ msgstr "Színválasztó átlátszóság"
+
+#~ msgid "Custom Post Type Checkbox"
+#~ msgstr "Egyéni bejegyzés típus jelölőnégyzet"
+
+#~ msgid "Custom Post Type Select"
+#~ msgstr "Egyéni bejegyzés típus választó"
+
+#~ msgid "Date Picker"
+#~ msgstr "Dátumválasztó"
+
+#~ msgid "Date Time Picker"
+#~ msgstr "Dátum- és időválasztó"
+
+#~ msgid "Dimension"
+#~ msgstr "Dimenzió"
+
+#~ msgid "Gallery"
+#~ msgstr "Galéria"
+
+#~ msgid "Google Fonts"
+#~ msgstr "Google Fonts"
+
+#~ msgid "JavaScript"
+#~ msgstr "JavaScript"
+
+#~ msgid "Link Color"
+#~ msgstr "Link szín"
+
+#~ msgid "List Item"
+#~ msgstr "Listaelem"
+
+#~ msgid "Measurement"
+#~ msgstr "Mérés"
+
+#~ msgid "Numeric Slider"
+#~ msgstr "Számozott csúszka"
+
+#~ msgid "On/Off"
+#~ msgstr "Ki/Be"
+
+#~ msgid "Page Checkbox"
+#~ msgstr "Oldal jelölőnégyzet"
+
+#~ msgid "Post Checkbox"
+#~ msgstr "Bejegyzés jelölőnégyzet"
+
+#~ msgid "Post Select"
+#~ msgstr "Bejegyzés választó"
+
+#~ msgid "Radio"
+#~ msgstr "Rádió"
+
+#~ msgid "Radio Image"
+#~ msgstr "Rádió kép"
+
+#~ msgid "Select"
+#~ msgstr "Választó"
+
+#~ msgid "Sidebar Select"
+#~ msgstr "Oldalsáv választó"
+
+#~ msgid "Social Links"
+#~ msgstr "Közösségi linkek"
+
+#~ msgid "Spacing"
+#~ msgstr "Térköz"
+
+#~ msgid "Tab"
+#~ msgstr "Fül"
+
+#~ msgid "Tag Checkbox"
+#~ msgstr "Címke jelölőnégyzet"
+
+#~ msgid "Tag Select"
+#~ msgstr "Címke választó"
+
+#~ msgid "Taxonomy Checkbox"
+#~ msgstr "Taxonómia jelölőnégyzet"
+
+#~ msgid "Taxonomy Select"
+#~ msgstr "Taxonómia választó"
+
+#~ msgid "Text"
+#~ msgstr "Szöveg"
+
+#~ msgid "Textarea"
+#~ msgstr "Szövegmező"
+
+#~ msgid "Textarea Simple"
+#~ msgstr "Egyszerű szövegmező"
+
+#~ msgid "Textblock"
+#~ msgstr "Szövegdoboz"
+
+#~ msgid "Textblock Titled"
+#~ msgstr "Címzett szövegdoboz"
+
+#~ msgid "Upload"
+#~ msgstr "Feltöltés"
+
+#~ msgid "Left Sidebar"
+#~ msgstr "Bal oldalsáv"
+
+#~ msgid "Right Sidebar"
+#~ msgstr "Jobb oldalsáv"
+
+#~ msgid "Full Width (no sidebar)"
+#~ msgstr "Teljes szélesség (nincs oldalsáv)"
+
+#~ msgid "Dual Sidebar"
+#~ msgstr "Duális oldalsáv"
+
+#~ msgid "Left Dual Sidebar"
+#~ msgstr "Bal duális oldalsáv"
+
+#~ msgid "Right Dual Sidebar"
+#~ msgstr "Jobb diális oldalsáv"
+
+#~ msgid "Link"
+#~ msgstr "Hivatkozás"
+
+#~ msgid "Enter the name of the social website."
+#~ msgstr "Add meg a közösségi oldal nevét."
+
+#~ msgid "Enter the text shown in the title attribute of the link."
+#~ msgstr "Add meg a link title attribútumában megjelenő szövegét."
+
+#~ msgid ""
+#~ "Enter a link to the profile or page on the social website. Remember to "
+#~ "add the %s part to the front of the link."
+#~ msgstr ""
+#~ "Adj meg egy közösségi hálózat profiljára vagy oldalárara mutató linket. "
+#~ "Ne felejtsd el megadni a %s részt is a link elején."
+
+#~ msgid "Unable to write to file %s."
+#~ msgstr "Nem lehet írni a(z) %s fájlt."
+
+#~ msgid "edit"
+#~ msgstr "szerkesztés"
+
+#~ msgid ""
+#~ "<strong>Section Title</strong>: Displayed as a menu item on the Theme "
+#~ "Options page."
+#~ msgstr ""
+#~ "<strong>Szakasz cím</strong>: Egy menü elemként jelenik meg a sablon "
+#~ "beállítások oldalon."
+
+#~ msgid ""
+#~ "<strong>Section ID</strong>: A unique lower case alphanumeric string, "
+#~ "underscores allowed."
+#~ msgstr ""
+#~ "<strong>Szakasz ID</strong>: Egy egyedi, csak alfanumerikus karaktereket "
+#~ "tartalmazó kisbetűs szöveg, az alávonás megengedett."
+
+#~ msgid ""
+#~ "<strong>Label</strong>: Displayed as the label of a form element on the "
+#~ "Theme Options page."
+#~ msgstr ""
+#~ "<strong>Címke</strong>: Egy űrlapelem felirataként jelenik meg a sablon "
+#~ "beállítások oldalon."
+
+#~ msgid ""
+#~ "<strong>ID</strong>: A unique lower case alphanumeric string, underscores "
+#~ "allowed."
+#~ msgstr ""
+#~ "<strong>ID</strong>: Egy egyedi, csak alfanumerikus karaktereket "
+#~ "tartalmazó kisbetűs szöveg, az alávonás megengedett."
+
+#~ msgid ""
+#~ "<strong>Type</strong>: Choose one of the available option types from the "
+#~ "dropdown."
+#~ msgstr ""
+#~ "<strong>Típus</strong>: Válassz egyet a legördülőben az elérhető "
+#~ "opciótípusok közül."
+
+#~ msgid ""
+#~ "<strong>Description</strong>: Enter a detailed description for the users "
+#~ "to read on the Theme Options page, HTML is allowed. This is also where "
+#~ "you enter content for both the Textblock & Textblock Titled option types."
+#~ msgstr ""
+#~ "<strong>Leírás</strong>: Adj meg egy részletezett leírást a sablon "
+#~ "beállítások oldalra, HTML megengedett. Ugyanitt adhatsz meg tartalmat a "
+#~ "szövegblokk- és a szövegblokkal címzett opciótípusoknak is."
+
+#~ msgid ""
+#~ "<strong>Choices</strong>: This will only affect the following option "
+#~ "types: Checkbox, Radio, Select & Select Image."
+#~ msgstr ""
+#~ "<strong>Lehetőségek</strong>: Ez csak a következő opciótípusok esetén "
+#~ "érvényes: checkbox, rádió, legördülő és képválasztó."
+
+#~ msgid "Add Choice"
+#~ msgstr "Lehetőség hozzáadása"
+
+#~ msgid ""
+#~ "<strong>Settings</strong>: This will only affect the List Item option "
+#~ "type."
+#~ msgstr ""
+#~ "<strong>Beállítások</strong>: Ez csak a list elem opciótípust érinti."
+
+#~ msgid "Add Setting"
+#~ msgstr "Beállítás hozzáadása"
+
+#~ msgid ""
+#~ "<strong>Standard</strong>: Setting the standard value for your option "
+#~ "only works for some option types. Read the <code>OptionTree-"
+#~ ">Documentation</code> for more information on which ones."
+#~ msgstr ""
+#~ "<strong>Alapérték</strong>: Az alapérték beállítása csak némely "
+#~ "opciótípusokat érint. Olvasd el az <code>OptionTree->Dokumentáció</code> "
+#~ "oldalt további információért, hogy melyiket."
+
+#~ msgid ""
+#~ "<strong>Rows</strong>: Enter a numeric value for the number of rows in "
+#~ "your textarea. This will only affect the following option types: CSS, "
+#~ "Textarea, & Textarea Simple."
+#~ msgstr ""
+#~ "<strong>Sorok</strong>: Adj meg egy számértéket, hogy hány sor legyen a "
+#~ "szövegmezőben. Ez csak a következő opciótípusok esetén értelmezett: CSS, "
+#~ "szövegmező, egyszerű szövegmező."
+
+#~ msgid ""
+#~ "<strong>Post Type</strong>: Add a comma separated list of post type like "
+#~ "'post,page'. This will only affect the following option types: Custom "
+#~ "Post Type Checkbox, & Custom Post Type Select."
+#~ msgstr ""
+#~ "<strong>Bejegyzés típus</strong>: Adj meg egy vesszővel elválasztott "
+#~ "listát, pl. 'post,page'. Ez csak a következő opciótípusok esetén hatásos: "
+#~ "egyéni bejegyzés típus, jelölőnégyzet, egyéni bejegyzés típus kiválasztó."
+
+#~ msgid ""
+#~ "<strong>Taxonomy</strong>: Add a comma separated list of any registered "
+#~ "taxonomy like 'category,post_tag'. This will only affect the following "
+#~ "option types: Taxonomy Checkbox, & Taxonomy Select."
+#~ msgstr ""
+#~ "<strong>Taxonómia</strong>: Adj meg egy vesszővel elválasztott listát, "
+#~ "pl. 'category,post_tag'. Ez csak a következő opciótípusok esetén hatásos: "
+#~ "taxonómia jelölőnégyzet, taxonómia kiválasztó."
+
+#~ msgid ""
+#~ "<strong>Min, Max, & Step</strong>: Add a comma separated list of options "
+#~ "in the following format <code>0,100,1</code> (slide from <code>0-100</"
+#~ "code> in intervals of <code>1</code>). The three values represent the "
+#~ "minimum, maximum, and step options and will only affect the Numeric "
+#~ "Slider option type."
+#~ msgstr ""
+#~ "<strong>Min, Max és lépésköz</strong>: Adj meg egy vesszővel elválasztott "
+#~ "opció listát a következő formátumban: <code>0,100,1</code> (csúszka "
+#~ "<code>0-100</code> között, <code>1</code> lépésközzel). A három érték a "
+#~ "minimum, maximum és a lépésköz beállításait adja meg, és csak a numerikus "
+#~ "csúszka opciótípus estén hatásos."
+
+#~ msgid ""
+#~ "<strong>CSS Class</strong>: Add and optional class to this option type."
+#~ msgstr ""
+#~ "<strong>CSS osztály</strong>: Adj egy opcionális osztályt ehhez az "
+#~ "opciótípushoz."
+
+#~ msgid ""
+#~ "<strong>Condition</strong>: Add a comma separated list (no spaces) of "
+#~ "conditions in which the field will be visible, leave this setting empty "
+#~ "to always show the field. In these examples, <code>value</code> is a "
+#~ "placeholder for your condition, which can be in the form of %s."
+#~ msgstr ""
+#~ "<strong>Feltétel</strong>: Adj meg egy vesszővel elválasztott feltétel "
+#~ "listát (szóközök nélkül), hogy mely esetekben legyen a mező érvényes, "
+#~ "vagy hagyd üresen, hogy mindig megjelenjen. Ezekben a példákban a "
+#~ "<code>value</code> egy helyőrző a feltételednek, ami ilyen formában "
+#~ "jelenhet meg: %s"
+
+#~ msgid ""
+#~ "<strong>Operator</strong>: Choose the logical operator to compute the "
+#~ "result of the conditions."
+#~ msgstr ""
+#~ "<strong>Operátor</strong>: Válaszd ki a feltételek kiértékeléséhez "
+#~ "használandó logikai operátort."
+
+#~ msgid "and"
+#~ msgstr "és"
+
+#~ msgid "or"
+#~ msgstr "vagy"
+
+#~ msgid "Label"
+#~ msgstr "Címke"
+
+#~ msgid "Value"
+#~ msgstr "Érték"
+
+#~ msgid "Image Source (Radio Image only)"
+#~ msgstr "Kép forrása (csak rádió kép)"
+
+#~ msgid ""
+#~ "<strong>Title</strong>: Displayed as a contextual help menu item on the "
+#~ "Theme Options page."
+#~ msgstr ""
+#~ "<strong>Cím</strong>: Szöveges segítség menüelemként jelenik meg a sablon "
+#~ "beállítások oldalon."
+
+#~ msgid ""
+#~ "<strong>Content</strong>: Enter the HTML content about this contextual "
+#~ "help item displayed on the Theme Option page for end users to read."
+#~ msgstr ""
+#~ "<strong>Tartalom</strong>: Add meg a HTML tartalmat, hogy mi jelenjen meg "
+#~ "a felhasználó számára a sablon beállítások oldaon ebben a menüelemben."
+
+#~ msgid "Link URL"
+#~ msgstr "Hivatkozás URL"
+
+#~ msgid "Link Title"
+#~ msgstr "Hivatkozás cím"
+
+#~ msgid "Quote"
+#~ msgstr "Idézet"
+
+#~ msgid "Source Name (ex. author, singer, actor)"
+#~ msgstr "Forrás név (pl. szerző, énekes, színész)"
+
+#~ msgid "Source URL"
+#~ msgstr "Forrás URL"
+
+#~ msgid "Source Title (ex. book, song, movie)"
+#~ msgstr "Forrás cím (pl. könyv, dal, film)"
+
+#~ msgid "Source Date"
+#~ msgstr "Forrás dátum"
+
+#~ msgid ""
+#~ "Embed video from services like Youtube, Vimeo, or Hulu. You can find a "
+#~ "list of supported oEmbed sites in the %1$s. Alternatively, you could use "
+#~ "the built-in %2$s shortcode."
+#~ msgstr ""
+#~ "Ágyazz be videót olyan szolgáltatásokból, mint Youtube, Vimeo vagy Hulu. "
+#~ "A támogatott oEmbed oldalakról találsz egy listát a %1$s oldalon. "
+#~ "Egyébként a beépített %2$s shortcode-ot is használhatod."
+
+#, fuzzy
+#~ msgid "WordPress Codex"
+#~ msgstr "Wordpress Kódex"
+
+#~ msgid "Audio"
+#~ msgstr "Hang"
+
+#~ msgid ""
+#~ "Embed audio from services like SoundCloud and Rdio. You can find a list "
+#~ "of supported oEmbed sites in the %1$s. Alternatively, you could use the "
+#~ "built-in %2$s shortcode."
+#~ msgstr ""
+#~ "Ágyazz be audiót olyan szolgáltatásokból, mint SoundCloud és Rdio. A "
+#~ "támogatott oEmbed oldalakról találsz egy listát a %1$s oldalon. Egyébként "
+#~ "a beépített %2$s shortcode-ot is használhatod."
+
+#~ msgid "Sorry, this function does not exist"
+#~ msgstr "Sajnáljuk, ez a funkció nem létezik"
+
+#~ msgid "background-image"
+#~ msgstr "background-image"
+
+#~ msgid "width"
+#~ msgstr "szélesség"
+
+#~ msgid "unit"
+#~ msgstr "egység"
+
+#~ msgid "style"
+#~ msgstr "stílus"
+
+#~ msgid "offset-x"
+#~ msgstr "x-offszet"
+
+#~ msgid "offset-y"
+#~ msgstr "y-offszet"
+
+#~ msgid "blur-radius"
+#~ msgstr "blur-radius"
+
+#~ msgid "spread-radius"
+#~ msgstr "spread-radius"
+
+#~ msgid "No Categories Found"
+#~ msgstr "Nem található kategória"
+
+#~ msgid "Choose One"
+#~ msgstr "Válassz egyet"
+
+#~ msgid "No Posts Found"
+#~ msgstr "Nem található bejegyzés"
+
+#~ msgid "height"
+#~ msgstr "magasság"
+
+#~ msgid "Remove Google Font"
+#~ msgstr "Google Font eltávolítása"
+
+#~ msgid "-- Choose One --"
+#~ msgstr "-- Válassz egyet --"
+
+#~ msgid "Add Google Font"
+#~ msgstr "Google Font hozzáadása"
+
+#~ msgctxt "color picker"
+#~ msgid "Standard"
+#~ msgstr "Alapérték"
+
+#~ msgctxt "color picker"
+#~ msgid "Hover"
+#~ msgstr "Felette"
+
+#~ msgctxt "color picker"
+#~ msgid "Active"
+#~ msgstr "Aktív"
+
+#~ msgctxt "color picker"
+#~ msgid "Visited"
+#~ msgstr "Meglátogatott"
+
+#~ msgctxt "color picker"
+#~ msgid "Focus"
+#~ msgstr "Fókusz"
+
+#~ msgid ""
+#~ "You can re-order with drag & drop, the order will update after saving."
+#~ msgstr ""
+#~ "Átrendezhető drag 'n' drop módszerrel, a sorrend frissítése mentés után "
+#~ "megtörténik."
+
+#~ msgid "On"
+#~ msgstr "Be"
+
+#~ msgid "Off"
+#~ msgstr "Ki"
+
+#~ msgid "No Pages Found"
+#~ msgstr "Nem található oldal"
+
+#~ msgid "Default Sidebar"
+#~ msgstr "Alapértelmezett oldalsáv"
+
+#~ msgid "No Sidebars"
+#~ msgstr "Nincs oldalsáv"
+
+#~ msgid "LinkedIn"
+#~ msgstr "LinkedIn"
+
+#~ msgid "Pinterest"
+#~ msgstr "Pinterest"
+
+#~ msgid "Dribbble"
+#~ msgstr "Dribbble"
+
+#~ msgid "Github"
+#~ msgstr "Github"
+
+#~ msgid "Forrst"
+#~ msgstr "Forrst"
+
+#~ msgid "Digg"
+#~ msgstr "Digg"
+
+#~ msgid "Delicious"
+#~ msgstr "Delicious"
+
+#~ msgid "Tumblr"
+#~ msgstr "Tumblr"
+
+#~ msgid "Skype"
+#~ msgstr "Skype"
+
+#~ msgid "SoundCloud"
+#~ msgstr "SoundCloud"
+
+#~ msgid "VK.com"
+#~ msgstr "VK.com"
+
+#~ msgid "top"
+#~ msgstr "felső"
+
+#~ msgid "right"
+#~ msgstr "jobb"
+
+#~ msgid "bottom"
+#~ msgstr "alsó"
+
+#~ msgid "left"
+#~ msgstr "bal"
+
+#~ msgid "No Tags Found"
+#~ msgstr "Nem található címke"
+
+#~ msgid "No Taxonomies Found"
+#~ msgstr "Nem található taxonómia"
+
+#~ msgid "Warning!"
+#~ msgstr "Figyelmeztetés!"
+
+#~ msgid ""
+#~ "Go to the %s page if you want to save data, this page is for adding "
+#~ "settings."
+#~ msgstr ""
+#~ "Látogasd meg a %s oldalt, ha el akarod menteni az adatokat, ez az oldal "
+#~ "beállítások hozzáadására szolgál."
+
+#~ msgid ""
+#~ "If you're unsure or not completely positive that you should be editing "
+#~ "these settings, you should read the %s first."
+#~ msgstr ""
+#~ "Ha nem vagy benne teljesen biztos, hogy ezeket a beállításokat "
+#~ "szerkesztened kellene, olvasd el előbb az %s oldalt."
+
+#~ msgid ""
+#~ "Things could break or be improperly displayed to the end-user if you do "
+#~ "one of the following:"
+#~ msgstr ""
+#~ "Ezek eltörhetnek vagy helytelenül jelenhetnek meg a végfelhasználók "
+#~ "számára, ha a következőket teszed:"
+
+#~ msgid ""
+#~ "Give two sections the same ID, give two settings the same ID, give two "
+#~ "contextual help content areas the same ID, don't create any settings, or "
+#~ "have a section at the end of the settings list."
+#~ msgstr ""
+#~ "Két szakasznak ugyanaz az ID, két beállításnak ugyanaz az ID, két helyi "
+#~ "súgó tartalom területnek ugyanaz az ID, egyetlen beállítás sem "
+#~ "létrehozva, vagy van egy szakasz a beállítás lista végén."
+
+#~ msgid ""
+#~ "You can create as many settings as your project requires and use them how "
+#~ "you see fit. When you add a setting here, it will be available on the "
+#~ "Theme Options page for use in your theme. To separate your settings into "
+#~ "sections, click the \"Add Section\" button, fill in the input fields, and "
+#~ "a new navigation menu item will be created."
+#~ msgstr ""
+#~ "Annyi beállítást hozhatsz létre, amennyit csak a projekted megkíván, és "
+#~ "használhatod, ahogy csak akaord. Amikor beállítást adsz hozzá itt, "
+#~ "elérhető lesz a sablon beállítások oldalon a sablonodban való "
+#~ "használatra. A beállításaid szakaszokba való rendezéséhez kattints a "
+#~ "\"Szakasz hozzáadása\" gombra, töltsd ki a a beviteli mezőket, és "
+#~ "létrejön egy új navigációs menüelem."
+
+#~ msgid ""
+#~ "All of the settings can be sorted and rearranged to your liking with Drag "
+#~ "& Drop. Don't worry about the order in which you create your settings, "
+#~ "you can always reorder them."
+#~ msgstr ""
+#~ "Az összes beállítás tetszőlegesen átrendezhető drag 'n' drop módszerrel. "
+#~ "Ne aggódj a beállítások létrehozási sorrendjén, bármikor átrendezheted "
+#~ "őket."
+
+#~ msgid "Add Section"
+#~ msgstr "Szakasz hozzáadása"
+
+#~ msgid "Contextual Help"
+#~ msgstr "Helyi súgó"
+
+#~ msgid "Contextual Help Sidebar"
+#~ msgstr "Helyi súgó oldalsáv"
+
+#~ msgid ""
+#~ "If you decide to add contextual help to the Theme Option page, enter the "
+#~ "optional \"Sidebar\" HTML here. This would be an extremely useful place "
+#~ "to add links to your themes documentation or support forum. Only after "
+#~ "you've added some content below will this display to the user."
+#~ msgstr ""
+#~ "Ha úgy döntesz, hogy egy helyi súgó oldalsávot adsz a sablon beállítások "
+#~ "oldalhoz, add meg az opcionális \"Oldalsáv\" HTML-t itt. Ez egy kiemelten "
+#~ "fontos hely arra, hogy linkeket adhass hozzá a sablonod dokumentációjához "
+#~ "vagy támogató fórumához. Csak miután alább hozzáadtál némi tartalmat, "
+#~ "akkor fog megjelenni a felhasználók számára."
+
+#~ msgid "Add Contextual Help Content"
+#~ msgstr "Helyi súgó tartalom hozzáadása"
+
+#~ msgid ""
+#~ "This import method has been deprecated. That means it has been replaced "
+#~ "by a new method and is no longer supported, and may be removed from "
+#~ "future versions. All themes that use this import method should be "
+#~ "converted to use its replacement below."
+#~ msgstr ""
+#~ "Ez az importálási mód már elavult. Ez azt jelenit, hogy helyettesítve "
+#~ "lett egy új módszerrel, és a továbbiakban nem támogatott, a következő "
+#~ "verziókban eltávolításra is kerülhet. Minden sablont, ami ezt az "
+#~ "importálási módot használja, át kellene konvertálni, hogy az alábbi "
+#~ "helyettesítését használja."
+
+#~ msgid ""
+#~ "If you were given a Theme Options XML file with a premium or free theme, "
+#~ "locate it on your hard drive and upload that file by clicking the upload "
+#~ "button. A popup window will appear, upload the XML file and click \"%s\". "
+#~ "The file URL should be in the upload input, if it is click \"Import XML\"."
+#~ msgstr ""
+#~ "Ha kaptál egy sablon beállítások XML féjlt a prémium vagy ingyenes "
+#~ "sablonoddal, keresd meg a lemezeden, és töltsd fel a feltöltés gombra "
+#~ "kattintva. Egy felugró ablak fog megjelenni, töltsd fel az XML fájlt, "
+#~ "majd kattints arra, hogy \"%s\". A fájl URL-je a feltöltés mezőben kell "
+#~ "legyen, ha így van, nyomj \"XML importálása\" gombot."
+
+#~ msgid "Import XML"
+#~ msgstr "XML imprtálása"
+
+#~ msgid "Add XML"
+#~ msgstr "XML hozzáadása"
+
+#~ msgid ""
+#~ "To import your Settings copy and paste what appears to be a random string "
+#~ "of alpha numeric characters into this textarea and press the \"Import "
+#~ "Settings\" button."
+#~ msgstr ""
+#~ "A beállításaid importálásához másold ki és illeszd be a véletlenszerű "
+#~ "alfanumerikus szövegnek tűnő karaktereket ebbe a szövegmezőbe, majd nyomj "
+#~ "\"Beállítások importálása\" gombot."
+
+#~ msgid "Import Settings"
+#~ msgstr "Beállítások importálása"
+
+#~ msgid ""
+#~ "Only after you've imported the Settings should you try and update your "
+#~ "Theme Options."
+#~ msgstr ""
+#~ "Csak miután beimportáltad a beállításokat, utána kellene megpróbálni "
+#~ "frissíteni a sablon beállításokat."
+
+#~ msgid ""
+#~ "To import your Theme Options copy and paste what appears to be a random "
+#~ "string of alpha numeric characters into this textarea and press the "
+#~ "\"Import Theme Options\" button."
+#~ msgstr ""
+#~ "A sablon beállításaid importálásához másold ki és illeszd be a "
+#~ "véletlenszerű alfanumerikus szövegnek tűnő karaktereket ebbe a "
+#~ "szövegmezőbe, majd nyomj \"Sablon beállítások importálása\" gombot."
+
+#~ msgid "Import Theme Options"
+#~ msgstr "Sablon beállítások importálása"
+
+#~ msgid ""
+#~ "Only after you've imported the Settings should you try and update your "
+#~ "Layouts."
+#~ msgstr ""
+#~ "Csak miután beimportáltad a beállításokat, utána kellene megpróbálni "
+#~ "frissíteni az elrendezéseket."
+
+#~ msgid ""
+#~ "To import your Layouts copy and paste what appears to be a random string "
+#~ "of alpha numeric characters into this textarea and press the \"Import "
+#~ "Layouts\" button. Keep in mind that when you import your layouts, the "
+#~ "active layout's saved data will write over the current data set for your "
+#~ "Theme Options."
+#~ msgstr ""
+#~ "Az elrendezéseid importálásához másold ki és illeszd be a véletlenszerű "
+#~ "alfanumerikus szövegnek tűnő karaktereket ebbe a szövegmezőbe, majd nyomj "
+#~ "\"Elrendezések importálása\" gombot. Tartsd fejben, hogy amikor "
+#~ "importálod az elrendezéseket, az aktív elrendezés mentett adatai "
+#~ "felülírják a jelenlegi sablon beállítások adathalmazt."
+
+#~ msgid "Import Layouts"
+#~ msgstr "Elrendezések importálása"
+
+#~ msgid ""
+#~ "Export your Settings into a fully functional %s file. If you want to add "
+#~ "your own custom %s text domain to the file, enter it into the text field "
+#~ "before exporting. For more information on how to use this file read the "
+#~ "documentation on %s. Remember, you should always check the file for "
+#~ "errors before including it in your theme."
+#~ msgstr ""
+#~ "Beállításaid mentése egy teljesen működőképes %s fájlba. Ha hozzá akarod "
+#~ "adni a fájlhoz az egyéni %s szövegtartományodat, add meg a szövegmezőben "
+#~ "exportálás előtt. A fájl használatának módjáról további információt a "
+#~ "dokumentációban találsz: %s. Emlékezz, hogy mindig ellenőrizd a fájlt a "
+#~ "hibák elerüléséért mielőtt a sablonodban használnád."
+
+#~ msgid "Export Settings File"
+#~ msgstr "Beállítás fájl exportálása"
+
+#, fuzzy
+#~ msgid ""
+#~ "Export your Settings by highlighting this text and doing a copy/paste "
+#~ "into a blank .txt file. Then save the file for importing into another "
+#~ "install of WordPress later. Alternatively, you could just paste it into "
+#~ "the <code>Options Utils->Settings->Import</code> <strong>Settings</"
+#~ "strong> textarea on another web site."
+#~ msgstr ""
+#~ "Exportáld a beállításaidat a szöveg kijelölésével, majd másolás/"
+#~ "beillesztéssel egy üres .txt fájlba. Mentsd el a fájlt, ezt használhatod "
+#~ "később egy másik WordPress telepítésben később. Egyébként csak másold be "
+#~ "egy másik weboldalon az <code>OptionTree->Beállítások->Importálás</code> "
+#~ "<strong>Beállítások</strong> szövegmezőbe."
+
+#, fuzzy
+#~ msgid ""
+#~ "Export your Theme Options data by highlighting this text and doing a copy/"
+#~ "paste into a blank .txt file. Then save the file for importing into "
+#~ "another install of WordPress later. Alternatively, you could just paste "
+#~ "it into the <code>Options Utils->Settings->Import</code> <strong>Theme "
+#~ "Options</strong> textarea on another web site."
+#~ msgstr ""
+#~ "Exportáld a sablon beállítás adatokat a szöveg kijelölésével, majd "
+#~ "másolás/beillesztéssel egy üres .txt fájlba. Mentsd el a fájlt, ezt "
+#~ "használhatod később egy másik WordPress telepítésben később. Egyébként "
+#~ "csak másold be egy másik weboldalon az <code>OptionTree->Beállítások-"
+#~ ">Importálás</code> <strong>Sablon beállítások</strong> szövegmezőbe."
+
+#, fuzzy
+#~ msgid ""
+#~ "Export your Layouts by highlighting this text and doing a copy/paste into "
+#~ "a blank .txt file. Then save the file for importing into another install "
+#~ "of WordPress later. Alternatively, you could just paste it into the "
+#~ "<code>Options Utils->Settings->Import</code> <strong>Layouts</strong> "
+#~ "textarea on another web site."
+#~ msgstr ""
+#~ "Exportáld az elrendezéseidet a szöveg kijelölésével, majd másolás/"
+#~ "beillesztéssel egy üres .txt fájlba. Mentsd el a fájlt, ezt használhatod "
+#~ "később egy másik WordPress telepítésben később. Egyébként csak másold be "
+#~ "egy másik weboldalon az <code>OptionTree->Beállítások->Importálás</code> "
+#~ "<strong>Elrendezések</strong> szövegmezőbe."
+
+#~ msgid ""
+#~ "To add a new layout enter a unique lower case alphanumeric string (dashes "
+#~ "allowed) in the text field and click \"Save Layouts\"."
+#~ msgstr ""
+#~ "Egy új elrendezés hozzáadásához adj meg egy egyedi kisbetűs alfanumerikus "
+#~ "szöveget (alávonás megengedett) a szöveg mezőben, majd kattints az "
+#~ "\"Elrendezések mentése\" gombra."
+
+#~ msgid ""
+#~ "As well, you can activate, remove, and drag & drop the order; all "
+#~ "situations require you to click \"Save Layouts\" for the changes to be "
+#~ "applied."
+#~ msgstr ""
+#~ "Továbbá aktiválhatod, eltávolíthatod és drag 'n' drop módszerrel "
+#~ "módosíthatod a sorrendet. Mind után az \"Elrendezések mentése\" gombra "
+#~ "kell kattintanod a változtatások alkalmazásához."
+
+#~ msgid ""
+#~ "When you create a new layout it will become active and any changes made "
+#~ "to the Theme Options will be applied to it. If you switch back to a "
+#~ "different layout immediately after creating a new layout that new layout "
+#~ "will have a snapshot of the current Theme Options data attached to it."
+#~ msgstr ""
+#~ "Amikor létrehozol egy új elrendezést, aktív lesz, és minden egyes "
+#~ "változtatás a sablon beállításokban alkalmazva lesz rá. Ha visszaváltasz "
+#~ "egy korábbi elrendezésre rögtön az új létrehozása után, az új egy "
+#~ "pillanatfelvétele lesz a jelenlegi sablon beállítás adatoknak."
+
+#, fuzzy
+#~ msgid ""
+#~ "Visit <code>Options Utils->Documentation->Layouts Overview</code> to see "
+#~ "a more in-depth description of what layouts are and how to use them."
+#~ msgstr ""
+#~ "Látogasd meg az <code>OptionTree->Dokumentáció->Elrendezések áttekintése</"
+#~ "code> oldalt részletesebb leírásokért, hogy mik is azok az elrendezések, "
+#~ "és hogyan használd őket."
+
+#~ msgid "Save Layouts"
+#~ msgstr "Elrendezések mentése"
+
+#~ msgid ""
+#~ "OptionTree is installed as a plugin and also embedded in your current "
+#~ "theme. Please deactivate the plugin to load the theme dependent version "
+#~ "of OptionTree, and remove this warning."
+#~ msgstr ""
+#~ "Az OptionTree telepítve van bővítményként és a sablonod is tartalmazza "
+#~ "beágyazva. Kérlek, kapcsold ki a bővítményt, hogy betölthessen a sablon "
+#~ "specifikus OptionTree változat, ekkor eltűnik ez a figyelmeztetés is."
+
+#~ msgid "Subtotal"
+#~ msgstr "Részösszeg"
+
+#, fuzzy
+#~ msgid "Customer Details"
+#~ msgstr "Vásárló részletei"
+
+#~ msgid "Billing Address"
+#~ msgstr "Számlázási cím"
+
+#~ msgid "Shipping Address"
+#~ msgstr "Szállítási cím"
+
+#~ msgid "Order Details"
+#~ msgstr "Rendelés részletei"
+
+#~ msgctxt "label"
+#~ msgid "Search for:"
+#~ msgstr "Keresés:"
+
+#~ msgid "Be the first to review"
+#~ msgstr "Legyél az első véleményíró"
+
+#~ msgid "Your Rating"
+#~ msgstr "Értékelésed"
+
+#~ msgid "Your Review"
+#~ msgstr "Véleményed"
+
+#~ msgid "Placeholder"
+#~ msgstr "Helyőrző"
+
+#~ msgid "Related Products"
+#~ msgstr "Kapcsolódó termékek"
+
+#~ msgid "Rated %d out of 5"
+#~ msgstr "Értékelés: 5 / %d"
+
+#~ msgid "out of 5"
+#~ msgstr "/ 5"
+
+#~ msgid "Additional Information"
+#~ msgstr "További információ"
+
+#~ msgid ""
+#~ "Shows a price filter slider in a widget which lets you narrow down the "
+#~ "list of shown products when viewing product categories."
+#~ msgstr ""
+#~ "Egy árszűrő csúszkát jelenít meg egy widgetben, ami segít a termékek "
+#~ "körének szűkítésében, amikor egy termékkategóriát nézel."
+
+#~ msgid "WooCommerce Price Filter"
+#~ msgstr "WooCommerce árszűrő"
+
+#~ msgid "Filter by price"
+#~ msgstr "Szűrés ár alapján"
+
+#~ msgid "Min price"
+#~ msgstr "Min. ár"
+
+#~ msgid "Max price"
+#~ msgstr "Max. ár"
+
+#~ msgid "Filter"
+#~ msgstr "Szűrő"
+
+#~ msgid "Price:"
+#~ msgstr "Ár:"
+
+#, fuzzy
+#~| msgid "WooCommerce Price Filter"
+#~ msgid "WooCommerce price filter"
+#~ msgstr "WooCommerce árszűrő"
+
+#~ msgid "Uncode"
+#~ msgstr "Uncode"
+
+#~ msgid "http://www.undsgn.com/uncode"
+#~ msgstr "http://www.undsgn.com/uncode"
+
+#~ msgid ""
+#~ "Uncode is a pixel perfect WordPress Theme designed with terrific "
+#~ "attention to details"
+#~ msgstr ""
+#~ "Az Uncode egy pixelpontos WordPress sablon, ami nagy részletgazdagsággal "
+#~ "készült"
+
+#~ msgid "Undsgn"
+#~ msgstr "Undsgn"
+
+#~ msgid "http://www.undsgn.com"
+#~ msgstr "http://www.undsgn.com"
+
+#~ msgid "Menu shadows"
+#~ msgstr "Menü árnyékok"
+
+#, fuzzy
+#~ msgid "IMPORT LAYOUTS"
+#~ msgstr "Elrendezések importálása"
+
+#~ msgid "Show Details"
+#~ msgstr "Részletek mutatása"
+
+#~ msgid "Hide Details"
+#~ msgstr "Részletek elrejtése"
+
+#, fuzzy
+#~ msgid "Specify the menu font size."
+#~ msgstr "Add meg a menü betűtípusát."
+
+#, fuzzy
+#~ msgid "Specify the submenu font size."
+#~ msgstr "Add meg a menü betűtípusát."
+
+#~ msgid "Buttons"
+#~ msgstr "Gombok"
+
+#~ msgid ""
+#~ "%s is up and running! Check that all the requirements below are fulfilled "
+#~ "and labeled in green.<br>Enjoy and free your imagination with %s!"
+#~ msgstr ""
+#~ "%s telepítve és működik! Ellenőrizd, hogy minden alábbi követelmény "
+#~ "teljesüljön és zöld színű legyen.<br>Engedd szabadjára a képzeleted, %s!"
+
+#~ msgid "Option Tools"
+#~ msgstr "Beállítás eszközök"
+
+#~ msgid "Install Fonts"
+#~ msgstr "Betűtípusok telepítése"
+
+#~ msgid "WordPress Environment"
+#~ msgstr "WordPress környezet"
+
+#, fuzzy
+#~ msgid "Uncode Help"
+#~ msgstr "Uncode"
+
+#, fuzzy
+#~ msgid "Amount of Posts"
+#~ msgstr "/ 5"
+
+#, fuzzy
+#~ msgid "Heading text"
+#~ msgstr "Címsorok betűvastagsága"
+
+#, fuzzy
+#~ msgid "Restart the wizard?"
+#~ msgstr "Vissza a vezérlőpultra"
+
+#, fuzzy
+#~ msgid "Show love?"
+#~ msgstr "Cím mutatása"
+
+#, fuzzy
+#~ msgid "Related posts"
+#~ msgstr "Kapcsolódó termékek"
+
+#, fuzzy
+#~ msgid "Install demo content"
+#~ msgstr "Demo telepítése"
+
+#~ msgid ""
+#~ "No existing posts, pages, categories, images, custom post types or any "
+#~ "other data will be deleted or modified."
+#~ msgstr ""
+#~ "Egyetlen meglévő bejegyzés, oldal, kategória, kép, egyéni bejegyzés típus "
+#~ "vagy bármilyen más adat sem kerül törlésre vagy módosításra."
+
+#~ msgid "Posts, pages, some images, some widgets and menus will get imported."
+#~ msgstr ""
+#~ "Bejegyzések, oldalak, néhány kép, néhány widget és menü kerül "
+#~ "importálásra."
+
+#~ msgid "Images will be downloaded from our server."
+#~ msgstr "A képek a szerverünkről kerülnek letöltésre."
+
+#~ msgid "Important:"
+#~ msgstr "Fontos:"
+
+#, fuzzy
+#~ msgid "here"
+#~ msgstr "Add meg egyéni CSS kódjaid."
+
+#~ msgid ""
+#~ "Make sure that of the server requirements in %s > Welcome page are "
+#~ "fulfilled."
+#~ msgstr ""
+#~ "Győződj meg róla, hogy a szerverkövetelmények az %s > Üdvözlőoldalon "
+#~ "teljesülnek."
+
+#~ msgid ""
+#~ "It's always recommended to run the import on a clean installtion of "
+#~ "WordPress."
+#~ msgstr ""
+#~ "Mindig ajánlott az importálást egy tiszta WordPress telepítésen végezni."
+
+#~ msgid ""
+#~ "Some of the images imported will not match the demo site since they are "
+#~ "copyrighted material."
+#~ msgstr ""
+#~ "Néhány importált kép nem fog megegyezni a demo oldalon megtalálhatóval, "
+#~ "mert jogvédett anyag."
+
+#, fuzzy
+#~ msgid ""
+#~ "In case of import failure, when coming from a clean WordPress "
+#~ "installation, we recommend to reset if before try it again. We suggest to "
+#~ "use %s plugin."
+#~ msgstr ""
+#~ "Importálási hiba esetén, ha tiszta WordPress telepítésről indultál, akkor "
+#~ "ajánljuk, hogy állítsd vissza alaphelyzetbe, mielőtt újra próbálkoznál. A "
+#~ "%s plugin használatát javasoljuk."
+
+#~ msgid "WordPress Reset"
+#~ msgstr "WordPress Reset"
+
+#, fuzzy
+#~ msgid "Content Block - After Content"
+#~ msgstr "Nem található tartalom blokk"
+
+#~ msgid "404 content block"
+#~ msgstr "404 tartalom blokk"
+
+#, fuzzy
+#~ msgid "Define the content block to use."
+#~ msgstr "Tartalom blokk felülbírálása."
+
+#~ msgid "To allow the correct style to work, make <code>%s</code> writable."
+#~ msgstr ""
+#~ "A megfelelő stíluslap működéséhez legyen a(z) <code>%s</code> írható."
+
+#~ msgid "Author: %s"
+#~ msgstr "Szerző: %s"
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugins."
+#~ msgstr[0] ""
+#~ "Sajnáljuk, de nincs meg a megfelelő jogosultságod, hogy telepítsd a(z) "
+#~ "%1$s bővítményt."
+#~ msgstr[1] ""
+#~ "Sajnáljuk, de nincs meg a megfelelő jogosultságod, hogy telepítsd a(z) "
+#~ "%1$s bővítményeket."
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugins."
+#~ msgstr[0] ""
+#~ "Sajnáljuk, de nincs meg a megfelelő jogosultságod, hogy frissítsd a(z) "
+#~ "%1$s bővítményt."
+#~ msgstr[1] ""
+#~ "Sajnáljuk, de nincs meg a megfelelő jogosultságod, hogy frissítsd a(z) "
+#~ "%1$s bővítményeket."
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
+#~ "plugins."
+#~ msgstr[0] ""
+#~ "Sajnáljuk, de nincs meg a megfelelő jogosultságod, hogy aktiváld a(z) "
+#~ "%1$s bővítményt."
+#~ msgstr[1] ""
+#~ "Sajnáljuk, de nincs meg a megfelelő jogosultságod, hogy aktiváld a(z) "
+#~ "%1$s bővítményeket."
+
+#~ msgid "Set the parent_slug config variable instead."
+#~ msgstr "Állítsd be inkább a parent_slug konfigurációs változót."
+
+#~ msgid "<span class=\"detail-label\">Category</span>"
+#~ msgid_plural "<span class=\"detail-label\">Categories</span>"
+#~ msgstr[0] "<span class=\"detail-label\">Kategória</span>"
+#~ msgstr[1] "<span class=\"detail-label\">Kategóriák</span>"
+
+#~ msgid "Home URL"
+#~ msgstr "Kezdőlap URL"
+
+#~ msgid "The URL of your site's homepage."
+#~ msgstr "A weboldalad kezdőlapjának URL címe."
+
+#~ msgid "Site URL"
+#~ msgstr "Weboldal URL"
+
+#~ msgid "The root URL of your site."
+#~ msgstr "A weboldalad gyökerének URL címe."
+
+#~ msgid "Server Info"
+#~ msgstr "Szerver info"
+
+#~ msgid ""
+#~ "Information about the web server that is currently hosting your site."
+#~ msgstr "Információk a webszerverről, ami jelenleg kiszolgálja a weboldalad."
+
+#~ msgid "The version of PHP installed on your hosting server."
+#~ msgstr "A kiszolgáló szerverre telepített PHP verziója."
+
+#~ msgid "Couldn't determine PHP version because phpversion() doesn't exist."
+#~ msgstr ""
+#~ "A PHP verziót nem lehet megállapítani, mivel a phpversion() függvény nem "
+#~ "létezik."
+
+#, fuzzy
+#~ msgid "Real Memory Available"
+#~ msgstr "Szükséges frissítés nem elérhető"
+
+#~ msgid "PHP Post Max Size"
+#~ msgstr "PHP max post méret"
+
+#~ msgid "The largest filesize that can be contained in one post."
+#~ msgstr "A legnagyobb fájlméret, ami egy post-ban lehet."
+
+#~ msgid ""
+#~ "%s - Raccomended value is at least 32. <a href=\"%s\" target=\"_blank"
+#~ "\">Please increase it.</a>"
+#~ msgstr ""
+#~ "%s - Az ajánlott érték legalább 32. <a href=\"%s\" target=\"_blank"
+#~ "\">Kérlek, növeld meg.</a>"
+
+#~ msgid "PHP Time Limit"
+#~ msgstr "PHP idő korlát"
+
+#~ msgid ""
+#~ "The amount of time (in seconds) that your site will spend on a single "
+#~ "operation before timing out (to avoid server lockups)"
+#~ msgstr ""
+#~ "A másodpercekben értelmezett idő, ameddig a weboldalad egy művelettel "
+#~ "foglalkozik mielőtt időtúllépés keletkezik (szerver-zárlat elkerülése "
+#~ "érdekében)"
+
+#~ msgid ""
+#~ "%s - Raccomended value is at least 120. <a href=\"%s\" target=\"_blank"
+#~ "\">Please increase it.</a>"
+#~ msgstr ""
+#~ "%s - Az ajánlott érték legalább 120. <a href=\"%s\" target=\"_blank"
+#~ "\">Kérlek, növeld meg.</a>"
+
+#~ msgid ""
+#~ "Raccomended value is at least 3000. <a href=\"%s\">Please increase it.</a>"
+#~ msgstr ""
+#~ "Az ajánlott érték legalább 3000. <a href=\"%s\">Kérlek, növeld meg.</a>"
+
+#~ msgid "SUHOSIN Installed"
+#~ msgstr "SUHOSIN telepítve"
+
+#~ msgid ""
+#~ "Suhosin is an advanced protection system for PHP installations. It was "
+#~ "designed to protect your servers on the one hand against a number of well "
+#~ "known problems in PHP applications and on the other hand against "
+#~ "potential unknown vulnerabilities within these applications or the PHP "
+#~ "core itself. If enabled on your server, Suhosin may need to be configured "
+#~ "to increase its data submission limits."
+#~ msgstr ""
+#~ "Suhosin egy összetett védelmi rendszer PHP környezetek számára. Arra "
+#~ "tervezték, hogy egyrészt megvédje a szervereket számos jól ismert "
+#~ "problémával szemben, amelyek a PHP alkalmazásokban fordulnak elő, "
+#~ "másrészt ezekben az alkalmazásokban lévő potenciális ismeretlen "
+#~ "sebezhetőségekkel szemben, vagy magában a PHP-ban. Ha engedélyezve van a "
+#~ "szervereden, a Suhosin-t lehet, hogy úgy kell beállítani, hogy megnövelje "
+#~ "az adatszolgáltatási határait."
+
+#~ msgid "MySQL Version"
+#~ msgstr "MySQL verzió"
+
+#~ msgid "The version of MySQL installed on your hosting server."
+#~ msgstr "A kiszolgáló szerverre telepített MySQL verziója."
+
+#~ msgid "Max Upload Size"
+#~ msgstr "Max feltöltés méret"
+
+#~ msgid ""
+#~ "The largest filesize that can be uploaded to your WordPress installation."
+#~ msgstr ""
+#~ "A legnagyobb fájlméret, ami ebbe a WordPress teleptésbe feltölthető."
+
+#, fuzzy
+#~ msgid ""
+#~ "Disabled - For the import of the demo data this value needs to be "
+#~ "enabled. <a href=\"%s\" target=\"_blank\">Please enabled it.</a>"
+#~ msgstr ""
+#~ "%s - Az ajánlott érték legalább 32. <a href=\"%s\" target=\"_blank"
+#~ "\">Kérlek, növeld meg.</a>"
+
+#~ msgid "Default Timezone is UTC"
+#~ msgstr "Az alapértelmezett időzóna az UTC"
+
+#~ msgid "The default timezone for your server."
+#~ msgstr "A szervered alapértelmezett időzónája."
+
+#~ msgid "Default timezone is %s - it should be UTC"
+#~ msgstr "Az alapértelmezett időzóna: %s - Ez UTC kellene legyen"
+
+#~ msgid "Theme"
+#~ msgstr "Sablon"
+
+#~ msgid "The name of the current active theme."
+#~ msgstr "A jelenlegi aktív sablon neve."
+
+#~ msgid "The installed version of the current active theme."
+#~ msgstr "A jelenlegi aktív sablon telepített verziója."
+
+#~ msgid "Author URL"
+#~ msgstr "Szerző URL"
+
+#~ msgid "The theme developers URL."
+#~ msgstr "A sablon fejlesztőinek URL címe."
+
+#~ msgid "Displays whether or not the current theme is a child theme."
+#~ msgstr "Megmutatja, hogy a jelenlegi sablon gyermek sablon-e."
+
+#~ msgid ""
+#~ "If you're modifying uncode or a parent theme you didn't build personally "
+#~ "we recommend using a child theme. See: <a href=\"%s\" target=\"_blank"
+#~ "\">How to create a child theme</a>"
+#~ msgstr ""
+#~ "Ha módosítod az Uncode-ot vagy egy szülő sablont, amit nem te "
+#~ "készítettél, javasoluk, hogy használj gyermek sablont. Lásd: <a href=\"%s"
+#~ "\" target=\"_blank\">Hogyan készítsünk gyermek sablont</a>"
+
+#~ msgid "Parent Theme Name"
+#~ msgstr "Szülő sablon neve"
+
+#~ msgid "The name of the parent theme."
+#~ msgstr "A szülő sablon neve."
+
+#~ msgid "Parent Theme Version"
+#~ msgstr "Szülő sablon verzió"
+
+#~ msgid "The installed version of the parent theme."
+#~ msgstr "A szülő sablon telepített verziója."
+
+#~ msgid "Parent Theme Author URL"
+#~ msgstr "Szülő sablon szerző URL"
+
+#~ msgid "The parent theme developers URL."
+#~ msgstr "A szülő sablon fejlesztőinek URL címe."
+
+#~ msgid "Active Plugins"
+#~ msgstr "Aktív bővítmények"
+
+#~ msgid "Visit plugin homepage"
+#~ msgstr "Bővítmény kezdőlapjának megtekintése"
+
+#~ msgctxt "by author"
+#~ msgid "by %s"
+#~ msgstr "%s jóvoltából"
+
+#, fuzzy
+#~ msgid "Menu on hover color"
+#~ msgstr "Menü szöveg szín"
+
+#, fuzzy
+#~ msgid "Back to "
+#~ msgstr "Vissza"
+
+#~ msgid "Download file%s"
+#~ msgstr "%s fájl letöltése"
+
+#~ msgid "(Includes %s)"
+#~ msgstr "(%s beleszámolva)"
+
+#~ msgid "Refunded:"
+#~ msgstr "Visszatérítve:"
+
+#~ msgid "Telephone"
+#~ msgstr "Telefon"
+
+#~ msgid "Back"
+#~ msgstr "Vissza"
+
+#~ msgid "Clear selection"
+#~ msgstr "Kijelölés törlése"
+
+#~ msgid "Tag: %s"
+#~ msgstr "Címke: %s"
+
+#~ msgid "%1$s: %2$s"
+#~ msgstr "%1$s: %2$s"
+
+#~ msgid "Remote server did not respond"
+#~ msgstr "A távoli szervver nem válaszolt"
+
+#~ msgid "Social Network Name"
+#~ msgstr "Közösségi háló neve"

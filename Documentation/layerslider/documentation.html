@@ -1,0 +1,1796 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>LayerSlider for WordPress documentation</title>
+	<link rel="stylesheet" href="assets/css/doc.css">
+	<link rel="stylesheet" href="assets/css/font.css">
+	<link rel="stylesheet" href="assets/js/syntaxhighlighter/styles/shCoreKreatura.css">
+	<link rel="stylesheet" href="assets/js/syntaxhighlighter/styles/shThemeKreatura.css">
+	<link href="http://fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,300,400italic,400,600italic,600,700italic,700,800italic,800" rel="stylesheet" type="text/css">
+	<!--[if lt IE 9]>
+		<script src="assets/js/html5.js"></script>
+	<![endif]-->
+</head>
+<body>
+
+
+	<header>
+		<h1>LayerSlider WP</h1>
+		<h2>
+			Responsive WordPress Slider Plugin
+			<p>
+				Version: 5.6.2 | Released: 1st September 2015 |
+				<a data-goto="whats-new" href="#whats-new">What's new?</a>
+			</p>
+		</h2>
+		<div class="clear"></div>
+	</header>
+
+	<nav id="subnav">
+		<h3>Table of Contents</h3>
+		<h3>Current Chapter: <span id="curnav" class="light">Overview</span></h3>
+	</nav>
+
+	<aside>
+		<nav>
+			<ul id="sidebar">
+				<li class="active">
+					<span>Introduction</span>
+					<ul>
+						<li data-deeplink="overview" class="active">Overview</li>
+						<li data-deeplink="features">Features</li>
+						<li data-deeplink="third-party">Third party</li>
+					</ul>
+				</li>
+				<li>
+					<span>Installing / Updating</span>
+					<ul>
+						<li data-deeplink="installation">Installation</li>
+						<li data-deeplink="updating">Updating the plugin</li>
+					</ul>
+				</li>
+				<li>
+					<span>Getting Started</span>
+					<ul>
+						<li data-deeplink="managing-sliders">Managing sliders</li>
+						<li data-deeplink="demo-sliders">Importing demo content</li>
+						<li data-deeplink="import-export">Import / Export sliders</li>
+						<li data-deeplink="google-fonts">Using Google Fonts</li>
+						<li data-deeplink="permission-settings">Permission settings</li>
+						<li data-deeplink="advanced-options">Advanced settings</li>
+					</ul>
+				</li>
+				<li>
+					<span>Using the Slider Builder</span>
+					<ul>
+						<li data-deeplink="builder-overview">Overview</li>
+						<li data-deeplink="slider-settings">Slider settings</li>
+						<li data-deeplink="slide-options">Adding slides</li>
+						<li data-deeplink="layer-options">Adding layers</li>
+						<li data-deeplink="dynamic-layers">Using dynamic layers</li>
+						<li data-deeplink="multilingual-sliders">Multilingual sliders</li>
+					</ul>
+				</li>
+				<li data-deeplink="publishing-sliders">
+					<span>Publishing sliders</span>
+					<ul>
+						<li data-deeplink="publish-shortcode">Via Shortcode</li>
+						<li data-deeplink="publish-widgets">Via Widgets</li>
+						<li data-deeplink="publish-php">With PHP function</li>
+					</ul>
+				</li>
+				<li>
+					<span>Advanced Customization</span>
+					<ul>
+						<li data-deeplink="transition-builder">Transition Builder</li>
+						<li data-deeplink="skin-editor">Skin Editor</li>
+						<li data-deeplink="css-editor">CSS Editor</li>
+						<li data-deeplink="layerslider-api">LayerSlider API</li>
+					</ul>
+				</li>
+				<li data-deeplink="troubleshooting"><span>Troubleshooting</span></li>
+				<li data-deeplink="developer-docs"><span>Developer documentation</span></li>
+				<li>
+					<span>Release log</span>
+					<ul>
+						<li data-deeplink="whats-new">What's new?</li>
+						<li data-deeplink="previous-versions">Previous versions</li>
+					</ul>
+				</li>
+				<li data-deeplink="support"><span>Support</span></li>
+			</ul>
+		</nav>
+	</aside>
+
+	<div id="content">
+		<div>
+
+			<!--  Introduction -->
+			<section class="active">
+
+				<!-- Introduction: Overview -->
+				<article class="active">
+					<h4>Thank you!</h4>
+					<p>Thank you for purchasing this product. If you have any questions that are beyond the scope of this documentation, please feel free to email us.</p>
+
+
+					<h4>About this item</h4>
+					<p>LayerSlider WP is a premium multi-purpose slider for creating image galleries, content sliders, and mind-blowing slideshows with must-see effects, even from your WordPress posts and pages.</p>
+
+					<p>It uses cutting edge technologies to provide the smoothest experience that’s possible, and it comes with more than 200 preset 2D and 3D slide transitions. It has a beautiful and easy-to-use admin interface with supporting modern features like drag n’drop WYSIWYG slider builder, real-time previews, timeline view, Google Fonts and transition builder for custom animations.</p>
+
+					<p>It’s device friendly by supporting responsive mode, multiple layouts, touch gestures on mobile devices, and uses techniques like lazy load and conditional script loading for optimal performance. You can add any content into sliders, including images, text, custom HTML, YouTube and Vimeo videos or HTML5 self-hosted multimedia contents. It’s also SEO friendly by allowing you to build semantic markup with custom attributes that search engines can index easily.</p>
+
+					<p>LayerSlider comes with 13 built-in skins, and it has tons of options to entirely customize the appearance and behavior of your sliders at the smallest detail. </p>
+
+				</article>
+
+				<!-- Introduction: Features -->
+				<article>
+					<h4>Slider features</h4>
+					<ul>
+						<li>
+							<strong>General Features</strong>
+							<ul class="nomargin">
+								<li>Super smooth hardware accelerated CSS3 transitions with jQuery fallback</li>
+								<li>Fully responsive &amp; multiple layouts support</li>
+								<li>High compatibility with many fallback features for old browsers</li>
+								<li>Lazy loading images for better performance</li>
+								<li>Unlimited number of layers with image, video, audio, text or custom HTML content</li>
+								<li>Powerful API for more customization</li>
+								<li>SEO friendly</li>
+								<li>Multiple sliders can be added on the same page</li>
+								<li>Included free slide transition gallery</li>
+								<li>Very detailed documentation with examples</li>
+								<li>Unlimited variations of usage (image slider, image slider with text, content slider, video gallery slider, mixed content slider, banner rotator, carousel, etc.)</li>
+								<li>Free updates &amp; support</li>
+							</ul>
+						</li>
+						<li>
+							<strong>Slider Layout &amp; Appearance</strong>
+							<ul class="nomargin">
+								<li>Responsive, full-width, full size or fixed dimensions layout</li>
+								<li>Responsive under &amp; Layers container features for full-width sliders</li>
+								<li>13 skins included</li>
+								<li>Skins PSD file included for easily creating your own skins</li>
+								<li>Option for specifying a global background color or image to the slider</li>
+							</ul>
+						</li>
+						<li>
+							<strong>Slideshow</strong>
+							<ul class="nomargin">
+								<li>Auto-start slideshow (can be disabled)</li>
+								<li>Pause slideshow on hover feature</li>
+								<li>Starting with specified slide</li>
+								<li>Optional random slideshow feature</li>
+								<li>Option for fade in the first slide without animating the layers</li>
+								<li>Option for backwards-slideshow (Two way slideshow)</li>
+								<li>Looping feature</li>
+							</ul>
+						</li>
+						<li>
+							<strong>Navigation</strong>
+							<ul class="nomargin">
+								<li>Bullets, hover thumbnails or thumbnails</li>
+								<li>Touch navigation on mobile browsers</li>
+								<li>Keyboard navigation</li>
+								<li>Option for disabling prev / next buttons or bullets</li>
+								<li>Option for showing prev / next buttons or bullets on hover</li>
+								<li>Two types of timers: bar timer and circle timer</li>
+								<li>Option for customizing the thumbnail area and the size of thumbnails</li>
+							</ul>
+						</li>
+						<li>
+							<strong>Slide Options</strong>
+							<ul class="nomargin">
+								<li>More than 200 2D &amp; 3D transitions</li>
+								<li>Option to create your own slide transitions</li>
+								<li>Option to link the whole slide</li>
+								<li>Option for adding a deep link to a specified slide</li>
+							</ul>
+						</li>
+						<li>
+							<strong>Layer Options</strong>
+							<ul class="nomargin">
+								<li>Layers can slide (axis free), fade, rotate (in 2D or 3D), scale and skew, or a mixture of these</li>
+								<li>Option for setting the transform origin of transition</li>
+								<li>Option for linking layers</li>
+								<li>Option for adding a link to layers which will change the slider to a specific slide</li>
+								<li>Optional parallax effect on layers</li>
+							</ul>
+						</li>
+						<li>
+							<strong>Video &amp; Audio</strong>
+							<ul class="nomargin">
+								<li>Easy to use with YouTube, Vimeo or HTML5 videos or audios</li>
+								<li>Auto-pause slideshow while videos or audios are playing</li>
+								<li>Auto-play videos and audios (optional)</li>
+								<li>YouTube and Vimeo thumbnail images</li>
+							</ul>
+						</li>
+						<li>
+							<strong>YourLogo</strong>
+							<ul class="nomargin">
+								<li>Option for adding a fixed image over the slider</li>
+								<li>Option for styling and adding a link to this image</li>
+							</ul>
+						</li>
+						<li>
+							<strong>Compatibility</strong>
+							<ul class="nomargin">
+								<li>Requires jQuery 1.8 or newer. Working with both 1.10.x or 2.x versions. Please note that jQuery 2.x is no longer compatible with IE7 and 8)</li>
+								<li>Requires WordPress 3.5 or newer. Compatible with WordPress 4.1.</li>
+								<li>Working in Chrome, Firefox, Safari, IE7-11, Opera</li>
+								<li>Working in mobile browsers</li>
+								<li>The 3D slide transitions are working under Chrome, Firefox, Safari, Opera, iOS and the latest Android versions.</li>
+								<li>Most of the 2D slide transitons are working under all browsers.</li>
+							</ul>
+						</li>
+					</ul>
+
+					<h4>WordPress specific plugin features</h4>
+					<ul>
+						<li>
+							<strong>Build dynamic sliders from WordPress posts and pages </strong> <br>
+							With advanced filters for finding posts or mixing them with static content
+						</li>
+						<li>
+							<strong>WYSIWYG editor with real-time previews </strong> <br>
+							Build sliders with modern techniques like drag n’ drop
+						</li>
+						<li>
+							<strong>Timeline view 
+							</strong> <br>Review your layer timings like in a movie editor
+						</li>
+						<li>
+							<strong>Multisite ready </strong> <br>
+							With network-wide activation support
+						</li>
+						<li>
+							<strong>Translation and localization ready </strong> <br>
+							Supports popular plugins like WPML and qTranslate for multilingual sliders
+						</li>
+						<li>
+							<strong>Transition builder, Skin and CSS Editors </strong> <br>
+							Customize the built-in skins and transitions easily
+						</li>
+						<li>
+							<strong>Automatic updates 
+							</strong> <br>Receive update notification and install new versions with one click
+						</li>
+						<li>
+							<strong>Import / Export feature 
+							</strong> <br>Move sliders between sites easily
+						</li>
+						<li>
+							<strong>Plugin permissions 
+							</strong> <br>Provide plugin access to different users to collaborate on working sliders
+						</li>
+						<li>
+							<strong>Use Google Fonts 
+							</strong> <br>With built-in search and configuration options
+						</li>
+						<li>
+							<strong>Advanced settings to improve performance</strong> <br>
+							Scripts in the footer, conditional script loading, etc
+						</li>
+						<li>
+							<strong>Use self-hosting video &amp; audio</strong> <br>
+							Easily upload and insert HTML5 multimedia contents
+						</li>
+						<li>
+							<strong>Sample sliders included</strong> <br>
+							You can check the settings we used to help you get started
+						</li>
+						<li>
+							<strong>Interactive tooltips and integrated docs</strong> <br>
+							Receive instant help for a specific problem whenever you need it
+						</li>
+					</ul>
+				</article>
+
+				<!--  Introduction: Third party -->
+				<article>
+
+					<h4>Third party credits</h4>
+					<p>We are extremely grateful for the people working on the projects below. These guys are making our lives much easier, thus we can focus on building high quality products.</p>
+					<div class="table">
+						<table>
+							<thead>
+								<tr>
+									<th>Project</th>
+									<th>Homepage</th>
+									<th>Comment</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>CodeMirror</td>
+									<td><a href="http://codemirror.net/" target="_blank">codemirror.net</a></td>
+									<td>A versatile text editor implemented in JavaScript for the browser.</td>
+								</tr>
+								<tr>
+									<td>Dashicons</td>
+									<td><a href="https://github.com/melchoyce/dashicons/" target="_blank">github.com</a></td>
+									<td>The official icon font of the WordPress admin as of 3.8</td>
+								</tr>
+								<tr>
+									<td>Google Fonts API</td>
+									<td><a href="https://www.google.com/fonts" target="_blank">google.com</a></td>
+									<td>Hundreds of free, open-source fonts optimized for the web hosted by Google.</td>
+								</tr>
+								<tr>
+									<td>GreenSock</td>
+									<td><a href="http://www.greensock.com/" target="_blank">greensock.com</a></td>
+									<td>The most advanced web animation library to build spectacular transitions.</td>
+								</tr>
+								<tr>
+									<td>jQuery</td>
+									<td><a href="http://jquery.com/" target="_blank">jquery.com</a></td>
+									<td>The most popular JavaScript library for building complex web apps.</td>
+								</tr>
+								<tr>
+									<td>MiniColors</td>
+									<td><a href="http://labs.abeautifulsite.net/jquery-minicolors/" target="_blank">labs.abeautifulsite.net</a></td>
+									<td>A Tiny Color Picker.</td>
+								</tr>
+								<tr>
+									<td>phpQuery</td>
+									<td><a href="https://code.google.com/p/phpquery/" target="_blank">code.google.com</a></td>
+									<td>A server-side DOM API based on jQuery.</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</article>
+			</section>
+
+			<!-- Installing / Updating -->
+			<section>
+
+				<!-- Installing / Updating: Installation -->
+				<article>
+					<h4>Installation through the WP admin interface</h4>
+					<ol class="nomargin">
+						<li>Extract the archive file on your machine that you've downloaded from CodeCanyon.</li>
+<li>On your WordPress admin area navigate to <code>Plugins</code> -> <code>Add new</code> and press the <code>Upload Plugin</code> button.</li>
+<li>Choose the <strong>"layersliderwp-x.x.x.installable.zip"</strong> file that you've extracted from the downloaded archive, then hit the <code>Install Now</code> button.</li>
+<li>WordPress might ask you to enter your FTP login credentials. Click on <code>Proceed</code> when you finished.</li>
+<li>The plugin is now installed, click on the <code>Activate Plugin</code> button.</li>
+<li>A new menu entry called <code>LayerSlider WP</code> should appear on your WordPress admin sidebar.</li>
+					</ol>
+
+					<div class="cf video-box">
+						<a href="https://youtu.be/Y2rvCJxiHkA" target="_blank" class="video">
+							<img src="https://img.youtube.com/vi/Y2rvCJxiHkA/mqdefault.jpg">
+						</a>
+						<h4>Check out our video tutorial!</h4>
+						<p>If you're unsure where or how to install the plugin, <br> just watch our short screencast video.</p>
+					</div>
+
+					<h4>Installation via FTP</h4>
+					<ol class="nomargin">
+						<li>Extract the archive file on your machine that you've downloaded from CodeCanyon.</li>
+<li>Find the <strong>"layersliderwp-x.x.x.installable.zip"</strong> file in the extracted contents and unpack that archive as well.</li>
+<li>Open your favorite FTP application and connect to your server. Navigate to the <strong>"/wp-content/plugins/"</strong> folder.</li>
+<li>Copy over the <strong>"LayerSlider"</strong> folder extracted from <strong>"layersliderwp-x.x.x.installable.zip"</strong> file.
+<li>Navigate to the <code>Plugins</code> page on your WordPress admin area and click the <code>Activate</code> button below LayerSlider WP.</li>
+<li>A menu entry called <code>LayerSlider WP</code> should appear on your WordPress admin sidebar.</li>
+					</ol>
+
+					<h4>Troubleshooting</h4>
+					<ul>
+						<li>Please be aware that you must use the "layersliderwp-x.x.x.installable.zip" file when you try to install the plugin from the WP admin area. The main package downloaded from CodeCanyon contains a lot of other assets. You must unpack it first and use the above mentioned file for installation.</li>
+						<li>In some very rare cases certain server settings (e.g. upload size limit, memory limit) could prevent you to install the plugin from your WordPress admin area. If you're experiencing any issue, please revert to the FTP method.</li>
+						<li>Your web hosting service provider might offer other methods to install plugins such as web-based FTP clients or 3rd party solutions made explicitly for WordPress. Although these should be fine, it's possible that in some cases they might not work as expected and you will need to revert to the official methods.</li>
+						<li>If you're experiencing any issue after installing LayerSlider, please try to temporarily disable other plugins and switch to one of the default WordPress themes to see if it helps. LayerSlider should play along nicely with any plugin/theme you use, but incompatibility issues could occur due to several other reasons.</li>
+					</ul>
+				</article>
+
+				<!-- Installing / Updating: Updating the plugin -->
+				<article>
+					<h4>Updating via the auto-update feature</h4>
+					<p>Since LayerSlider WP 4.0.0 we are supporting automatic updates. The auto-update feature requires a valid item purchase code, which you can find by navigating to your CodeCanyon downloads page and download your License Certificate for the corresponding item. Your Item Purchase code is in the downloaded text file. Please enter this code in the "Auto-Updates" section that you can find on the LayerSlider WP admin area.</p>
+
+					<div class="km-notification info cf">
+						<span class="icon-info-circled"></span>
+						Please note, at the moment we can only provide automatic updates to our direct buyers. Due to technical reasons LayerSlider can't recognize purchase codes received for themes, even if they offer LayerSlider as a bundled item. In these cases new releases will be provided by theme authors through theme updates.
+					</div>
+					<figure>
+						<img src="assets/img/illustration-auto-update.png" alt="Auto-update box">
+						<figcaption>Illustration of Auto-Updates section</figcaption>
+					</figure>
+
+					<h4>Updating the plugin manually</h4>
+					<p>Once you've downloaded the most recent version from your CodeCanyon downloads page you can deactivate and remove the old version, then install the new one. Your sliders and settings are in the database, removing the plugin won't touch them. The new version always has backward compatibility, so you don't have to worry about losing your work.</p>
+
+					<h4>Updating the bundled version in a theme</h4>
+					<p>If you've received LayerSlider as a bundled item in your theme, new releases will be provided by the theme author through theme updates. Please note, our auto-update solution doesn't work with bundled versions of LayerSlider.</p>
+
+					<h4>Troubleshooting</h4>
+					<ul>
+						<li>If the auto-update feature doesn't accept your purchase code, please double check that you've entered it correctly, without including spaces or other extra characters. Also, please note that due to technical reasons it won't recognize your theme's purchase code, even if it offers LayerSlider as a bundled item.</li>
+						<li>Rarely, a temporary outage in our/Envato services could also result unrecognized purchase codes. Please try it again a little later.</li>
+						<li>WordPress checks for new updates periodically at certain times. It also caches the results. If a new release doesn't show up immediately, please give it some time while WP can find it.</li>
+						<li>In some edge cases servers might configured in a way that prevents your installation to connect our update server. It's worth asking your web hosting company about this if updates don't show up and you've ruled out other possibilities.</li>
+						<li>Since version 5.6.2, the auto-update feature also has a "Download latest version manually" option. We still encourage you to set up auto-updates properly for your own convenience, but you can use this option in the meantime if you're experiencing problems.</li>
+						<li>Depending on the default settings, you may have to enable or disable some settings related to new features after an update. If you experience any unwanted change, it's always a good idea to check the settings of your sliders, there are probably new options to control these changes.</li>
+					</ul>
+				</article>
+			</section>
+
+			<!-- Getting Started -->
+			<section>
+
+				<!-- Getting Started: Managing sliders -->
+				<article>
+					<h4>Adding a new slider</h4>
+					<p>Press the <code>Add New</code> button located on the top of the LayerSlider admin page. The plugin should navigate to the slider builder interface after you've entered the name of your new slider.</p>
+
+					<h4>Duplicating sliders</h4>
+					<p>Hitting the duplicate icon (<img src="assets/img/icon-duplicate.png">) will create an identical copy of the corresponding slider. This feature is useful if you would like to experiment on a slider without changing the original. You can also use this feature to have a base when you want to build a slider with similar settings.</p>
+
+					<h4>Removing sliders</h4>
+					<p>You can remove a slider by pressing the trash can icon (<img src="assets/img/icon-trash.png">). This action will hide the slider from all pages, but a copy in your database will be preserved for backup.</p>
+
+					<h4>Restoring sliders</h4>
+					<p>You can make the previously removed sliders visible under the <code>Screen Options</code> menu located on the top of the page by checking the <code>Removed sliders</code> option. You can restore sliders by pressing the restore icon (<img src="assets/img/icon-restore.png">).</p>
+
+					<h4>Permanently delete sliders</h4>
+					<p>Having hidden backups from previously removed sliders can always be useful. This will not affect your site's performance, thus we don't recommend to permanently delete sliders. However, if you chose to do that, you can find the <code>Delete permanently</code> option in the drop-down list below your sliders.</p>
+
+					<h4>Merging sliders</h4>
+					<p>If you have slides in different sliders that you would like to use together, you can merge them. Just select them from the list and choose the <code>Merge sliders as new</code> option from the drop-down list below.</p>
+
+					<h4>Number of sliders per page</h4>
+					<p>You can find this setting under the <code>Screen Options</code> menu located on the top of the page.</p>
+				</article>
+
+				<!-- Getting Started: Importing demo content -->
+				<article>
+					<h4>Importing demo content</h4>
+					<p>Press the <code>Import sample sliders</code> button located on the top of the LayerSlider admin page, then select the slider you wish to add. Importing all of them at once could be slow or problematic depending on your server settings.</p>
+					<p>Importing our demo sliders will allow you to see our settings and get familiar with the plugin. You can freely experiment on these sliders without worrying, since you can always import a new, untouched copy.</p>
+					<p>We've included several samples in the plugin and download package. Some of them are really small and easy to understand, while others are much more complex and use advanced features of the plugin.</p>
+
+					<figure>
+						<img src="assets/img/illustration-sample-sliders.png">
+						<figcaption>Illustration of the "Import sample sliders" button</figcaption>
+					</figure>
+
+					<h4>More samples</h4>
+					<p>To keep the install package at a reasonable file size we've only included our 3 most popular sliders. However, you can find more in the archive you've downloaded from CodeCanyon in the <code>sample sliders</code> folder.</p>
+
+					<h4>Troubleshooting</h4>
+					<ul>
+						<li>Importing our demo sliders requires the PHP ZipArchive extension installed on your server. In the "Export sliders" box you should see a feedback message about the availability of this extension. Please contact your web hosting service provider if it's unavailable.</li>
+						<li>Importing a slider will add its images to your WP Media Library. Larger sliders might have a file size that exceeds the upload limit set on your server. To increase the maximum file size of an upload, please contact your web hosting company.</li>
+						<li>Larger sliders with many images could also consume considerably lot memory during the import. Most servers should not have any issue with larger sliders, but in some cases you might experience unexpected issues like partially imported sliders.</li>
+						<li>If you're experiencing any issue with importing, it's probably linked to memory or execution time limitation on your server. To fix these issues, please contact your web hosting company, since they usually don't offer a way to change these settings remotely.</li>
+					</ul>
+				</article>
+
+				<!-- Getting Started: Import / Export sliders -->
+				<article>
+					<figure>
+						<img src="assets/img/illustration-import-export.png">
+						<figcaption>Illustration of the Import / Export section</figcaption>
+					</figure>
+					<h4>Importing sliders</h4>
+					<p>Choose a previously exported slider under the Import / Export tab and hit <code>Import</code>. Export files with a .zip extension generally contain slider images as well (if it wasn't disabled when the export file was created). Exports with .json extension contain only the slider settings.</p>
+
+
+					<h4>Importing from outdated versions</h4>
+					<p>In the earliest versions of LayerSlider there was only an export code that you could copy &amp; paste to import sliders on other sites. If you have an export code from one of these versions you just need to paste it into a new text file and upload it in the same way. The name of the file could be anything, but you need to use the .json file extension.</p>
+
+
+					<h4>Exporting sliders</h4>
+					<p>You can export sliders by selecting them from the list under the Import / Export tab. By holding the Ctrl/Command button you can select multiple items. Since LayerSlider v5.1.0 you can also include the images used in sliders. Please note, selecting multiple sliders with images can drastically increase the exported file size and could lead import issues on sites with certain server sertings.</p>
+
+					<h4>Troubleshooting</h4>
+					<ul>
+						<li>Importing sliders with images requires the PHP ZipArchive extension installed on your server. Under the Import / Export tab you should see a feedback message about the availability of this extension. Please contact your web hosting service provider if it's unavailable.</li>
+						<li>Importing a slider will add its images to your WP Media Library. Larger sliders might have a file size that exceeds the upload limit set on your server. To increase the maximum file size of an upload, please contact your web hosting company.</li>
+						<li>Larger sliders with many images could also consume considerably lot memory during the import. Most servers should not have any issue with larger sliders, but in some cases you might experience unexpected issues like partially imported sliders.</li>
+						<li>If you're experiencing any issue with importing, it's probably linked to memory or execution time limitation on your server. To fix these issues, please contact your web hosting company, since they usually don't offer a way to change these settings remotely.</li>
+					</ul>
+				</article>
+
+				<!-- Getting Started: Using Google Fonts -->
+				<article>
+					<h4>Using Google Fonts</h4>
+					<p>LayerSlider can load custom fonts hosted by Google on <a href="http://www.google.com/fonts" target="_blank">google.com/fonts</a>. You can find the corresponding section on the plugin's admin page and add Google Fonts, which can be used in sliders or other parts of your site.</p>
+					<figure>
+						<img src="assets/img/illustration-google-fonts.png">
+						<figcaption>Illustration of the Google Fonts section</figcaption>
+					</figure>
+
+					<h4>Character set support</h4>
+					<p>LayerSlider uses Latin characters by default , but it supports Cyrillic, Devanagari, Greek, Khmer and Vietnamese scripts as well.</p>
+
+					<h4>Themes with Google Fonts support</h4>
+					<p>Many WordPress themes support Google Fonts. However, it's common that they only load them on the front-end pages and they will appear incorrectly when you would build a slider on the admin interface. To workaround this issue just add them in LayerSlider and check the "Load only on admin interface" option.</p>
+				</article>
+
+				<!-- Getting Started: Permission settings -->
+				<article>
+					<h4>Provide non-admin users access to LayerSlider</h4>
+					<p>Under the Permissions tab you can easily select any user role giving the members permission to change plugin settings and manage your sliders. By selecting the option Custom and entering a capability you can target users more accurately. For more information about WordPress capabilities, please read the <a href="https://codex.wordpress.org/Roles_and_Capabilities" target="_blank">Codex page</a>.</p>
+
+					<figure>
+						<img src="assets/img/illustration-permissions.png">
+						<figcaption>Illustration of the Permission settings</figcaption>
+					</figure>
+				</article>
+
+				<!-- Getting Started: Advanced settings -->
+				<article>
+					<h4>About the Advanced Settings section</h4>
+					<p>Under the Advanced tab you can find many troubleshooting options to workaround common issues you might experience on your site. Please note, these settings can break your site when used incorrectly, and we don't recommend changing the defaults. These settings might help solving issues caused by 3rd party items, but you should only use them when it's necessary.</p>
+
+					<figure>
+						<img src="assets/img/illustration-advanced-settings.png">
+						<figcaption>Illustration of Advanced settings section</figcaption>
+					</figure>
+				</article>
+			</section>
+
+
+			<!-- Using the Slider Builder -->
+			<section>
+
+				<!-- Using the Slider Builder: Overview -->
+				<article>
+					<h4>Overview</h4>
+					<p>The slider builder interface can be a bit overwhelming at first sight, since LayerSlider provides many options to customize your work for your own needs. There are many tools to provide help of getting started, just consider the advices below.</p>
+
+					<h4>Always read the tooltips messages</h4>
+					<p>Due to space efficiency we're using tooltips for describing what each options exactly does. Just place your mouse cursor over an option and a tooltip message will appear with additional information.</p>
+
+					<h4>Use the preview mode</h4>
+					<p>By pressing the Preview button you can see your work in action instantly. Don't by shy to change settings. If you're not sure about how an option exactly works, just change it and observe the differences in the preview mode.</p>
+
+					<h4>Check out our samples</h4>
+					<p>Discussed under <a data-goto="demo-sliders" href="#demo-sliders">Gettings Started / Importing the demo content</a>, you can see how we built our own demo sliders and which settings we used to achieve certain animations. Don't be afraid making changes on these samples, you can import another copy at any time.</p>
+
+					<p>We've included several samples in the plugin and download package. Some of them are really small and easy to understand, while others are much more complex and uses advanced features of the plugin.</p>
+				</article>
+
+				<!-- Using the Slider Builder: Slider settings -->
+				<article>
+					<h4>Slider settings</h4>
+					<p>This is the page where the plugin navigates you after adding a new slider. On this screen you can set common settings like the size of the slider, and customize its appearance or features in the other sub-sections.</p>
+
+					<figure>
+						<img src="assets/img/illustration-slider-settings.png">
+						<figcaption class="zigzag">Illustration of the Slider Settings</figcaption>
+					</figure>
+
+					<h4>Setting the slider layout</h4>
+					<div class="table">
+						<table>
+							<thead>
+								<th>Mode</th>
+								<th>Description</th>
+							</thead>
+							<tbody>
+								<tr>
+									<td>Fixed size</td>
+									<td>
+										The slider will have a fixed size, and it cannot be resized.<br><br>
+
+										To use: Disable all <code>Responsive mode</code> and <code>Full-width slider settings</code> options. You can set the width of the slider in pixels or use a percentage value. You have to set the height of the slider in pixels.
+									</td>
+								</tr>
+								<tr>
+									<td>Responsive</td>
+									<td>
+										Responsive web design is aimed at crafting themes, plugins and other kind of web contents to provide an optimal viewing experience across a wide range of devices (from mobile phones to desktop computers). This mode will automatically scale your slider to fit to the available space on any device.<br><br>
+
+										To use: Enable the <code>Responsive</code> and disable all <code>Full-width slider settings</code> options. You have to set both of the width and the height of the slider in pixels.
+									</td>
+								</tr>
+								<tr>
+									<td>Full-width</td>
+									<td>
+										In this mode the slider will be as wide as your browser window, even if your theme is using a boxed layout instead of edge-to-edge design. The height of the slider will be fixed. Layers will be not resized, but they will be repositioned if they have percentage values set for their <code>Left</code> and/or <code>Top</code> properties.<br><br>
+
+										To use: Enable the <code>Full-Width</code> and disable <code>Responsive</code> options. You have to set <code>Width</code> to 100% and provide the value of <code>Height</code> in pixels.
+									</td>
+								</tr>
+								<tr>
+									<td>Full-width+Responsive</td>
+									<td>
+										The responsive function needs an initial proportion to calculate new dimensions for scaling. A full-width slider will always be as wide as your browser window, so your slider initial size depends on the viewing environment and the plugin cannot identify an exact proportion to work with. Another aspect is to control how scaling should work with large screens and when should it start to downscale your content. This can be set with the <code>Responsive under</code> option. In general it should be the width that your site has, somewhere around 1000 pixels. <br><br>
+
+										The position of your layers can also be a concern on large screens when the slider gets really wide. For this matter, you can use the <code>Layers container</code> option. You can specify how wide your slider should normally be, then the plugin will wrap your content in an "invisible box" that is centered within the slider.<br><br>
+
+										To use: Enable normal Full-width mode and set <code>Responsive under</code> and <code>Layers container</code> as described above.
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+
+					<h4>Fullscreen support</h4>
+					<p>At the moment LayerSlider doesn't have a dedicated fullscreen option. You can enter 100% x 100% for <code>Width</code> and <code>Height</code>, but you will likely need to make some changes in your theme to work properly. Since percents are relative values, you will need to make sure that all of the parent elements of the slider on page have the proper dimensions set, so the slider can take the available space as expected.</p>
+					<p>Please note, this requires some web development knowledge, and we cannot recommend it to users without experience. This is a highly requested feature and it will be added to the plugin shortly.</p>
+				</article>
+
+
+				<!-- Using the Slider Builder: Adding slides -->
+				<article>
+
+					<figure>
+						<img src="assets/img/illustration-slides.png">
+						<figcaption class="zigzag">List of slides and the Slide Options area</figcaption>
+					</figure>
+
+					<h4>About slide transitions</h4>
+					<p>LayerSlider offers more than 200 pre-defined 2D/3D slide transitions. By using the <a data-goto="transition-builder" href="#transition-builder">Transition Builder</a> it can be easily extended with custom ones for your own needs. Slide transitions will only use the background image of slides, since web standards don't offer a way to "capture" all contents within a slider. It's important to keep in mind that layers will not be used for slide transitions, even if they made to look like a background image.</p>
+					<p>Modern web browsers are required for 3D transitions to work properly. If you select any 3D transition, LayerSlider will prioritize them over 2D ones. The plugin has multiple fall-back levels whenever a visitor's machine is not capable of showing certain transitions. In general, 2D transitions are supported on all major web browsers.</p>
+
+
+					<h4>Old slide transitions compatibility</h4>
+					<p>We've introduced the current slide transitions with the release of LayerSlider v4.0.0. The earlier solution was still supported at a time, but later on it was entirely removed from the admin area in favor of its much more sophisticated successor. As of today, these settings are still supported under the hood to provide backward compatibility, although you cannot choose to use them in sliders built with the latest releases.</p>
+					<div class="km-notification info cf">
+						<span class="icon-info-circled"></span>
+						We might completely stop supporting old slide transitions in the near future.
+					</div>
+
+					<h4>Linking slides</h4>
+					<p>Linking a slide will make its entire surface clickable. You can also link layers to add a button or a smaller control. Layers appear on top of slides, and will gain priority if you link both a slide and one of its layers.</p>
+
+					<h4>Deeplink</h4>
+					<p>Since LayerSlider WP 3.0, you have the option to deep-link slides. This means that you can give a special URL to users, which will start LayerSlider with the certain slide when they visit your site. To do that, you have to specify a <code>Deeplink</code> name in your <code>Slide Options</code> and use it as a reference in the URL.</p>
+
+					<p>If you've entered the name "surprise", you just need to append it to the end of your URL along with the hash tag symbol. For example, the URL "yourdomain.com/yourpage/#surprise" will start LayerSlider with the 4th slide (instead of the fist one) when someone navigates to the page with this URL.</p>
+
+					<h4>Duplicate slides</h4>
+					<p>Similarly to sliders, you can also duplicate existing slides to make a copy with the exact settings and layers they might have.</p>
+
+
+					<h4>Hide slides</h4>
+					<p>Hiding a slide will exclude it from the actual slider on your front-end pages. This means your visitors cannot see it, but you will still be able to access it in the Slider Builder. This feature is particularly useful when you want to hide half-finished slides, or keep older ones without actually deleting them. Please note, at the moment there is no way to make these slides visible on the front-end, even if you would use custom coding.</p>
+				</article>
+
+
+				<!-- Using the Slider Builder: Adding layers -->
+				<article>
+					<figure>
+						<img src="assets/img/illustration-layers.png">
+						<figcaption class="zigzag">List of layers and the Layer Options area</figcaption>
+					</figure>
+
+					<h4>Interface tips &amp; tricks</h4>
+					<div class="table">
+						<table class="fr-150">
+							<thead>
+								<tr>
+									<th>Feature</th>
+									<th>Description</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>Naming layers</td>
+									<td>Making complex slides will require many layers. Naming them as you build your slide can be really useful to quickly navigate between them.</td>
+								</tr>
+								<tr>
+									<td>Re-ordering layers</td>
+									<td>You can drag and re-order layers by grabbing the <img src="assets/img/icon-handle.png"> icon. The exact order is particularly important when you work with overlapping layers, since it controls which layer should be on top of the other.</td>
+								</tr>
+								<tr>
+									<td>Select layers in Preview</td>
+									<td>Instead of trying to find an item in your list of layers, you can just click on it in the Preview for quick navigation.</td>
+								</tr>
+								<tr>
+									<td>Selecting overlapping layers in Preview</td>
+									<td>In some cases layers might cover each other in the Preview area and clicking on them will only select the uppermost item. That's why we've added a right-click mouse action, which will present you a list of layers occupying that area. Just choose the desired layer, then LayerSlider will jump to the corresponding item in your list of layers.</td>
+								</tr>
+								<tr>
+									<td>Locking layers</td>
+									<td>Locking a layer with the <img src="assets/img/icon-lock.png"> icon will disable the drag n' drop functionality in the Preview, securing it from moving around unintentionally.</td>
+								</tr>
+								<tr>
+									<td>Hiding layers</td>
+									<td>Hiding a layer with the <img src="assets/img/icon-eye.png"> icon will make it invisible in the visual editor and on your front-end pages. This is useful when you would like to keep a layer for later use, but prevent it from showing up in the actual sliders.</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+
+					<h4>Choose between layer types</h4>
+					<div class="table">
+						<table class="fr-150">
+							<thead>
+								<tr>
+									<th>Type</th>
+									<th>Purpose</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>Image</td>
+									<td>Displays an image. You can upload a new image or choose an existing one from your WP Media Library. You can also insert from URL or pull the featured image from posts.</td>
+								</tr>
+								<tr>
+									<td>Text</td>
+									<td>This layer type should be used for most of the textual contents. You can select the role of the layer with the sub-controls. Do not wrap your content within an HTML element. This is why we've added those sub-controls. You should not use any HTML codes in this field, with the exception of &lt;br&gt;, &lt;b&gt;, &lt;strong&gt;, &lt;i&gt;, &lt;u&gt; and other general purpose inline text formatting elements.</td>
+								</tr>
+								<tr>
+									<td>HTML / Video / Audio</td>
+									<td>You should choose this type of layer to insert multimedia contents or use custom HTML besides text formatting. Your contents will automatically be placed in a &lt;div&gt; element. For using semantic HTML, you can select multiple element roles under the Text type instead of using HTML unnecessarily.</td>
+								</tr>
+								<tr>
+									<td>Dynamic content</td>
+									<td>Select this type of layer if you want to use contents pulled dynamically from your WP posts and pages. See <a data-goto="dynamic-layers" href="#dynamic-layers">Using the Slider Builder / Dynamic Layers</a> section for more information.</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+
+					<h4>Embedding videos</h4>
+					<p>LayerSlider supports YouTube, Vimeo, and self-hosted HTLM5 video/audio out of the box. We've integrated many features for these solutions such as autoplay, showing a preview image for videos and pausing the slideshow while they are playing.</p>
+					<p>Just choose the <code>HTML / Video / Audio</code> layer type to embed multimedia contents. For YouTube and Vimeo videos you need to paste the embed code from their website into the text field. Click on the <code>Add Media</code> button to add self-hosted HTML5 video or audio.</p>
+					<p>At the moment we can't support other media players out of the box, since those solutions have their own distinct APIs to control media playback. However, users with web development experience can use the <a data-goto="layerslider-api" href="#layerslider-api">LayerSlider API</a> to detect slider events and run custom code to control 3rd party media players.</p>
+
+					<h4>Using WP shortcodes / Adding interactive content</h4>
+					<p>You can do both, but you need to make sure to use an <code>HTML / Video / Audio</code> layer. LayerSlider will only render the content of shortcodes on the front-end pages, so don't be afraid if the slider builder interface doesn't show the result you would expect. Using interactive items highly relying on Javascript can be problematic, and might not work properly.</p>
+					<p>It also worth mentioning that in responsive mode LayerSlider only scales the layer element itself to gain extra performance. Any layer content should adapt the dimension changes on its own. While this happens automatically in most cases, shortcodes might insert complex HTML that ignores this and the content might not be resized in sync with the slider.</p>
+
+
+					<h4>Layer transitions</h4>
+					<p>You can create your animations with these settings. This section might be frightening at first sight, since LayerSlider offers many options to entirely customize your work. However, everyone can learn it quickly and easily by following the tips below:</p>
+					<ul>
+						<li>
+							<strong>Always read the tooltips messages:</strong><br>
+							<p>Due to space efficiency we're using tooltips for describing what each options exactly does. Just place your mouse cursor over an option and a tooltip message will appear for additional information.</p>
+						</li>
+						<li>
+							<strong>Use the preview mode:</strong>
+							<p>By pressing the Preview button you can see your work in action instantaneously. Don't by shy to change settings. If you're not sure about how an option actually works, just change it and observe the differences in the preview mode.</p>
+						</li>
+						<li>
+							<strong>Check out our samples:</strong>
+							<p>Discussed under <a data-goto="demo-sliders" href="#demo-sliders">Gettings Started / Importing the demo content</a>, you can see how we built our own demo sliders and which settings we used to achieve certain animations. Don't be afraid making changes on these samples, you can import another copy at any time.</p>
+
+							<p>We've included several samples in the plugin and the download package. Some of them are really small and easy to understand, while others are much more complex an uses advanced features of the plugin.</p>
+						</li>
+					</ul>
+
+					<h4>Old layer transitions</h4>
+					<p>Since LayerSlider 5.0.0 we've started to use the GreenSock Animation Platform. This step introduced some changes compared to the previously used solution. Your sliders built with an earlier version will continue to work the same as before without making changes. However, the admin interface have dropped the old options in favor of the new engine, and it will automatically convert your settings whenever you try to edit an old slider. Since these new options are working in a different way, the animations might be slightly different in some rare cases, but it should be super close.</p>
+					<div class="km-notification info cf">
+						<span class="icon-info-circled"></span>
+						We might completely stop supporting the old layer transition system in the near future.
+					</div>
+
+					<h4>Link &amp; Attributes</h4>
+					<p>You can link a layer under its <code>Link &amp; Attributes</code> tab. Enter an URL and set whether you want to open it on the current page or in a new tab/window. You can also enter a hash tag followed by a number to link a layer to another slide. For example <code>#3</code> will switch to the third slide when someone clicks on the layer.</p>
+					<p>In this section you can also apply commonly used attributes (such as a unique ID or classes) on layers. These settings are made for users with web development experience and interest to use custom coding to achieve a customization level that a visual editor cannot provide.</p>
+
+					<h4>Styles</h4>
+					<p>Under the <code>Styles</code> tab of your layers you can find commonly used formatting options to customize their appearance. We highly recommend to use these settings whenever it's possible, instead of adding unnecessary HTML code to the contents of layers.</p>
+					<p>This is where you can also set the position of layers with the <code>Left</code> and <code>Top</code> options. While you can use the visual editor to move layers around, it's often better to fine-tune them here for a pixel-perfect result.</p>
+
+				</article>
+
+
+				<!-- Using the Slider Builder: Using dynamic layers -->
+				<article>
+
+					<h4>Adding post contents</h4>
+					<figure>
+						<img src="assets/img/illustration-dynamic-layer.png">
+						<figcaption class="zigzag">Illustration of dynamic layer settings</figcaption>
+					</figure>
+					<p>You can pull individual post information by using post placeholders. These are working very similarly to WordPress shortcodes. You can enter one or more placeholder into the layer's content area, then LayerSlider will automatically replace them with the appropriate content from posts. You can even mix them with static content. Example:</p>
+					<p>
+						This post was written by [author] on [date-published] will be<br>
+						This post was written by admin on March 13, 2015
+					</p>
+
+					<h4>Using post filters</h4>
+					<p>By using the post filters you can target certain WP posts or pages to pull information from. LayerSlider supports custom post types, tags, categories, and taxonimies to find literally any kind of custom content that themes and plugins may use. To set filters you just need select a dynamic layer and click on the <code>Configure post options</code> button. In the opened modal dialog window you can also order the results in your preferred way.</p>
+
+					<h4>Get the items from results to work with</h4>
+					<p>The post filters are global across slides, but you can select items from the results independently. This allows you to work with posts in a custom order, for example you can retrieve only the even/odd posts from the results. If you want to follow the original order you can choose the option <code>following</code>, then LayerSlider will get them automatically.</p>
+
+					<h4>Using mixed content</h4>
+					<p>You are not forced to build sliders with dynamic contents only. You can mix them with static slides and layers.</p>
+
+					<h4>Using custom post fields</h4>
+					<p>You can use the <code>[meta:<i>fieldname</i>]</code> post placeholder to pull content from custom fields. Please make sure to replace the <code>fieldname</code> part with the actual field you want to pull information from.</p>
+
+					<h4>Frequently Asked Questions</h4>
+					<ul>
+						<li>
+							<strong>Q: Can I use static and dynamic contents at once?</strong>
+							<p>A: Sure, you can mix them freely. Just make sure to select the <code>Dynamic content from posts</code> layer type.</p>
+						</li>
+
+						<li>
+							<strong>Q: Can I set custom [excerpt] for posts?</strong>
+							<p>A: Yes, just enable the excerpt field under Screen Options when you're editing a post/page, then enter the desired content.</p>
+						</li>
+
+						<li>
+							<strong>Q: How excerpts are generated?</strong>
+							<ul class="nomargin" style="margin: 0;">
+								<li>Manually entered excerpts will remain "as is", without any modification or formatting. Custom HTML code is allowed.</li>
+								<li>Auto-generated excerpts have all shortcodes and HTML tags removed and they will appear as plain text.</li>
+								<li>Auto-generated excerpts will be trimmed down to 55 words. The [...] "hellip" sign will be appended at the end if the text exceeds this limitation.</li>
+								<li>Custom word count used by themes will automatically be applied in your sliders. Developers can override it by using filter hooks.</li>
+								<li>Auto-generated excerpts respect WP's <code>&lt;!--more--&gt;</code> tag, so you can easily split your content at the point you want.</li>
+							</ul>
+						</li>
+
+
+						<li>
+							<strong>Q: Can I work with fixed posts?</strong>
+							<p>A: No, the purpose of dynamic sliders is to automatically update their contents when you add a blog post or any other content to your site.
+
+							<br><br>However, there is a simple workaround with similar result. You can find specific posts with unique properties (e.g. custom tag) just by setting the right filters in the Post Options section of dynamic layers. The results will not update as long as you don't add more posts that matches to the selected filters.</p>
+						</li>
+						<li>
+							<strong>Q: Can I use content from multiple posts on the same slide?</strong>
+							<p>A: At the moment you can't. This feature is yet to be added in a later update.</p>
+						</li>
+						<li>
+							<strong>Q: Can I pull content made by WooCommerce or other plugins?</strong>
+							<p>A: Yes, see the "Using custom post fields" part.</p>
+						</li>
+						<li>
+							<strong>Q: Can I pull content from custom post fields?</strong>
+							<p>A: Yes, see the previous point.</p>
+						</li>
+					</ul>
+				</article>
+
+
+				<!-- Using the Slider Builder: Multilingual sliders -->
+				<article>
+
+					<h4>How to translate the admin user interface?</h4>
+					<ol>
+						<li>
+							<strong>Download PoEdit</strong>
+							<p>There are several apps available to help you with translating .PO files. PoEdit is a popular one, and it's available on every major platform. You can download it from <a href="http://www.poedit.net/download.php" target="_blank">here</a>. </p>
+						</li>
+						<li>
+							<strong>Start translating</strong>
+							<p>Open the default LayerSlider-en_US.po file from your "/wp-content/plugins/LayerSlider/locales/" folder. When you save your work PoEdit will generate you a .MO file which will be needed to apply your work.</p>
+						</li>
+						<li>
+							<strong>Name your files properly</strong>
+							<p>WordPress recognizes your localization by a special formatting of file names. You will need to include the right <a href="http://www.gnu.org/software/gettext/manual/html_chapter/gettext_16.html#Language-Codes" target="_blank">language</a> and <a href="http://www.gnu.org/software/gettext/manual/html_chapter/gettext_16.html#Country-Codes" target="_blank">country</a> codes so it can identify what language your work is made for.</p>
+							<p>For example, a French localization would have the file names: LayerSlider-fr_FR.po and LayerSlider-fr_FR.mo. You must follow this syntax, including the dash, underscore, and lower- or uppercase letters.</p>
+						</li>
+						<li>
+							<strong>Apply your localization</strong>
+							<p>Copy your newly created .PO and .MO files into the "/wp-content/plugins/LayerSlider/locales/" folder. WordPress should use them immediately if you named your files properly.</p>
+						</li>
+					</ol>
+
+					<h4>Creating multilingual sliders with qTranslate</h4>
+					<p>qTranslate is the most easiest way to create multilingual sliders in LayerSlider. It is a free and simple plugin that supports a shortcode-like syntax to enter text in multiple languages, so it can display the proper one for your visitors. LayerSlider supports shortcodes and other special syntaxes within the contents of layers, so you can enter something like this to create a multilingual slider:</p>
+					<p><code>[:en]English text[:de]German text</code></p>
+					<p>The line above will output "English text" if the visitor selected English page and "German text" if the visitor selected German. You can read more about qTranslate on its WP.org <a href="https://wordpress.org/plugins/qtranslate/" target="_blank">plugin page</a>.</p>
+
+					<h4>Translating with the WPML plugin</h4>
+					<p>You need the "Multilingual CMS" version of WPML with installed WPML String Translation add-on.<br><br><strong>Translating the plugin's user interface:</strong>
+					<ul class="nomargin">
+						<li>Navigate to WPML -> Theme and plugins localization</li>
+						<li>Select Translate by WPML option in Select how to localize the theme section.</li>
+						<li>In the newly appeared list of plugins, select LayerSlider and click the Scan selected plugins for strings button.</li>
+						<li>Under WPML -> String translation menu item, you can now see and edit the texts that LayerSlider uses.</li>
+					</ul>
+
+					<p><strong>Creating multilingual sliders:</strong></p>
+					<p>LayerSlider registers translatable strings when you save your work. If you want to translate a previously created slider, you need to re-save it, even if you won't change anything. Once LayerSlider registered the translatable items, they will appear under the WPML -> String translation menu item in your WP admin sidebar.</p>
+				</article>
+			</section>
+
+
+			<!-- Publishing sliders -->
+			<section>
+
+				<!-- Publishing sliders: Via Shortcode -->
+				<article>
+					<h4>Method 1: Inserting sliders via shortcodes</h4>
+					<p>You can place your sliders into pages and posts with their corresponding shortcodes. You can find the shortcode of each slider in the list of sliders you have, or at the bottom of the Slider Builder page next to the save button. To insert a slider just edit a WP page or post and place the proper shortcode into the WordPress text editor.</p>
+					<p>WP shortcodes are one of the most commonly used methods of inserting contents to your site. A lot of other solutions (e.g. a page builder in themes) can also accept the LayerSlider shortcode to add sliders to your pages.</p>
+
+					<figure>
+						<img src="assets/img/illustration-shortcode.png" alt="Inserting the slider via shortcode">
+						<figcaption class="zigzag">Illustration of using shortcodes in WP Post and Pages</figcaption>
+					</figure>
+
+					<figure>
+						<img src="assets/img/illustration-shortcode-tool.png" alt="Inserting the slider via the shortcode tool">
+						<figcaption class="zigzag">Using the LayerSlider editor tool to list and insert sliders</figcaption>
+					</figure>
+				</article>
+
+
+				<!-- Publishing sliders: Via Widgets -->
+				<article>
+					<h4>Method 2: Inserting sliders via the LayerSlider WP widget</h4>
+					<p>LayerSlider supports widgets, so you can add sliders to your front-end pages just by a drag n' drop. To do that, navigate to the Appearance menu on your left sidebar and select "Widgets". Grab the LayerSlider WP widget and drop it into one of your widget areas.</p>
+
+					<p>Please note that some themes may not support a widget area that you're looking for. In this case, you can create a new widget area by editing your theme files. <a href="https://codex.wordpress.org/Widgetizing_Themes" target="_blank">Here</a> is the official documentation about widgetizing your theme. However, this requires web development knowledge and we don't recommend for users without experience.</p>
+
+					<figure>
+						<img src="assets/img/illustration-widgets.png" alt="Inserting a slider with the LayerSlider WP Widget">
+						<figcaption class="zigzag">Inserting a slider with the LayerSlider WP Widget.</figcaption>
+					</figure>
+				</article>
+
+				<!-- Publishing sliders: With PHP function -->
+				<article>
+					<h4>Method 3: Inserting sliders with a PHP function</h4>
+					<p>Because a slider can be an integral part of your site, you may want to insert it dynamically from the template files. There is a PHP function (with additional filtering options) to do just that. For example, you can call it from the header.php file of your theme and it will insert your slider into the corresponding area. By providing filters you can show it on certain pages only depending on your settings. Here is the function definition:</p>
+					<p>
+						<code>layerslider ( mixed $sliderID [, string $pages] )</code><br>
+						<ul>
+							<li>The <code>$sliderID</code> parameter can be found in the list of your sliders on the LayerSlider admin area. See the first table column.</li>
+							<li>The <code>$pages</code> parameter is a comma separated list of WordPress pages either by their name or database ID. If you are unsure about your page names or IDs, look at their URL, it is the last component.</li>
+						</ul>
+					</p>
+					<p>There is a special page name called <code>homepage</code>, with you can filter LayerSlider WP to display the slider on your home page only. It also works if you set up a static custom page instead of the default post listing.</p>
+					<p>The following examples are all valid. You can use any of these, you can even mix them for your own needs:</p>
+					<pre name="code" class="brush: php; highlight:10">
+						&lt;?php layerslider(1); ?&gt; // Displays the first slider on every page
+						&lt;?php layerslider(1, 'homepage'); ?&gt; // Displays the first slider only on your home page
+						&lt;?php layerslider(1, 'my-custom-post-title'); ?&gt; // Displays the first slider on a custom page by name
+						&lt;?php layerslider(2, '1369'); ?&gt; // Displays the second slider on a custom page by ID
+						&lt;?php layerslider('homefullwidth', 'category-name'); ?&gt; // Displays the slider with the slug 'homefullwidth' on ali/custom page by a category name
+						&lt;?php layerslider(3, 'homepage,about-us,1234'); ?&gt; // Displays the third slider on multiple pages</pre>
+					<p>When you want to insert a slider it is important to check its ID on the LayerSlider WP slider list page. When you remove some sliders, their IDs won't be re-indexed and the sequence may broke up. This is important to keep persistent your sliders preventing unwanted changes on the already inserted ones.</p>
+				</article>
+			</section>
+
+
+			<!-- Advanced Customization -->
+			<section>
+
+				<!-- Advanced Customization: Transition Builder -->
+				<article>
+
+					<h4>About Transition builder</h4>
+					<p>Since version 4.0.0, LayerSlider WP supports various types of slide transitions. The Transition Builder offers you an easy-to-use visual editor to create custom transitions for your own needs. Transitions created with the editor will automatically appear in the list of available transitions when you're editing a slider.</p>
+
+					<h4>Tips &amp; tricks</h4>
+					<p>We can recommend the same tips mentioned in the Slider Builder section:</p>
+					<ul>
+						<li>For more information about the available settings, just point your mouse cursor over an option and a tooltip message will appear describing the option's function and possible values.</li>
+						<li>Use the preview mode. The best way to learn is to instantly see how each option affect your work. Don't be afraid of changing settings, just observe the differences to understand their role.</li>
+						<li>We have sample transitions, too! They should be already added to the Transition Builder when you first visit the page. You can see the settings we've used to build these samples. There are some really simple ones, but you can find much more complex transitions as well to demonstrates advanced uses.</li>
+					</ul>
+
+					<h4>Building 3D transitions</h4>
+					<p>3D transitions are made up with 3 animation steps to create more-complex transitions with multiple actions. The "animation" step is required, but the "before animation" and "after animation" steps are optional. You can use them to do some preparation before the animation starts or restore back some settings after it is finished.</p>
+
+					<p>To help you better understand what are these steps, here is a simple example:</p>
+					<ul class="nomargin">
+						<li>Before the animation starts, you may want to scale down columns</li>
+						<li>Then rotate them to left</li>
+						<li>Finally, you want them to scale up back</li>
+					</ul>
+
+
+					<p>If you want a really simple transition, you don't have to use all the steps. In this case, please make sure to untick the "Enabled" checkboxes for the corresponding steps.</p>
+
+					<h4>Easings</h4>
+					<p>Easings are timing functions of the animations. You can manipulate the movement of animated objects with them. Please visit <a href="http://easings.net/" target="_blank">this page</a> to find out more about easings and see real-time examples with visual representation.</p>
+				</article>
+
+				<!-- Advanced Customization: Skin Editor -->
+				<article>
+					<h4>About LayerSlider WP Skin Editor</h4>
+
+					<p>The LayerSlider WP skin editor offers you a graphical way on your WP admin area to modify LayerSlider skins without the need to work with files on FTP. The Skin Editor automatically detects additional content, so you can customize skins from other sources as well.</p>
+
+					<div class="km-notification info cf">
+						<span class="icon-info-circled"></span>
+						Editing a skin requires some basic CSS knowledge, please do not attempt to modify a skin if you aren't familiar with CSS. Malformed or invalid CSS code can break your slider appearance.
+					</div>
+
+					<div class="km-notification warning">
+						<span class="icon-attention"></span>
+						Please note, updating the plugin (including auto-updates) will override the plugin folder along with your modifications. Consider using the <a data-goto="css-editor" href="#css-editor">CSS Editor</a> or back-up your modifications before updating.
+					</div>
+				</article>
+
+				<!-- Advanced Customization: CSS Editor -->
+				<article>
+					<h4>About LayerSlider WP CSS Editor</h4>
+
+					<p>With this editor you can enter your custom CSS code, which will be included on pages containing LayerSlider sliders. This gives you a chance for much more complex customizations that the Slider Builder interface cannot provide. Your CSS code will also be included in the Slider Builder, thus the Preview mode should pick them up and show the appropriate result on-the-fly.</p>
+
+					<div class="km-notification info cf">
+						<span class="icon-info-circled"></span>
+						Using CSS requires some web development experience. Please do not attempt to use this editor if you're not familiar with CSS. Malformed or invalid CSS code can break the appearance of sliders or your site.
+					</div>
+				</article>
+
+
+				<!-- Advanced Customization: LayerSlider API -->
+				<article>
+
+					<h4>About LayerSlider API</h4>
+					<p>LayerSlider is built on standard web technologies like HTML, CSS and Javascript, and offers a way to extend the capabilities of the plugin through the LayerSlider API. Please note, this requires programming skills and web development experience, thus we cannot recommend it to users without the necessary knowledge.</p>
+
+					<h4>Event reference</h4>
+					<p>Event callbacks can be used to modify the slider behavior, or wire it up with external solutions. The following events can be used under the <code>Event Callbacks</code> tab of the Slider Builder.</p>
+					<div class="table">
+						<table>
+							<thead>
+								<tr>
+									<th>Event</th>
+									<th>Description</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>cbInit</td>
+									<td>Fires when LayerSlider has loaded.</td>
+								</tr>
+								<tr>
+									<td>cbStart</td>
+									<td>Calling when the slideshow has started.</td>
+								</tr>
+								<tr>
+									<td>cbStop</td>
+									<td>Calling when the slideshow is stopped by the user.</td>
+								</tr>
+								<tr>
+									<td>cbPause</td>
+									<td>Firing when the slideshow is temporary on hold (e.g.: "Pause on hover" feature).</td>
+								</tr>
+								<tr>
+									<td>cbAnimStart</td>
+									<td>Calling when the slider commencing a slide change (animation start).</td>
+								</tr>
+								<tr>
+									<td>cbAnimStop</td>
+									<td>Firing when the slider finished a slide change (animation end).</td>
+								</tr>
+								<tr>
+									<td>cbPrev</td>
+									<td>Calling when the slider will change to the previous slide by the user.</td>
+								</tr>
+								<tr>
+									<td>cbNext</td>
+									<td>Calling when the slider will change to the next slide by the user.</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+
+					<h4>Slider data</h4>
+					<p>You can add a custom named variable in the function definition that will be filled up with data provided by the plugin. The <code>cbInit</code> callback will receive the slider DOM element itself, while all of the other events will have the data object of the slider. The data object can be used to access or override most of the settings that the slider is working with. Usually it is used to get the information related to slides and slideshow progression. The most commonly used properties are the following:</p>
+
+					<div class="table">
+						<table>
+							<thead>
+								<th>Property</th>
+								<th>Value</th>
+							</thead>
+							<tbody>
+								<tr>
+									<td>data['prevLayerIndex']</td>
+									<td>Returns the index of the previous slide</td>
+								</tr>
+								<tr>
+									<td>data['curLayer']</td>
+									<td>Returns the jQuery object of the current slide </td>
+								</tr>
+								<tr>
+									<td>data['curLayerIndex']</td>
+									<td>Returns the index of the current slide </td>
+								</tr>
+								<tr>
+									<td>data['nextLayer']</td>
+									<td>Returns the jQuery object of the next slide</td>
+								</tr>
+								<tr>
+									<td>data['nextLayerIndex']</td>
+									<td>Returns the index of the next slide</td>
+								</tr>
+								<tr>
+									<td>data['layersNum']</td>
+									<td>Returns the number of slides in the slider</td>
+								</tr>
+								<tr>
+									<td>data['isAnimating']</td>
+									<td>Returns true if the slider is animating at the time of execution</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+
+					<p>To list all properties in the data object just paste this code snippet into a callback function and check your browser's Javascript console:</p>
+					<pre name="code" class="brush: js">
+					for(key in data) {
+						console.log(key + ' = ' + data[key]);
+					}</pre>
+
+					<h4>API methods</h4>
+					<p>The below API methods can be used to control sliders externally, and wire them up with 3rd party solutions.</p>
+					<div class="table">
+						<table>
+							<thead>
+								<tr>
+									<th>Method</th>
+									<th>Description</th>
+									<th>Example</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>(integer)</td>
+									<td>The slider will change to the specified slide. It starts with 1.</td>
+									<td>$('#slider').layerSlider(3);</td>
+								</tr>
+								<tr>
+									<td>next</td>
+									<td>The slider will change the next slide.</td>
+									<td>$('#slider').layerSlider('next');</td>
+								</tr>
+								<tr>
+									<td>prev</td>
+									<td>The slider will change the previous slide.</td>
+									<td>$('#slider').layerSlider('prev');</td>
+								</tr>
+								<tr>
+									<td>stop</td>
+									<td>Will stop the slideshow.</td>
+									<td>$('#slider').layerSlider('stop');</td>
+								</tr>
+								<tr>
+									<td>start</td>
+									<td>Will continue or start the slideshow.</td>
+									<td>$('#slider').layerSlider('start');</td>
+								</tr>
+								<tr>
+									<td>data</td>
+									<td>Returns the slider data object</td>
+									<td>var data = $('#slider').layerSlider('data');</td>
+								</tr>
+								<tr>
+									<td>userInitData</td>
+									<td>Returns the object of the slider options which has been set by the user in the init code</td>
+									<td>var data = $('#slider').layerSlider('userInitData');</td>
+								</tr>
+								<tr>
+									<td>defaultInitData</td>
+									<td>Returns the full list of the default slider options</td>
+									<td>var data = $('#slider').layerSlider('defaultInitData');</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+
+					<div class="km-notification info">
+						<span class="icon-info-circled"></span>
+						Make sure to use the proper selector when targeting sliders. While in this example we use <code>#slider</code>, you will likely have different IDs.
+					</div>
+
+					<h4>Examples</h4>
+					<ul>
+						<li>
+							<p>Switch slides with custom controls:</p>
+							<pre name="code" class="brush: xml">
+					&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;$(&#039;#slider&#039;).layerSlider(2);&quot;&gt;Change to slide 2&lt;/a&gt;</pre>
+						</li>
+						<li>
+							<p>Combining callbacks and API methods:</p>
+							<p>The following example will bring up a message after every slide change with the current slider number. It can be used with the <code>cbAnimStop</code> event callback.</p>
+							<pre name="code" class="brush: js">
+							function(data) {
+								alert('The current slide is: ' + data['curLayerIndex']);
+							}</pre>
+						</li>
+						<li>
+							<p>Custom navigation area:</p>
+							<p>On <a href="http://pastebin.com/YHBFk1CR">this page</a> you can find a complete example for building a custom navigation area. Please note, this example involves other programming languages such as CSS, HTML and DOM manipulation, and it requires web development experience.</p>
+						</li>
+					</ul>
+				</article>
+			</section>
+
+			<!-- Troubleshooting -->
+			<section class="troubleshooting">
+
+				<h4>Before reporting an issue</h4>
+				<p>There are some common practices you should try before reporting an issue:</p>
+				<ul>
+					<li><strong>Always use the latest software versions!</strong><br> This includes your WordPress installation, LayerSlider, the WP theme you're using and any other plugin installed on your site. Third party plugins and themes (not hosted on wordpress.org) may not update automatically. Taking care to keep everything up-to-date can spare you from a lot of problems and frustration.</li>
+					<li><strong>Try to find the source of the problem!</strong><br> Issues could be related to other plugins/themes and their settings. We often ask our customers to temporarily disable other plugins and switch to one of the default WP themes. This way we can verify that the issue is related to LayerSlider, and is not an incompatibility with another item. If it solves the problem, you can find which item caused the trouble by re-enabling them one-by-one and watching when the issue comes back.</li>
+					<li><strong>Try to find a solution!</strong><br> A lot of times issues occur due to incorrect settings or other environmental factors. It's always a good idea to quickly review your settings and try to find a solution in the documentation or online by searching through our <a href="http://support.kreaturamedia.com/faq/4/layerslider-for-wordpress/" target="_blank">FAQs</a>, the <a href="http://codecanyon.net/item/layerslider-responsive-wordpress-slider-plugin-/1362246/comments" target="_blank">comments section</a> and the guides below.</li>
+				</ul>
+
+				<h4>General issues</h4>
+				<div class="table">
+					<table class="fr-200">
+						<thead>
+							<tr>
+								<th>Symptom</th>
+								<th>Solution</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Instead of the slider only the shortcode appears</td>
+								<td>Although WordPress parses shortcodes at most places, there are some exception. Most notably the Text Widget, that will ignore any shortcode. To fix this you can download 3rd party solutions that will not ignore your shortcodes.</td>
+							</tr>
+							<tr>
+								<td>An error message says the slider was not found</td>
+								<td>Please make sure that you've inserted the right shortcode, and the corresponding slider wasn't removed previously. Remember, the admin interface can list your removed sliders, but they will not show up on front-end pages until you restore them.</td>
+							</tr>
+							<tr>
+								<td>The slider doesn't show up at all</td>
+								<td>This most likely caused by a Javascript error on page. Please try to temporarily disable other plugins and switch to one of the default WP themes to see if it helps.</td>
+							</tr>
+							<tr>
+								<td>The slider only shows a loading indicator</td>
+								<td>This issue might occur when the slider cannot load some of the images used in the slider. They might be removed from your WP Media Library or pointing to incorrect URLs.</td>
+							</tr>
+							<tr>
+								<td>The slider doesn't proceed to the next slide</td>
+								<td>This is most likely the exact same issue described in the previous point.</td>
+							</tr>
+							<tr>
+								<td>Some images doesn't show up in the slider or have incorrect size/position</td>
+								<td>This is usually the symptom of image preloader solutions. It can be a part of another plugin or a built-in feature in your theme. Please review your settings, since most authors offer a way to disable this feature.</td>
+							</tr>
+							<tr>
+								<td>Flashing items when changing slides</td>
+								<td>This issue usually caused by a duplicate version loaded of the GreenSock animation library on your site, which may be used by your theme or another plugin. At the moment there isn't any known method to avoid issues like this, other than editing the theme/plugin files and manually prevent loading this library.</td>
+							</tr>
+							<tr>
+								<td>Layers quickly appear before animating in to the slide</td>
+								<td>See the previous point. It's the same issue.</td>
+							</tr>
+							<tr>
+								<td>The slider doesn't seem to repond changes made on the admin interface</td>
+								<td>If you're using a caching plugin like W3 Total Cache you need to manually empty the caches, so you can see the changes in real-time. These plugins usually offer a setting to disable caches for logged in admin users.</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+
+				<h4>Video issues</h4>
+				<div class="table">
+					<table class="fr-200">
+						<thead>
+							<tr>
+								<th>Symptom</th>
+								<th>Solution</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Grey preview image</td>
+								<td>Some videos don't have HD preview images, and you might need to lower the preview quality in your slider settings if it shows a grey image with 3 dots.</td>
+							</tr>
+							<tr>
+								<td>No preview image</td>
+								<td>Vimeo treats Pro/Plus videos as private, even if you make them publicly available. This causes the preview image not appearing in the slider making your videos invisible in some cases.</td>
+							</tr>
+							<tr>
+								<td>Videos in the slider have weird size or position</td>
+								<td>This usually caused by the FitVids Javascript plugin, which can be a part of other  plugins or the theme you're using. By temporarily disabling other plugins and switching to another WP theme you can find which item on your site causes this issue. Please contact with the plugin/theme author to solve this issue.</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+
+				<h4>jQuery-related issues</h4>
+				<div class="table">
+					<table class="fr-200">
+						<thead>
+							<tr>
+								<th>Symptom</th>
+								<th>Solution</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Multiple jQuery issue</td>
+								<td>Your site includes the jQuery library in multiple times. This could be an issue with another plugin or the WP theme you're using. Enabling the <code>Put JS includes to body</code> option in the Troubleshooting &amp; Advanced Settings box should fix this issue.</td>
+							</tr>
+							<tr>
+								<td>Old jQuery issue</td>
+								<td>LayerSlider requires using an up-to-date version of the jQuery library. We strongly recommend to have at least version 1.8, but some of the new features might only work with newer releases.<br><br>If LayerSlider shows an "Old jQuery issue", it's likely that another plugin or your WP theme uses an outdated release. Please make sure that every plugin and your theme is up-to-date and you're using the latest releases. You can also try to enable the <code>Use Google CDN version of jQuery</code> option in the Troubleshooting &amp; Advanced Settings box, but it's possible that you need to contact with plugin/theme author and ask for a solution if nothing helps.</td>
+							</tr>
+							<tr>
+								<td>jQuery Transit issue</td>
+								<td>This issue occurred when another pugin/theme loaded a second copy of the jQuery Transit library. Since LayerSlider v5.0.0, we're no longer using jQuery Transit, and this issue will not affect users after upgrading. </td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+
+				<h4>Saving/Database issues</h4>
+				<div class="table">
+					<table class="fr-200">
+						<thead>
+							<tr>
+								<th>Symptom</th>
+								<th>Solution</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>I cannot save an existing slider</td>
+								<td>There can be several reasons why this happens. Most likely it is an incompatibility with another plugin that causes a Javascript error or some kind of server-side issue. Please try to temporarily disable other plugins and switch to one of the default WP themes to see if it helps.</td>
+							</tr>
+							<tr>
+								<td>I cannot add/edit/remove sliders</td>
+								<td>If you're experiencing multiple issues managing your sliders, there's probably a database related issue. A common workaround is to disable LayerSlider and then immediately re-active it. This will trigger the activations scripts in the plugin that will attempt to rebuild/repair the DB table that LayerSlider uses. If this doesn't help, please contact with your web hosting provider and check for any database related problems on your sites such as permissions issues.</td>
+							</tr>
+							<tr>
+								<td>All of my work is just disappeared</td>
+								<td>This most likely the same issue described in the previous point. Your work is probably still intact, but a database issue cloud prevent the plugin to show them on the admin interface.</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+
+				<h4>Other issues</h4>
+				<div class="table">
+					<table class="fr-200">
+						<thead>
+							<tr>
+								<th>Symptom</th>
+								<th>Solution</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>The LayerSlider menu item doesn't show up on the admin sidebar</td>
+								<td>By default LayerSlider is only accessible for admin users. See <a data-goto="permission-settings" href="#permission-settings">Getting Started / Permission settings</a> to change this behavior. If you have an admin account it's possible that these settings have already been changed and the plugin page became unavailable for you.</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+
+			</section>
+
+			<!-- Developer documentation -->
+			<section>
+				<h4>It's for developers!</h4>
+				<p>You can skip this part of the documentation if you are not a developer. Our guides in the developer documentation were made for theme authors and programmers who want to incorporate the plugin into a larger work, or want to modify and extend its capabilities.</p>
+				<h4>What it has to offer?</h4>
+				<p>Our developer documentation includes the licensing terms, theme integration guides, plugin APIs, and any other assets you might need to use to work with the plugin beyond its basics.</p>
+				<p>
+					<a href="developers.html">Open the documentation for developers</a>
+				</p>
+			</section>
+
+
+			<!-- Release log -->
+			<section>
+
+				<!-- Release log: What's new? -->
+				<article>
+
+					<h4>Changes in version 5.6.2</h4>
+					<ul class="nomargin">
+						<li>Added "Use slider markup caching" option to advanced settings</li>
+						<li>Added "Download latest version manually" option to the Auto-Updates feature</li>
+						<li>The "Concatenate output" option is now disabled by default</li>
+						<li class="nomargin">
+							The "Include scripts in the footer" option will now move all inline scripts to the footer as well
+							<ul>
+								<li>This will also fix other potential JS errors, such as when jQuery is moved to the footer</li>
+							</ul>
+						</li>
+						<li>Fixed issues with enabled caching when the same slider is inserted on a page repeatedly</li>
+						<li>Fixed the "Conditional script loading" option, which caused sliders to not render properly under WP 4.3</li>
+					</ul>
+
+					<h4>Changes in version 5.6.1</h4>
+					<ul class="nomargin">
+						<li>Fixed saving certain options in Slider Settings</li>
+						<li>Fixed Word Wrap option in live preview</li>
+					</ul>
+
+					<h4>Changes in version 5.6.0</h4>
+					<ul>
+						 <li>
+						 	<strong>Huge performance boost:</strong>
+						 	<p>Our Slider Builder interface loads and works drastically faster, while it uses considerably less resources on both the server and client-side. The amount of content you add to sliders no longer has an impact on performance, the editor should always be fast and responsive. This also fixes the memory limit and execution time issues on servers with limited resources.</p>
+						 </li>
+						 <li>
+						 	<strong> Caching slider markup:</strong>
+						 	<p>LayerSlider now uses its own caching mechanism to spare your server from unnecessary load. Most installations support memory caching, which provides instant access to your sliders based on visiting frequency. This means that a slider on your front-page could stay in memory for improved speed, but another one in a sub-page might fall back to regular disk cache to free up resources for the content matters the most.</p>
+						 </li>
+						 <li>
+						 	<strong>Minor interface changes:</strong>
+						 	<p>We made a minor interface change in the list of layers, which you hopefully find familiar. Hiding/locking layers now has a permanent effect. The layer settings section has been placed closer to the preview, so you need to scroll less.</p>
+						 </li>
+					</ul>
+					<ul>
+						<li>
+							<strong>New features:</strong>
+							<ul class="nomargin">
+								<li>Added bulk slide creation when selecting multiple images</li>
+								<li>The slider builder now restores previous editing sessions (i.e. active slide/layer, etc)</li>
+								<li>You can now easily select overlapped layers just by right-clicking on them in Preview</li>
+							</ul>
+						</li>
+
+						<li>
+							<strong>Other changes:</strong>
+							<ul class="nomargin">
+								<li>Updated GreenSock library for improved animation performance (especially on mobile)</li>
+								<li>Removed old media uploader support (pre-WP 3.5)</li>
+							</ul>
+						</li>
+
+						<li>
+							<strong>Fixed issues:</strong>
+							<ul class="nomargin">
+								<li>Fixed WordPress debug message under WP 4.3.</li>
+								<li>Fixed Screen Options button under WP 4.3.</li>
+								<li>Fixed several issues with embedded YouTube videos</li>
+								<li>Fixed issues when adding images from external URL</li>
+								<li>Fixed duplicating sliders with really long names</li>
+								<li>Fixed glitches when reordering layers</li>
+								<li>Fixed the <code>layerslider_slider_markup</code> filter hook</li>
+								<li>Fixed losing transition and layer style settings when saving (magic_quotes)</li>
+								<li>Fixed memory limit and execution time issues on servers with limited resources</li>
+								<li>Fixed timeline</li>
+							</ul>
+						</li>
+					</ul>
+				</article>
+
+				<!-- Release log: Previous versions -->
+				<article>
+
+					<h4>Changes in version 5.5.1</h4>
+					<ul class="normargin">
+						<li>Fixed WordPress debug message under WP 4.3.</li>
+					</ul>
+
+					<h4>Changes in version 5.5.0</h4>
+					<ul class="nomargin">
+						<li>
+							Added back the auto-generated excerpts based on the native WP behavior:
+							<ul class="nomargin">
+								<li>Manually entered excerpts will remain "as is", without any modification or formatting. Custom HTML code is allowed.</li>
+								<li>Auto-generated excerpts have all shortcodes and HTML tags removed and they will appear as plain text.</li>
+								<li>Auto-generated excerpts will be trimmed down to 55 words. The [...] "hellip" sign will be appended at the end if the text exceeds this limitation.</li>
+								<li>Custom word count used by themes will automatically be applied in your sliders. Developers can override it by using filter hooks.</li>
+								<li>Auto-generated excerpts respect WP's <code>&lt;!--more--&gt;</code> tag, so you can easily split your content at the point you want.</li>
+								<li>Text length limitation will remain as an optional feature on a per layer basis. <br><br></li>
+							</ul>
+						</li>
+						<li>Providing update notification for unauthorized sites as well</li>
+						<li>The settings boxes below your list of sliders has been grouped under a tabbed interface</li>
+						<li>Significantly improved YouTube video playback behavior</li>
+						<li>Fixed an issue that prevented some users to properly import our sample sliders</li>
+						<li>Fixed update installation from LayerSlider's admin interface</li>
+						<li>Fixed 'yourLogo style' option in Slider Settings</li>
+						<li>Fixed an issue that caused appearance issues for a few users in Slider Settings</li>
+						<li>Prevent the LS Help menu entry showing up on non-LayerSlider admin pages</li>
+						<li>Fixed the 'Enjoy using LayerSlider?' share sheet appearing in cases when it should not</li>
+						<li>Extended developer documentation with improved examples</li>
+						<li>Updated End-User documentation</li>
+					</ul>
+
+					<h4>Changes in version 5.4.0</h4>
+					<ul class="nomargin">
+						<li>Entirely new documentation</li>
+						<li>Added option to import sliders without their images</li>
+						<li>Slide backgrounds now parse shortcodes when used in "Enter URL"</li>
+						<li>The LayerSlider shortcode can now accept filtering options</li>
+						<li>Improved compatibility with image preloaders</li>
+						<li>Improved compatibility with certain plugins/themes</li>
+						<li>Fixed several issues with dynamic layers</li>
+						<li>Fixed issues when the same slider was inserted on a page in multiple times</li>
+						<li>Fixed TinyMCE editor tool to properly work with multiple instances on page</li>
+						<li>Fixed some potential JS errors that could happen in some very rare cases</li>
+						<li>YouTube video thumbnails have not been loaded until the previous slide</li>
+					</ul>
+
+					<h4>Changes in version 5.3.2</h4>
+					<ul class="nomargin">
+						<li>Fixed skins on Windows servers</li>
+						<li>The skin URL now respects HTTPS sites</li>
+						<li>Importing sliders now restores their slug/alias</li>
+						<li>Various other small fixes and improvements</li>
+					</ul>
+
+					<h4>Changes in version 5.3.1</h4>
+					<ul class="nomargin">
+						<li>Fixed issues with skins</li>
+						<li>Fixed a PHP fatal error on certain installations</li>
+					</ul>
+
+					<h4>Changes in version 5.3.0</h4>
+					<ul class="nomargin">
+
+						<li>Added new API method 'redraw' to update the slider's layout and contents.</li>
+						<li>Fixed Javascript error if a slider doesn't have any slide.</li>
+						<li>Fixed several issues related to self-hosted HTML5 video playback.</li>
+						<li>Fixed responsive mode of full width sliders when the orientation changes on mobile devices.</li>
+					</ul>
+					<ul class="nomargin">
+						<li>Added LS_Sources class for developers to load skins and demo sliders externally.</li>
+						<li>Added Turkish translation thanks to marketplace user <a href="http://codecanyon.net/user/thernic/" target="_blank">thernic</a>.</li>
+						<li>The LayerSlider shortcode is now registered globally, thus page builder solutions can pick it up automatically.</li>
+						<li>Improved compatibility with CloufFlare's RocketScript.</li>
+						<li>Revamped auto-update modal window to fit WP's new design.</li>
+						<li>Fixed an issue related to invalid JSON data, which caused various issues on the admin interface in some cases. Most notably it broke adding/removing slides and the WYSIWYG editor.</li>
+						<li>Fixed "enter URL" button of slide background.</li>
+						<li>Fixed "undefined constant WPLANG" error message that occurred on some installations.</li>
+					</ul>
+
+					<h4>Changes in version 5.2.1</h4>
+					<ul class="nomargin">
+						<li>Added "Latin Extended" to default Google Fonts character sets</li>
+						<li>Fixed slider slugs/aliases</li>
+						<li>Fixed the transition chooser appearing when hitting the Enter key in text fields</li>
+						<li>Fixed broken layer style settings when using double quotes in certain options</li>
+						<li>Fixed some dynamic contents not showing up in real-time previews</li>
+						<li>Selecting recently used colors in the color picker now properly update the WYSIWYG slider editor</li>
+						<li>Other small bug fixes and improvements</li>
+					</ul>
+
+					<h4>What's new in version 5.2.0?</h4>
+					<ul>
+						<li>
+							<b>New features</b>
+							<ul class="nomargin">
+								<li>A major interface revamp with flat design</li>
+								<li>New transition gallery design with filtering options</li>
+								<li>Added option to apply the currently selected transition to other slides</li>
+								<li>Added option to set post image as the slide background</li>
+								<li>Added option to link the whole slide to post URL</li>
+								<li>Added option to easily link layers to post URL under the 'Link' tab</li>
+								<li>Added option to easily use post image without placeholders</li>
+								<li>Supporting meta post placeholders to print out non-standard post informations (e.g. product details in WooCommerce)</li>
+								<li>Supporting all Google Fonts character sets</li>
+								<li>Added an option to set the duration of the fade transition when the slider is showing up for the first time on page load</li>
+								<li>Added an option to start the slider only if it enters into the viewport</li>
+								<li>Added an option to hide the slider on mobile devices</li>
+								<li>Added an option to hide the slider under the given value of browser width in pixels</li>
+								<li>Added an option to hide the slider over the given value of browser width in pixels</li>
+								<li>Recently used colors in the color picker</li>
+								<li>Support qTranslate in dynamic post contents</li>
+								<li>Support 'random' in shortcode and LS_Sliders PHP class</li>
+								<li>Support category-name filter in layerslider() PHP function</li>
+								<li>Support for including multiple media sources for self hosted video/audio</li>
+								<li>Added new API methods: userInitData, defaultInitData</li>
+								<li>Changed API properties: prevLayerIndex, curLayerIndex</li>
+							</ul>
+						</li>
+						<li>
+							<b>Improvements</b>
+							<ul class="nomargin">
+								<li>Quicker and more reliable saving method</li>
+								<li>Fixed every known issues with import/export</li>
+								<li>Fixed character encoding issues</li>
+								<li>The plugin no longer relies on mb_eregi() PHP function</li>
+								<li>Fixed missing custom thumbnails when the 'hover' option was selected for the navigation area</li>
+								<li>Fixed several issues with full width sliders, including the "jump" when the page loads</li>
+								<li>Fixed TinyMCE LayerSlider button under WP 3.9+</li>
+								<li>Sliders are no longer remain visible on front-end when they removed instead of deleting</li>
+								<li>Fixed an issue that reset the post options after duplicating slides</li>
+								<li>Fixed several issues with embedded HTML5 videos</li>
+								<li>Fixed an issue which prevented to show embedded video thumbnails on first slide</li>
+								<li>Fixed the stuck loading indicator when some images were missing or couldn't be loaded</li>
+								<li>Fixed the curLayerIndex API variable</li>
+								<li>Security fixes, including a potential directory traversal issue</li>
+								<li>Added an updated version of Greensock Animation Engine with performance improvements and bug fixes</li>
+								<li>Lots and lots of other fixes and improvements <br><br></li>
+							</ul>
+						</li>
+						<li>
+							<b>Bug fixes</b>
+							<ul class="nomargin">
+								<li>Prevent Google and other search engines to index the plugin folder of LayerSlider</li>
+								<li>Slide background images now have proper "alt" attribute based on the attachment/post details</li>
+								<li>Video layers are ignoring the Show until parameter while playing</li>
+								<li>Fixed an issue that caused background flickering in some cases</li>
+								<li>The slider won't hang up if an image layer couldn't be loaded</li>
+								<li>Reduced package file size by removing unnecessary files and legacy code</li>
+								<li>Added some extra CodeMirror instances to edit custom CSS more easily</li>
+								<li>Added play icon to the 'noskin' skin</li>
+								<li>Fixed broken autoplay feature of HTML5 videos</li>
+							</ul>
+						</li>
+					</ul>
+
+					<h4>Changes in version 5.1.2</h4>
+					<ul class="nomargin">
+						<li>Fixed 3D transitions in the latest versions of Chrome</li>
+						<li>Improved compatibility with WeatherSlider WP and wpStickies</li>
+					</ul>
+
+					<h4>Changes in version 5.1.1</h4>
+					<ul class="nomargin">
+						<li>Fixed some appearance issues</li>
+						<li>Fixed an issue in the new import method</li>
+					</ul>
+
+					<h4>Changes in version 5.1.0</h4>
+					<ul class="nomargin">
+						<li>Added support for exporting/importing sliders with images</li>
+						<li>Added ability to export/import multiple sliders with custom selection</li>
+						<li>Added slider slug/alias support</li>
+						<li>Added notification of plugin dependencies when detecting issues</li>
+						<li>Fixed several issues related to dynamic sliders from posts</li>
+						<li>Fixed several issues related to embedded videos</li>
+						<li>Fixed timeline view</li>
+						<li>Fixed slide linking issue</li>
+						<li>Fixed the slide ID attribute</li>
+						<li>Fixed issues with relative URLs</li>
+						<li>Fixed invalid error messages after saving</li>
+						<li>Fixed "Convert" button when updating from outdated versions</li>
+						<li>Various other fixes, improvements and interface enhancements</li>
+						<li>Extended APIs for developers with extended documentation</li>
+					</ul>
+
+					<h4>Changes in version 5.0.2</h4>
+					<ul class="nomargin">
+						<li>Added [image-url] post placeholder</li>
+						<li>Fixed excerpt post placeholder</li>
+						<li>Fixed slide transition issues</li>
+						<li>Fixed blank slider editor issue</li>
+						<li>Fixed loops slider setting</li>
+						<li>Fixed HTML5 video sizing issue</li>
+						<li>Reduced installable ZIP by dropping old sample sliders to avoid installation problems</li>
+						<li>Interface adjustments</li>
+					</ul>
+
+					<h4>Changes in version 5.0.1</h4>
+					<ul class="nomargin">
+						<li>Added Dashicons support</li>
+						<li>Fixed file permissions that caused various issues in some cases</li>
+						<li>Fixed WPML and better URL handling</li>
+						<li>Fixed tag and category list post placeholders</li>
+						<li>Fixed locales</li>
+						<li>Fixed other small issues, which caused PHP warnings</li>
+						<li>Fixed layer transitions if there are no slide background images</li>
+						<li>Fixed the starting position of layers with percentage value of width</li>
+					</ul>
+
+					<h4>Changes in version 5.0.0</h4>
+					<ul>
+						<li>
+							<strong>New features</strong>
+							<ul class="nomargin">
+								<li>Build dynamic sliders from WordPress posts and pages  with advanced filters for finding posts or mixing them with static content</li>
+								<li>Use Google Fonts with built-in search and configuration options</li>
+								<li>Advanced settings like scripts in the footer, conditional script loading etc. to improve performance </li>
+								<li>Parallax Layers - a fancy parallax effect by mouse move</li>
+								<li>New layer transitions: rotateX, rotateY and skew with option to set transformOrigin</li>
+								<li>Added a new skin</li>
+								<li>Easily upload and insert self-hosted HTML5 video &amp; audio</li>
+								<li>Option to restore or permanently delete removed sliders</li>
+								<li>Bulk actions with option to merge sliders together</li>
+								<li>Added “Max-width” option for responsive mode</li>
+								<li>Added “Lazy load” option</li>
+							</ul>
+						</li>
+						<li>
+							<strong>Interface changes</strong>
+							<ul class="nomargin">
+								<li>Major interface revamp</li>
+								<li>Using CodeMirror at various places for CSS and JS code editing</li>
+								<li>Added timeline view  to review your transition timings like in a movie editor</li>
+								<li>New image upload boxes with an easier way to load images from external URLs</li>
+								<li>Added a LayerSlider entry under the “New” menu on the admin bar</li>
+								<li>Added LayerSlider helper for page and post editor to include sliders easily</li>
+								<li>Using cleaner language across the plugin and docs</li>
+								<li>New sample sliders included</li>
+							</ul>
+						</li>
+						<li>
+							<strong>Improvements</strong>
+							<ul class="nomargin">
+								<li>Slides and layers can now animating at the same time</li>
+								<li>Layers can now fade + slide at the same time</li>
+								<li>Super smooth transitions with the Greensock engine</li>
+								<li>Improved some layer transitions like fade, slide (axis-free), scale, etc.</li>
+								<li>Improved crossfading slide transition with semi-transparent PNG files</li>
+								<li>Smarter preloading images with lazy load</li>
+								<li>Considerably cleaner markup</li>
+								<li>Ability to override the default slider settings</li>
+								<li>Added lots of action and filter hooks</li>
+								<li>Uploaded contents are not relying on URLs anymore</li>
+								<li>Using nonces to secure your pages</li>
+								<li>Brand new docs</li>
+							</ul>
+						</li>
+						<li>
+							<strong>Fixes</strong>
+							<ul class="nomargin">
+								<li>Fixed the '1px slide transition bug'</li>
+								<li>Fixed markup issues such as missing alt attributes in some cases</li>
+								<li>Improved saving to avoid some web server related issues</li>
+							</ul>
+						</li>
+					</ul>
+				</article>
+			</section>
+
+			<!-- Support -->
+			<section>
+
+				<h4>Before reporting an issue</h4>
+				<p>There are some common practices you should try before reporting an issue:</p>
+				<ul>
+					<li><strong>Always use the latest software versions!</strong><br> This includes your WordPress installation, LayerSlider, the WP theme you're using and any other plugin installed on your site. Third party plugins and themes (not hosted on wordpress.org) may not update automatically. Taking care to keep everything up-to-date can spare you from a lot of problems and frustration.</li>
+					<li><strong>Try to find the source of the problem!</strong><br> Issues could be related to other plugins/themes and their settings. We often ask our customers to temporarily disable other plugins and switch to one of the default WP themes. This way we can verify that the issue is related to LayerSlider, and is not an incompatibility with another item. If it solves the problem, you can find which item caused the trouble by re-enabling them one-by-one and watching when the issue comes back.</li>
+					<li><strong>Try to find a solution!</strong><br> A lot of times issues occur due to incorrect settings or other environmental factors. It's always a good idea to quickly review your settings and try to find a solution in the documentation or online by searching through our <a href="http://support.kreaturamedia.com/faq/4/layerslider-for-wordpress/" target="_blank">FAQs</a> and the <a href="http://codecanyon.net/item/layerslider-responsive-wordpress-slider-plugin-/1362246/comments" target="_blank">comments section</a>.</li>
+				</ul>
+
+				<h4>How to Contact Us</h4>
+				<p>
+					If you didn't find answer to your problem, please ask your question on <a href="http://codecanyon.net/item/layerslider-responsive-wordpress-slider-plugin-/1362246/comments?ref=kreatura" target="_blank">the item discussion page</a> or send us a private message from our <a href="http://codecanyon.net/user/kreatura?ref=kreatura" target="_blank">Codecanyon profile page</a> (See the "Email kreatura" box on the right sidebar) - in this case we will reply via email. <strong>We can answer your support questions only in these ways, please do not email us directly.</strong>
+				</p>
+				<p>
+					<strong>
+					IMPORTANT!</strong> For fast troubleshooting, please send us detailed informations about the issue you're experiencing. Also <strong>send us your site url</strong> whenever it's possible, so we can check your slider for potential issues and quickly suggest a solution. Please note, that we cannot troubleshoot from screencast videos or screenshots.
+				</p>
+				<p>Please be patient as it takes some time until we respond (usually in 24 - 48 hours).</p>
+
+				<h4>Useful pages</h4>
+				<div class="table">
+					<table>
+						<thead>
+							<tr>
+								<th>Site</th>
+								<th>You can find here...</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									<a href="http://kreaturamedia.com/layerslider-responsive-wordpress-slider-plugin/" target="_blank">The website of the item</a>
+								</td>
+								<td>demo sliders and examples</td>
+							</tr>
+							<tr>
+								<td>
+									<a href="http://codecanyon.net/item/layerslider-responsive-wordpress-slider-plugin-/1362246?ref=kreatura" target="_blank">Codecanyon item page</a>
+								</td>
+								<td>the latest version of the plugin</td>
+							</tr>
+							<tr>
+								<td>
+									<a href="http://codecanyon.net/item/layerslider-responsive-wordpress-slider-plugin-/1362246/comments?ref=kreatura" target="_blank">Codecanyon discussion</a>
+								</td>
+								<td>an item discussion topic where you can ask your questions if you get stuck</td>
+							</tr>
+							<tr>
+								<td><a href="http://support.kreaturamedia.com/faq/4/layerslider-for-wordpress/" target="_blank">FAQ of the item</a></td>
+								<td>a detailed FAQ with answers for the most commonly asked questions and reported issues</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</section>
+		</div>
+	</div>
+
+
+	<script src="assets/js/jquery.js"></script>
+	<script src="assets/js/syntaxhighlighter/scripts/shCore.js" type="text/javascript"></script>
+	<script src="assets/js/syntaxhighlighter/scripts/shBrushJScript.js" type="text/javascript"></script>
+	<script src="assets/js/syntaxhighlighter/scripts/shBrushXml.js" type="text/javascript"></script>
+	<script src="assets/js/syntaxhighlighter/scripts/shBrushCss.js" type="text/javascript"></script>
+	<script src="assets/js/syntaxhighlighter/scripts/shBrushPhp.js" type="text/javascript"></script>
+	<script src="assets/js/doc.js"></script>
+</body>
+</html>

@@ -1,0 +1,5124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Uncode\n"
+"Report-Msgid-Bugs-To: info@undsgn.com\n"
+"POT-Creation-Date: 2019-09-03 12:20+0200\n"
+"PO-Revision-Date: 2019-09-03 17:08+0200\n"
+"Last-Translator: Manuel Masia | Pixedelic <manu@pixedelic.com>\n"
+"Language-Team: Undsgn <info@undsgn.com>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"X-Generator: Poedit 2.0.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:71
+msgid "Opps! Something went wrong…"
+msgstr "Hopa! Ceva nu a mers bine....."
+
+#: 404.php:72
+msgid "Page not found. Please continue to our"
+msgstr "Pagina nu a fost gasita. Vă rugăm să continuați să ne"
+
+#: 404.php:72
+msgid "home page"
+msgstr "pagina principala"
+
+#: comments.php:28
+#, php-format
+msgctxt "comments"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Comentariu"
+msgstr[1] "%1$s Comentarii"
+msgstr[2] "%1$s Comentarii"
+
+#: comments.php:35 comments.php:55
+msgid "Comment navigation"
+msgstr "Comentariu de navigare"
+
+#: comments.php:37 comments.php:57
+msgid "Older Comments"
+msgstr "Comentarii mai vechi"
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments"
+msgstr "Comentarii mai noi"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Comentariile sunt închise."
+
+#: comments.php:75
+msgid "Log out"
+msgstr "Ieșire din cont"
+
+#: comments.php:77
+msgctxt "noun"
+msgid "Comment"
+msgstr "Cometariu"
+
+#: comments.php:84
+msgid "Add comment"
+msgstr "Adaugă comentariu"
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "Nimic găsit"
+
+#: content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gata de a publica prima postare? <a href=\"%1$s\">Începeți aici</a>."
+
+#: content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Ne pare rău, dar nimic nu corespund cu termenii de căutare. Vă rugăm să "
+"încercați din nou cu unele cuvinte cheie diferite."
+
+#: content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+
+#: content.php:50
+#, fuzzy
+#| msgid "Please active Uncode Core plugin to version > 1.0.5"
+msgid "Please activate Uncode Core plugin"
+msgstr "Vă rugăm să activați Unicode Core plug-in pentru versiunea> 1.0.5"
+
+#: core/inc/admin-pages/support.php:30
+#: core/inc/admin-pages/uncode-panel-functions.php:60
+#: core/inc/admin-pages/uncode-panel-functions.php:61
+#, fuzzy
+msgid "Support"
+msgstr "Site-ul nu suportă widget"
+
+#: core/inc/admin-pages/support.php:40
+msgid "General"
+msgstr "General"
+
+#: core/inc/admin-pages/support.php:41
+msgid ""
+"General information about WordPress, Server Requirements and Uncode Theme "
+"versions."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:46
+msgid "First Steps"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:47
+msgid ""
+"Uncode Theme and plugins installation guide, Demo Contents import and theme "
+"update."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:52
+msgid "Theme Options"
+msgstr "Opțiuni temă"
+
+#: core/inc/admin-pages/support.php:53
+msgid ""
+"Options are the backbone of Uncode and they give you full control over your "
+"website."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:58
+#, fuzzy
+msgid "Page & Posts"
+msgstr "Produse Asemănatoare"
+
+#: core/inc/admin-pages/support.php:59
+msgid ""
+"Discover how to create, customise and manage pages, blog posts and portfolio "
+"items."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:64
+#, fuzzy
+#| msgid "Placeholder"
+msgid "Page Builder"
+msgstr "Placeholder"
+
+#: core/inc/admin-pages/support.php:65
+msgid ""
+"Learn how to create beautiful pages quickly with the powerful Uncode’s Page "
+"Builder."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:70
+#, fuzzy
+#| msgid "Header"
+msgid "Headers"
+msgstr "Antet"
+
+#: core/inc/admin-pages/support.php:71
+msgid ""
+"Uncode works with 4 different header types fully integrated with the Theme "
+"Options."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:76
+msgid "Extra"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:77
+msgid ""
+"Advanced features and additional plugins to boost your Uncode Theme "
+"functionalities."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:82
+msgid "How To"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:83
+msgid ""
+"Discover how to work with some of the most common elements and features of "
+"Uncode."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:88
+msgid "FAQ"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:89
+msgid ""
+"Search the frequent asked questions from the customer community before open "
+"a ticket."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:112
+msgid "Knowledge Base"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:141
+#, fuzzy
+#| msgid "Left Center"
+msgid "Help Center"
+msgstr "Stânga Centru"
+
+#: core/inc/admin-pages/support.php:145
+#, php-format
+msgid ""
+"According to Envato’s terms, Uncode comes with 6 months of support for every "
+"purchase, and free lifetime theme updates. This support can be %s via "
+"ThemeForest."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:145
+msgid "extended through subscriptions"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:147
+msgid ""
+"Support is limited to questions regarding the Uncode's features, or problems "
+"with the theme. To open a support ticket, please navigate to our Help Center "
+"homepage and click the 'Submit a request' in the top right corner. One of "
+"our Support Team members will respond to you shortly."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:149
+msgid "Item Support DOES include:"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:151
+msgid "Availability of the theme's authors to answer questions;"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:152
+msgid "Answers to technical queries about the theme's features;"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:153
+msgid "Assistance with reported bugs and issues."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:156
+msgid "Item Support DOES NOT include:"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:158
+#, fuzzy
+#| msgid "Custom font size"
+msgid "Customization services;"
+msgstr "Personalizează mărime font"
+
+#: core/inc/admin-pages/support.php:159
+msgid "Installation services;"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:160
+msgid "Help and support for non-bundled third-party plugins that you install."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:163
+msgid "Submit a request"
+msgstr ""
+
+#: core/inc/admin-pages/uncode-panel-functions.php:16
+#, php-format
+msgid ""
+"Thank you for choosing %s theme from ThemeForest. Please register your "
+"purchase and make sure that you've fulfilled all of the requirements."
+msgstr ""
+
+#: core/inc/admin-pages/uncode-panel-functions.php:18
+#, php-format
+msgid ""
+"%s - Creative Multiuse WordPress Theme is now installed and ready to use!"
+msgstr ""
+
+#: core/inc/admin-pages/uncode-panel-functions.php:22
+#: core/inc/admin-pages/welcome.php:23
+msgid "Welcome"
+msgstr "Bine ati venit"
+
+#: core/inc/admin-pages/uncode-panel-functions.php:23
+#, fuzzy
+#| msgid "Welcome to "
+msgid "Welcome to Uncode"
+msgstr "Bun venit la"
+
+#: core/inc/admin-pages/uncode-panel-functions.php:28
+#: core/inc/admin-pages/uncode-panel-functions.php:29
+#, fuzzy
+#| msgid "Plugin"
+msgid "Plugins"
+msgstr "Plugin"
+
+#: core/inc/admin-pages/uncode-panel-functions.php:30
+msgid ""
+"Uncode Core and Uncode WPBakery Page Builder are the only required plugins. "
+"Any other plugins are optional."
+msgstr ""
+
+#: core/inc/admin-pages/uncode-panel-functions.php:37
+#: core/inc/admin-pages/uncode-panel-functions.php:38 core/inc/admin.php:139
+#, fuzzy
+#| msgid "Import log"
+msgid "Import Demo"
+msgstr "Import log"
+
+#: core/inc/admin-pages/uncode-panel-functions.php:39
+#, fuzzy
+#| msgid ""
+#| "Here you can import with one click all the content from our demo site, "
+#| "this is the easiest way to setup your theme. It will allow you to quickly "
+#| "edit everything instead of creating content from scratch. When you import "
+#| "the data following things will happen:"
+msgid ""
+"Here you can import demo layouts. This is the easiest way to start building "
+"your site. Before you install any demos, please read through the following "
+"information."
+msgstr ""
+"Aici puteți importa cu un singur click tot conținutul demo de pe site-ul "
+"nostru, acest lucru este cel mai simplu mod de a seta tema. Acesta vă va "
+"permite să modificați rapid totul în loc să creați conținut de la zero. "
+"Atunci când importați date următoarele lucruri se vor întâmpla:"
+
+#: core/inc/admin-pages/uncode-panel-functions.php:44
+#: core/inc/admin-pages/uncode-panel-functions.php:45
+#, fuzzy
+#| msgid "Font Sources"
+msgid "Font Stacks"
+msgstr "Surse de fonturi"
+
+#: core/inc/admin-pages/uncode-panel-functions.php:46
+msgid ""
+"Import fonts from the most popular fonts libraries and create your Font "
+"Stacks."
+msgstr ""
+
+#: core/inc/admin-pages/uncode-panel-functions.php:51
+#: core/inc/admin-pages/uncode-panel-functions.php:52
+msgid "Options Utils"
+msgstr ""
+
+#: core/inc/admin-pages/uncode-panel-functions.php:53
+msgid ""
+"Find useful tools to save as manual backup or to export/import your Theme "
+"Options."
+msgstr ""
+
+#: core/inc/admin-pages/uncode-panel-functions.php:62
+msgid ""
+"Our online documentation is an incredible resource for learning how to use "
+"Uncode. We also offer private support throughout our Help Center."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:25
+#, fuzzy
+#| msgid "Reset Options"
+msgid "Registration"
+msgstr "Resetează Opțiuni"
+
+#: core/inc/admin-pages/welcome.php:29
+msgid ""
+"Uncode is ready to be used. Please register your product to import Demo "
+"Contents, to install Premium Plugins and get automatic updates."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:39
+msgid "Envato Purchase Code"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:43
+#, php-format
+msgid "Please insert your Envato Purchase Code. %s."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:43 core/inc/admin-pages/welcome.php:70
+#: core/inc/admin-pages/welcome.php:251 core/inc/admin-pages/welcome.php:281
+#: core/inc/admin-pages/welcome.php:290
+msgid "More info"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:51 core/inc/admin-pages/welcome.php:457
+msgid "Where can I find my Envato Purchase Code?"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:51
+#, fuzzy
+#| msgid "Video"
+msgid "video"
+msgstr "Video"
+
+#: core/inc/admin-pages/welcome.php:53
+#, php-format
+msgid "Access your %s with the account that was used to purchase Uncode"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:53
+msgid "ThemeForest downloads"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:54
+msgid ""
+"Look for Uncode in your list of purchases, click the Download button and "
+"select 'License Certificate & Purchase Code'"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:55
+msgid ""
+"Copy the 'Item Purchase Code' into the field 'Envato Purchase Code' of the "
+"Registration page"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:57
+msgid "Your ThemeForest Downloads"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:70
+#, php-format
+msgid ""
+"Confirm that, according to the Envato License Terms, each license entitles "
+"one person for a single project. Creating multiple unregistered "
+"installations is a copyright violation. %s."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:75
+#, fuzzy
+#| msgid "Related Products"
+msgid "Register your product"
+msgstr "Produse Asemănatoare"
+
+#: core/inc/admin-pages/welcome.php:85
+msgid "Deregister your product"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:95 core/inc/admin.php:21
+msgid "System Status"
+msgstr "Starea sistemului"
+
+#: core/inc/admin-pages/welcome.php:99
+msgid ""
+"Under System Status, you can find important information about your WordPress "
+"setup."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:101
+#, php-format
+msgid ""
+"Under System Status, you can find important information about your server "
+"setup. If you see red errors that indicate problems, likely, you're not in "
+"compliance with Uncode's %s."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:101
+msgid "Server Requirements"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:108
+msgid "Theme version"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:109
+#, fuzzy
+#| msgid "The version of WordPress installed on your site."
+msgid "The version of Uncode installed on your site."
+msgstr "Versiunea de WordPress instalat pe site."
+
+#: core/inc/admin-pages/welcome.php:119
+msgid "Child Theme"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:120
+#, fuzzy
+#| msgid "The version of WordPress installed on your site."
+msgid "Name and version of child theme installed on your site."
+msgstr "Versiunea de WordPress instalat pe site."
+
+#: core/inc/admin-pages/welcome.php:122
+#, php-format
+msgctxt "Child theme name and version"
+msgid "%s - %s"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:129
+#, fuzzy
+#| msgid "Product Description"
+msgid "Product Registration"
+msgstr "Descrierea Produsului"
+
+#: core/inc/admin-pages/welcome.php:130
+msgid ""
+"Please validate your product license as outlined in Envato's license terms."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:134 core/inc/admin-pages/welcome.php:136
+msgid "Theme registered"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:137
+msgid "Not registered"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:145
+#, fuzzy
+#| msgid "Uncode font"
+msgid "Uncode Core"
+msgstr "Font Uncode"
+
+#: core/inc/admin-pages/welcome.php:146
+#, fuzzy
+#| msgid "Whether or not you have WordPress Multisite enabled."
+msgid "Whether or not you have Uncode Core active."
+msgstr "Indiferent dacă sunt sau nu aveți WordPress Multisite activat."
+
+#: core/inc/admin-pages/welcome.php:147
+#, php-format
+msgid "Not active, please <a href=\"%s\">activate it</a>"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:153
+#, fuzzy
+#| msgid "Frontend stylesheet"
+msgid "Frontend Stylesheet"
+msgstr "Frontend stylesheet"
+
+#: core/inc/admin-pages/welcome.php:154 core/inc/admin-pages/welcome.php:197
+msgid ""
+"Uncode is generating a stylesheet when the options are saved. The file must "
+"be writtable."
+msgstr ""
+"Unicode generează stylesheet atunci când sunt salvate opțiunile. Fișierul "
+"trebuie să fie inscriptibil."
+
+#: core/inc/admin-pages/welcome.php:186 core/inc/admin-pages/welcome.php:225
+#, fuzzy, php-format
+msgid ""
+"WordPress doesn't have direct access to this file <code>%s</code>. This is "
+"most likely due to a conflict with server file permissions. It is also "
+"possible that WordPress' file access is not configured correctly. The custom "
+"CSS will be output inline."
+msgstr ""
+"WordPress nu are acces direct la acest fișier <code>%s</code> din cauza unui "
+"confict în permisiunea dosarul Uncode sau configurația de acces de fișiere "
+"WordPress nu este metoda directă. Css personalizat va fi în linie de ieșire."
+
+#: core/inc/admin-pages/welcome.php:191 core/inc/admin-pages/welcome.php:230
+#, fuzzy, php-format
+msgid ""
+"WordPress doesn't have direct access to this folder <code>%s</code>. This is "
+"most likely due to a conflict with server file permissions. It is also "
+"possible that WordPress' file access is not configured correctly. The custom "
+"CSS will be output inline."
+msgstr ""
+"WordPress nu are acces direct la acest fișier <code>%s</code> din cauza unui "
+"confict în permisiunea dosarul Uncode sau configurația de acces de fișiere "
+"WordPress nu este metoda directă. Css personalizat va fi în linie de ieșire."
+
+#: core/inc/admin-pages/welcome.php:196
+#, fuzzy
+#| msgid "Backend stylesheet"
+msgid "Backend Stylesheet"
+msgstr "Backend stylesheet"
+
+#: core/inc/admin-pages/welcome.php:237
+#, fuzzy
+#| msgid "WP Version"
+msgid "PHP Version"
+msgstr "Versiune WP"
+
+#: core/inc/admin-pages/welcome.php:240
+#, php-format
+msgid "%s - Please update your PHP version We recommend at least PHP 5.6.0"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:245
+msgid "WP Memory Limit"
+msgstr "WP Memorie Limită"
+
+#: core/inc/admin-pages/welcome.php:246
+msgid ""
+"Memory Limits not satisfied may produce possible errors on the frontend of "
+"the site as blank pages."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:251
+#, fuzzy, php-format
+msgid "%s - We recommend setting memory to at least 96 MB. %s"
+msgstr ""
+"%s - Vă recomandăm setarea de memorie la cel puțin 64MB. Vezi: <a href=\"%s"
+"\" target=\"_blank\">Mărirea memoriei alocate PHP</a>"
+
+#: core/inc/admin-pages/welcome.php:259
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:260
+msgid "Max Input Vars not satisfied may result in loss of Theme Options."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:264
+#, fuzzy, php-format
+msgid ""
+"%s - We recommend setting PHP max_input_vars to at least %s. See: <a href="
+"\"%s\" target=\"_blank\">Increasing the PHP max vars limit</a>"
+msgstr ""
+"%s - Vă recomandăm setarea de memorie la cel puțin 64MB. Vezi: <a href=\"%s"
+"\" target=\"_blank\">Mărirea memoriei alocate PHP</a>"
+
+#: core/inc/admin-pages/welcome.php:271
+msgid "PHP Max Input Vars (allowed)"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:272
+msgid ""
+"The effective maximum number of variables your server can use for a single "
+"function to avoid overloads. If this value is lower than max_input_vars your "
+"server is applying restrictions on the actual number of vars that can be "
+"used."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:272
+msgid "If you modified the server settings refresh the option to test."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:277 core/inc/admin-pages/welcome.php:286
+msgid "Calculating…"
+msgstr "De calculat…"
+
+#: core/inc/admin-pages/welcome.php:281 core/inc/admin-pages/welcome.php:290
+#, fuzzy, php-format
+msgid " - We recommend setting PHP max_input_vars to at least %s. %s"
+msgstr ""
+"%s - Vă recomandăm setarea de memorie la cel puțin 64MB. Vezi: <a href=\"%s"
+"\" target=\"_blank\">Mărirea memoriei alocate PHP</a>"
+
+#: core/inc/admin-pages/welcome.php:283 core/inc/admin-pages/welcome.php:292
+msgid "No available data"
+msgstr ""
+
+#: core/inc/admin.php:74
+#, fuzzy
+#| msgid "Theme Options updated."
+msgid "Theme Options saved!"
+msgstr "Opțiuni Temă actualizate."
+
+#: core/inc/admin.php:75
+#, fuzzy
+#| msgid "Theme Options updated."
+msgid "Theme Options not saved."
+msgstr "Opțiuni Temă actualizate."
+
+#: core/inc/admin.php:78
+msgid " Error: 400 - Request content was invalid."
+msgstr ""
+
+#: core/inc/admin.php:79
+msgid " Error: 401 - Unauthorized access."
+msgstr ""
+
+#: core/inc/admin.php:80
+msgid " Error: 403 - Forbidden resource can't be accessed."
+msgstr ""
+
+#: core/inc/admin.php:81
+msgid " Error: 404 - Requested page not found."
+msgstr ""
+
+#: core/inc/admin.php:82
+msgid " Error: 408 - Request time out."
+msgstr ""
+
+#: core/inc/admin.php:83
+msgid " Error: 500 - Internal server error."
+msgstr ""
+
+#: core/inc/admin.php:84
+msgid " Error: 503 - Service unavailable."
+msgstr ""
+
+#: core/inc/admin.php:85
+msgid " Your session has expired."
+msgstr ""
+
+#: core/inc/admin.php:86
+msgid " Unknown error."
+msgstr ""
+
+#: core/inc/admin.php:89
+#, fuzzy
+#| msgid "Categories"
+msgid "All Media Categories"
+msgstr "Categorii"
+
+#: core/inc/admin.php:94 core/inc/main.php:885
+msgid "Read more"
+msgstr "Citeste mai mult"
+
+#: core/inc/admin.php:100
+msgid "Please enter a valid Envato Purchase Code"
+msgstr ""
+
+#: core/inc/admin.php:101
+msgid "You must accept the Terms of Service in order to perform this action"
+msgstr ""
+
+#: core/inc/admin.php:111
+#, fuzzy
+#| msgid "Save New Layout"
+msgid "Save Anyway"
+msgstr "Salvează Aspect Nou"
+
+#: core/inc/admin.php:112
+msgid "Don't show this message again"
+msgstr ""
+
+#: core/inc/admin.php:113
+#, fuzzy
+#| msgid "Animation speed"
+msgid "Confirmation Required"
+msgstr "Viteză de animație"
+
+#: core/inc/admin.php:115
+msgid "<strong>Important warning!</strong>"
+msgstr ""
+
+#: core/inc/admin.php:116
+#, php-format
+msgid ""
+"Before saving Theme Options you need to increase the "
+"<em><strong>max_input_vars</strong></em> value of your PHP configuration. "
+"Your current allowed value is too low and you risk to loose your settings if "
+"you choose to continue, please set it to at least <strong class=\"vars-"
+"placeholder\">dddd</strong>: <a href=\"%s\" target=\"_blank\">more info</a>."
+msgstr ""
+
+#: core/inc/admin.php:117
+#, php-format
+msgid ""
+"If you decide to continue, we strongly suggest you to perform a backup "
+"first, <a href=\"%s\" target=\"_blank\">more info</a>."
+msgstr ""
+
+#: core/inc/admin.php:128
+msgid "Please read this article before updating the theme"
+msgstr ""
+
+#: core/inc/admin.php:130
+msgid "Read the Change Log"
+msgstr ""
+
+#: core/inc/admin.php:136
+#, fuzzy
+#| msgid "Update Required"
+msgid "Uncode Registration Required"
+msgstr "Actualizare Necesară"
+
+#: core/inc/admin.php:137
+msgid "Register Uncode"
+msgstr ""
+
+#: core/inc/admin.php:138
+msgid "Please register your copy of Uncode Theme to update the theme."
+msgstr ""
+
+#: core/inc/admin.php:140
+msgid "Please register your copy of Uncode Theme to import premium contents."
+msgstr ""
+
+#: core/inc/admin.php:141
+#, php-format
+msgid "Please register your copy of Uncode Theme to %s the following plugin:"
+msgstr ""
+
+#: core/inc/admin.php:142
+#, php-format
+msgid "Please register your copy of Uncode Theme to %s the following plugins:"
+msgstr ""
+
+#: core/inc/admin.php:205 core/inc/admin.php:206
+msgid "Add Media"
+msgstr "Adaugă Fișier"
+
+#: core/inc/admin.php:207 core/inc/admin.php:208
+msgid "Media selection"
+msgstr "Selecție Fișier"
+
+#: core/inc/admin.php:209
+#, fuzzy
+#| msgid "All medias"
+msgid "All media"
+msgstr "Toate fișierele"
+
+#: core/inc/admin.php:222
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: core/inc/admin.php:222
+msgid "Manage Vimeos"
+msgstr "Gestionaţi Vimeos"
+
+#: core/inc/admin.php:222
+#, php-format
+msgid "Vimeo <span class=\"count\">(%s)</span>"
+msgid_plural "Vimeos <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: core/inc/admin.php:223
+msgid "Youtube"
+msgstr "Youtube"
+
+#: core/inc/admin.php:223
+msgid "Manage Youtubes"
+msgstr "Gestionaţi Youtubes"
+
+#: core/inc/admin.php:223
+#, php-format
+msgid "Youtube <span class=\"count\">(%s)</span>"
+msgid_plural "Youtubes <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: core/inc/admin.php:224
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: core/inc/admin.php:224
+msgid "Manage Soundclouds"
+msgstr "Gestionaţi Soundclouds"
+
+#: core/inc/admin.php:224
+#, php-format
+msgid "Soundcloud <span class=\"count\">(%s)</span>"
+msgid_plural "Soundclouds <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: core/inc/admin.php:225
+msgid "Spotify"
+msgstr "Spotify"
+
+#: core/inc/admin.php:225
+msgid "Manage Spotifys"
+msgstr "Gestionaţi Spotifys"
+
+#: core/inc/admin.php:225
+#, php-format
+msgid "Spotify <span class=\"count\">(%s)</span>"
+msgid_plural "Spotifys <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: core/inc/admin.php:226
+msgid "Facebook"
+msgstr "Facebook"
+
+#: core/inc/admin.php:226
+#, fuzzy
+msgid "Manage Facebooks"
+msgstr "Gestionaţi Flickr"
+
+#: core/inc/admin.php:226
+#, php-format
+msgid "Facebook <span class=\"count\">(%s)</span>"
+msgid_plural "Facebooks <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: core/inc/admin.php:227
+msgid "Twitter"
+msgstr "Twitter"
+
+#: core/inc/admin.php:227
+#, fuzzy
+msgid "Manage Tweets"
+msgstr "Gestionaţi HTML"
+
+#: core/inc/admin.php:227
+#, php-format
+msgid "Twitter <span class=\"count\">(%s)</span>"
+msgid_plural "Tweets <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: core/inc/admin.php:228
+msgid "Flickr"
+msgstr "Flickr"
+
+#: core/inc/admin.php:228
+msgid "Manage Flickrs"
+msgstr "Gestionaţi Flickr"
+
+#: core/inc/admin.php:228
+#, php-format
+msgid "Flickr <span class=\"count\">(%s)</span>"
+msgid_plural "Flickrs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: core/inc/admin.php:229
+msgid "Instagram"
+msgstr "Instagram"
+
+#: core/inc/admin.php:229
+msgid "Manage Instagrams"
+msgstr "Gestionaţi Instagram"
+
+#: core/inc/admin.php:229
+#, php-format
+msgid "Instagram <span class=\"count\">(%s)</span>"
+msgid_plural "Instagrams <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: core/inc/admin.php:230
+msgid "SVG"
+msgstr "SVG"
+
+#: core/inc/admin.php:230
+msgid "Manage SVGs"
+msgstr "Gestionaţi SVG"
+
+#: core/inc/admin.php:230
+#, php-format
+msgid "SVG <span class=\"count\">(%s)</span>"
+msgid_plural "SVGs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: core/inc/admin.php:231
+msgid "HTML"
+msgstr "HTML"
+
+#: core/inc/admin.php:231
+msgid "Manage HTMLs"
+msgstr "Gestionaţi HTML"
+
+#: core/inc/admin.php:231
+#, php-format
+msgid "HTML <span class=\"count\">(%s)</span>"
+msgid_plural "HTMLs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: core/inc/admin.php:232
+msgid "iFrame"
+msgstr "iFrame"
+
+#: core/inc/admin.php:232
+msgid "Manage iFrames"
+msgstr "Gestionaţi iFrame"
+
+#: core/inc/admin.php:232
+#, php-format
+msgid "iFrame <span class=\"count\">(%s)</span>"
+msgid_plural "iFrames <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: core/inc/admin.php:276
+#, fuzzy
+msgid "Alt Text"
+msgstr "Text"
+
+#: core/inc/admin.php:292
+msgid "Width"
+msgstr "Lăţime"
+
+#: core/inc/admin.php:296
+msgid "Height"
+msgstr "Înălţime"
+
+#: core/inc/admin.php:300
+msgid "Media Poster (Image ID)"
+msgstr "Media Poster ( ID Imagine)"
+
+#: core/inc/admin.php:307
+msgid "Loop?"
+msgstr "Buclă?"
+
+#: core/inc/admin.php:313
+msgid "Autoplay?"
+msgstr "Redare automata?"
+
+#: core/inc/admin.php:319
+msgid "Mobile video background?"
+msgstr ""
+
+#: core/inc/admin.php:325
+msgid "Alternative video source 1"
+msgstr "Sursa video alternativă 1"
+
+#: core/inc/admin.php:329
+msgid "Alternative video source 2"
+msgstr "Sursa video alternativă 2"
+
+#: core/inc/admin.php:336
+msgid "Animated?"
+msgstr "Animat?"
+
+#: core/inc/admin.php:345
+msgid "Animation time (default 100)"
+msgstr "Durata animației (implicit 100)"
+
+#: core/inc/admin.php:353
+msgid "ID"
+msgstr "ID"
+
+#: core/inc/admin.php:361
+#, fuzzy
+msgid "Twitter original"
+msgstr "Twitter"
+
+#: core/inc/admin.php:369
+msgid "Team member?"
+msgstr "Membru al echipei?"
+
+#: core/inc/admin.php:377
+msgid "Socials"
+msgstr "Socials"
+
+#: core/inc/admin.php:617 core/inc/admin.php:672 core/inc/admin.php:1493
+msgid "Send to OptionTree"
+msgstr "Send to OptionTree"
+
+#: core/inc/admin.php:618 core/inc/admin.php:673 core/inc/admin.php:716
+#: core/inc/admin.php:1494 core/inc/admin.php:1533
+msgid "Remove Media"
+msgstr "Elimină Media"
+
+#: core/inc/admin.php:624 core/inc/admin.php:679
+msgid "Select…"
+msgstr "Selectați…"
+
+#: core/inc/admin.php:627 core/inc/admin.php:687 core/inc/admin.php:1504
+msgid "Featured media"
+msgstr "Media recomandate"
+
+#: core/inc/admin.php:631 core/inc/admin.php:692 core/inc/admin.php:1510
+msgid "Add media"
+msgstr "Adaugă media"
+
+#: core/inc/admin.php:634 core/inc/admin.php:720
+msgid "Select a media assigned to the category."
+msgstr "Selectați media atribuit categoriei."
+
+#: core/inc/admin.php:637 core/inc/admin.php:724
+msgid "Color"
+msgstr "Culoare"
+
+#: core/inc/admin.php:645 core/inc/admin.php:734
+msgid "Select a color assigned to the category."
+msgstr "Selectați o culoare atribuită categoriei."
+
+#: core/inc/admin.php:1071
+#, php-format
+msgid "The Adaptive Images system is using %1$s of the %2$s space left."
+msgstr ""
+"Sistemul Adaptiv de Imagini utilizează %1$s of the %2$s spațiu la stânga."
+
+#: core/inc/admin.php:1269
+#, fuzzy
+#| msgid ""
+#| "In order to run Uncode you need first to deactivate WPBakery Visual "
+#| "Composer and install the Uncode Visual Composer."
+msgid ""
+"In order to run Uncode you need first to deactivate WPBakery Page Builder "
+"and install the Uncode WPBakery Page Builder."
+msgstr ""
+"In order to run Uncode you need first to deactivate WPBakery Visual Composer "
+"and install the Uncode Visual Composer."
+
+#: core/inc/admin.php:1270
+#, fuzzy
+#| msgid "Deactivate WPBakery Visual Composer"
+msgid "Deactivate WPBakery Page Builder"
+msgstr "Dezactivarea WPBakery Visual Composer"
+
+#: core/inc/admin.php:1286
+msgid "Warning: PHP max_input_vars."
+msgstr ""
+
+#: core/inc/admin.php:1289
+#, php-format
+msgid ""
+"Before saving the theme options you need to address an issue marked on the "
+"<strong><a href=\"%s\">System Status</a></strong>."
+msgstr ""
+
+#: core/inc/admin.php:1332
+#, php-format
+msgid ""
+"The menu transparency will not be visible without a declared header <a class="
+"\"page-options-header-section\" href=\"%s\">here</a>."
+msgstr ""
+
+#: core/inc/admin.php:1415
+msgid "Facebook profile URL"
+msgstr ""
+
+#: core/inc/admin.php:1417
+msgid "Twitter username or profile URL"
+msgstr ""
+
+#: core/inc/admin.php:1419
+msgid "Google+"
+msgstr "Google+"
+
+#: core/inc/admin.php:1421
+msgid "Dribbble profile URL"
+msgstr ""
+
+#: core/inc/admin.php:1423
+msgid "Instagram profile URL"
+msgstr ""
+
+#: core/inc/admin.php:1425
+msgid "Pinterest page URL"
+msgstr ""
+
+#: core/inc/admin.php:1427
+msgid "Xing profile URL"
+msgstr ""
+
+#: core/inc/admin.php:1429
+msgid "YouTube page URL"
+msgstr ""
+
+#: core/inc/admin.php:1431
+msgid "Vimeo page URL"
+msgstr ""
+
+#: core/inc/admin.php:1433
+msgid "Tumblr page URL"
+msgstr ""
+
+#: core/inc/admin.php:1451
+#, fuzzy
+#| msgid "Navigation"
+msgid "Qualification"
+msgstr "Navigare"
+
+#: core/inc/admin.php:1455
+msgid "Enter a descriptive sentence."
+msgstr ""
+
+#: core/inc/admin.php:1537
+msgid "Select a media assigned to the author page."
+msgstr ""
+
+#: core/inc/admin.php:1679
+#, fuzzy
+msgid "Related Posts"
+msgstr "Produse Asemănatoare"
+
+#: core/inc/admin.php:1753
+#, php-format
+msgid ""
+"Please activate Content Block in WPBakery Page Builder > <a href=\"%1s"
+"\">Role Manager</a>. More info on the documentation, <a href=\"%2s\" target="
+"\"_blank\">click here</a>"
+msgstr ""
+
+#: core/inc/admin.php:1826
+#, php-format
+msgid ""
+"Envato WordPress Toolkit has been deprecated. Please deactivate it and <a "
+"href=\"%1$s\">register your theme here</a>."
+msgstr ""
+
+#: core/inc/admin.php:1870
+#, fuzzy
+#| msgid ""
+#| "The following plugin needs to be updated to its latest version to ensure "
+#| "maximum compatibility with this theme: %1$s."
+#| msgid_plural ""
+#| "The following plugins need to be updated to their latest version to "
+#| "ensure maximum compatibility with this theme: %1$s."
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: <em>Uncode Core</em>."
+msgstr ""
+"Următoarea plugin trebuie actualizat la ultima versiune pentru a asigura "
+"compatibilitatea maximă cu această temă:%1$s."
+
+#: core/inc/admin.php:1878 core/inc/admin.php:1886
+#, fuzzy
+#| msgid "This theme requires the following plugin: %1$s."
+#| msgid_plural "This theme requires the following plugins: %1$s."
+msgid "This theme requires the following plugin: <em>Uncode Core</em>."
+msgstr "Această temă necesită următoarele plugin:%1$s."
+
+#: core/inc/api/api-functions.php:196
+#, php-format
+msgid ""
+"<span class=\"uncode-premium-plugin-activation-error\">You need to register "
+"Uncode before to download this plugin. <a href=\"%s\">Register Uncode</a></"
+"span>"
+msgstr ""
+
+#: core/inc/api/api-functions.php:207
+msgid ""
+"<span class=\"uncode-premium-plugin-activation-error\">The Envato Purchase "
+"Code seems to be invalid. Please try to unregister and register the product "
+"again. If the issue persists <a href=\"https://support.undsgn.com/hc/en-us/"
+"articles/360000836318\" target=\"_blank\">contact the theme author.</a> "
+"(Error 23)</span>"
+msgstr ""
+
+#: core/inc/api/api-functions.php:210
+#, php-format
+msgid ""
+"<span class=\"uncode-premium-plugin-activation-error\">Purchase code "
+"verification failed. <a href=\"https://support.undsgn.com/hc/en-us/"
+"articles/360000836318\" target=\"_blank\">Please contact the theme author.</"
+"a> (Error %s)</span>"
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:64
+msgid "Purchase Code saved."
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:83
+msgid "Invalid nonce or empty data."
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:124
+msgid ""
+"Your Envato Purchase Code doesn't seem to be valid. Please double-check it, "
+"and try again."
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:128
+msgid ""
+"According to the Envato License Terms, you have exceeded the maximum number "
+"of activations permitted for a single Purchase Code. Please purchase an "
+"additional license. <a href=\"https://support.undsgn.com/hc/en-us/"
+"articles/360000849998\" target=\"_blank\">More info</a>"
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:132
+msgid ""
+"There was a problem contacting the Envato API server for Purchase Code "
+"verification. Please try again later, or contact the theme author."
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:136
+msgid ""
+"There is a problem contacting the Undsgn server for the Purchase Code "
+"verification. Please disable any firewall service, deactivate any possible "
+"server authentication, verify you have an updated cURL module, verify if "
+"your host is blocking connections to external domains and make sure to "
+"whitelist 'api.undsgn.com'. Please consult <a href=\"https://support.undsgn."
+"com/hc/en-us/articles/115004287985\" target=\"_blank\">this page</a> and if "
+"the problem persists, <a href=\"https://support.undsgn.com/hc/en-us/"
+"articles/360000836318\" target=\"_blank\"> contact the theme author.</a>"
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:153
+#, php-format
+msgid ""
+"There was an unexpected problem with your Purchase Code verification. <a "
+"href=\"https://support.undsgn.com/hc/en-us/articles/360000836318\" target="
+"\"_blank\">Please contact the theme author.</a> (Error %s)"
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:157
+msgid ""
+"The Envato Purchase Code doesn't seem to be properly formatted. Please "
+"double check it and try again."
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:161
+msgid ""
+"The Envato Purchase Code doesn't seem to be associated with an Uncode Theme "
+"purchase. Please double check it and try again."
+msgstr ""
+
+#: core/inc/colors.php:12
+msgid "Accent"
+msgstr "Accent"
+
+#: core/inc/customizer-woocommerce.php:96 woocommerce/cart/mini-cart.php:52
+#: woocommerce/cart/mini-cart.php:53
+msgid "Remove this item"
+msgstr "Stergeți acest produs"
+
+#: core/inc/customizer-woocommerce.php:114
+msgid "Subtotal:"
+msgstr "Total:"
+
+#: core/inc/customizer-woocommerce.php:117
+#, fuzzy
+#| msgid "View Cart"
+msgid "View cart"
+msgstr "Vezi detalii coș"
+
+#: core/inc/customizer-woocommerce.php:118 woocommerce/cart/mini-cart.php:100
+msgid "Checkout"
+msgstr "Finalizare"
+
+#: core/inc/customizer-woocommerce.php:122
+#: core/inc/customizer-woocommerce.php:167
+#, fuzzy
+#| msgid "Your cart is currently empty"
+msgid "Your cart is currently empty."
+msgstr "Coșul tau este gol"
+
+#: core/inc/customizer-woocommerce.php:172
+#: core/inc/customizer-woocommerce.php:174
+msgid "Cart"
+msgstr "Coș"
+
+#: core/inc/customizer-woocommerce.php:226
+#, fuzzy
+#| msgid "Proceed to Checkout"
+msgid "Proceed to checkout"
+msgstr "Finalizare comandă"
+
+#: core/inc/deprecated-functions.php:21
+#, php-format
+msgid ""
+"<strong>Make sure all your plugins are up to date:</strong> %1$s is "
+"<strong>deprecated</strong> since version %2$s! Use %3$s instead."
+msgstr ""
+
+#: core/inc/deprecated-functions.php:23
+#, php-format
+msgid ""
+"<strong>Make sure all your plugins are up to date:</strong> %1$s is "
+"<strong>deprecated</strong> since version %2$s with no alternative available."
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:85
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (Invalid)"
+
+#: core/inc/edit_custom_walker.php:89
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (Procesare)"
+
+#: core/inc/edit_custom_walker.php:98
+msgid "MEGAMENU TITLE"
+msgstr "MEGAMENU TITLU"
+
+#: core/inc/edit_custom_walker.php:100
+msgid "MEGAMENU"
+msgstr "MEGAMENU"
+
+#: core/inc/edit_custom_walker.php:100
+msgid "sub item"
+msgstr "sub item"
+
+#: core/inc/edit_custom_walker.php:127
+msgid "Move up"
+msgstr "Mută sus"
+
+#: core/inc/edit_custom_walker.php:140
+msgid "Move down"
+msgstr "Mută jos"
+
+#: core/inc/edit_custom_walker.php:142 core/inc/edit_custom_walker.php:144
+msgid "Edit Menu Item"
+msgstr "Editează Elemente de meniu"
+
+#: core/inc/edit_custom_walker.php:153
+msgid "URL"
+msgstr "URL"
+
+#: core/inc/edit_custom_walker.php:160
+msgid "Navigation Label"
+msgstr "Etichetă de Navigare"
+
+#: core/inc/edit_custom_walker.php:166
+msgid "Title Attribute"
+msgstr "Titlu Atribut"
+
+#: core/inc/edit_custom_walker.php:173
+msgid "Open link in a new window/tab"
+msgstr "Deschideți linkul într-o nouă fereastră / filă"
+
+#: core/inc/edit_custom_walker.php:178
+msgid "CSS Classes (optional)"
+msgstr "Clasele CSS (opțional)"
+
+#: core/inc/edit_custom_walker.php:184
+msgid "Link Relationship (XFN)"
+msgstr "Legătură Relația (XFN)"
+
+#: core/inc/edit_custom_walker.php:190 core/inc/media-enhanced.php:348
+#: woocommerce/single-product/tabs/description.php:16
+msgid "Description"
+msgstr "Descriere"
+
+#: core/inc/edit_custom_walker.php:192
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr "Descrierea va fi afișată în meniu, dacă tema curentă acceptă."
+
+#: core/inc/edit_custom_walker.php:202
+msgid "Icon"
+msgstr "Icoană"
+
+#: core/inc/edit_custom_walker.php:211
+msgid "Megamenu"
+msgstr "Megamenu"
+
+#: core/inc/edit_custom_walker.php:220
+msgid "Button style"
+msgstr "Stil buton"
+
+#: core/inc/edit_custom_walker.php:226
+msgid "Move"
+msgstr "Mută"
+
+#: core/inc/edit_custom_walker.php:227
+msgid "Up one"
+msgstr "Una sus"
+
+#: core/inc/edit_custom_walker.php:228
+msgid "Down one"
+msgstr "Una jos"
+
+#: core/inc/edit_custom_walker.php:231
+msgid "To the top"
+msgstr "În partea de sus"
+
+#: core/inc/edit_custom_walker.php:238
+#, php-format
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: core/inc/edit_custom_walker.php:251
+msgid "Remove"
+msgstr "Elimină"
+
+#: core/inc/edit_custom_walker.php:252
+msgid "Cancel"
+msgstr "Anulare"
+
+#: core/inc/export/uncode_export.php:6
+msgid ""
+"You do not have sufficient permissions to export the content of this site."
+msgstr ""
+"Nu aveți permisiuni suficiente pentru a exporta conținutul acestui site."
+
+#: core/inc/export/uncode_export.php:12
+msgid "Export"
+msgstr "Export"
+
+#: core/inc/export/uncode_export.php:40
+msgid "Overview"
+msgstr "Prezentare generală"
+
+#: core/inc/export/uncode_export.php:41
+msgid ""
+"You can export a file of your site&#8217;s content in order to import it "
+"into another installation or platform. The export file will be an XML file "
+"format called WXR. Posts, pages, comments, custom fields, categories, and "
+"tags can be included. You can choose for the WXR file to include only "
+"certain posts or pages by setting the dropdown filters to limit the export "
+"by category, author, date range by month, or publishing status."
+msgstr ""
+"Aveți posibilitatea să exportați un fișier cu conținutul site-ului&#8217;s "
+"pentru a o importa într-o altă instalație sau platformă. Fișierul de export "
+"va fi un format de fișier XML numit WXR. Posturi, pagini, comentarii, "
+"câmpuri personalizate, categorii și etichete pot fi incluse. Puteți opta "
+"pentru fișierul WXR pentru a include numai anumite posturi sau pagini prin "
+"setarea filtrelor expandabila pentru a limita exportul in functie de "
+"categorie, autor, intervalul de date în funcție de lună, sau statutul de "
+"publicare."
+
+#: core/inc/export/uncode_export.php:42
+msgid ""
+"Once generated, your WXR file can be imported by another WordPress site or "
+"by another blogging platform able to access this format."
+msgstr ""
+"Odată ce a fost generat, fișierul WXR pot fi importate de către un alt site "
+"WordPress sau de către o altă platformă de blogging capabil de a accesa "
+"acest format."
+
+#: core/inc/export/uncode_export.php:46
+msgid "For more information:"
+msgstr "Pentru mai multe informatii:"
+
+#: core/inc/export/uncode_export.php:47
+msgid "Documentation on Export"
+msgstr "Documentația referitoare la export"
+
+#: core/inc/export/uncode_export.php:48
+msgid "Support Forums"
+msgstr "Suport Forumuri"
+
+#: core/inc/export/uncode_export.php:86
+msgid ""
+"When you click the button below WordPress will create an XML file for you to "
+"save to your computer."
+msgstr ""
+"Când faceți clic pe butonul de mai jos WordPress va crea un fișier XML "
+"pentru a fi salva pe computer."
+
+#: core/inc/export/uncode_export.php:87
+msgid ""
+"This format, which we call WordPress eXtended RSS or WXR, will contain your "
+"posts, pages, comments, custom fields, categories, and tags."
+msgstr ""
+"Acest format, pe care noi îl numim WordPress eXtended RSS sau WXR, va "
+"conține toate posturi, pagini, comentarii, câmpuri personalizate, categorii "
+"și etichete dumneavoastră."
+
+#: core/inc/export/uncode_export.php:88
+msgid ""
+"Once you&#8217;ve saved the download file, you can use the Import function "
+"in another WordPress installation to import the content from this site."
+msgstr ""
+"După ce&#8217;ați salvat fișierul descărcat, puteți utiliza funcția de "
+"import într-o altă instalare WordPress pentru a importa conținutul de pe "
+"acest site."
+
+#: core/inc/export/uncode_export.php:90
+msgid "Choose what to export"
+msgstr "Alege ce să exporte"
+
+#: core/inc/export/uncode_export.php:94
+msgid "All content"
+msgstr "Tot conținutul"
+
+#: core/inc/export/uncode_export.php:95
+msgid ""
+"This will contain all of your posts, pages, comments, custom fields, terms, "
+"navigation menus and custom posts."
+msgstr ""
+"Acest lucru va conține toate posturile, pagini, comentarii, câmpuri "
+"personalizate, termeni, meniuri de navigare și posturi personalizate."
+
+#: core/inc/export/uncode_export.php:97
+msgid "Posts"
+msgstr "Postări"
+
+#: core/inc/export/uncode_export.php:100
+msgid "Categories:"
+msgstr "Categorii:"
+
+#: core/inc/export/uncode_export.php:101 core/inc/export/uncode_export.php:107
+#: core/inc/export/uncode_export.php:124 core/inc/export/uncode_export.php:139
+#: core/inc/export/uncode_export.php:156
+msgid "All"
+msgstr "Tot"
+
+#: core/inc/export/uncode_export.php:104 core/inc/export/uncode_export.php:136
+msgid "Authors:"
+msgstr "AutoriȘ"
+
+#: core/inc/export/uncode_export.php:111 core/inc/export/uncode_export.php:143
+msgid "Date range:"
+msgstr "Interval de date:"
+
+#: core/inc/export/uncode_export.php:113 core/inc/export/uncode_export.php:145
+msgid "Start Date"
+msgstr "Data de început"
+
+#: core/inc/export/uncode_export.php:117 core/inc/export/uncode_export.php:149
+msgid "End Date"
+msgstr "Data de încheiere"
+
+#: core/inc/export/uncode_export.php:122 core/inc/export/uncode_export.php:154
+msgid "Status:"
+msgstr "Stare:"
+
+#: core/inc/export/uncode_export.php:133
+msgid "Pages"
+msgstr "Pagini"
+
+#: core/inc/export/uncode_export.php:177
+msgid "Download Export File"
+msgstr "Descarcă documentul export"
+
+#: core/inc/helpers.php:178
+msgid "Minutes"
+msgstr "Minute"
+
+#: core/inc/helpers.php:180
+msgid "Minute"
+msgstr "Minut"
+
+#: core/inc/helpers.php:1226 vc_templates/uncode_consent_notice.php:31
+msgid ""
+"This content is blocked. Please review your [uncode_privacy_box]Privacy "
+"Settings[/uncode_privacy_box]."
+msgstr ""
+
+#: core/inc/main.php:78
+msgid "Primary Menu"
+msgstr "Meniu Principal"
+
+#: core/inc/main.php:79
+msgid "Secondary Menu"
+msgstr "Meniu Secundar"
+
+#: core/inc/main.php:80
+msgid "Call To Action Menu"
+msgstr ""
+
+#: core/inc/main.php:146 core/inc/main.php:159
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Adăugați widget-uri aici, să apară în bara laterală."
+
+#: core/inc/main.php:157
+msgid "Sidebar"
+msgstr "Bara laterală"
+
+#: core/inc/main.php:317 vc_templates/uncode_countdown.php:63
+msgid "days"
+msgstr "zile"
+
+#: core/inc/main.php:318 vc_templates/uncode_countdown.php:63
+msgid "hours"
+msgstr "ore"
+
+#: core/inc/main.php:319 vc_templates/uncode_countdown.php:63
+msgid "minutes"
+msgstr "minute"
+
+#: core/inc/main.php:320 vc_templates/uncode_countdown.php:63
+msgid "seconds"
+msgstr "secunde"
+
+#: core/inc/main.php:324 vc_templates/uncode_index.php:1211
+msgid "Loading…"
+msgstr "Se încarcă…"
+
+#: core/inc/main.php:325
+#, fuzzy
+#| msgid "Slider"
+msgid "slide"
+msgstr "Slider"
+
+#: core/inc/main.php:326
+#, fuzzy
+#| msgid "Footer"
+msgid "footer"
+msgstr "Subsol"
+
+#: core/inc/media-enhanced.php:4 core/inc/media-enhanced.php:304
+msgid "Add oEmbed, external IMG, SVG code, HTML or Shortcode"
+msgstr "Adaugă oEmbed, IMAGE extern, codul SVG, HTML sau SHORTCODE"
+
+#: core/inc/media-enhanced.php:4
+msgid "Add Multimedia"
+msgstr "Adaugă Mulimedia"
+
+#: core/inc/media-enhanced.php:304
+msgid "Add New"
+msgstr "Adaugă nou"
+
+#: core/inc/media-enhanced.php:308
+msgid "Item added to library."
+msgstr "Articol adăugat în bibliotecă."
+
+#: core/inc/media-enhanced.php:312
+msgid "Item updated."
+msgstr "Articol actualizat."
+
+#: core/inc/media-enhanced.php:314
+msgid "Fill all the required fields."
+msgstr "Completați toate câmpurile obligatorii."
+
+#: core/inc/media-enhanced.php:322
+msgid "Enter title here*"
+msgstr "Introduceți titlul aici*"
+
+#: core/inc/media-enhanced.php:330
+msgid "Permalink:"
+msgstr "Permalink:"
+
+#: core/inc/media-enhanced.php:332
+msgid "View Post"
+msgstr "Vezi Postare"
+
+#: core/inc/media-enhanced.php:338
+msgid "Insert from URL*"
+msgstr "Introdu de la URL*"
+
+#: core/inc/media-enhanced.php:344
+msgid "Caption"
+msgstr "Legendă"
+
+#: core/inc/media-enhanced.php:373 core/inc/media-enhanced.php:379
+msgid "Publish"
+msgstr "Publică"
+
+#: core/inc/media-enhanced.php:382
+msgid "Save"
+msgstr "Salvați"
+
+#: core/inc/media-enhanced.php:386
+#: core/plugins_activation/class-tgm-plugin-activation.php:2878
+msgid "Update"
+msgstr "Actualizați"
+
+#: core/inc/related-posts/class-hook-settings-page.php:20
+#, fuzzy
+msgid "Related Posts for WordPress"
+msgstr "Produse Asemănatoare"
+
+#: core/inc/template-tags.php:77
+msgid "Prev"
+msgstr "Anterior"
+
+#: core/inc/template-tags.php:78
+msgid "Next"
+msgstr "Următor"
+
+#: core/inc/template-tags.php:187
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Postat pe %s"
+
+#: core/inc/template-tags.php:192
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "de %s"
+
+#: core/inc/template-tags.php:209 core/inc/template-tags.php:215
+msgid ", "
+msgstr ", "
+
+#: core/inc/template-tags.php:211
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Postat în %1$s"
+
+#: core/inc/template-tags.php:217
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#: core/inc/template-tags.php:223
+msgid "Leave a comment"
+msgstr "Lasă un comentariu"
+
+#: core/inc/template-tags.php:223
+msgid "1 Comment"
+msgstr "1 Comentariu"
+
+#: core/inc/template-tags.php:223
+msgid "% Comments"
+msgstr "% Comentarii"
+
+#: core/inc/template-tags.php:227
+msgid "Edit"
+msgstr "Editează"
+
+#: core/inc/template-tags.php:250
+#, php-format
+msgid "Year: %s"
+msgstr "An: %s"
+
+#: core/inc/template-tags.php:250
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "A"
+
+#: core/inc/template-tags.php:252
+#, php-format
+msgid "Month: %s"
+msgstr "Lună: %s"
+
+#: core/inc/template-tags.php:252
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: core/inc/template-tags.php:254
+#, php-format
+msgid "Day: %s"
+msgstr "Zi: %s"
+
+#: core/inc/template-tags.php:254
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: core/inc/template-tags.php:257
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: core/inc/template-tags.php:259
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerii"
+
+#: core/inc/template-tags.php:261
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Imagini"
+
+#: core/inc/template-tags.php:263
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videoclipuri"
+
+#: core/inc/template-tags.php:265
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citate"
+
+#: core/inc/template-tags.php:267
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Linkuri"
+
+#: core/inc/template-tags.php:269
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuturi"
+
+#: core/inc/template-tags.php:271
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: core/inc/template-tags.php:273
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chat-uri"
+
+#: core/inc/template-tags.php:276
+#, fuzzy, php-format
+msgid "Archives %s"
+msgstr "Arhive: %s"
+
+#: core/inc/template-tags.php:282
+msgid "Archives"
+msgstr "Arhive"
+
+#: core/inc/uncode-comment-walker.php:69
+msgid "Edit this comment"
+msgstr "Editați acest comentariu"
+
+#: core/inc/uncode-comment-walker.php:71
+#, fuzzy
+#| msgid "Your comment is awaiting approval"
+msgid "Your comment is awaiting moderation"
+msgstr "Comentariul dvs. așteaptă aprobarea"
+
+#: core/inc/uncode-comment-walker.php:74
+msgid "Reply"
+msgstr "Răspunde"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:336
+#, fuzzy
+#| msgid "Install Plugins"
+msgid "Install or Update Plugins"
+msgstr "Instalați Plugin-uri:"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:337
+msgid "Install Plugins"
+msgstr "Instalați Plugin-uri:"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Se instaleaza Plugin: %s"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:341
+#, fuzzy, php-format
+msgid "Updating Plugin: %s"
+msgstr "Se instaleaza Plugin: %s"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:342
+msgid "Something went wrong with the plugin API."
+msgstr "Ceva nu a mers cum trebuie cu plugin API."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:345
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Această temă necesită următoarele plugin:%1$s."
+msgstr[1] "Această temă necesită următoarele pluginuri:%1$s."
+msgstr[2] "Această temă necesită următoarele pluginuri:%1$s."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:358
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Următoarea plugin trebuie actualizat la ultima versiune pentru a asigura "
+"compatibilitatea maximă cu această temă:%1$s."
+msgstr[1] ""
+"Următoarea plugin trebuie actualizat la ultima versiune pentru a asigura "
+"compatibilitatea maximă cu această temă:%1$s."
+msgstr[2] ""
+"Următoarea plugin trebuie actualizat la ultima versiune pentru a asigura "
+"compatibilitatea maximă cu această temă:%1$s."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:364
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Există o actualizare disponibilă pentru:%1$s."
+msgstr[1] "Există  actualizare disponibilă pentru:%1$s."
+msgstr[2] "Există actualizare disponibilă pentru:%1$s."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:370
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Următoarul plugin necesar este momentan inactiv:%1$s."
+msgstr[1] "Următoarele pluginuri necesare sunt momentan inactiv:%1$s."
+msgstr[2] "Următoarele pluginuri necesare sunt momentan inactiv:%1$s."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Începe instalarea plugin"
+msgstr[1] "Începe instalarea pluginurilor"
+msgstr[2] "Începe instalarea pluginurilor"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "A începe Actulizarea Plugin"
+msgstr[1] "A începe Actulizarea Plugin"
+msgstr[2] "A începe Actulizarea Plugin"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "A începe Activarea Plugin"
+msgstr[1] "A începe Activarea Plugin"
+msgstr[2] "A începe Activarea Plugin"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:396
+msgid "Return to Required Plugins Installer"
+msgstr "Înapoi la Instalare Plugin-uri Necesare"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:397
+#: core/plugins_activation/class-tgm-plugin-activation.php:928
+#: core/plugins_activation/class-tgm-plugin-activation.php:2677
+#: core/plugins_activation/class-tgm-plugin-activation.php:3776
+msgid "Return to the Dashboard"
+msgstr "Întoarce-te la Panoul de Control"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:398
+#: core/plugins_activation/class-tgm-plugin-activation.php:3352
+msgid "Plugin activated successfully."
+msgstr "Plugin activat cu succes"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:399
+#: core/plugins_activation/class-tgm-plugin-activation.php:3145
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Următorul plugin a fost activat cu succes."
+msgstr[1] "Următorul plugin a fost activat cu succes."
+msgstr[2] "Următorul plugin a fost activat cu succes."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nici o acțiune luată . Plugin-ul %1$s a fost deja activat."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:403
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin inactiv. O versiune mai mare a % s este necesar pentru această temă . "
+"Vă rugăm să actualizați plugin."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:405
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toate Plugin-urile au fost instalate si activate cu succes. %1$s"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:406
+msgid "Dismiss this notice"
+msgstr "Ignoră această notiță"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:407
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:408
+msgid "Please contact the administrator of this site for help."
+msgstr "Vă rugăm să contactați administratorul acestui site pentru ajutor."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:614
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Acest plug-in trebuie să fie actualizat pentru a fi compatibil cu tema."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:615
+msgid "Update Required"
+msgstr "Actualizare Necesară"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:1037
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:1037
+#: core/plugins_activation/class-tgm-plugin-activation.php:1040
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:1040
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:1255
+#: core/plugins_activation/class-tgm-plugin-activation.php:3135
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2123
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2414
+msgid "Required"
+msgstr "Necesar"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2417
+msgid "Recommended"
+msgstr "Recomandat"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2433
+msgid "WordPress Repository"
+msgstr "Repertoriu Wordpress"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2436
+msgid "External Source"
+msgstr "Sursă Externă"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2439
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2456
+msgid "Not Installed"
+msgstr "Nu este instalat"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2460
+msgid "Installed But Not Activated"
+msgstr "Instalat, Dar Nu Este Activat"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2462
+msgid "Active"
+msgstr "Activ"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2468
+msgid "Required Update not Available"
+msgstr "Solicitare Update nu este valabilă"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2471
+msgid "Requires Update"
+msgstr "Necesită Actualizare"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2474
+msgid "Update recommended"
+msgstr "Se recomandă actualizarea"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2483
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2529
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2533
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2537
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2541
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2623
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2632
+msgid "Installed version:"
+msgstr "Versiune Instașată:"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2641
+msgid "Minimum required version:"
+msgstr "Versiune minimă necesară:"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2654
+msgid "Available version:"
+msgstr "Versiune disponibilă:"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2677
+#, fuzzy
+msgid "No plugins to install, update or activate."
+msgstr ""
+"Nu există plugin-uri pentru a fi instalate, actualizate sau activate. <a "
+"href=\"%1$s\">Înapoi la Panoul de Control</a>"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2693
+msgid "Plugin"
+msgstr "Plugin"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2695
+msgid "Type"
+msgstr "Tip"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr "Sursă"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2700
+msgid "Version"
+msgstr "Versiune"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2701
+msgid "Status"
+msgstr "Starea"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2750
+#, fuzzy, php-format
+msgid "Install %2$s"
+msgstr "Instalați %2$s"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2755
+#, fuzzy, php-format
+msgid "Update %2$s"
+msgstr "Actualizați %2$s"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2761
+#, fuzzy, php-format
+msgid "Activate %2$s"
+msgstr "Activați %2$s"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2839
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade mesaj de la autorul plugin-ului"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2872
+msgid "Install"
+msgstr "Instalare"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2881
+msgid "Activate"
+msgstr "Activați"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2912
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Nu există plugin-uri selectate pentru a fi instalate . Nici a fost luată "
+"nici o acțiune."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2914
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Nu există plugin-uri selectate pentru a fi actualizate . Nici a fost luată "
+"nici o acțiune."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2961
+msgid "No plugins are available to be installed at this time."
+msgstr "Nu sunt plugin-uri disponibile pentru a fi instalate in acest moment"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2963
+msgid "No plugins are available to be updated at this time."
+msgstr "Nu sunt plugin-uri disponibile pentru a fi actualizate in acest moment"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3083
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Nu există plugin-uri selectate pentru a fi activate . Nici a fost luată nici "
+"o acțiune."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3115
+msgid "No plugins are available to be activated at this time."
+msgstr "Nu sunt plugin-uri disponibile pentru a fi activate in acest moment"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3351
+msgid "Plugin activation failed."
+msgstr "Activare plugin nu a reușit"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3691
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizare Plugin %1$s (%2$d/%3$d)"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3694
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "A apărut o eroare în timpul instalării %1$s: <strong>%2$s</strong>."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3696
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Instalarea %1$s nu a reușit."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3700
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Procesul de instalare și de activare a început. Acest proces poate dura "
+"câteva minute pe unele hosturi , vă rugăm sa aveți răbdare."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3702
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalat și activat cu succes."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3703
+msgid "All installations and activations have been completed."
+msgstr "Toate instalările și activările au fost finalizate ."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3705
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalarea și activarea Plugin %1$s (%2$d/%3$d)"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3708
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Procesul de instalare a început. Acest proces poate dura câteva minute pe "
+"unele hosturi , vă rugăm sa aveți răbdare."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3710
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalat cu succes."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3711
+msgid "All installations have been completed."
+msgstr "Toate instalările au fost finalizate."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3713
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalare Plugin %1$s (%2$d/%3$d)"
+
+#: footer.php:121 partials/menus.php:1100 vc_templates/uncode_copyright.php:40
+msgid "All rights reserved"
+msgstr "Toate drepturile rezervate"
+
+#: footer.php:178 partials/headers.php:370
+#, fuzzy
+#| msgid "Content Block"
+msgid "Edit Content Block"
+msgstr "Conținut Blocat"
+
+#: footer.php:178
+#, fuzzy
+#| msgid "Content Block"
+msgid "Footer Content Block"
+msgstr "Conținut Blocat"
+
+#: functions.php:17
+msgid "PHP version obsolete"
+msgstr "Versiune PHP învechită"
+
+#: functions.php:18
+msgid "Ooops, obsolete PHP version"
+msgstr "Hopa, PHP versiunea învechită"
+
+#: page.php:355 partials/elements.php:1392 single.php:345
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: partials/elements.php:1170
+msgid "Sticky"
+msgstr ""
+
+#: partials/elements.php:1469
+#: woocommerce/single-product/add-to-cart/simple.php:62
+msgid "Read More"
+msgstr "Citește mai mult"
+
+#: partials/elements.php:1513 partials/elements.php:1515
+#, fuzzy
+msgid "by"
+msgstr "de"
+
+#: partials/elements.php:1537 partials/elements.php:2246
+msgctxt "comments"
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] "Comentariu"
+msgstr[1] "Comentarii"
+msgstr[2] "Comentarii"
+
+#: partials/elements.php:1998
+msgid "Sale!"
+msgstr "Vânzare!"
+
+#: partials/elements.php:2000
+#, fuzzy
+#| msgid "out of 5"
+msgid "Out of stock"
+msgstr "din 5"
+
+#: partials/elements.php:2177 partials/elements.php:2201
+#: partials/elements.php:2269
+#, php-format
+msgid "View all posts in %s"
+msgstr "Vizualizează toate mesajele în %s"
+
+#: partials/elements.php:2179 partials/elements.php:2203
+#: partials/elements.php:2274
+#, fuzzy
+msgid "In"
+msgstr "În"
+
+#: partials/elements.php:2182 partials/elements.php:2230
+#, fuzzy
+msgid "By"
+msgstr "De"
+
+#: partials/elements.php:2298
+#, fuzzy
+#| msgid "Home"
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "Acasă"
+
+#: partials/elements.php:2308
+msgid "Home"
+msgstr "Acasă"
+
+#: partials/elements.php:2311
+#, fuzzy
+msgid "Archive by Category"
+msgstr "Arhivă de Categorii"
+
+#: partials/elements.php:2314
+#, fuzzy
+msgid "Search Results for"
+msgstr "Caută rezultate pentru"
+
+#: partials/elements.php:2317
+#, fuzzy
+msgid "Posts Tagged"
+msgstr "Postări Etighetate"
+
+#: partials/elements.php:2320
+#, fuzzy
+msgid "Articles Posted by"
+msgstr "Articole Postat de"
+
+#: partials/elements.php:2323
+msgid "Error 404"
+msgstr "Eroare 404"
+
+#: partials/elements.php:2522
+msgid "Page"
+msgstr "Pagina"
+
+#: partials/headers.php:370
+#, fuzzy
+#| msgid "Content Block"
+msgid "Header Content Block"
+msgstr "Conținut Blocat"
+
+#: partials/menus.php:92 partials/menus.php:203
+msgid "logo"
+msgstr ""
+
+#: partials/menus.php:553
+msgid "Search"
+msgstr "Caută"
+
+#: partials/menus.php:562 searchform.php:11
+msgid "Search…"
+msgstr "Caută…"
+
+#: search.php:86
+msgid "Results for:"
+msgstr "Rezultate pentru:"
+
+#: searchform.php:11 woocommerce/product-searchform.php:27
+msgid "Search for:"
+msgstr "Caută după:"
+
+#: single-portfolio.php:463 woocommerce/single-product/share.php:35
+msgid "Share"
+msgstr "Distribuie"
+
+#: vc_templates/uncode_author_profile.php:34
+msgid "All author posts"
+msgstr ""
+
+#: vc_templates/uncode_author_profile.php:114
+#, php-format
+msgid "%1$s post page"
+msgstr ""
+
+#: vc_templates/uncode_index.php:532 vc_templates/vc_gallery.php:521
+msgid "Show all"
+msgstr "Arată tot"
+
+#: vc_templates/uncode_index.php:1193
+msgid "Nothing found."
+msgstr "Nimic gasit."
+
+#: vc_templates/uncode_index.php:1211
+msgid "Load more"
+msgstr "Încarcă mai mult"
+
+#: vc_templates/vc_accordion_tab.php:6
+msgid "Section"
+msgstr "Secțiune"
+
+#: vc_templates/vc_accordion_tab.php:31
+msgid "Empty section. Edit page to add content here."
+msgstr "Secțiune goală. Editare pagină pentru a adăuga conținut aici."
+
+#: vc_templates/vc_tab.php:24
+msgid "Empty tab. Edit page to add content here."
+msgstr "Filă goală. Editare pagină pentru a adăuga conținut aici."
+
+#: woocommerce/cart/mini-cart.php:77
+msgid "No products in the cart."
+msgstr "Nu sunt produse in coș."
+
+#: woocommerce/cart/mini-cart.php:99
+msgid "View Cart"
+msgstr "Vezi detalii coș"
+
+#: woocommerce/order/order-details-customer.php:24
+#, fuzzy
+#| msgid "Customer Details"
+msgid "Customer details"
+msgstr "Detalii Client"
+
+#: woocommerce/order/order-details-customer.php:29
+#: woocommerce/order/order-details.php:77
+msgid "Note:"
+msgstr "Notă:"
+
+#: woocommerce/order/order-details-customer.php:36
+msgid "Email:"
+msgstr "Email:"
+
+#: woocommerce/order/order-details-customer.php:43
+msgid "Telephone:"
+msgstr "Telefon:"
+
+#: woocommerce/order/order-details-customer.php:59
+#, fuzzy
+#| msgid "Billing Address"
+msgid "Billing address"
+msgstr "Date De Facturare"
+
+#: woocommerce/order/order-details-customer.php:62
+#: woocommerce/order/order-details-customer.php:79
+#: woocommerce/single-product/meta.php:24
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce/order/order-details-customer.php:76
+#, fuzzy
+#| msgid "Shipping Address"
+msgid "Shipping address"
+msgstr "Adresa de livrare"
+
+#: woocommerce/order/order-details.php:38
+#, fuzzy
+#| msgid "Order Details"
+msgid "Order details"
+msgstr "Detalii Comandă"
+
+#: woocommerce/order/order-details.php:42
+#: woocommerce/single-product-reviews.php:23
+msgid "Product"
+msgstr "Produs"
+
+#: woocommerce/order/order-details.php:43
+msgid "Total"
+msgstr "Total"
+
+#: woocommerce/product-searchform.php:28
+#, fuzzy
+#| msgctxt "placeholder"
+#| msgid "Search Products&hellip;"
+msgid "Search products&hellip;"
+msgstr "Caută Produse&hellip;"
+
+#: woocommerce/product-searchform.php:28
+#, fuzzy
+#| msgid "Search"
+msgctxt "submit button"
+msgid "Search"
+msgstr "Caută"
+
+#: woocommerce/single-product/add-to-cart/variable.php:33
+msgid "This product is currently out of stock and unavailable."
+msgstr "Acest produs nu este momentan in stoc - indisponibil"
+
+#: woocommerce/single-product/add-to-cart/variable.php:42
+msgid "Clear"
+msgstr "Elimină"
+
+#: woocommerce/single-product/meta.php:24
+msgid "SKU"
+msgstr "Cod Produs"
+
+#: woocommerce/single-product/meta.php:29
+msgid "Category"
+msgstr "Categorie"
+
+#: woocommerce/single-product/meta.php:29
+msgid "Categories"
+msgstr "Categorii"
+
+#: woocommerce/single-product/meta.php:29
+#: woocommerce/single-product/meta.php:34
+msgid "<span class=\"detail-label\">"
+msgid_plural "<span class=\"detail-label\">"
+msgstr[0] ""
+msgstr[1] "<span class=\"detaliu-etichete\">"
+msgstr[2] "<span class=\"detaliu-etichete\">"
+
+#: woocommerce/single-product/meta.php:34
+msgid "Tag"
+msgstr "Tag"
+
+#: woocommerce/single-product/meta.php:34
+msgid "Tags"
+msgstr "Tags"
+
+#: woocommerce/single-product/product-image.php:106
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/related.php:18
+#, fuzzy
+#| msgid "Related Products"
+msgid "Related products"
+msgstr "Produse Asemănatoare"
+
+#: woocommerce/single-product/review.php:59
+msgid "Your comment is awaiting approval"
+msgstr "Comentariul dvs. așteaptă aprobarea"
+
+#: woocommerce/single-product/review.php:70
+msgid "verified owner"
+msgstr "proprietar verificat"
+
+#: woocommerce/single-product/tabs/additional-information.php:16
+#, fuzzy
+msgid "Additional information"
+msgstr "Informații Suplimentare"
+
+#: woocommerce/single-product/up-sells.php:51
+msgid "You may also like&hellip;"
+msgstr "S-ar putea să iți placa&hellip;"
+
+#: woocommerce/single-product-reviews.php:23
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] "%s recenzie"
+msgstr[1] "%s recenzii"
+msgstr[2] "%s recenzii"
+
+#: woocommerce/single-product-reviews.php:25
+msgid "Reviews"
+msgstr "Recenzii"
+
+#: woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr "Nu există recenzii încă."
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr "Adaudă o recenzie"
+
+#: woocommerce/single-product-reviews.php:60
+#, fuzzy, php-format
+#| msgid "Be the first to review"
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Fii primul care scrie o recenzie"
+
+#: woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Lasă un răspuns la %s"
+
+#: woocommerce/single-product-reviews.php:67
+msgid "Name"
+msgstr "Nume"
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Email"
+msgstr "Email"
+
+#: woocommerce/single-product-reviews.php:72
+msgid "Submit"
+msgstr "Confirmă"
+
+#: woocommerce/single-product-reviews.php:78
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+#, fuzzy
+#| msgid "Your Rating"
+msgid "Your rating"
+msgstr "Rating-ul tău"
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Perfect"
+msgstr "Foarte bun"
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Good"
+msgstr "Bun"
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Average"
+msgstr "Mediu"
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Not that bad"
+msgstr "Nu foarte rău"
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Very Poor"
+msgstr "Foarte rău"
+
+#: woocommerce/single-product-reviews.php:92
+#, fuzzy
+#| msgid "Your Review"
+msgid "Your review"
+msgstr "Recenzia ta"
+
+#: woocommerce/single-product-reviews.php:101
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Numai clienții care au achiziționat acest produs poate lăsa o recenzie."
+
+#, fuzzy
+#~ msgid "Your kits:"
+#~ msgstr "Kiturile tale:"
+
+#~ msgid "No kits found for the API key you provided."
+#~ msgstr "Nu există kituri găsite pentru cheia API furnizată."
+
+#~ msgid "No kits ID inserted."
+#~ msgstr "Nu sunt inserate ID-uri pentru kituri"
+
+#~ msgid "The following fonts were found for project %1$s:"
+#~ msgstr "Următoarele fonturi au fost găsite pentru proiect %1$s:"
+
+#~ msgid ""
+#~ "No fonts found for project %1$s on %2$s. Make sure your project id is "
+#~ "correct and this domain is added to it in your Fontdeck account."
+#~ msgstr ""
+#~ "Nu există fonturi găsite pentru proiect %1$s on %2$s. Asigurați-vă că ID-"
+#~ "ul proiectului este corectă și acest domeniu se adaugă la acesta în "
+#~ "contul dvs. Fontdeck."
+
+#~ msgid "Sorry, there was an error accessing %1$s"
+#~ msgstr "Ne pare rău, a apărut o eroare la accesarea %1$s"
+
+#~ msgid "Delete"
+#~ msgstr "Șterge"
+
+#~ msgid "Language"
+#~ msgstr "Limbă"
+
+#~ msgid "The current language used by WordPress. Default = English"
+#~ msgstr "Limba curentă folosită de către WordPress. Implicit = Engleză"
+
+#~ msgid "WP Multisite"
+#~ msgstr "WP Multisite"
+
+#~ msgid ""
+#~ "The maximum amount of memory (RAM) that your site can use at one time."
+#~ msgstr ""
+#~ "Cantitatea maximă de memorie (RAM) pe care site-ul dvs. o poate utiliza "
+#~ "la un moment dat."
+
+#~ msgid "Server Memory Limit"
+#~ msgstr "Limită de memorie server"
+
+#~ msgid ""
+#~ "This is actually the real memory available for your installation despite "
+#~ "the WP memory limit."
+#~ msgstr ""
+#~ "Aceasta este de fapt adevărata memorie disponibilă pentru instalarea "
+#~ "dumneavoastră în ciuda limitei de memorie WP."
+
+#, fuzzy
+#~ msgid ""
+#~ "You only have %d% MB available and it's not enough to run the system. If "
+#~ "you have already increased the memory limit please check with your "
+#~ "hosting provider for increase it (at least 96MB is required)."
+#~ msgstr ""
+#~ "Ai doar %d% MB disponibili și nu este suficient pentru a rula sistemul. "
+#~ "Dacă ați crescut deja limita de memorie, vă rugăm să verificați impreună "
+#~ "cu furnizorul dvs. de găzduire pentru a crește capacitatea (este necesară "
+#~ "cel puțin 64MB)"
+
+#~ msgid "WP Debug Mode"
+#~ msgstr "Modul de depanare WP"
+
+#~ msgid "Displays whether or not WordPress is in Debug Mode."
+#~ msgstr "Arată dacă este sau nu WordPress este în modul Debug."
+
+#~ msgid "Add Medias"
+#~ msgstr "Adaugă Fișiere"
+
+#~ msgid "Medias selection"
+#~ msgstr "Selecție fișiere"
+
+#~ msgid ""
+#~ "Visual Composer is not active for this post type. Please activate it "
+#~ "inside \"Visual Composer > Role Manager\""
+#~ msgstr ""
+#~ "Visual Composer nu este activ pentru acest tip de post. Vă rugăm să-l "
+#~ "activați în interiorul \"Visual Compozitor> Rolul managerului\""
+
+#~ msgid ""
+#~ "Visual Composer is not active. Please activate it inside \"Uncode > "
+#~ "Install Plugins > Uncode Visual Composer\""
+#~ msgstr ""
+#~ "Visual Composer nu este activ. Vă rugăm să-l activați în interiorul "
+#~ "\"Unicode> Instalare plug> Unicode Visual Composer\""
+
+#~ msgid "Select medias"
+#~ msgstr "Selectează fișiere"
+
+#~ msgid "Remove All"
+#~ msgstr "Inlătură tot"
+
+#~ msgid "Post media display"
+#~ msgstr "Afișază fisiere media postate"
+
+#~ msgid "Carousel"
+#~ msgstr "Carusel"
+
+#~ msgid "Stack"
+#~ msgstr "Stivă"
+
+#~ msgid "Isotope"
+#~ msgstr "Isotope"
+
+#~ msgid "Medias"
+#~ msgstr "Fișiere"
+
+#~ msgid "Like"
+#~ msgstr "Like"
+
+#~ msgid "Likes"
+#~ msgstr "Likes"
+
+#~ msgid "Recommend this"
+#~ msgstr "Recomandă"
+
+#~ msgid "You already recommended this"
+#~ msgstr "Deja ai recomandat asta"
+
+#~ msgid "Most recommended posts"
+#~ msgstr "Cele mai recomandate postari"
+
+#~ msgid "Your site’s most liked posts."
+#~ msgstr "Cele mai apreciate postări ale site-ului"
+
+#~ msgid "Title:"
+#~ msgstr "Titlu:"
+
+#~ msgid "Number of posts to show:"
+#~ msgstr "Numar postări de afișat"
+
+#~ msgid "Show post count"
+#~ msgstr "Arată contor postare"
+
+#~ msgid "There was an error when reading this WXR file"
+#~ msgstr "Eroare in timpul citirii fisierului WXR"
+
+#~ msgid ""
+#~ "Details are shown above. The importer will now try again with a different "
+#~ "parser..."
+#~ msgstr ""
+#~ "Detaliile sunt prezentate mai sus . Importatorul va încerca acum din nou "
+#~ "cu un alt interpretor ..."
+
+#~ msgid ""
+#~ "This does not appear to be a WXR file, missing/invalid WXR version number"
+#~ msgstr ""
+#~ "Acest lucru nu pare să fie un fișier WXR, numărul de versiune lipsă WXR / "
+#~ "invalid"
+
+#~ msgid "Install Demo"
+#~ msgstr "Instalează Demo"
+
+#~ msgid "No WordPress settings will be modified."
+#~ msgstr "Setările Wordpress nu vor fi modificate."
+
+#~ msgid "Please click import only once and wait, it can take few minutes."
+#~ msgstr ""
+#~ "Vă rugăm să faceţi clic pe import doar o singură dată şi aşteptaţi, poate "
+#~ "dura câteva minute."
+
+#, fuzzy
+#~ msgid "INSTALL DEMO"
+#~ msgstr "Instalează Demo"
+
+#, fuzzy
+#~ msgid "THEME OPTIONS"
+#~ msgstr "Opțiuni temă"
+
+#, fuzzy
+#~ msgid "IMPORT MENU"
+#~ msgstr "IMPORTĂ TOT"
+
+#, fuzzy
+#~ msgid "WIDGETS"
+#~ msgstr ""
+#~ "Mesaje , pagini, unele imagini , unele widget-uri și meniuri vor fi "
+#~ "importate ."
+
+#~ msgid "DELETE DEMO MEDIA"
+#~ msgstr "ȘTERGE FIȘIERE DEMO "
+
+#~ msgid "Import completed!"
+#~ msgstr "Import finalizat!"
+
+#~ msgid "All demo medias deleted!"
+#~ msgstr "Toate fișierele media DEMO au fost șterse!"
+
+#~ msgid "Contact Form 7 (optional) - Plugin is not active"
+#~ msgstr "Contact Form 7 (optional) - Modulul nu este activat"
+
+#~ msgid "WooCommerce (optional) - Plugin is not active"
+#~ msgstr "WooCommerce (optional) - Modulul nu este activat"
+
+#~ msgid "Uncode Core (required) - Plugin is not active"
+#~ msgstr "Uncode Core (required) - Modulul nu este activat"
+
+#~ msgid ""
+#~ "The following plugins are inactive and this will prevent the relative "
+#~ "content to be imported:"
+#~ msgstr ""
+#~ "Următoarele module sunt inactive iar acest lucru va împiedica conținutul "
+#~ "relativ care urmează să fie importat:"
+
+#~ msgid "This will replace your settings, are you sure?"
+#~ msgstr "Acest lucru va înlocui setările dvs., sunteți sigur?"
+
+#~ msgid "Are you sure?"
+#~ msgstr "Esti sigur?"
+
+#~ msgid "Import in progress…"
+#~ msgstr "Import în derulare ..."
+
+#~ msgid "Don&#39;t close the browser or navigate away."
+#~ msgstr "Nu&#39; închide browserul și nu continua navigarea."
+
+#~ msgid "Please be patient, the import procedure can take few minutes."
+#~ msgstr ""
+#~ "Vă rugăm să aveți răbdare, procedura de import poate dura câteva minute."
+
+#~ msgid "Tips"
+#~ msgstr "Sfaturi"
+
+#~ msgid ""
+#~ "Did you know that you can delete all the imported demo media using the"
+#~ msgstr "Știați că puteți șterge toate demo media importate folisind"
+
+#~ msgid "button inside this page?"
+#~ msgstr "butonul din interiorul acestei pagini?"
+
+#~ msgid ""
+#~ "Theme options import data could not be read. Please try a different file."
+#~ msgstr ""
+#~ "Opțiunile temei de import de date nu au putut fi citite. Vă rugăm să "
+#~ "încercați un alt fișier."
+
+#~ msgid "Widget import data could not be read. Please try a different file."
+#~ msgstr ""
+#~ "Imposibil de citit datele de import widget. Incercați un fisier diferit."
+
+#~ msgid "Sidebar does not exist in theme (using Inactive)"
+#~ msgstr "Bara laterală nu există în temă (folosind inactiv)"
+
+#~ msgid "Site does not support widget"
+#~ msgstr "Site-ul nu suportă widget"
+
+#~ msgid "Widget already exists"
+#~ msgstr "Widgetul există deja"
+
+#~ msgid "Imported"
+#~ msgstr "Importate"
+
+#~ msgid "Imported to Inactive"
+#~ msgstr "Importat la inactiv"
+
+#~ msgid "No Title"
+#~ msgstr "Fără titlu"
+
+#~ msgid "Sorry, there has been an error."
+#~ msgstr "Ne pare rău, a apărut o eroare."
+
+#~ msgid "The file does not exist, please try again."
+#~ msgstr "Fișierul nu există, te rugăm încearcă  din nou."
+
+#~ msgid "Go ahead and visit the %s or start customizing %s"
+#~ msgstr "Du-te întâi și vizitează %s sau începe personalizarea %s"
+
+#~ msgid "front page"
+#~ msgstr "prima pagină"
+
+#~ msgid "your theme"
+#~ msgstr "tema ta"
+
+#~ msgid ""
+#~ "The export file could not be found at <code>%s</code>. It is likely that "
+#~ "this was caused by a permissions problem."
+#~ msgstr ""
+#~ "Fișierul de export nu a putut fi găsită la <code>%s</code>. Este posibil "
+#~ "ca acest lucru să fi fost cauzat de o problemă de permisie."
+
+#~ msgid ""
+#~ "This WXR file (version %s) may not be supported by this version of the "
+#~ "importer. Please consider updating."
+#~ msgstr ""
+#~ "Acest fișier WXR (versiunea%s) nu poate fi acceptat de această versiune a "
+#~ "importatorului. Vă rugăm să luați în considerare actualizarea."
+
+#~ msgid ""
+#~ "Failed to import author %s. Their posts will be attributed to the current "
+#~ "user."
+#~ msgstr ""
+#~ "Eroare in procesul de importare autor %s. Postările lor vor fi atribuite "
+#~ "utilizatorului curent."
+
+#~ msgid "Assign Authors"
+#~ msgstr "Atribuie Autori"
+
+#~ msgid ""
+#~ "To make it easier for you to edit and save the imported content, you may "
+#~ "want to reassign the author of the imported item to an existing user of "
+#~ "this site. For example, you may want to import all the entries as "
+#~ "<code>admin</code>s entries."
+#~ msgstr ""
+#~ "Pentru a ușura editarea și salvarea conținutului importat, poate doriți "
+#~ "să realocați autorul articolului importat la un utilizator existent de pe "
+#~ "acest site. De exemplu, poate doriți să importați toate intrările ca "
+#~ "<code>admin</code>s  intrări."
+
+#~ msgid ""
+#~ "If a new user is created by WordPress, a new password will be randomly "
+#~ "generated and the new user&#8217;s role will be set as %s. Manually "
+#~ "changing the new user&#8217;s details will be necessary."
+#~ msgstr ""
+#~ "În cazul în care un utilizator nou este creat de WordPress , o nouă "
+#~ "parolă va fi generată aleator , iar noul utilizator&#8217;s rolul lui va "
+#~ "fi setat ca %s. Schimbarea manuală a noului utilizator&#8217;s detaliile "
+#~ "vor fi necesare."
+
+#~ msgid "Import Attachments"
+#~ msgstr "Importă Atașamentele"
+
+#~ msgid "Download and import file attachments"
+#~ msgstr "Descarcă și importă atașamentele"
+
+#~ msgid "Import author:"
+#~ msgstr "Importați autor:"
+
+#~ msgid "or create new user with login name:"
+#~ msgstr "sau crează un nou utilizator cu numele de conectare :"
+
+#~ msgid "as a new user:"
+#~ msgstr "ca un utilizator nou :"
+
+#~ msgid "assign posts to an existing user:"
+#~ msgstr "atribuie postări la un utilizator existent:"
+
+#~ msgid "or assign posts to an existing user:"
+#~ msgstr "sau atribuie postări la un utilizator existent:"
+
+#~ msgid "- Select -"
+#~ msgstr "- Selectează -"
+
+#~ msgid ""
+#~ "Failed to create new user for %s. Their posts will be attributed to the "
+#~ "current user."
+#~ msgstr ""
+#~ "Nu s-a reușit crearea unui nou utilizator pentru %s. Posturile lor vor fi "
+#~ "atribuite utilizatorului curent."
+
+#~ msgid "Failed to import category %s"
+#~ msgstr "Nu a reușit  importarea categoriei %s"
+
+#~ msgid "Failed to import post tag %s"
+#~ msgstr "Nu a reușit  importul  etichetei postului %s"
+
+#~ msgid "Failed to import %s %s"
+#~ msgstr "Nu a reușit  importul  %s%s"
+
+#~ msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+#~ msgstr "Nu a reușit importarea &#8220;%s&#8221;: Tip invalid %s"
+
+#~ msgid "%s &#8220;%s&#8221; already exists."
+#~ msgstr "%s &#8220;%s&#8221; există deja."
+
+#~ msgid "Failed to import %s &#8220;%s&#8221;"
+#~ msgstr "Nu a reusit importul pentru %s &#8220;%s&#8221;"
+
+#~ msgid "Import WordPress"
+#~ msgstr "Import WordPress"
+
+#~ msgid ""
+#~ "A new version of this importer is available. Please update to version %s "
+#~ "to ensure compatibility with newer export files."
+#~ msgstr ""
+#~ "O versiune nouă a acestui importator este disponibil . Vă rugăm să "
+#~ "actualizați la versiunea %s pentru a asigura compatibilitatea cu "
+#~ "fișierele de export mai noi ."
+
+#~ msgid "Install Required Plugins"
+#~ msgstr "Instalează plugin-urile cerute"
+
+#~ msgid "This theme recommends the following plugin: %1$s."
+#~ msgid_plural "This theme recommends the following plugins: %1$s."
+#~ msgstr[0] "Această temă recomandă următoarele plugin:%1$s."
+#~ msgstr[1] "Această temă recomandă următoarele pluginuri:%1$s."
+#~ msgstr[2] "Această temă recomandă următoarele pluginuri:%1$s."
+
+#~ msgid "The following recommended plugin is currently inactive: %1$s."
+#~ msgid_plural ""
+#~ "The following recommended plugins are currently inactive: %1$s."
+#~ msgstr[0] "Următorul plugin recomandat este momentan inactiv:%1$s."
+#~ msgstr[1] "Următoarele pluginuri recomandate sunt momentan inactive:%1$s."
+#~ msgstr[2] "Următoarele pluginuri recomandate sunt momentan inactive:%1$s."
+
+#~ msgid "Options Import/Export"
+#~ msgstr "Opțiuni Import/Export"
+
+#~ msgid "Transparent"
+#~ msgstr "Transparent"
+
+#~ msgid "background-repeat"
+#~ msgstr "fundal-repetare"
+
+#~ msgid "background-attachment"
+#~ msgstr "fundal-atașament"
+
+#~ msgid "background-position"
+#~ msgstr "fundal-poziție"
+
+#~ msgid "background-size"
+#~ msgstr "fundal-mărime"
+
+#~ msgid "Title"
+#~ msgstr "Titlu"
+
+#~ msgid "Inherit"
+#~ msgstr "Moștenit"
+
+#~ msgid "Menu"
+#~ msgstr "Meniu"
+
+#~ msgid "Menu width"
+#~ msgstr "Lățime Meniu"
+
+#~ msgid "Limit"
+#~ msgstr "Limită"
+
+#, fuzzy
+#~ msgid "Remove transparency"
+#~ msgstr "Elimină transparență"
+
+#~ msgid "Remove shadow"
+#~ msgstr "Elimină umbră"
+
+#~ msgid "No Content Blocks found"
+#~ msgstr "Nu a Fost Gasit Conținut Blocat"
+
+#~ msgid "Revolution Slider"
+#~ msgstr "Revolution Slider"
+
+#~ msgid "No sliders found"
+#~ msgstr "Nu au fost găsite slidere"
+
+#~ msgid "LayerSlider"
+#~ msgstr "LayerSlider"
+
+#~ msgid "Specify the Content Block."
+#~ msgstr "Specifică Conținut Blocat."
+
+#~ msgid "Revslider"
+#~ msgstr "Revslider"
+
+#~ msgid "Specify the Revolution Slider."
+#~ msgstr "Specifică Revolution Slider."
+
+#~ msgid "Specify the LayerSlider."
+#~ msgstr "Specifică LayerSlider."
+
+#~ msgid "Custom inner width"
+#~ msgstr "Lățime interioară personalizată"
+
+#~ msgid "Adjust the inner content width in %."
+#~ msgstr "Ajustați lățimea conținutului interior în%."
+
+#~ msgid "Content alignment"
+#~ msgstr "Alinierea Conținutului"
+
+#~ msgid "Specify the text/content alignment."
+#~ msgstr "Specifică aliniere text/conținut ."
+
+#~ msgid "Left"
+#~ msgstr "Stânga"
+
+#~ msgid "Center"
+#~ msgstr "Centru"
+
+#~ msgid "Right"
+#~ msgstr "Dreapta"
+
+#~ msgid ""
+#~ "Define the height of the header in px or in % (relative to the window "
+#~ "height)."
+#~ msgstr ""
+#~ "Definește înălțimea antetului în px sau în % ( în raport cu înălțimea "
+#~ "ferestrei ) ."
+
+#~ msgid "Minimal height"
+#~ msgstr "Înălţimea minimă"
+
+#~ msgid "Enter a minimun height for the header in pixel."
+#~ msgstr "Introduceți o înălțime cel puțin minimă pentru antet în pixeli ."
+
+#~ msgid "Light"
+#~ msgstr "Deschis"
+
+#~ msgid "Dark"
+#~ msgstr "Închis"
+
+#~ msgid "Position"
+#~ msgstr "Poziție"
+
+#~ msgid "Specify the position of the header content inside the container."
+#~ msgstr "Specifică poziția conținutului antet în interiorul containerului."
+
+#~ msgid "Left Top"
+#~ msgstr "Stânga Sus"
+
+#~ msgid "Left Bottom"
+#~ msgstr "Stânga Jos"
+
+#~ msgid "Center Top"
+#~ msgstr "Centru Sus"
+
+#~ msgid "Center Center"
+#~ msgstr "Centru Centru"
+
+#~ msgid "Center Bottom"
+#~ msgstr "Centru Jos"
+
+#~ msgid "Right Top"
+#~ msgstr "Dreapta Sus"
+
+#~ msgid "Right Center"
+#~ msgstr "Dreapta Centru"
+
+#~ msgid "Right Bottom"
+#~ msgstr "Dreapta Jos"
+
+#~ msgid "h1"
+#~ msgstr "h1"
+
+#~ msgid "h2"
+#~ msgstr "h2"
+
+#~ msgid "h3"
+#~ msgstr "h3"
+
+#~ msgid "h4"
+#~ msgstr "h4"
+
+#~ msgid "h5"
+#~ msgstr "h5"
+
+#~ msgid "h6"
+#~ msgstr "h6"
+
+#~ msgid "BigText"
+#~ msgstr "TextMare"
+
+#~ msgid "Default CSS"
+#~ msgstr "CSS implicit"
+
+#~ msgid "Background"
+#~ msgstr "Fundal"
+
+#~ msgid "Specify the background media and color."
+#~ msgstr "Specifică media sau culoare pentru fundal"
+
+#~ msgid "Scroll down arrow"
+#~ msgstr "Derulați în jos sageata"
+
+#~ msgid "Activate the scroll down arrow button."
+#~ msgstr "Activează derulați în jos buton sageată"
+
+#~ msgid "Header section name"
+#~ msgstr "Numele secțiunii antet"
+
+#~ msgid "Parallax"
+#~ msgstr "Parallax"
+
+#~ msgid "Activate the background parallax effect."
+#~ msgstr "Activează efect parallax fundal"
+
+#~ msgid "Title in header"
+#~ msgstr "Titlu în antet"
+
+#~ msgid "Activate to show title in the header."
+#~ msgstr "Activează pentru a vedea titlu in antet"
+
+#~ msgid "Title font family"
+#~ msgstr "Familie font titlu"
+
+#~ msgid "Specify the font for the title."
+#~ msgstr "Specifică font pentru titlu"
+
+#~ msgid "Title font size"
+#~ msgstr "Marime font titlu"
+
+#~ msgid "Specify the font size for the title."
+#~ msgstr "Specifică mărime  font pentru titlu"
+
+#~ msgid "Title italic"
+#~ msgstr "Titlu italic"
+
+#~ msgid "Title text transform"
+#~ msgstr "Transforma text Titlu"
+
+#~ msgid "Custom content"
+#~ msgstr "Conținut personalizat"
+
+#~ msgid "Top to bottom"
+#~ msgstr "De sus în jos"
+
+#~ msgid "Left to right"
+#~ msgstr "Stânga spre dreapta"
+
+#~ msgid "Right to left"
+#~ msgstr "Dreapta spre stânga"
+
+#~ msgid "Bottom to top"
+#~ msgstr "De jos în sus"
+
+#~ msgid "Zoom in"
+#~ msgstr "Mărește"
+
+#~ msgid "Zoom out"
+#~ msgstr "Micșorează"
+
+#~ msgid "Alpha"
+#~ msgstr "Alfa"
+
+#~ msgid "Animation delay"
+#~ msgstr "Întârziere de animație"
+
+#~ msgid ""
+#~ "Specify the entrance animation delay of the title text in milliseconds."
+#~ msgstr ""
+#~ "Se specifică întârzierea de animație la intrare a textului din titlu în "
+#~ "milisecunde."
+
+#~ msgid "ms 100"
+#~ msgstr "ms 100"
+
+#~ msgid "ms 200"
+#~ msgstr "ms 200"
+
+#~ msgid "ms 300"
+#~ msgstr "ms 300"
+
+#~ msgid "ms 400"
+#~ msgstr "ms 400"
+
+#~ msgid "ms 500"
+#~ msgstr "ms 500"
+
+#~ msgid "ms 600"
+#~ msgstr "ms 600"
+
+#~ msgid "ms 700"
+#~ msgstr "ms 700"
+
+#~ msgid "ms 800"
+#~ msgstr "ms 800"
+
+#~ msgid "ms 900"
+#~ msgstr "ms 900"
+
+#~ msgid "ms 1000"
+#~ msgstr "ms 1000"
+
+#~ msgid "ms 1100"
+#~ msgstr "ms 1100"
+
+#~ msgid "ms 1200"
+#~ msgstr "ms 1200"
+
+#~ msgid "ms 1300"
+#~ msgstr "ms 1300"
+
+#~ msgid "ms 1400"
+#~ msgstr "ms 1400"
+
+#~ msgid "ms 1500"
+#~ msgstr "ms 1500"
+
+#~ msgid "ms 1600"
+#~ msgstr "ms 1600"
+
+#~ msgid "ms 1700"
+#~ msgstr "ms 1700"
+
+#~ msgid "ms 1800"
+#~ msgstr "ms 1800"
+
+#~ msgid "ms 1900"
+#~ msgstr "ms 1900"
+
+#~ msgid "ms 2000"
+#~ msgstr "ms 2000"
+
+#~ msgid ""
+#~ "Specify the entrance animation speed of the title text in milliseconds."
+#~ msgstr "Specifica viteza de animaţie intrarea de text titlu în milisecunde."
+
+#~ msgid "Default (400)"
+#~ msgstr "Implicit (400)"
+
+#~ msgid "Content width"
+#~ msgstr "Conţinut lăţime"
+
+#~ msgid "Override the content width."
+#~ msgstr "Reinterpreta lăţimea de conţinut."
+
+#~ msgid "Custom width"
+#~ msgstr "Lăţime personalizată"
+
+#~ msgid "Yes"
+#~ msgstr "Da"
+
+#~ msgid "No"
+#~ msgstr "Nu"
+
+#~ msgid "Show title"
+#~ msgstr "Afișați titlul"
+
+#~ msgid "Show media"
+#~ msgstr "Afișați media"
+
+#~ msgid "Left align"
+#~ msgstr "Aliniere la stânga"
+
+#~ msgid "Center align"
+#~ msgstr "Aliniere la centru"
+
+#~ msgid "Right align"
+#~ msgstr "Aliniere la dreapta"
+
+#, fuzzy
+#~| msgid "details layout"
+#~ msgid "Media layout"
+#~ msgstr "detalii aspect"
+
+#, fuzzy
+#~| msgid "Specify the layout template for all the %s posts."
+#~ msgid "Specify the layout mode for the product images section."
+#~ msgstr "Specifică șablon aspect pentru toate %s postarile."
+
+#, fuzzy
+#~| msgctxt "color picker"
+#~| msgid "Standard"
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+#, fuzzy
+#~| msgid "Menu font size"
+#~ msgid "Media layout size"
+#~ msgstr "Mărime font meniu"
+
+#, fuzzy
+#~| msgid "Specify the font size for the title."
+#~ msgid "Specify the size of the media layout area."
+#~ msgstr "Specifică mărime  font pentru titlu"
+
+#, fuzzy
+#~| msgid "Custom content"
+#~ msgid "Sticky content"
+#~ msgstr "Conținut personalizat"
+
+#, fuzzy
+#~| msgid "Icon"
+#~ msgid "on"
+#~ msgstr "Icoană"
+
+#, fuzzy
+#~| msgid "Off"
+#~ msgid "off"
+#~ msgstr "Oprit:"
+
+#, fuzzy
+#~| msgid "Zoom in"
+#~ msgid "Zoom"
+#~ msgstr "Mărește"
+
+#, fuzzy
+#~ msgid "Content Block - Before Content"
+#~ msgstr "Nu a Fost Gasit Conținut Blocat"
+
+#~ msgid "Background color"
+#~ msgstr "Culoare fundal"
+
+#~ msgid "Content"
+#~ msgstr "Conținut"
+
+#~ msgid "Activate the sidebar"
+#~ msgstr "Activează bară laterală"
+
+#~ msgid "Specify the sidebar."
+#~ msgstr "Specifică bară laterală"
+
+#~ msgid "Specify the position of the sidebar."
+#~ msgstr "Specifică poziție pentru bară laterală"
+
+#~ msgid "Size"
+#~ msgstr "Mărime"
+
+#~ msgid "Set the size of the sidebar."
+#~ msgstr "Setează mărime pentru bară laterală"
+
+#~ msgid "Details"
+#~ msgstr "Detalii"
+
+#~ msgid "details"
+#~ msgstr "detalii"
+
+#~ msgid "details layout"
+#~ msgstr "detalii aspect"
+
+#~ msgid "Specify the layout template for all the %s posts."
+#~ msgstr "Specifică șablon aspect pentru toate %s postarile."
+
+#~ msgid "Sidebar size"
+#~ msgstr "Mărime Bară Laterală"
+
+#~ msgid "Set the sidebar size."
+#~ msgstr "Setează mărime bara laterală."
+
+#~ msgid "Specify the background color."
+#~ msgstr "Specifică culoarea de fundal."
+
+#~ msgid "Navigation parent"
+#~ msgstr "Navigare părinte"
+
+#~ msgid "Specify the parent page to create the navigation logic."
+#~ msgstr "Specifică pagina părinte pentru a crea navigare logica."
+
+#~ msgid "Footer width"
+#~ msgstr "Lățime Subsol"
+
+#~ msgid "Override the footer width."
+#~ msgstr "Suprascrie lățime Subsol"
+
+#, fuzzy
+#~ msgid "Custom fields"
+#~ msgstr ""
+#~ "Acest format, pe care noi îl numim WordPress eXtended RSS sau WXR, va "
+#~ "conține toate posturi, pagini, comentarii, câmpuri personalizate, "
+#~ "categorii și etichete dumneavoastră."
+
+#~ msgid "Page Options"
+#~ msgstr "Optiuni Pagina"
+
+#~ msgid "404 content"
+#~ msgstr "Conținut 404"
+
+#~ msgid "Specify a content for the 404 page."
+#~ msgstr "Specifică conținut pentru pagina 404"
+
+#~ msgid "Default"
+#~ msgstr "Implicit"
+
+#~ msgid "No Revolution Sliders found"
+#~ msgstr "Revolution Sliders nu a fost găsit "
+
+#~ msgid "No LayerSliders found"
+#~ msgstr "LayerSliders nu a fost găsit "
+
+#, fuzzy
+#~| msgid "Spacing"
+#~ msgid "Letter Spacing 0"
+#~ msgstr "Spațiere"
+
+#~ msgid "No fonts activated."
+#~ msgstr "Nu sunt fonturi activate."
+
+#~ msgid "Specify the header type."
+#~ msgstr "Specifică tipul de antet."
+
+#~ msgid "Specify the RevSlider."
+#~ msgstr "Specifică RevSlider."
+
+#~ msgid "Custom text"
+#~ msgstr "Text personalizat"
+
+#~ msgid ""
+#~ "Add custom text for the header. Every newline in the field is a new line "
+#~ "in the title."
+#~ msgstr ""
+#~ "Adaugă un  text personalizat pentru antet . In fiecare linie noua in câmp "
+#~ "este o nouă linie în titlu ."
+
+#~ msgid "Header width"
+#~ msgstr "Lăţime antet"
+
+#~ msgid "Activate to show the title in the content area."
+#~ msgstr "Activați pentru a afișa titlul în zona de conținut ."
+
+#~ msgid "Show comments"
+#~ msgstr "Arată comentarii"
+
+#~ msgid "Single post width"
+#~ msgstr "Lățime unică postare"
+
+#~ msgid "Specify the single post width from 1 to 12."
+#~ msgstr "Specifică lățime unica pentru postare de la 1 la 12"
+
+#~ msgid "Activate to show the sidebar."
+#~ msgstr "Activează pentru a vedea bară laterală."
+
+#~ msgid "Navigation bar"
+#~ msgstr "Bară de navigare"
+
+#~ msgid "Activate to show the navigation bar."
+#~ msgstr "Activează pentru a afișa bara de navigare ."
+
+#~ msgid "Navigation index"
+#~ msgstr "Index de navigare"
+
+#~ msgid "Specify the page you want to use as index."
+#~ msgstr "Specificați pagina pe care doriți să o utilizați ca index."
+
+#~ msgid "Navigation titles"
+#~ msgstr "Titluri de navigare"
+
+#, fuzzy
+#~ msgid "Unique custom field ID"
+#~ msgstr "ID social unic"
+
+#, fuzzy
+#~ msgid "Authors"
+#~ msgstr "AutoriȘ"
+
+#~ msgid "Logo"
+#~ msgstr "Logo"
+
+#~ msgid "Layout"
+#~ msgstr "Aspect"
+
+#~ msgid "Post"
+#~ msgstr "Postare"
+
+#~ msgid "404"
+#~ msgstr "404"
+
+#~ msgid "Palette"
+#~ msgstr "Paletă"
+
+#~ msgid "Typography"
+#~ msgstr "Tipografie"
+
+#~ msgid "Customize"
+#~ msgstr "Personalizare"
+
+#~ msgid "Sidebars"
+#~ msgstr "Bară laterală"
+
+#~ msgid "Connections"
+#~ msgstr "Conexiuni"
+
+#, fuzzy
+#~ msgid "Google Maps"
+#~ msgstr "Fonturi Google"
+
+#~ msgid "Redirect"
+#~ msgstr "Redirecţionare"
+
+#~ msgid "CSS & JS"
+#~ msgstr "CSS & JS"
+
+#~ msgid "Performance"
+#~ msgstr "Performanţă"
+
+#~ msgid "Site width"
+#~ msgstr "Lăţimea site-ului"
+
+#~ msgid "Enter the width of your site."
+#~ msgstr "Introduceți lățimea site-ului."
+
+#~ msgid "Site layout align"
+#~ msgstr "Aliniere aspect site"
+
+#, fuzzy
+#~ msgid "Specify the thickness of the frame around the body"
+#~ msgstr "Specifică poziția conținutului antet în interiorul containerului."
+
+#, fuzzy
+#~ msgid "Specify the body frame color."
+#~ msgstr "Specifică culoare accent."
+
+#~ msgid "Switchable logo"
+#~ msgstr "Switchable logo"
+
+#~ msgid "Logo - Light"
+#~ msgstr "Logo - Deschis"
+
+#~ msgid "Logo - Dark"
+#~ msgstr "Logo - Închis"
+
+#~ msgid "Logo height"
+#~ msgstr "Înălțime LOGO"
+
+#~ msgid "Enter the height of the logo in px."
+#~ msgstr "Introduceți înălțimea logo-ului în px."
+
+#~ msgid "Logo height mobile"
+#~ msgstr "Înălțimea logo-ului pentru mobil"
+
+#~ msgid "Enter the height of the logo in px for mobile version."
+#~ msgstr "Introduceți înălțimea logo-ului în px pentru versiunea mobilă."
+
+#~ msgid "Specify the menu layout."
+#~ msgstr "Specifică aspectul meniului."
+
+#~ msgid "Menu horizontal position"
+#~ msgstr "Meniu poziție orizontală"
+
+#~ msgid "Specify the horizontal position of the menu."
+#~ msgstr "Specifică poziția orizontală a meniului."
+
+#~ msgid "Menu vertical alignment"
+#~ msgstr "Meniu aliniere verticală"
+
+#~ msgid "Specify the vertical alignment of the menu."
+#~ msgstr "Specifică alinierea verticală a meniului."
+
+#~ msgid "Top"
+#~ msgstr "Sus"
+
+#~ msgid "Middle"
+#~ msgstr "Mijloc"
+
+#~ msgid "Bottom"
+#~ msgstr "Jos"
+
+#~ msgid "Menu horizontal alignment"
+#~ msgstr "Meniu aliniere orizontală"
+
+#~ msgid "Specify the horizontal alignment of the menu."
+#~ msgstr "Specifică alinierea orizontală a meniului."
+
+#~ msgid "Left Align"
+#~ msgstr "Aliniere la stânga"
+
+#~ msgid "Center Align"
+#~ msgstr "Aliniere la centru"
+
+#~ msgid "Right Align"
+#~ msgstr "Aliniere la dreapta"
+
+#~ msgid "Vertical menu width"
+#~ msgstr "Lățime meniu vertical"
+
+#~ msgid "Vertical menu width in px"
+#~ msgstr "Lățime meniu vertical în px"
+
+#~ msgid "Menu full width"
+#~ msgstr "Meniu lățime completă"
+
+#~ msgid ""
+#~ "Activate to expand the menu to full width. (Only for the horizontal "
+#~ "menus)."
+#~ msgstr ""
+#~ "Activează pentru a extinde meniul la lățimea întreagă/maximă. ( Numai "
+#~ "pentru meniuri orizontale )."
+
+#~ msgid "Visuals"
+#~ msgstr "Vizual"
+
+#, fuzzy
+#~| msgid "Menu shadows"
+#~ msgid "Menu divider shadow"
+#~ msgstr "Umbre meniu"
+
+#, fuzzy
+#~| msgid "Activate to show the menu shadows."
+#~ msgid "Activate to show the menu devider shadow."
+#~ msgstr "Activează pentru a vedea umbre meniu."
+
+#, fuzzy
+#~| msgid "Menu shadows"
+#~ msgid "Menu dropdown shadow"
+#~ msgstr "Umbre meniu"
+
+#~ msgid "Menu borders"
+#~ msgstr "Margini Meniu"
+
+#~ msgid "Activate to show the menu borders."
+#~ msgstr "Activează pentru a vedea margini meniu."
+
+#~ msgid "Animation"
+#~ msgstr "Animație"
+
+#, fuzzy
+#~| msgid "Menu font family"
+#~ msgid "Menu centered mobile"
+#~ msgstr "Familie font meniu"
+
+#, fuzzy
+#~ msgid "Specify the menu items animation when opening."
+#~ msgstr "Specificați culoarea textului meniului ."
+
+#~ msgid "3D"
+#~ msgstr "3D"
+
+#~ msgid "Minimum logo height"
+#~ msgstr "Înălțimea minimă LOGO"
+
+#~ msgid "Hide secondary menu"
+#~ msgstr "Ascunde meniul secundar"
+
+#~ msgid "Activate to hide the secondary menu."
+#~ msgstr "Activează pentru a ascunde meniul secundar."
+
+#, fuzzy
+#~| msgid "Secondary Menu"
+#~ msgid "Secondary menu padding"
+#~ msgstr "Meniu Secundar"
+
+#, fuzzy
+#~| msgid "Activate to hide the secondary menu."
+#~ msgid "Activate to increase secondary menu padding."
+#~ msgstr "Activează pentru a ascunde meniul secundar."
+
+#~ msgid "Social icons"
+#~ msgstr "Icoane Sociale"
+
+#~ msgid "Activate to show the social connection icons in the menu bar."
+#~ msgstr ""
+#~ "Activează pentru a afișa icoanele de conectare la rețelele sociale în "
+#~ "bara de meniu "
+
+#~ msgid "Search icon"
+#~ msgstr "Icoană de căutare"
+
+#~ msgid "Activate to show the search icon in the menu bar."
+#~ msgstr "Activează pentru a afișa icoana de căutare în bara de meniu."
+
+#~ msgid "Woocommerce cart"
+#~ msgstr "Coș WooCommerce"
+
+#~ msgid "Activate to show the Woocommerce icon in the menu bar."
+#~ msgstr "Activază pentru a afișa icoana Woocommerce în bara de meniu."
+
+#, fuzzy
+#~ msgid "Woocommerce cart on menu bar"
+#~ msgstr "Coș WooCommerce"
+
+#~ msgid "Sidebar color"
+#~ msgstr "Culoare Bară Laterală"
+
+#~ msgid "Site sidebars"
+#~ msgstr "Bară Laterală site"
+
+#~ msgid ""
+#~ "Define here all the sidebars you will need. A default sidebar is already "
+#~ "defined."
+#~ msgstr ""
+#~ "Definiți aici toate barele laterale de care aveți nevoie . O bara "
+#~ "laterală implicită este deja definită."
+
+#~ msgid "Unique sidebar ID"
+#~ msgstr "ID bară laterală unic"
+
+#~ msgid "Custom fonts"
+#~ msgstr "Fonturi personalizate"
+
+#~ msgid "Define here all the fonts you will need."
+#~ msgstr "Definiți aici toate fonturile de care aveți nevoie."
+
+#~ msgid "Unique font ID"
+#~ msgstr "ID font unic"
+
+#~ msgid "Specify a font."
+#~ msgstr "Specifică font."
+
+#~ msgid "Font family"
+#~ msgstr "Familie font"
+
+#~ msgid "Enter a font family."
+#~ msgstr "Introdu familie fon"
+
+#~ msgid "Default font size"
+#~ msgstr "Mărime fon implicit"
+
+#~ msgid "Font size H1"
+#~ msgstr "Mărime Font H1 "
+
+#~ msgid "Font size for H1 in <b>px</b>."
+#~ msgstr "Mărime font pentru H1 în <b>px</b>."
+
+#~ msgid "Font size H2"
+#~ msgstr "Mărime Font H2 "
+
+#~ msgid "Font size for H2 in <b>px</b>."
+#~ msgstr "Mărime font pentru H2 în <b>px</b>."
+
+#~ msgid "Font size H3"
+#~ msgstr "Mărime Font H3"
+
+#~ msgid "Font size for H3 in <b>px</b>."
+#~ msgstr "Mărime font pentru H3 în <b>px</b>."
+
+#~ msgid "Font size H4"
+#~ msgstr "Mărime Font H4"
+
+#~ msgid "Font size for H4 in <b>px</b>."
+#~ msgstr "Mărime font pentru H4 în <b>px</b>."
+
+#~ msgid "Font size H5"
+#~ msgstr "Mărime Font H5"
+
+#~ msgid "Font size for H5 in <b>px</b>."
+#~ msgstr "Mărime font pentru H5 în <b>px</b>."
+
+#~ msgid "Font size H6"
+#~ msgstr "Mărime Font H6"
+
+#~ msgid "Font size for H6 in <b>px</b>."
+#~ msgstr "Mărime font pentru H6 în <b>px</b>."
+
+#~ msgid "Unique font size ID"
+#~ msgstr "Mărime font ID unic"
+
+#~ msgid "Font size"
+#~ msgstr "Mărime Font"
+
+#~ msgid "Font size in <b>px</b>."
+#~ msgstr "Mărime font în <b>px</b>."
+
+#~ msgid "Insert a line height."
+#~ msgstr "Introdu o linie de înalțime."
+
+#~ msgid "Color palettes"
+#~ msgstr "Palete de culori"
+
+#~ msgid "Define all the colors you will need."
+#~ msgstr "Definiți toate culorile de care veți avea nevoie."
+
+#~ msgid "Black"
+#~ msgstr "Negru"
+
+#~ msgid "Dark 1"
+#~ msgstr "Închis 1"
+
+#~ msgid "Dark 2"
+#~ msgstr "Închis 2"
+
+#~ msgid "Dark 3"
+#~ msgstr "Închis 3"
+
+#~ msgid "Dark 4"
+#~ msgstr "Închis 4"
+
+#~ msgid "White"
+#~ msgstr "Alb"
+
+#~ msgid "Light 1"
+#~ msgstr "Deschis 1"
+
+#~ msgid "Light 2"
+#~ msgstr "Deschis 2"
+
+#~ msgid "Light 3"
+#~ msgstr "Deschis 3"
+
+#~ msgid "Light 4"
+#~ msgstr "Deschis 4"
+
+#~ msgid "Cerulean"
+#~ msgstr "Albastru ca cerul"
+
+#~ msgid "International Orange"
+#~ msgstr "Portocaliu Internațional"
+
+#~ msgid "Unique color ID"
+#~ msgstr "ID-ul unic de culoare"
+
+#~ msgid "Monochrome"
+#~ msgstr "Monocrom"
+
+#~ msgid ""
+#~ "Activate to assign a monochromatic color, otherwise a gradient will be "
+#~ "used."
+#~ msgstr ""
+#~ "Activează pentru a atribui o culoare monocromatică , altfel un gradient "
+#~ "va fi utilizat ."
+
+#~ msgid "Colorpicker"
+#~ msgstr "Selector de culoare"
+
+#~ msgid ""
+#~ "Specify the color for this palette. You can also define a color with the "
+#~ "alpha value."
+#~ msgstr ""
+#~ "Specificați culoarea pentru această paletă . Puteți defini, de asemenea, "
+#~ "o culoare cu valoarea alfa ."
+
+#~ msgid "SVG/Text logo color"
+#~ msgstr "SVG/Culoare text logo"
+
+#~ msgid "Menu text color"
+#~ msgstr "Text culoare meniu"
+
+#~ msgid "Specify the menu text color."
+#~ msgstr "Specificați culoarea textului meniului ."
+
+#~ msgid "Primary menu background color"
+#~ msgstr "Meniu primar culoare fundal"
+
+#~ msgid "Specify the primary menu background color."
+#~ msgstr "Specificați culoare de fundal pentru meniul primar."
+
+#~ msgid "Primary menu background opacity"
+#~ msgstr "Meniu primar opacitate fundal"
+
+#~ msgid "Adjust the primary menu background transparency."
+#~ msgstr "Ajustează transparență fundal pentru meniul primar"
+
+#~ msgid "Primary submenu background color"
+#~ msgstr "Culoare de fundal pentru submeniul primar"
+
+#~ msgid "Specify the primary submenu text color."
+#~ msgstr "Specifică culoare text pentru  submeniul primar"
+
+#~ msgid "Primary menu border color"
+#~ msgstr "Culoare margine meiu primar"
+
+#~ msgid "Specify the primary menu border color."
+#~ msgstr "Specificați culoare de margine pentru meniul primar."
+
+#~ msgid "Primary menu border opacity"
+#~ msgstr "Meniu primar opacitate margine"
+
+#~ msgid "Adjust the primary menu border transparency."
+#~ msgstr "Ajustează transparență margine pentru meniul primar"
+
+#~ msgid "Secondary menu background color"
+#~ msgstr "Culoare fundal pentru meniul secundar"
+
+#~ msgid "Specify the secondary menu background color."
+#~ msgstr "Specificați culoare de fundal pentru meniul secundar."
+
+#~ msgid "Content text color"
+#~ msgstr "Culoare pentru conținutul text"
+
+#~ msgid "Specify the content area text color."
+#~ msgstr "Specifică culoare pentu conținutul zonei de text"
+
+#~ msgid "Content background color"
+#~ msgstr "Culoarea de fundal a conținutului"
+
+#~ msgid "Specify the content background color."
+#~ msgstr "Specifică culoarea de fundal pentru conținut"
+
+#~ msgid "Accent color"
+#~ msgstr "Culoare Accent"
+
+#~ msgid "Specify the accent color."
+#~ msgstr "Specifică culoare accent."
+
+#, fuzzy
+#~| msgid "Link Color"
+#~ msgid "Links color"
+#~ msgstr "Culoare Link"
+
+#, fuzzy
+#~| msgid "Specify the Content Block to use as a footer content."
+#~ msgid "Specify the color of links in page textual contents."
+#~ msgstr ""
+#~ "Specificaţi bloc de conţinut pentru a utiliza ca un subsol de conţinut."
+
+#, fuzzy
+#~ msgid "Activate to style all the input text with the underline."
+#~ msgstr "Activați pentru a afișa titlul în zona de conținut ."
+
+#~ msgid "Menu font size"
+#~ msgstr "Mărime font meniu"
+
+#~ msgid "Submenu font size"
+#~ msgstr "mătine font pentru submeniu"
+
+#~ msgid "Mobile menu font size"
+#~ msgstr "Meniu Mobil mărime font"
+
+#~ msgid "Specify the menu font size for mobile."
+#~ msgstr "Specifică mărime font meniu pentru mobil"
+
+#~ msgid "Menu font family"
+#~ msgstr "Familie font meniu"
+
+#~ msgid "Specify the menu font family."
+#~ msgstr "Specofocă familie font meniu"
+
+#, fuzzy
+#~| msgid "Buttons font family"
+#~ msgid "Buttons and Forms"
+#~ msgstr "Familie font Butoane"
+
+#~ msgid "Buttons font family"
+#~ msgstr "Familie font Butoane"
+
+#~ msgid "Specify the buttons font family."
+#~ msgstr "Specifică familie font pentru Butoane"
+
+#, fuzzy
+#~| msgid "Specify the header type."
+#~ msgid "Specify the letter spacing value."
+#~ msgstr "Specifică tipul de antet."
+
+#, fuzzy
+#~| msgid "Specify the font for the title."
+#~ msgid "Specify an effect on hover state."
+#~ msgstr "Specifică font pentru titlu"
+
+#, fuzzy
+#~ msgid "Specify the scroll speed time in milliseconds."
+#~ msgstr "Specifica viteza de animaţie intrarea de text titlu în milisecunde."
+
+#~ msgid "CPT"
+#~ msgstr "CPT"
+
+#, fuzzy
+#~ msgid "Activate to show the Uncode help button in the WP admin bar."
+#~ msgstr "Activază pentru a afișa icoana Woocommerce în bara de meniu."
+
+#~ msgid "Footer full width"
+#~ msgstr "Subsol lățime completă"
+
+#~ msgid "Expand the footer to full width."
+#~ msgstr "Extinde subsol la lățime completă ."
+
+#~ msgid "Widget area"
+#~ msgstr "Zonă Widget "
+
+#~ msgid "Specify the Content Block to use as a footer content."
+#~ msgstr ""
+#~ "Specificaţi bloc de conţinut pentru a utiliza ca un subsol de conţinut."
+
+#~ msgid "Copyright area"
+#~ msgstr "Zonă Copyright "
+
+#~ msgid "Automatic copyright text"
+#~ msgstr "Text automat privind drepturile de autor"
+
+#~ msgid "Activate to use an automatic copyright text."
+#~ msgstr ""
+#~ "Activează pentru a folosi text automatic privind dreptulile de autor."
+
+#~ msgid "Custom copyright text"
+#~ msgstr "Persolanizează text privind drepturile de autor"
+
+#~ msgid "Insert a custom text for the footer copyright area."
+#~ msgstr ""
+#~ "Introdu un text personalizat pentru zona de subsol privind drepturile de "
+#~ "autor ."
+
+#~ msgid "Specify the footer copyright text alignment."
+#~ msgstr "Specifică alinierea textului de subsol privind drepturile de autor."
+
+#~ msgid "Social links"
+#~ msgstr "Link-uri Sociale"
+
+#~ msgid "Activate to have the social icons in the footer copyright area."
+#~ msgstr ""
+#~ "Activează pentru a avea pictogramele sociale în zona de subsol "
+#~ "\"Drepturile De Autor\" ."
+
+#~ msgid "Scroll up button"
+#~ msgstr "Buton de dreulare în sus"
+
+#~ msgid "Activate to add a scroll up button in the footer."
+#~ msgstr "Activează pentru a adăuga un buton de derulare în sus , în subsol ."
+
+#~ msgid "Scroll up button on mobile"
+#~ msgstr "Buton de dreulare în sus pentru mobil"
+
+#~ msgid "Activate to add a scroll up button in the footer for mobile devices."
+#~ msgstr ""
+#~ "Activează pentru a adăuga un buton de derulare în sus , în subsol pentru "
+#~ "dispozitive mobile ."
+
+#~ msgid "Social Networks"
+#~ msgstr "Re'ele Sociale"
+
+#~ msgid "Unique social ID"
+#~ msgstr "ID social unic"
+
+#~ msgid "Social Network Icon"
+#~ msgstr "Icoană Rețea Socială"
+
+#~ msgid "Specify the social network icon."
+#~ msgstr "Specifică icoană pentru rețea socială"
+
+#~ msgid "Social Network Link"
+#~ msgstr "Link Rețea Socială"
+
+#~ msgid "Enter your social network link."
+#~ msgstr "Introdu link-ul rețelei sociale."
+
+#~ msgid "CSS"
+#~ msgstr "CSS"
+
+#~ msgid "Enter here your custom CSS."
+#~ msgstr "Introduceți aici CSS personalizat"
+
+#~ msgid "Javascript"
+#~ msgstr "Javascript"
+
+#~ msgid "Enter here your custom Javacript code."
+#~ msgstr "Introduceți aici codul personalizat Javacript."
+
+#~ msgid "Adaptive images"
+#~ msgstr "Imagini adaptive"
+
+#~ msgid ""
+#~ "Activate to take advantage of the Adaptive Images system. Adaptive Images "
+#~ "detects your visitor's screen size and automatically delivers device "
+#~ "appropriate re-scaled images."
+#~ msgstr ""
+#~ "Activează pentru a beneficia de sistemul de imagini Adaptiv . Imaginile "
+#~ "adaptive detectează dimensiunea ecranului vizitatorilor dvs. și "
+#~ "furnizează dispozitivul automat imaginile adecvate redimensionate ."
+
+#~ msgid "Image quality"
+#~ msgstr "Calitate imagine"
+
+#~ msgid "Adjust the images compression quality."
+#~ msgstr "Ajustează calitatea imaginilor de compresie."
+
+#~ msgid "Apache Server Configs"
+#~ msgstr "Apache Server Configurări"
+
+#~ msgid "Redirect page"
+#~ msgstr "Pagină de redirecționare"
+
+#~ msgid ""
+#~ "Specify the redirect page. NB. This page will be presented without menu "
+#~ "and footer."
+#~ msgstr ""
+#~ "Specifică pagina de redirecționare . NB . Această pagină va fi prezentată "
+#~ "fără meniu și subsol ."
+
+#~ msgid "WooCommerce"
+#~ msgstr "WooCommerce"
+
+#~ msgid "Products"
+#~ msgstr "Produse"
+
+#~ msgid "Social Menu"
+#~ msgstr "Meniu Social"
+
+#~ msgid "Cart icon"
+#~ msgstr "Icoană Coș Magazin"
+
+#~ msgid "Specify the cart icon"
+#~ msgstr "Specifică icoană coș magazin"
+
+#, fuzzy
+#~ msgid "Center Split"
+#~ msgstr "Aliniere la centru"
+
+#, fuzzy
+#~ msgid "Overlay Center"
+#~ msgstr "Centru Centru"
+
+#~ msgid "Theme Options reset."
+#~ msgstr "Resetare Opțiuni Temă."
+
+#~ msgid "Save Changes"
+#~ msgstr "Salvează modificările"
+
+#~ msgid "Settings"
+#~ msgstr "Setări"
+
+#~ msgid "Save Settings"
+#~ msgstr "Salvează Setari"
+
+#~ msgid "Theme Options UI"
+#~ msgstr "Opțiuni Tema UI"
+
+#~ msgid "Import"
+#~ msgstr "Import"
+
+#~ msgid "Theme Options UI Builder"
+#~ msgstr "Opțiuni Temă UI Builder"
+
+#~ msgid "Settings XML"
+#~ msgstr "Setări XML"
+
+#~ msgid "Settings PHP File"
+#~ msgstr "Setări File PHP"
+
+#~ msgid "Documentation"
+#~ msgstr "Documentație"
+
+#, fuzzy
+#~ msgid "Option Types"
+#~ msgstr ""
+#~ "<strong>Standard</strong>: Setarea valorii standard pentru opțiunea "
+#~ "dumneavoastră funcționează numai pentru anumite tipuri de opțiuni. "
+#~ "Citește <code>OptionTree->\n"
+#~ "Documentație</code> pentru mai multe informații cu privire la care dintre "
+#~ "ele ."
+
+#~ msgid "Theme Mode"
+#~ msgstr "Mod Temă"
+
+#~ msgid "Meta Boxes"
+#~ msgstr "Căsuțe Meta"
+
+#~ msgid "Delete Gallery"
+#~ msgstr "Șterge Galerie"
+
+#~ msgid "Edit Gallery"
+#~ msgstr "Editează Galerie"
+
+#~ msgid "Create Gallery"
+#~ msgstr "Creează Galerie"
+
+#~ msgid "Are you sure you want to delete this Gallery?"
+#~ msgstr "Sunteți sigur că doriți să ștergeți această Galerie?"
+
+#~ msgid "Today"
+#~ msgstr "Astăzi"
+
+#~ msgid "Now"
+#~ msgstr "Acum"
+
+#~ msgid "Close"
+#~ msgstr "Închide"
+
+#~ msgid "Image"
+#~ msgstr "Imagine"
+
+#~ msgid "Settings updated."
+#~ msgstr "Setările au fost updatate"
+
+#~ msgid "Settings could not be saved."
+#~ msgstr "Setările nu au putut fi salvate."
+
+#~ msgid "Settings Imported."
+#~ msgstr "Setările au fost importate."
+
+#~ msgid "Settings could not be imported."
+#~ msgstr "Setările nu au putut fi importate."
+
+#~ msgid "Data Imported."
+#~ msgstr "Date importate."
+
+#~ msgid "Data could not be imported."
+#~ msgstr "Datele nu au putut fi importate."
+
+#~ msgid "Border"
+#~ msgstr "Margine"
+
+#~ msgid "Box Shadow"
+#~ msgstr "Umbră Casetă"
+
+#~ msgid "Gallery"
+#~ msgstr "Galerie"
+
+#~ msgid "Google Fonts"
+#~ msgstr "Fonturi Google"
+
+#~ msgid "JavaScript"
+#~ msgstr "JavaScript"
+
+#~ msgid "Link Color"
+#~ msgstr "Culoare Link"
+
+#~ msgid "On/Off"
+#~ msgstr "Pornit/Oprit"
+
+#~ msgid "Select"
+#~ msgstr "Selectează"
+
+#~ msgid "Sidebar Select"
+#~ msgstr "Selectează Bară Laterală"
+
+#~ msgid "Social Links"
+#~ msgstr "Link-uri Sociale"
+
+#~ msgid "Spacing"
+#~ msgstr "Spațiere"
+
+#, fuzzy
+#~ msgid "Tab"
+#~ msgstr "Filă goală. Editare pagină pentru a adăuga conținut aici."
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid "Textarea"
+#~ msgstr "Zonă Text"
+
+#~ msgid "Textarea Simple"
+#~ msgstr "Zonă Text Simplă"
+
+#~ msgid "Textblock"
+#~ msgstr "Bloctext"
+
+#~ msgid "Textblock Titled"
+#~ msgstr "Bloctext Titlu"
+
+#~ msgid "Upload"
+#~ msgstr "Încarcă"
+
+#~ msgid "Left Sidebar"
+#~ msgstr "Bară Laterală Stânga"
+
+#~ msgid "Right Sidebar"
+#~ msgstr "Bară Laterală Dreapta"
+
+#~ msgid "Full Width (no sidebar)"
+#~ msgstr "Lățime completă (fără bara laterală)"
+
+#~ msgid "Dual Sidebar"
+#~ msgstr "Bară Laterală Dublă"
+
+#~ msgid "Left Dual Sidebar"
+#~ msgstr "Bară Laterală Dublă Stânga"
+
+#~ msgid "Right Dual Sidebar"
+#~ msgstr "Bară Laterală Dublă Dreapta"
+
+#~ msgid "Link"
+#~ msgstr "Link"
+
+#~ msgid "Enter the name of the social website."
+#~ msgstr "Introduceți numele site-ului social."
+
+#~ msgid "Unable to write to file %s."
+#~ msgstr "Nu se poate scrie în fișierul %s."
+
+#~ msgid "edit"
+#~ msgstr "editează"
+
+#~ msgid "Add Choice"
+#~ msgstr "Adauga opțiune"
+
+#~ msgid ""
+#~ "<strong>Settings</strong>: This will only affect the List Item option "
+#~ "type."
+#~ msgstr ""
+#~ "<strong>Setări</strong>:Acest lucru va afecta doar lista de elemente de "
+#~ "tip opțiune."
+
+#~ msgid "Add Setting"
+#~ msgstr "Adaugă Setare"
+
+#~ msgid ""
+#~ "<strong>Standard</strong>: Setting the standard value for your option "
+#~ "only works for some option types. Read the <code>OptionTree-"
+#~ ">Documentation</code> for more information on which ones."
+#~ msgstr ""
+#~ "<strong>Standard</strong>: Setarea valorii standard pentru opțiunea "
+#~ "dumneavoastră funcționează numai pentru anumite tipuri de opțiuni. "
+#~ "Citește <code>OptionTree->\n"
+#~ "Documentație</code> pentru mai multe informații cu privire la care dintre "
+#~ "ele ."
+
+#~ msgid ""
+#~ "<strong>Rows</strong>: Enter a numeric value for the number of rows in "
+#~ "your textarea. This will only affect the following option types: CSS, "
+#~ "Textarea, & Textarea Simple."
+#~ msgstr ""
+#~ "<strong>Rânduri</strong>: Introduceți o valoare numerică pentru numărul "
+#~ "de rânduri din zonata de text. Acest lucru va afecta numai următoarele "
+#~ "tipuri de opțiuni: CSS, ZonăText, & ZonăText Simplu."
+
+#~ msgid "and"
+#~ msgstr "și"
+
+#~ msgid "or"
+#~ msgstr "sau"
+
+#~ msgid "Value"
+#~ msgstr "Valoare"
+
+#~ msgid "Link URL"
+#~ msgstr "Link URL"
+
+#~ msgid "Link Title"
+#~ msgstr "Link Titlu"
+
+#~ msgid "Quote"
+#~ msgstr "Citat"
+
+#~ msgid "Source Name (ex. author, singer, actor)"
+#~ msgstr "Sursă Nume"
+
+#~ msgid "Source URL"
+#~ msgstr "Sursă URL"
+
+#~ msgid "Source Title (ex. book, song, movie)"
+#~ msgstr "Sursă Titlu"
+
+#, fuzzy
+#~ msgid "WordPress Codex"
+#~ msgstr "Codex Wordpress"
+
+#~ msgid "Audio"
+#~ msgstr "Audio"
+
+#~ msgid "Sorry, this function does not exist"
+#~ msgstr "Din păcate, această funcție nu există"
+
+#~ msgid "background-image"
+#~ msgstr "Imagine de Fundal"
+
+#~ msgid "width"
+#~ msgstr "lațime"
+
+#~ msgid "unit"
+#~ msgstr "unitate"
+
+#~ msgid "style"
+#~ msgstr "stil"
+
+#~ msgid "offset-x"
+#~ msgstr "offset-x"
+
+#~ msgid "offset-y"
+#~ msgstr "offset-y"
+
+#~ msgid "blur-radius"
+#~ msgstr "blur-radius"
+
+#~ msgid "spread-radius"
+#~ msgstr "spread-radius"
+
+#~ msgid "No Categories Found"
+#~ msgstr "Nu Au Fost Găsite Categorii"
+
+#~ msgid "Choose One"
+#~ msgstr "Alege una"
+
+#~ msgid "No Posts Found"
+#~ msgstr "Nu au fost găsite articole"
+
+#~ msgid "height"
+#~ msgstr "inaltime"
+
+#~ msgid "Remove Google Font"
+#~ msgstr "Scoateți Google Font"
+
+#~ msgid "-- Choose One --"
+#~ msgstr "-- Alege una --"
+
+#~ msgid "Add Google Font"
+#~ msgstr "Adaugă Font Google"
+
+#~ msgctxt "color picker"
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+#~ msgctxt "color picker"
+#~ msgid "Hover"
+#~ msgstr "Planare"
+
+#~ msgctxt "color picker"
+#~ msgid "Active"
+#~ msgstr "Activ"
+
+#~ msgctxt "color picker"
+#~ msgid "Visited"
+#~ msgstr "Vizitat"
+
+#~ msgctxt "color picker"
+#~ msgid "Focus"
+#~ msgstr "Focalizare"
+
+#~ msgid ""
+#~ "You can re-order with drag & drop, the order will update after saving."
+#~ msgstr ""
+#~ "Aveți posibilitatea de a reordona cu drag & drop, comanda  se va "
+#~ "actualiza după salvare."
+
+#~ msgid "On"
+#~ msgstr "Pornit:"
+
+#~ msgid "Off"
+#~ msgstr "Oprit:"
+
+#~ msgid "No Pages Found"
+#~ msgstr "Nu au fost găsite pagini"
+
+#~ msgid "Default Sidebar"
+#~ msgstr "Bară implicită"
+
+#~ msgid "No Sidebars"
+#~ msgstr "Nu există Bară Laterală"
+
+#~ msgid "LinkedIn"
+#~ msgstr "LinkedIn"
+
+#~ msgid "Pinterest"
+#~ msgstr "Pinterest"
+
+#~ msgid "Dribbble"
+#~ msgstr "Dribbble"
+
+#~ msgid "Github"
+#~ msgstr "Github"
+
+#~ msgid "Forrst"
+#~ msgstr "Forrst"
+
+#~ msgid "Digg"
+#~ msgstr "Digg"
+
+#~ msgid "Delicious"
+#~ msgstr "Delicious"
+
+#~ msgid "Tumblr"
+#~ msgstr "Tumblr"
+
+#~ msgid "Skype"
+#~ msgstr "Skype"
+
+#~ msgid "SoundCloud"
+#~ msgstr "SoundCloud"
+
+#~ msgid "VK.com"
+#~ msgstr "VK.com"
+
+#~ msgid "top"
+#~ msgstr "sus"
+
+#~ msgid "right"
+#~ msgstr "dreapta"
+
+#~ msgid "bottom"
+#~ msgstr "jos"
+
+#~ msgid "left"
+#~ msgstr "stânga"
+
+#~ msgid "No Tags Found"
+#~ msgstr "Nu au fost găsite Etichete"
+
+#~ msgid "No Taxonomies Found"
+#~ msgstr "Nu au fost găsite Taxonomii"
+
+#~ msgid "Warning!"
+#~ msgstr "Avertizare!"
+
+#~ msgid ""
+#~ "Go to the %s page if you want to save data, this page is for adding "
+#~ "settings."
+#~ msgstr ""
+#~ "Dute la pagina %s dacă doriți să salvați datele, această pagină este "
+#~ "pentru adăugarea de setări."
+
+#~ msgid ""
+#~ "If you're unsure or not completely positive that you should be editing "
+#~ "these settings, you should read the %s first."
+#~ msgstr ""
+#~ "If you're unsure or not completely positive that you should be editing "
+#~ "these settings, you should read the %s first."
+
+#~ msgid ""
+#~ "You can create as many settings as your project requires and use them how "
+#~ "you see fit. When you add a setting here, it will be available on the "
+#~ "Theme Options page for use in your theme. To separate your settings into "
+#~ "sections, click the \"Add Section\" button, fill in the input fields, and "
+#~ "a new navigation menu item will be created."
+#~ msgstr ""
+#~ "Puteți crea cât setări doriți pentru proiectul dumneavoastră și să le "
+#~ "folosiți în modul în care credeți că se potrivesc . Atunci când adăugați "
+#~ "o setare aici , acesta va fi disponibil pe pagina Opțiuni Temă pentru "
+#~ "utilizare în temă . Pentru a separa setările în secțiuni, faceți clic pe "
+#~ "butonul \" Adăugați o secțiune \" , completați câmpurile de intrare, "
+#~ "precum și un nou element de meniu de navigare va fi creat."
+
+#~ msgid "Add Section"
+#~ msgstr "Adaugă Secţiune"
+
+#~ msgid "Contextual Help"
+#~ msgstr "Ajutor Contextual"
+
+#~ msgid "Contextual Help Sidebar"
+#~ msgstr "Ajutor Contextual Bară Laterală"
+
+#~ msgid ""
+#~ "If you decide to add contextual help to the Theme Option page, enter the "
+#~ "optional \"Sidebar\" HTML here. This would be an extremely useful place "
+#~ "to add links to your themes documentation or support forum. Only after "
+#~ "you've added some content below will this display to the user."
+#~ msgstr ""
+#~ "În cazul în care vă decideți să adăugați ajutor contextual la pagina "
+#~ "Opțiuni de temă, introduceți opțional \"Bară Laterală\" HTML aici. Acest "
+#~ "lucru ar fi un loc extrem de util pentru a adăuga link-uri documentația "
+#~ "teme sau suport pe forum. Numai după ce ați adăugat o parte din "
+#~ "conținutul de mai jos acesta va fi afișat pentru utilizator."
+
+#~ msgid "Add Contextual Help Content"
+#~ msgstr "Adaugă Conținut Ajutor Contextual"
+
+#~ msgid ""
+#~ "This import method has been deprecated. That means it has been replaced "
+#~ "by a new method and is no longer supported, and may be removed from "
+#~ "future versions. All themes that use this import method should be "
+#~ "converted to use its replacement below."
+#~ msgstr ""
+#~ "Această metodă de import a fost depășită. Asta înseamnă că a fost "
+#~ "înlocuit cu o nouă metodă și nu mai este acceptat, și pot fi eliminate "
+#~ "din versiunile viitoare. Toate temele care utilizează această metodă de "
+#~ "import ar trebui să fie convertite pentru a utiliza înlocuirea acestuia "
+#~ "de mai jos."
+
+#~ msgid ""
+#~ "If you were given a Theme Options XML file with a premium or free theme, "
+#~ "locate it on your hard drive and upload that file by clicking the upload "
+#~ "button. A popup window will appear, upload the XML file and click \"%s\". "
+#~ "The file URL should be in the upload input, if it is click \"Import XML\"."
+#~ msgstr ""
+#~ "Dacă ați fost dat un fișier XML Opțiuni temă cu o primă sau temă liberă, "
+#~ "localiza pe hard disk-ul și încărcați acel fișier, făcând clic pe butonul "
+#~ "de încărcare. Va apărea o fereastră pop-up, încărcați fișierul XML și "
+#~ "faceți clic pe \"%s\". Adresa URL a fișierului trebuie să fie în intrare "
+#~ "de încărcare, în cazul în care acesta este clic pe \"Import XML\"."
+
+#~ msgid "Import XML"
+#~ msgstr "Import XML"
+
+#~ msgid "Add XML"
+#~ msgstr "Adaugă XML"
+
+#~ msgid "Import Settings"
+#~ msgstr "Importă Setări"
+
+#~ msgid ""
+#~ "Only after you've imported the Settings should you try and update your "
+#~ "Theme Options."
+#~ msgstr ""
+#~ "Numai după ce ați importat Setările ar trebui să încercați să actualizați "
+#~ "Opțiunile Temei"
+
+#~ msgid ""
+#~ "To import your Theme Options copy and paste what appears to be a random "
+#~ "string of alpha numeric characters into this textarea and press the "
+#~ "\"Import Theme Options\" button."
+#~ msgstr ""
+#~ "Pentru a importa Opțiunile Temei dvs. copiați și inserați ceea ce pare a "
+#~ "fi un șir aleator de caractere alfanumerice în acest zonă de text și "
+#~ "apăsați butonul \" Importă Opțiuni Temă \"."
+
+#~ msgid "Import Theme Options"
+#~ msgstr "Importă Opțiuni Temă"
+
+#~ msgid ""
+#~ "Only after you've imported the Settings should you try and update your "
+#~ "Layouts."
+#~ msgstr ""
+#~ "Numai după ce ați importat setări ar trebui să încercați și să "
+#~ "actualizați Aspectele."
+
+#~ msgid ""
+#~ "To import your Layouts copy and paste what appears to be a random string "
+#~ "of alpha numeric characters into this textarea and press the \"Import "
+#~ "Layouts\" button. Keep in mind that when you import your layouts, the "
+#~ "active layout's saved data will write over the current data set for your "
+#~ "Theme Options."
+#~ msgstr ""
+#~ "Pentru a importa aspectele copiați și lipiți ceea ce pare a fi un șir "
+#~ "aleator de caractere alfanumerice în acestă zonă de text și apăsați "
+#~ "butonul \" Import Aspecte \" . Rețineți că, atunci când importați "
+#~ "aspectele dvs. , datele salvate activă aspect va scrie peste setul de "
+#~ "date curente pentru Opțiunile temei dumneavoastră."
+
+#~ msgid "Import Layouts"
+#~ msgstr "Import sabloane"
+
+#~ msgid ""
+#~ "Export your Settings into a fully functional %s file. If you want to add "
+#~ "your own custom %s text domain to the file, enter it into the text field "
+#~ "before exporting. For more information on how to use this file read the "
+#~ "documentation on %s. Remember, you should always check the file for "
+#~ "errors before including it in your theme."
+#~ msgstr ""
+#~ "Exportă setările într-un fişier complet funcţional %s. Dacă doriţi să "
+#~ "adăugaţi propriul domeniu de text personalizat %s a fişierului, "
+#~ "introduceţi-l în câmpul de text înainte de export. Pentru mai multe "
+#~ "informaţii despre cum să utilizaţi acest fişier citiți documentația pe "
+#~ "%s. Amintiţi-vă, ar trebui să verificaţi întotdeauna fişierul de erori "
+#~ "înainte de a include în temă."
+
+#~ msgid "Export Settings File"
+#~ msgstr "Exportă setările"
+
+#~ msgid ""
+#~ "To add a new layout enter a unique lower case alphanumeric string (dashes "
+#~ "allowed) in the text field and click \"Save Layouts\"."
+#~ msgstr ""
+#~ "Pentru a adăuga un nou aspect introduce o minusculă șir unic alfanumeric "
+#~ "(liniuțe permis) în câmpul de text și faceți clic pe \"Salvează Aspecte\"."
+
+#~ msgid ""
+#~ "As well, you can activate, remove, and drag & drop the order; all "
+#~ "situations require you to click \"Save Layouts\" for the changes to be "
+#~ "applied."
+#~ msgstr ""
+#~ "De asemenea, puteți activa, eliminați și drag & drop ordinea; toate "
+#~ "situațiile vă cer să faceți clic pe \"Salvează Layouts\" pentru "
+#~ "modificările care urmează să fie aplicate."
+
+#~ msgid ""
+#~ "When you create a new layout it will become active and any changes made "
+#~ "to the Theme Options will be applied to it. If you switch back to a "
+#~ "different layout immediately after creating a new layout that new layout "
+#~ "will have a snapshot of the current Theme Options data attached to it."
+#~ msgstr ""
+#~ "Atunci când creați un nou aspect, va deveni activ și orice modificări "
+#~ "aduse Opțiuni temă vor fi aplicate acestuia. Dacă reveniți la un alt "
+#~ "aspect, imediat după crearea unui nou aspect care noul aspect va avea un  "
+#~ "instantaneu al datelor curente Opțiuni temă atașat la acesta."
+
+#~ msgid "Save Layouts"
+#~ msgstr "Salvează Layouts"
+
+#~ msgid ""
+#~ "OptionTree is installed as a plugin and also embedded in your current "
+#~ "theme. Please deactivate the plugin to load the theme dependent version "
+#~ "of OptionTree, and remove this warning."
+#~ msgstr ""
+#~ "Opțiunea Arborele este instalat ca un plug-in și, de asemenea, incluse în "
+#~ "tema curentă. Vă rugăm să dezactivați plugin-ul pentru a încărca "
+#~ "versiunea tema dependentă de opțiunea Arbore și elimina acest avertisment."
+
+#~ msgid "Subtotal"
+#~ msgstr "Subtotal"
+
+#~ msgid "Customer Details"
+#~ msgstr "Detalii Client"
+
+#~ msgid "Billing Address"
+#~ msgstr "Date De Facturare"
+
+#~ msgid "Shipping Address"
+#~ msgstr "Adresa de livrare"
+
+#~ msgid "Order Details"
+#~ msgstr "Detalii Comandă"
+
+#~ msgctxt "label"
+#~ msgid "Search for:"
+#~ msgstr "Caută după:"
+
+#~ msgid "Be the first to review"
+#~ msgstr "Fii primul care scrie o recenzie"
+
+#~ msgid "Your Rating"
+#~ msgstr "Rating-ul tău"
+
+#~ msgid "Your Review"
+#~ msgstr "Recenzia ta"
+
+#~ msgid "Add to cart"
+#~ msgstr "Adaugă în coș"
+
+#~ msgid "Related Products"
+#~ msgstr "Produse Asemănatoare"
+
+#~ msgid "Rated %d out of 5"
+#~ msgstr "Rating %d din  5"
+
+#~ msgid "out of 5"
+#~ msgstr "din 5"
+
+#~ msgid "Additional Information"
+#~ msgstr "Informații Suplimentare"
+
+#~ msgid ""
+#~ "Shows a price filter slider in a widget which lets you narrow down the "
+#~ "list of shown products when viewing product categories."
+#~ msgstr ""
+#~ "Arată un cursor filtru preț într-un widget care vă permite să restrânge "
+#~ "lista de produse afișate atunci când vizualizați categorii de produse."
+
+#~ msgid "WooCommerce Price Filter"
+#~ msgstr "WooCommerce Filtru Preț"
+
+#~ msgid "Filter by price"
+#~ msgstr "Filtrează dupa preț"
+
+#~ msgid "Min price"
+#~ msgstr "Preț minim"
+
+#~ msgid "Max price"
+#~ msgstr "Preț maxim"
+
+#~ msgid "Filter"
+#~ msgstr "Filtru"
+
+#~ msgid "Price:"
+#~ msgstr "Preț:"
+
+#, fuzzy
+#~| msgid "WooCommerce Price Filter"
+#~ msgid "WooCommerce price filter"
+#~ msgstr "WooCommerce Filtru Preț"
+
+#~ msgid "Uncode"
+#~ msgstr "Uncode"
+
+#~ msgid "http://www.undsgn.com/uncode"
+#~ msgstr "http://www.undsgn.com/uncode"
+
+#~ msgid ""
+#~ "Uncode is a pixel perfect WordPress Theme designed with terrific "
+#~ "attention to details"
+#~ msgstr ""
+#~ "Uncode este o temă WordPress perfectă si i-a fost acordată o atentie "
+#~ "deosebită"
+
+#~ msgid "Undsgn"
+#~ msgstr "Undsgn"
+
+#~ msgid "http://www.undsgn.com"
+#~ msgstr "http://www.undsgn.com"
+
+#~ msgid "Menu shadows"
+#~ msgstr "Umbre meniu"
+
+#, fuzzy
+#~ msgid "IMPORT LAYOUTS"
+#~ msgstr "Import sabloane"
+
+#~ msgid "Show Details"
+#~ msgstr "Arată Detalii"
+
+#~ msgid "Hide Details"
+#~ msgstr "Ascunde Detalii"
+
+#~ msgid "Specify the menu font size."
+#~ msgstr "Specifică mărime font meniu"
+
+#~ msgid "Specify the submenu font size."
+#~ msgstr "Specifică mărime font pentru submeniu"
+
+#~ msgid "Buttons"
+#~ msgstr "Butoane"
+
+#~ msgid ""
+#~ "%s is up and running! Check that all the requirements below are fulfilled "
+#~ "and labeled in green.<br>Enjoy and free your imagination with %s!"
+#~ msgstr ""
+#~ "%s este în sus si funcționează! Verificați dacă toate cerințele de mai "
+#~ "jos sunt îndeplinite și etichetate în verde.<br>Bucurați-vă și dați frâu "
+#~ "liber imaginației cu %s!"
+
+#~ msgid "Option Tools"
+#~ msgstr "Instrumente de opțiuni"
+
+#~ msgid "Install Fonts"
+#~ msgstr "Instalaţi Fonturile"
+
+#~ msgid "WordPress Environment"
+#~ msgstr "Mediu WordPress "
+
+#, fuzzy
+#~ msgid "Uncode Help"
+#~ msgstr "Uncode"
+
+#, fuzzy
+#~ msgid "Amount of Posts"
+#~ msgstr "din 5"
+
+#, fuzzy
+#~ msgid "Restart the wizard?"
+#~ msgstr "Înapoi la Panoul de Control"
+
+#, fuzzy
+#~ msgid "Show love?"
+#~ msgstr "Afișați titlul"
+
+#, fuzzy
+#~ msgid "Related posts"
+#~ msgstr "Produse Asemănatoare"
+
+#~ msgid "Install demo content"
+#~ msgstr "Instalează conținut demo"
+
+#~ msgid ""
+#~ "No existing posts, pages, categories, images, custom post types or any "
+#~ "other data will be deleted or modified."
+#~ msgstr ""
+#~ "Nu sunt mesaje , pagini, categorii , imagini ,postări personalizate "
+#~ "existente sau orice alte date vor fi șterse sau modificate ."
+
+#~ msgid "Posts, pages, some images, some widgets and menus will get imported."
+#~ msgstr ""
+#~ "Mesaje , pagini, unele imagini , unele widget-uri și meniuri vor fi "
+#~ "importate ."
+
+#~ msgid "Images will be downloaded from our server."
+#~ msgstr "Imaginile vor fi descărcate de pe serverul nostru."
+
+#~ msgid "Important:"
+#~ msgstr "Important:"
+
+#~ msgid ""
+#~ "Deactivate all the plugins except the one listed  %s under the section "
+#~ "'Plugins used in the Uncode demo site' if you are planning to use them."
+#~ msgstr ""
+#~ "Dezactivați toate plugin-uri cu excepţia celor enumerate %s în secţiunea "
+#~ "'Plugin-uri utilizate în site-ul demo Uncode' în cazul în care "
+#~ "intenţionaţi să le folosească."
+
+#~ msgid "here"
+#~ msgstr "aici"
+
+#~ msgid ""
+#~ "Make sure that of the server requirements in %s > Welcome page are "
+#~ "fulfilled."
+#~ msgstr ""
+#~ "Asiguraţi-vă că de cerinţele de server în %s > pagina de bun venit sunt "
+#~ "îndeplinite."
+
+#~ msgid ""
+#~ "It's always recommended to run the import on a clean installtion of "
+#~ "WordPress."
+#~ msgstr ""
+#~ "Este întotdeauna recomandat să executaţi importul pe o installtion nouă "
+#~ "de WordPress."
+
+#~ msgid ""
+#~ "Some of the images imported will not match the demo site since they are "
+#~ "copyrighted material."
+#~ msgstr ""
+#~ "Unele dintre imaginile importate nu se va potrivi site-ul demo deoarece "
+#~ "acestea sunt material protejat de dreptul de autor"
+
+#~ msgid ""
+#~ "In case of import failure, when coming from a clean WordPress "
+#~ "installation, we recommend to reset if before try it again. We suggest to "
+#~ "use %s plugin."
+#~ msgstr ""
+#~ "În caz unui eşec de import, atunci când provin dintr-o instalare nouă de "
+#~ "WordPress, vă recomandăm să faceți reset și  încercaţi să-l importați din "
+#~ "nou. Vă sugerăm să utilizaţi plugin-ul %s."
+
+#~ msgid "WordPress Reset"
+#~ msgstr "WordPress Reset"
+
+#, fuzzy
+#~ msgid "Content Block - After Content"
+#~ msgstr "Nu a Fost Gasit Conținut Blocat"
+
+#~ msgid "404 content block"
+#~ msgstr "Conținut blocat pentru 404"
+
+#~ msgid "Define the content block to use."
+#~ msgstr "Definește conținutul blocat pentru utilizare."
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugins."
+#~ msgstr[0] ""
+#~ "Ne pare rău, dar nu aveți permisiunile corecte pentru a instala plugin"
+#~ "%1$s."
+#~ msgstr[1] ""
+#~ "Ne pare rău, dar nu aveți permisiunile corecte pentru a instala plugin"
+#~ "%1$s."
+#~ msgstr[2] ""
+#~ "Ne pare rău, dar nu aveți permisiunile corecte pentru a instala plugin"
+#~ "%1$s."
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugins."
+#~ msgstr[0] ""
+#~ "Ne pare rău, dar nu aveți permisiunile corecte pentru a actualiza plugin"
+#~ "%1$s."
+#~ msgstr[1] ""
+#~ "Ne pare rău, dar nu aveți permisiunile corecte pentru a actualiza "
+#~ "pluginurile%1$s."
+#~ msgstr[2] ""
+#~ "Ne pare rău, dar nu aveți permisiunile corecte pentru a actualiza "
+#~ "pluginurile%1$s."
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
+#~ "plugins."
+#~ msgstr[0] ""
+#~ "Ne pare rău, dar nu aveți perimisiunea corectă pentru a activa %1$s "
+#~ "plugin."
+#~ msgstr[1] ""
+#~ "Ne pare rău, dar nu aveți perimisiunea corectă pentru a activa %1$s "
+#~ "plugin-uri."
+#~ msgstr[2] ""
+#~ "Ne pare rău, dar nu aveți perimisiunea corectă pentru a activa %1$s "
+#~ "plugin-uri."
+
+#~ msgid "Return to the dashboard"
+#~ msgstr "Înapoi la Panoul de Control"
+
+#~ msgid "To allow the correct style to work, make <code>%s</code> writable."
+#~ msgstr ""
+#~ "Pentru a permite stilul corect de a lucra, fă <code>%s</code> "
+#~ "inscriptibil."
+
+#~ msgid "Author: %s"
+#~ msgstr "Autor: %s"
+
+#~ msgid "IMPORT SINGLES"
+#~ msgstr "IMPORT SIMPLU"

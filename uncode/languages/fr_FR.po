@@ -1,0 +1,6607 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Uncode\n"
+"Report-Msgid-Bugs-To: info@undsgn.com\n"
+"POT-Creation-Date: 2019-09-03 12:20+0200\n"
+"PO-Revision-Date: 2019-09-03 17:05+0200\n"
+"Last-Translator: Manuel Masia | Pixedelic <manu@pixedelic.com>\n"
+"Language-Team: Undsgn <info@undsgn.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.0.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:71
+msgid "Opps! Something went wrong…"
+msgstr "Oups ! Quelque chose a mal tourné ..."
+
+#: 404.php:72
+msgid "Page not found. Please continue to our"
+msgstr "Page introuvable. S'il vous plaît continuer à notre"
+
+#: 404.php:72
+msgid "home page"
+msgstr "page d’accueil"
+
+#: comments.php:28
+#, php-format
+msgctxt "comments"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Commentaire"
+msgstr[1] "%1$s Commentaires"
+
+#: comments.php:35 comments.php:55
+msgid "Comment navigation"
+msgstr "Commenter la navigation"
+
+#: comments.php:37 comments.php:57
+msgid "Older Comments"
+msgstr "Anciens commentaires"
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments"
+msgstr "Nouveaux commentaires"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:75
+msgid "Log out"
+msgstr "Se déconnecter"
+
+#: comments.php:77
+msgctxt "noun"
+msgid "Comment"
+msgstr "Tapez votre commentaire ici. . ."
+
+#: comments.php:84
+#, fuzzy
+msgid "Add comment"
+msgstr "1 Commentaire"
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "Rien Trouvé"
+
+#: content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre premier article ? <a href=\"%1$s\">Commencez ici</a>."
+
+#: content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais rien ne correspond à vos termes de recherche. Merci de "
+"réessayer avec d'autres mots clés."
+
+#: content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semble que nous ne pouvons pas trouver ce que vous cherchez. Peut-être "
+"qu'une recherche peut vous aider."
+
+#: content.php:50
+#, fuzzy
+#| msgid "Please active Uncode Core plugin to version > 1.0.5"
+msgid "Please activate Uncode Core plugin"
+msgstr "S'il vous plaît, activez le plugin Core Uncode à la version > 1.0.5"
+
+#: core/inc/admin-pages/support.php:30
+#: core/inc/admin-pages/uncode-panel-functions.php:60
+#: core/inc/admin-pages/uncode-panel-functions.php:61
+#, fuzzy
+msgid "Support"
+msgstr "Le site ne supporte pas le widget"
+
+#: core/inc/admin-pages/support.php:40
+msgid "General"
+msgstr "Général"
+
+#: core/inc/admin-pages/support.php:41
+msgid ""
+"General information about WordPress, Server Requirements and Uncode Theme "
+"versions."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:46
+msgid "First Steps"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:47
+msgid ""
+"Uncode Theme and plugins installation guide, Demo Contents import and theme "
+"update."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:52
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: core/inc/admin-pages/support.php:53
+msgid ""
+"Options are the backbone of Uncode and they give you full control over your "
+"website."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:58
+#, fuzzy
+msgid "Page & Posts"
+msgstr "Produits similaires"
+
+#: core/inc/admin-pages/support.php:59
+msgid ""
+"Discover how to create, customise and manage pages, blog posts and portfolio "
+"items."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:64
+#, fuzzy
+#| msgid "Page Select"
+msgid "Page Builder"
+msgstr "Sélectionnez une page"
+
+#: core/inc/admin-pages/support.php:65
+msgid ""
+"Learn how to create beautiful pages quickly with the powerful Uncode’s Page "
+"Builder."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:70
+#, fuzzy
+#| msgid "Header"
+msgid "Headers"
+msgstr "Header"
+
+#: core/inc/admin-pages/support.php:71
+msgid ""
+"Uncode works with 4 different header types fully integrated with the Theme "
+"Options."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:76
+#, fuzzy
+msgid "Extra"
+msgstr "Extra"
+
+#: core/inc/admin-pages/support.php:77
+msgid ""
+"Advanced features and additional plugins to boost your Uncode Theme "
+"functionalities."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:82
+msgid "How To"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:83
+msgid ""
+"Discover how to work with some of the most common elements and features of "
+"Uncode."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:88
+msgid "FAQ"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:89
+msgid ""
+"Search the frequent asked questions from the customer community before open "
+"a ticket."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:112
+msgid "Knowledge Base"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:141
+#, fuzzy
+#| msgid "Left Center"
+msgid "Help Center"
+msgstr "Centré à gauche"
+
+#: core/inc/admin-pages/support.php:145
+#, php-format
+msgid ""
+"According to Envato’s terms, Uncode comes with 6 months of support for every "
+"purchase, and free lifetime theme updates. This support can be %s via "
+"ThemeForest."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:145
+msgid "extended through subscriptions"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:147
+msgid ""
+"Support is limited to questions regarding the Uncode's features, or problems "
+"with the theme. To open a support ticket, please navigate to our Help Center "
+"homepage and click the 'Submit a request' in the top right corner. One of "
+"our Support Team members will respond to you shortly."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:149
+msgid "Item Support DOES include:"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:151
+msgid "Availability of the theme's authors to answer questions;"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:152
+msgid "Answers to technical queries about the theme's features;"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:153
+msgid "Assistance with reported bugs and issues."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:156
+msgid "Item Support DOES NOT include:"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:158
+#, fuzzy
+#| msgid "Custom font size"
+msgid "Customization services;"
+msgstr "Taille de police personnalisée"
+
+#: core/inc/admin-pages/support.php:159
+msgid "Installation services;"
+msgstr ""
+
+#: core/inc/admin-pages/support.php:160
+msgid "Help and support for non-bundled third-party plugins that you install."
+msgstr ""
+
+#: core/inc/admin-pages/support.php:163
+msgid "Submit a request"
+msgstr ""
+
+#: core/inc/admin-pages/uncode-panel-functions.php:16
+#, php-format
+msgid ""
+"Thank you for choosing %s theme from ThemeForest. Please register your "
+"purchase and make sure that you've fulfilled all of the requirements."
+msgstr ""
+
+#: core/inc/admin-pages/uncode-panel-functions.php:18
+#, php-format
+msgid ""
+"%s - Creative Multiuse WordPress Theme is now installed and ready to use!"
+msgstr ""
+
+#: core/inc/admin-pages/uncode-panel-functions.php:22
+#: core/inc/admin-pages/welcome.php:23
+#, fuzzy
+msgid "Welcome"
+msgstr "Bienvenue à "
+
+#: core/inc/admin-pages/uncode-panel-functions.php:23
+#, fuzzy
+#| msgid "Welcome to "
+msgid "Welcome to Uncode"
+msgstr "Bienvenue à "
+
+#: core/inc/admin-pages/uncode-panel-functions.php:28
+#: core/inc/admin-pages/uncode-panel-functions.php:29
+#, fuzzy
+#| msgid "Plugin"
+msgid "Plugins"
+msgstr "Plugin"
+
+#: core/inc/admin-pages/uncode-panel-functions.php:30
+msgid ""
+"Uncode Core and Uncode WPBakery Page Builder are the only required plugins. "
+"Any other plugins are optional."
+msgstr ""
+
+#: core/inc/admin-pages/uncode-panel-functions.php:37
+#: core/inc/admin-pages/uncode-panel-functions.php:38 core/inc/admin.php:139
+msgid "Import Demo"
+msgstr "Importer la Démo"
+
+#: core/inc/admin-pages/uncode-panel-functions.php:39
+#, fuzzy
+#| msgid ""
+#| "Here you can import with one click all the content from our demo site, "
+#| "this is the easiest way to setup your theme. It will allow you to quickly "
+#| "edit everything instead of creating content from scratch. When you import "
+#| "the data following things will happen:"
+msgid ""
+"Here you can import demo layouts. This is the easiest way to start building "
+"your site. Before you install any demos, please read through the following "
+"information."
+msgstr ""
+"Ici vous pouvez importer en un seul clic tout le contenu de notre site de "
+"démonstration, ceci est la meilleure façon de configurer votre thème. Cela "
+"vous permettra de modifier rapidement tout lieu de la création de contenu à "
+"partir de zéro. Lorsque vous importez les données suivantes des choses se "
+"produiront :"
+
+#: core/inc/admin-pages/uncode-panel-functions.php:44
+#: core/inc/admin-pages/uncode-panel-functions.php:45
+#, fuzzy
+#| msgid "Font Sources"
+msgid "Font Stacks"
+msgstr "Sources des polices"
+
+#: core/inc/admin-pages/uncode-panel-functions.php:46
+msgid ""
+"Import fonts from the most popular fonts libraries and create your Font "
+"Stacks."
+msgstr ""
+
+#: core/inc/admin-pages/uncode-panel-functions.php:51
+#: core/inc/admin-pages/uncode-panel-functions.php:52
+msgid "Options Utils"
+msgstr "Options Utils"
+
+#: core/inc/admin-pages/uncode-panel-functions.php:53
+msgid ""
+"Find useful tools to save as manual backup or to export/import your Theme "
+"Options."
+msgstr ""
+
+#: core/inc/admin-pages/uncode-panel-functions.php:62
+msgid ""
+"Our online documentation is an incredible resource for learning how to use "
+"Uncode. We also offer private support throughout our Help Center."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:25
+#, fuzzy
+#| msgid "Reset Options"
+msgid "Registration"
+msgstr "R&eacute;initialiser les options"
+
+#: core/inc/admin-pages/welcome.php:29
+msgid ""
+"Uncode is ready to be used. Please register your product to import Demo "
+"Contents, to install Premium Plugins and get automatic updates."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:39
+msgid "Envato Purchase Code"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:43
+#, php-format
+msgid "Please insert your Envato Purchase Code. %s."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:43 core/inc/admin-pages/welcome.php:70
+#: core/inc/admin-pages/welcome.php:251 core/inc/admin-pages/welcome.php:281
+#: core/inc/admin-pages/welcome.php:290
+msgid "More info"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:51 core/inc/admin-pages/welcome.php:457
+msgid "Where can I find my Envato Purchase Code?"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:51
+#, fuzzy
+#| msgid "Video"
+msgid "video"
+msgstr "Vidéo"
+
+#: core/inc/admin-pages/welcome.php:53
+#, php-format
+msgid "Access your %s with the account that was used to purchase Uncode"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:53
+msgid "ThemeForest downloads"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:54
+msgid ""
+"Look for Uncode in your list of purchases, click the Download button and "
+"select 'License Certificate & Purchase Code'"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:55
+msgid ""
+"Copy the 'Item Purchase Code' into the field 'Envato Purchase Code' of the "
+"Registration page"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:57
+msgid "Your ThemeForest Downloads"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:70
+#, php-format
+msgid ""
+"Confirm that, according to the Envato License Terms, each license entitles "
+"one person for a single project. Creating multiple unregistered "
+"installations is a copyright violation. %s."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:75
+#, fuzzy
+#| msgid "Related Products"
+msgid "Register your product"
+msgstr "Produits similaires"
+
+#: core/inc/admin-pages/welcome.php:85
+msgid "Deregister your product"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:95 core/inc/admin.php:21
+msgid "System Status"
+msgstr "État du système"
+
+#: core/inc/admin-pages/welcome.php:99
+msgid ""
+"Under System Status, you can find important information about your WordPress "
+"setup."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:101
+#, php-format
+msgid ""
+"Under System Status, you can find important information about your server "
+"setup. If you see red errors that indicate problems, likely, you're not in "
+"compliance with Uncode's %s."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:101
+#, fuzzy
+#| msgid "Server Environment"
+msgid "Server Requirements"
+msgstr "Environnement du Serveur"
+
+#: core/inc/admin-pages/welcome.php:108
+msgid "Theme version"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:109
+#, fuzzy
+#| msgid "The version of WordPress installed on your site."
+msgid "The version of Uncode installed on your site."
+msgstr "La version de WordPress installée sur votre site."
+
+#: core/inc/admin-pages/welcome.php:119
+msgid "Child Theme"
+msgstr "Child Thème"
+
+#: core/inc/admin-pages/welcome.php:120
+#, fuzzy
+#| msgid "The version of WordPress installed on your site."
+msgid "Name and version of child theme installed on your site."
+msgstr "La version de WordPress installée sur votre site."
+
+#: core/inc/admin-pages/welcome.php:122
+#, php-format
+msgctxt "Child theme name and version"
+msgid "%s - %s"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:129
+#, fuzzy
+#| msgid "Product Description"
+msgid "Product Registration"
+msgstr "Description du produit"
+
+#: core/inc/admin-pages/welcome.php:130
+msgid ""
+"Please validate your product license as outlined in Envato's license terms."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:134 core/inc/admin-pages/welcome.php:136
+msgid "Theme registered"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:137
+msgid "Not registered"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:145
+#, fuzzy
+#| msgid "Uncode font"
+msgid "Uncode Core"
+msgstr "Police Uncode"
+
+#: core/inc/admin-pages/welcome.php:146
+#, fuzzy
+#| msgid "Whether or not you have WordPress Multisite enabled."
+msgid "Whether or not you have Uncode Core active."
+msgstr "Que vous ayez ou non WordPress multisite activé."
+
+#: core/inc/admin-pages/welcome.php:147
+#, php-format
+msgid "Not active, please <a href=\"%s\">activate it</a>"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:153
+#, fuzzy
+#| msgid "Frontend stylesheet"
+msgid "Frontend Stylesheet"
+msgstr "Interface feuille de style"
+
+#: core/inc/admin-pages/welcome.php:154 core/inc/admin-pages/welcome.php:197
+msgid ""
+"Uncode is generating a stylesheet when the options are saved. The file must "
+"be writtable."
+msgstr ""
+"Uncode génère une feuille de style lorsque les options sont enregistrées. Le "
+"fichier doit être accessible en écriture."
+
+#: core/inc/admin-pages/welcome.php:186 core/inc/admin-pages/welcome.php:225
+#, fuzzy, php-format
+msgid ""
+"WordPress doesn't have direct access to this file <code>%s</code>. This is "
+"most likely due to a conflict with server file permissions. It is also "
+"possible that WordPress' file access is not configured correctly. The custom "
+"CSS will be output inline."
+msgstr ""
+"WordPress ne possède pas un accès direct au fichier <code>%s</code> en "
+"raison d'un conflit dans le dossier d'autorisation Uncode ou votre "
+"configuration d'accès aux fichiers WordPress n'est pas la méthode directe. "
+"Le CSS personnalisé sera émis en ligne."
+
+#: core/inc/admin-pages/welcome.php:191 core/inc/admin-pages/welcome.php:230
+#, fuzzy, php-format
+msgid ""
+"WordPress doesn't have direct access to this folder <code>%s</code>. This is "
+"most likely due to a conflict with server file permissions. It is also "
+"possible that WordPress' file access is not configured correctly. The custom "
+"CSS will be output inline."
+msgstr ""
+"WordPress ne possède pas un accès direct au fichier <code>%s</code> en "
+"raison d'un conflit dans le dossier d'autorisation Uncode ou votre "
+"configuration d'accès aux fichiers WordPress n'est pas la méthode directe. "
+"Le CSS personnalisé sera émis en ligne."
+
+#: core/inc/admin-pages/welcome.php:196
+#, fuzzy
+#| msgid "Backend stylesheet"
+msgid "Backend Stylesheet"
+msgstr "Backend feuille de style"
+
+#: core/inc/admin-pages/welcome.php:237
+msgid "PHP Version"
+msgstr "Version PHP"
+
+#: core/inc/admin-pages/welcome.php:240
+#, php-format
+msgid "%s - Please update your PHP version We recommend at least PHP 5.6.0"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:245
+msgid "WP Memory Limit"
+msgstr "Limite Mémoire WP"
+
+#: core/inc/admin-pages/welcome.php:246
+msgid ""
+"Memory Limits not satisfied may produce possible errors on the frontend of "
+"the site as blank pages."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:251
+#, fuzzy, php-format
+msgid "%s - We recommend setting memory to at least 96 MB. %s"
+msgstr ""
+"%s - Nous recommandons de régler la mémoire à au moins 64 Mo. Voir : <a href="
+"\"%s\" target=\"_blank\">Augmentation de la mémoire allouée à PHP</a>"
+
+#: core/inc/admin-pages/welcome.php:259
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+#: core/inc/admin-pages/welcome.php:260
+msgid "Max Input Vars not satisfied may result in loss of Theme Options."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:264
+#, fuzzy, php-format
+msgid ""
+"%s - We recommend setting PHP max_input_vars to at least %s. See: <a href="
+"\"%s\" target=\"_blank\">Increasing the PHP max vars limit</a>"
+msgstr ""
+"%s - Nous recommandons de régler la mémoire à au moins 64 Mo. Voir : <a href="
+"\"%s\" target=\"_blank\">Augmentation de la mémoire allouée à PHP</a>"
+
+#: core/inc/admin-pages/welcome.php:271
+#, fuzzy
+#| msgid "PHP Max Input Vars"
+msgid "PHP Max Input Vars (allowed)"
+msgstr "PHP Max Input Vars"
+
+#: core/inc/admin-pages/welcome.php:272
+msgid ""
+"The effective maximum number of variables your server can use for a single "
+"function to avoid overloads. If this value is lower than max_input_vars your "
+"server is applying restrictions on the actual number of vars that can be "
+"used."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:272
+msgid "If you modified the server settings refresh the option to test."
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:277 core/inc/admin-pages/welcome.php:286
+msgid "Calculating…"
+msgstr ""
+
+#: core/inc/admin-pages/welcome.php:281 core/inc/admin-pages/welcome.php:290
+#, fuzzy, php-format
+msgid " - We recommend setting PHP max_input_vars to at least %s. %s"
+msgstr ""
+"%s - Nous recommandons de régler la mémoire à au moins 64 Mo. Voir : <a href="
+"\"%s\" target=\"_blank\">Augmentation de la mémoire allouée à PHP</a>"
+
+#: core/inc/admin-pages/welcome.php:283 core/inc/admin-pages/welcome.php:292
+#, fuzzy
+#| msgid "is available"
+msgid "No available data"
+msgstr "est disponible"
+
+#: core/inc/admin.php:74
+#, fuzzy
+#| msgid "Theme Options updated."
+msgid "Theme Options saved!"
+msgstr "Options du thème mis à jour."
+
+#: core/inc/admin.php:75
+#, fuzzy
+#| msgid "Theme Options updated."
+msgid "Theme Options not saved."
+msgstr "Options du thème mis à jour."
+
+#: core/inc/admin.php:78
+msgid " Error: 400 - Request content was invalid."
+msgstr ""
+
+#: core/inc/admin.php:79
+msgid " Error: 401 - Unauthorized access."
+msgstr ""
+
+#: core/inc/admin.php:80
+msgid " Error: 403 - Forbidden resource can't be accessed."
+msgstr ""
+
+#: core/inc/admin.php:81
+msgid " Error: 404 - Requested page not found."
+msgstr ""
+
+#: core/inc/admin.php:82
+msgid " Error: 408 - Request time out."
+msgstr ""
+
+#: core/inc/admin.php:83
+msgid " Error: 500 - Internal server error."
+msgstr ""
+
+#: core/inc/admin.php:84
+msgid " Error: 503 - Service unavailable."
+msgstr ""
+
+#: core/inc/admin.php:85
+msgid " Your session has expired."
+msgstr ""
+
+#: core/inc/admin.php:86
+msgid " Unknown error."
+msgstr ""
+
+#: core/inc/admin.php:89
+#, fuzzy
+msgid "All Media Categories"
+msgstr "Catégories"
+
+#: core/inc/admin.php:94 core/inc/main.php:885
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: core/inc/admin.php:100
+msgid "Please enter a valid Envato Purchase Code"
+msgstr ""
+
+#: core/inc/admin.php:101
+msgid "You must accept the Terms of Service in order to perform this action"
+msgstr ""
+
+#: core/inc/admin.php:111
+#, fuzzy
+#| msgid "Save New Layout"
+msgid "Save Anyway"
+msgstr "Enregistrer le mod&egrave;le"
+
+#: core/inc/admin.php:112
+msgid "Don't show this message again"
+msgstr ""
+
+#: core/inc/admin.php:113
+#, fuzzy
+#| msgid "Animation speed"
+msgid "Confirmation Required"
+msgstr "Vitesse animation"
+
+#: core/inc/admin.php:115
+msgid "<strong>Important warning!</strong>"
+msgstr ""
+
+#: core/inc/admin.php:116
+#, php-format
+msgid ""
+"Before saving Theme Options you need to increase the "
+"<em><strong>max_input_vars</strong></em> value of your PHP configuration. "
+"Your current allowed value is too low and you risk to loose your settings if "
+"you choose to continue, please set it to at least <strong class=\"vars-"
+"placeholder\">dddd</strong>: <a href=\"%s\" target=\"_blank\">more info</a>."
+msgstr ""
+
+#: core/inc/admin.php:117
+#, php-format
+msgid ""
+"If you decide to continue, we strongly suggest you to perform a backup "
+"first, <a href=\"%s\" target=\"_blank\">more info</a>."
+msgstr ""
+
+#: core/inc/admin.php:128
+msgid "Please read this article before updating the theme"
+msgstr ""
+
+#: core/inc/admin.php:130
+msgid "Read the Change Log"
+msgstr ""
+
+#: core/inc/admin.php:136
+#, fuzzy
+#| msgid "Update Required"
+msgid "Uncode Registration Required"
+msgstr "Mise à jour requise"
+
+#: core/inc/admin.php:137
+msgid "Register Uncode"
+msgstr ""
+
+#: core/inc/admin.php:138
+msgid "Please register your copy of Uncode Theme to update the theme."
+msgstr ""
+
+#: core/inc/admin.php:140
+msgid "Please register your copy of Uncode Theme to import premium contents."
+msgstr ""
+
+#: core/inc/admin.php:141
+#, php-format
+msgid "Please register your copy of Uncode Theme to %s the following plugin:"
+msgstr ""
+
+#: core/inc/admin.php:142
+#, php-format
+msgid "Please register your copy of Uncode Theme to %s the following plugins:"
+msgstr ""
+
+#: core/inc/admin.php:205 core/inc/admin.php:206
+msgid "Add Media"
+msgstr "Ajouter un média"
+
+#: core/inc/admin.php:207 core/inc/admin.php:208
+msgid "Media selection"
+msgstr "La sélection du média"
+
+#: core/inc/admin.php:209
+#, fuzzy
+#| msgid "All medias"
+msgid "All media"
+msgstr "Tous les médias"
+
+#: core/inc/admin.php:222
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: core/inc/admin.php:222
+msgid "Manage Vimeos"
+msgstr "Gérer les vidéos Vimeo"
+
+#: core/inc/admin.php:222
+#, php-format
+msgid "Vimeo <span class=\"count\">(%s)</span>"
+msgid_plural "Vimeos <span class=\"count\">(%s)</span>"
+msgstr[0] "Vimeo <span class=\"count\">(%s)</span>"
+msgstr[1] "Vimeo <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:223
+msgid "Youtube"
+msgstr "Youtube"
+
+#: core/inc/admin.php:223
+msgid "Manage Youtubes"
+msgstr "Gérer les vidéos Youtube"
+
+#: core/inc/admin.php:223
+#, php-format
+msgid "Youtube <span class=\"count\">(%s)</span>"
+msgid_plural "Youtubes <span class=\"count\">(%s)</span>"
+msgstr[0] "Youtube <span class=\"count\">(%s)</span>"
+msgstr[1] "Youtube <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:224
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: core/inc/admin.php:224
+msgid "Manage Soundclouds"
+msgstr "Gérer l'audio Soundcloud"
+
+#: core/inc/admin.php:224
+#, php-format
+msgid "Soundcloud <span class=\"count\">(%s)</span>"
+msgid_plural "Soundclouds <span class=\"count\">(%s)</span>"
+msgstr[0] "Soundcloud <span class=\"count\">(%s)</span>"
+msgstr[1] "Soundcloud <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:225
+msgid "Spotify"
+msgstr "Spotify"
+
+#: core/inc/admin.php:225
+msgid "Manage Spotifys"
+msgstr "Gérer l'audio Spotify"
+
+#: core/inc/admin.php:225
+#, php-format
+msgid "Spotify <span class=\"count\">(%s)</span>"
+msgid_plural "Spotifys <span class=\"count\">(%s)</span>"
+msgstr[0] "Spotify <span class=\"count\">(%s)</span>"
+msgstr[1] "Spotify <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:226
+msgid "Facebook"
+msgstr "Facebook"
+
+#: core/inc/admin.php:226
+#, fuzzy
+msgid "Manage Facebooks"
+msgstr "Gérer les images Flickr"
+
+#: core/inc/admin.php:226
+#, fuzzy, php-format
+msgid "Facebook <span class=\"count\">(%s)</span>"
+msgid_plural "Facebooks <span class=\"count\">(%s)</span>"
+msgstr[0] "Flickr <span class=\"count\">(%s)</span>"
+msgstr[1] "Flickr <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:227
+msgid "Twitter"
+msgstr "Twitter"
+
+#: core/inc/admin.php:227
+#, fuzzy
+msgid "Manage Tweets"
+msgstr "Gérer les fichiers HTML"
+
+#: core/inc/admin.php:227
+#, fuzzy, php-format
+msgid "Twitter <span class=\"count\">(%s)</span>"
+msgid_plural "Tweets <span class=\"count\">(%s)</span>"
+msgstr[0] "Vimeo <span class=\"count\">(%s)</span>"
+msgstr[1] "Vimeo <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:228
+msgid "Flickr"
+msgstr "Flickr"
+
+#: core/inc/admin.php:228
+msgid "Manage Flickrs"
+msgstr "Gérer les images Flickr"
+
+#: core/inc/admin.php:228
+#, php-format
+msgid "Flickr <span class=\"count\">(%s)</span>"
+msgid_plural "Flickrs <span class=\"count\">(%s)</span>"
+msgstr[0] "Flickr <span class=\"count\">(%s)</span>"
+msgstr[1] "Flickr <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:229
+msgid "Instagram"
+msgstr "Instagram"
+
+#: core/inc/admin.php:229
+msgid "Manage Instagrams"
+msgstr "Gérer les images Instagram"
+
+#: core/inc/admin.php:229
+#, php-format
+msgid "Instagram <span class=\"count\">(%s)</span>"
+msgid_plural "Instagrams <span class=\"count\">(%s)</span>"
+msgstr[0] "Instagram <span class=\"count\">(%s)</span>"
+msgstr[1] "Instagram <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:230
+msgid "SVG"
+msgstr "SVG"
+
+#: core/inc/admin.php:230
+msgid "Manage SVGs"
+msgstr "Gérer les images SVG"
+
+#: core/inc/admin.php:230
+#, php-format
+msgid "SVG <span class=\"count\">(%s)</span>"
+msgid_plural "SVGs <span class=\"count\">(%s)</span>"
+msgstr[0] "SVG <span class=\"count\">(%s)</span>"
+msgstr[1] "SVG <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:231
+msgid "HTML"
+msgstr "HTML"
+
+#: core/inc/admin.php:231
+msgid "Manage HTMLs"
+msgstr "Gérer les fichiers HTML"
+
+#: core/inc/admin.php:231
+#, php-format
+msgid "HTML <span class=\"count\">(%s)</span>"
+msgid_plural "HTMLs <span class=\"count\">(%s)</span>"
+msgstr[0] "HTML <span class=\"count\">(%s)</span>"
+msgstr[1] "HTML <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:232
+msgid "iFrame"
+msgstr "iFrame"
+
+#: core/inc/admin.php:232
+msgid "Manage iFrames"
+msgstr "Gérer les iFrames"
+
+#: core/inc/admin.php:232
+#, php-format
+msgid "iFrame <span class=\"count\">(%s)</span>"
+msgid_plural "iFrames <span class=\"count\">(%s)</span>"
+msgstr[0] "iFrame <span class=\"count\">(%s)</span>"
+msgstr[1] "iFrame <span class=\"count\">(%s)</span>"
+
+#: core/inc/admin.php:276
+#, fuzzy
+msgid "Alt Text"
+msgstr "Texte alternatif"
+
+#: core/inc/admin.php:292
+msgid "Width"
+msgstr "Largeur"
+
+#: core/inc/admin.php:296
+msgid "Height"
+msgstr "Hauteur"
+
+#: core/inc/admin.php:300
+msgid "Media Poster (Image ID)"
+msgstr "Poster du Média (ID image)"
+
+#: core/inc/admin.php:307
+#, fuzzy
+msgid "Loop?"
+msgstr "En boucle"
+
+#: core/inc/admin.php:313
+msgid "Autoplay?"
+msgstr ""
+
+#: core/inc/admin.php:319
+#, fuzzy
+#| msgid "HTML Body background"
+msgid "Mobile video background?"
+msgstr "Arrière-plan HTML du corps de page"
+
+#: core/inc/admin.php:325
+msgid "Alternative video source 1"
+msgstr "Source vidéo alternative 1"
+
+#: core/inc/admin.php:329
+msgid "Alternative video source 2"
+msgstr "Source vidéo alternative 2"
+
+#: core/inc/admin.php:336
+msgid "Animated?"
+msgstr "Animé ?"
+
+#: core/inc/admin.php:345
+#, fuzzy
+msgid "Animation time (default 100)"
+msgstr "Temps d'animation (200 par défaut)"
+
+#: core/inc/admin.php:353
+msgid "ID"
+msgstr "ID"
+
+#: core/inc/admin.php:361
+#, fuzzy
+msgid "Twitter original"
+msgstr "Twitter"
+
+#: core/inc/admin.php:369
+msgid "Team member?"
+msgstr "Membre d'équipe ?"
+
+#: core/inc/admin.php:377
+msgid "Socials"
+msgstr "Socials"
+
+#: core/inc/admin.php:617 core/inc/admin.php:672 core/inc/admin.php:1493
+msgid "Send to OptionTree"
+msgstr "Envoyer à OptionTree"
+
+#: core/inc/admin.php:618 core/inc/admin.php:673 core/inc/admin.php:716
+#: core/inc/admin.php:1494 core/inc/admin.php:1533
+msgid "Remove Media"
+msgstr "Retirer le Média"
+
+#: core/inc/admin.php:624 core/inc/admin.php:679
+msgid "Select…"
+msgstr "Sélectionner..."
+
+#: core/inc/admin.php:627 core/inc/admin.php:687 core/inc/admin.php:1504
+#, fuzzy
+msgid "Featured media"
+msgstr "Média en Vedette"
+
+#: core/inc/admin.php:631 core/inc/admin.php:692 core/inc/admin.php:1510
+#, fuzzy
+msgid "Add media"
+msgstr "Ajouter un média"
+
+#: core/inc/admin.php:634 core/inc/admin.php:720
+#, fuzzy
+msgid "Select a media assigned to the category."
+msgstr "Sélectionnez une couleur attribuée à la catégorie."
+
+#: core/inc/admin.php:637 core/inc/admin.php:724
+msgid "Color"
+msgstr "Couleur"
+
+#: core/inc/admin.php:645 core/inc/admin.php:734
+msgid "Select a color assigned to the category."
+msgstr "Sélectionnez une couleur attribuée à la catégorie."
+
+#: core/inc/admin.php:1071
+#, php-format
+msgid "The Adaptive Images system is using %1$s of the %2$s space left."
+msgstr "Le système des images adaptatives utilise %1$s sur un espace de %2$s."
+
+#: core/inc/admin.php:1269
+msgid ""
+"In order to run Uncode you need first to deactivate WPBakery Page Builder "
+"and install the Uncode WPBakery Page Builder."
+msgstr ""
+
+#: core/inc/admin.php:1270
+msgid "Deactivate WPBakery Page Builder"
+msgstr ""
+
+#: core/inc/admin.php:1286
+msgid "Warning: PHP max_input_vars."
+msgstr ""
+
+#: core/inc/admin.php:1289
+#, php-format
+msgid ""
+"Before saving the theme options you need to address an issue marked on the "
+"<strong><a href=\"%s\">System Status</a></strong>."
+msgstr ""
+
+#: core/inc/admin.php:1332
+#, php-format
+msgid ""
+"The menu transparency will not be visible without a declared header <a class="
+"\"page-options-header-section\" href=\"%s\">here</a>."
+msgstr ""
+
+#: core/inc/admin.php:1415
+msgid "Facebook profile URL"
+msgstr ""
+
+#: core/inc/admin.php:1417
+msgid "Twitter username or profile URL"
+msgstr ""
+
+#: core/inc/admin.php:1419
+msgid "Google+"
+msgstr "Google+"
+
+#: core/inc/admin.php:1421
+msgid "Dribbble profile URL"
+msgstr ""
+
+#: core/inc/admin.php:1423
+msgid "Instagram profile URL"
+msgstr ""
+
+#: core/inc/admin.php:1425
+msgid "Pinterest page URL"
+msgstr ""
+
+#: core/inc/admin.php:1427
+msgid "Xing profile URL"
+msgstr ""
+
+#: core/inc/admin.php:1429
+msgid "YouTube page URL"
+msgstr ""
+
+#: core/inc/admin.php:1431
+msgid "Vimeo page URL"
+msgstr ""
+
+#: core/inc/admin.php:1433
+msgid "Tumblr page URL"
+msgstr ""
+
+#: core/inc/admin.php:1451
+#, fuzzy
+#| msgid "Navigation"
+msgid "Qualification"
+msgstr "Navigation"
+
+#: core/inc/admin.php:1455
+msgid "Enter a descriptive sentence."
+msgstr ""
+
+#: core/inc/admin.php:1537
+msgid "Select a media assigned to the author page."
+msgstr ""
+
+#: core/inc/admin.php:1679
+#, fuzzy
+msgid "Related Posts"
+msgstr "Produits similaires"
+
+#: core/inc/admin.php:1753
+#, php-format
+msgid ""
+"Please activate Content Block in WPBakery Page Builder > <a href=\"%1s"
+"\">Role Manager</a>. More info on the documentation, <a href=\"%2s\" target="
+"\"_blank\">click here</a>"
+msgstr ""
+
+#: core/inc/admin.php:1826
+#, php-format
+msgid ""
+"Envato WordPress Toolkit has been deprecated. Please deactivate it and <a "
+"href=\"%1$s\">register your theme here</a>."
+msgstr ""
+
+#: core/inc/admin.php:1870
+#, fuzzy
+#| msgid ""
+#| "The following plugin needs to be updated to its latest version to ensure "
+#| "maximum compatibility with this theme: %1$s."
+#| msgid_plural ""
+#| "The following plugins need to be updated to their latest version to "
+#| "ensure maximum compatibility with this theme: %1$s."
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: <em>Uncode Core</em>."
+msgstr ""
+"Le plugin suivant doit être mis à jour dans sa dernière version afin "
+"d'assurer une compatibilité maximale avec ce thème : %1$s."
+
+#: core/inc/admin.php:1878 core/inc/admin.php:1886
+#, fuzzy
+#| msgid "This theme requires the following plugin: %1$s."
+#| msgid_plural "This theme requires the following plugins: %1$s."
+msgid "This theme requires the following plugin: <em>Uncode Core</em>."
+msgstr "Ce thème nécessite le plugin suivant : %1$s."
+
+#: core/inc/api/api-functions.php:196
+#, php-format
+msgid ""
+"<span class=\"uncode-premium-plugin-activation-error\">You need to register "
+"Uncode before to download this plugin. <a href=\"%s\">Register Uncode</a></"
+"span>"
+msgstr ""
+
+#: core/inc/api/api-functions.php:207
+msgid ""
+"<span class=\"uncode-premium-plugin-activation-error\">The Envato Purchase "
+"Code seems to be invalid. Please try to unregister and register the product "
+"again. If the issue persists <a href=\"https://support.undsgn.com/hc/en-us/"
+"articles/360000836318\" target=\"_blank\">contact the theme author.</a> "
+"(Error 23)</span>"
+msgstr ""
+
+#: core/inc/api/api-functions.php:210
+#, php-format
+msgid ""
+"<span class=\"uncode-premium-plugin-activation-error\">Purchase code "
+"verification failed. <a href=\"https://support.undsgn.com/hc/en-us/"
+"articles/360000836318\" target=\"_blank\">Please contact the theme author.</"
+"a> (Error %s)</span>"
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:64
+msgid "Purchase Code saved."
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:83
+msgid "Invalid nonce or empty data."
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:124
+msgid ""
+"Your Envato Purchase Code doesn't seem to be valid. Please double-check it, "
+"and try again."
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:128
+msgid ""
+"According to the Envato License Terms, you have exceeded the maximum number "
+"of activations permitted for a single Purchase Code. Please purchase an "
+"additional license. <a href=\"https://support.undsgn.com/hc/en-us/"
+"articles/360000849998\" target=\"_blank\">More info</a>"
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:132
+msgid ""
+"There was a problem contacting the Envato API server for Purchase Code "
+"verification. Please try again later, or contact the theme author."
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:136
+msgid ""
+"There is a problem contacting the Undsgn server for the Purchase Code "
+"verification. Please disable any firewall service, deactivate any possible "
+"server authentication, verify you have an updated cURL module, verify if "
+"your host is blocking connections to external domains and make sure to "
+"whitelist 'api.undsgn.com'. Please consult <a href=\"https://support.undsgn."
+"com/hc/en-us/articles/115004287985\" target=\"_blank\">this page</a> and if "
+"the problem persists, <a href=\"https://support.undsgn.com/hc/en-us/"
+"articles/360000836318\" target=\"_blank\"> contact the theme author.</a>"
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:153
+#, php-format
+msgid ""
+"There was an unexpected problem with your Purchase Code verification. <a "
+"href=\"https://support.undsgn.com/hc/en-us/articles/360000836318\" target="
+"\"_blank\">Please contact the theme author.</a> (Error %s)"
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:157
+msgid ""
+"The Envato Purchase Code doesn't seem to be properly formatted. Please "
+"double check it and try again."
+msgstr ""
+
+#: core/inc/api/class-theme-registration.php:161
+msgid ""
+"The Envato Purchase Code doesn't seem to be associated with an Uncode Theme "
+"purchase. Please double check it and try again."
+msgstr ""
+
+#: core/inc/colors.php:12
+msgid "Accent"
+msgstr "Accentué"
+
+#: core/inc/customizer-woocommerce.php:96 woocommerce/cart/mini-cart.php:52
+#: woocommerce/cart/mini-cart.php:53
+msgid "Remove this item"
+msgstr "Supprimer cet article"
+
+#: core/inc/customizer-woocommerce.php:114
+msgid "Subtotal:"
+msgstr "Sous-Total :"
+
+#: core/inc/customizer-woocommerce.php:117
+#, fuzzy
+#| msgid "View Cart"
+msgid "View cart"
+msgstr "Voir le Panier"
+
+#: core/inc/customizer-woocommerce.php:118 woocommerce/cart/mini-cart.php:100
+msgid "Checkout"
+msgstr "Commander"
+
+#: core/inc/customizer-woocommerce.php:122
+#: core/inc/customizer-woocommerce.php:167
+#, fuzzy
+#| msgid "Your cart is currently empty"
+msgid "Your cart is currently empty."
+msgstr "Votre panier est actuellement vide"
+
+#: core/inc/customizer-woocommerce.php:172
+#: core/inc/customizer-woocommerce.php:174
+msgid "Cart"
+msgstr "Panier"
+
+#: core/inc/customizer-woocommerce.php:226
+#, fuzzy
+#| msgid "Proceed to Checkout"
+msgid "Proceed to checkout"
+msgstr "Procéder au paiement"
+
+#: core/inc/deprecated-functions.php:21
+#, php-format
+msgid ""
+"<strong>Make sure all your plugins are up to date:</strong> %1$s is "
+"<strong>deprecated</strong> since version %2$s! Use %3$s instead."
+msgstr ""
+
+#: core/inc/deprecated-functions.php:23
+#, php-format
+msgid ""
+"<strong>Make sure all your plugins are up to date:</strong> %1$s is "
+"<strong>deprecated</strong> since version %2$s with no alternative available."
+msgstr ""
+
+#: core/inc/edit_custom_walker.php:85
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (non valide)"
+
+#: core/inc/edit_custom_walker.php:89
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (en attente)"
+
+#: core/inc/edit_custom_walker.php:98
+msgid "MEGAMENU TITLE"
+msgstr "TITRE MEGAMENU"
+
+#: core/inc/edit_custom_walker.php:100
+msgid "MEGAMENU"
+msgstr "MEGAMENU"
+
+#: core/inc/edit_custom_walker.php:100
+msgid "sub item"
+msgstr "sous élément"
+
+#: core/inc/edit_custom_walker.php:127
+msgid "Move up"
+msgstr "Déplacer vers le haut"
+
+#: core/inc/edit_custom_walker.php:140
+msgid "Move down"
+msgstr "Déplacer vers le bas"
+
+#: core/inc/edit_custom_walker.php:142 core/inc/edit_custom_walker.php:144
+msgid "Edit Menu Item"
+msgstr "Modifier l'élément du menu"
+
+#: core/inc/edit_custom_walker.php:153
+msgid "URL"
+msgstr "URL"
+
+#: core/inc/edit_custom_walker.php:160
+msgid "Navigation Label"
+msgstr "Libellé de navigation"
+
+#: core/inc/edit_custom_walker.php:166
+msgid "Title Attribute"
+msgstr "Attribut du titre"
+
+#: core/inc/edit_custom_walker.php:173
+msgid "Open link in a new window/tab"
+msgstr "Ouvrir le lien dans une nouvelle fenêtre/onglet"
+
+#: core/inc/edit_custom_walker.php:178
+msgid "CSS Classes (optional)"
+msgstr "Classes CSS (facultatif)"
+
+#: core/inc/edit_custom_walker.php:184
+msgid "Link Relationship (XFN)"
+msgstr "Liens de Relations (XFN)"
+
+#: core/inc/edit_custom_walker.php:190 core/inc/media-enhanced.php:348
+#: woocommerce/single-product/tabs/description.php:16
+msgid "Description"
+msgstr "Description"
+
+#: core/inc/edit_custom_walker.php:192
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr "La description s'affichera dans le menu si le thème actuel le permet."
+
+#: core/inc/edit_custom_walker.php:202
+#, fuzzy
+msgid "Icon"
+msgstr "Icône"
+
+#: core/inc/edit_custom_walker.php:211
+msgid "Megamenu"
+msgstr "Megamenu"
+
+#: core/inc/edit_custom_walker.php:220
+msgid "Button style"
+msgstr "Style du bouton"
+
+#: core/inc/edit_custom_walker.php:226
+msgid "Move"
+msgstr "Déplacer"
+
+#: core/inc/edit_custom_walker.php:227
+msgid "Up one"
+msgstr "Monter"
+
+#: core/inc/edit_custom_walker.php:228
+msgid "Down one"
+msgstr "Descendre"
+
+#: core/inc/edit_custom_walker.php:231
+msgid "To the top"
+msgstr "Vers le haut"
+
+#: core/inc/edit_custom_walker.php:238
+#, php-format
+msgid "Original: %s"
+msgstr "Original : %s"
+
+#: core/inc/edit_custom_walker.php:251
+msgid "Remove"
+msgstr "Retirer"
+
+#: core/inc/edit_custom_walker.php:252
+msgid "Cancel"
+msgstr "Annuler"
+
+#: core/inc/export/uncode_export.php:6
+msgid ""
+"You do not have sufficient permissions to export the content of this site."
+msgstr ""
+"Vous ne disposez pas des autorisations suffisantes pour exporter le contenu "
+"de ce site."
+
+#: core/inc/export/uncode_export.php:12
+msgid "Export"
+msgstr "Exporter"
+
+#: core/inc/export/uncode_export.php:40
+msgid "Overview"
+msgstr "Aperçu"
+
+#: core/inc/export/uncode_export.php:41
+msgid ""
+"You can export a file of your site&#8217;s content in order to import it "
+"into another installation or platform. The export file will be an XML file "
+"format called WXR. Posts, pages, comments, custom fields, categories, and "
+"tags can be included. You can choose for the WXR file to include only "
+"certain posts or pages by setting the dropdown filters to limit the export "
+"by category, author, date range by month, or publishing status."
+msgstr ""
+"Vous pouvez exporter un fichier de contenu de votre site afin de l'importer "
+"dans une autre installation ou plate-forme. Le fichier d'exportation sera un "
+"format de fichier XML appelé WXR. Articles, pages, commentaires, champs "
+"personnalisés, les catégories et les étiquettes peuvent être inclus. Vous "
+"pouvez choisir le fichier WXR pour inclure uniquement certains articles ou "
+"des pages en définissant les filtres déroulants pour limiter l'exportation "
+"par catégorie, auteur, plage de dates par mois, ou le statut de l'édition."
+
+#: core/inc/export/uncode_export.php:42
+msgid ""
+"Once generated, your WXR file can be imported by another WordPress site or "
+"by another blogging platform able to access this format."
+msgstr ""
+"Une fois généré, votre fichier WXR peut être importé par un autre site "
+"WordPress ou par une autre plate-forme capable d'accéder à ce format de "
+"blogging."
+
+#: core/inc/export/uncode_export.php:46
+msgid "For more information:"
+msgstr "Pour plus d'informations :"
+
+#: core/inc/export/uncode_export.php:47
+msgid "Documentation on Export"
+msgstr "Documentation sur Exporter"
+
+#: core/inc/export/uncode_export.php:48
+msgid "Support Forums"
+msgstr "Forums d'aide"
+
+#: core/inc/export/uncode_export.php:86
+msgid ""
+"When you click the button below WordPress will create an XML file for you to "
+"save to your computer."
+msgstr ""
+"Lorsque vous cliquez sur le bouton ci-dessous WordPress va créer un fichier "
+"XML pour l'enregistrer sur votre ordinateur."
+
+#: core/inc/export/uncode_export.php:87
+msgid ""
+"This format, which we call WordPress eXtended RSS or WXR, will contain your "
+"posts, pages, comments, custom fields, categories, and tags."
+msgstr ""
+"Ce format, que nous appelons WordPress eXtended RSS ou WXR, contiendra vos "
+"articles, pages, commentaires, champs personnalisés, des catégories et tags."
+
+#: core/inc/export/uncode_export.php:88
+msgid ""
+"Once you&#8217;ve saved the download file, you can use the Import function "
+"in another WordPress installation to import the content from this site."
+msgstr ""
+"Une fois que vous avez enregistré le fichier de téléchargement, vous pouvez "
+"utiliser la fonction d'importation dans une autre installation de WordPress "
+"pour importer le contenu de ce site."
+
+#: core/inc/export/uncode_export.php:90
+msgid "Choose what to export"
+msgstr "Choisissez ce que vous exporter"
+
+#: core/inc/export/uncode_export.php:94
+msgid "All content"
+msgstr "Tout le contenu"
+
+#: core/inc/export/uncode_export.php:95
+msgid ""
+"This will contain all of your posts, pages, comments, custom fields, terms, "
+"navigation menus and custom posts."
+msgstr ""
+"Celui-ci contiendra tous vos articles, pages, commentaires, champs "
+"personnalisés, des termes, des menus de navigation et les articles "
+"personnalisés."
+
+#: core/inc/export/uncode_export.php:97
+msgid "Posts"
+msgstr "Pages articles"
+
+#: core/inc/export/uncode_export.php:100
+msgid "Categories:"
+msgstr "Catégories :"
+
+#: core/inc/export/uncode_export.php:101 core/inc/export/uncode_export.php:107
+#: core/inc/export/uncode_export.php:124 core/inc/export/uncode_export.php:139
+#: core/inc/export/uncode_export.php:156
+msgid "All"
+msgstr "Tous"
+
+#: core/inc/export/uncode_export.php:104 core/inc/export/uncode_export.php:136
+msgid "Authors:"
+msgstr "Auteurs :"
+
+#: core/inc/export/uncode_export.php:111 core/inc/export/uncode_export.php:143
+msgid "Date range:"
+msgstr "Période :"
+
+#: core/inc/export/uncode_export.php:113 core/inc/export/uncode_export.php:145
+msgid "Start Date"
+msgstr "Date de début"
+
+#: core/inc/export/uncode_export.php:117 core/inc/export/uncode_export.php:149
+msgid "End Date"
+msgstr "Date de fin"
+
+#: core/inc/export/uncode_export.php:122 core/inc/export/uncode_export.php:154
+msgid "Status:"
+msgstr "Statut :"
+
+#: core/inc/export/uncode_export.php:133
+msgid "Pages"
+msgstr "Pages"
+
+#: core/inc/export/uncode_export.php:177
+msgid "Download Export File"
+msgstr "Télécharger le Fichier Export"
+
+#: core/inc/helpers.php:178
+msgid "Minutes"
+msgstr "Minutes"
+
+#: core/inc/helpers.php:180
+msgid "Minute"
+msgstr "Minute"
+
+#: core/inc/helpers.php:1226 vc_templates/uncode_consent_notice.php:31
+msgid ""
+"This content is blocked. Please review your [uncode_privacy_box]Privacy "
+"Settings[/uncode_privacy_box]."
+msgstr ""
+
+#: core/inc/main.php:78
+msgid "Primary Menu"
+msgstr "Menu Principal"
+
+#: core/inc/main.php:79
+msgid "Secondary Menu"
+msgstr "Menu Secondaire"
+
+#: core/inc/main.php:80
+msgid "Call To Action Menu"
+msgstr ""
+
+#: core/inc/main.php:146 core/inc/main.php:159
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Ajouter des widgets ici pour apparaître dans votre sidebar."
+
+#: core/inc/main.php:157
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: core/inc/main.php:317 vc_templates/uncode_countdown.php:63
+msgid "days"
+msgstr "jours"
+
+#: core/inc/main.php:318 vc_templates/uncode_countdown.php:63
+msgid "hours"
+msgstr "heures"
+
+#: core/inc/main.php:319 vc_templates/uncode_countdown.php:63
+msgid "minutes"
+msgstr "minutes"
+
+#: core/inc/main.php:320 vc_templates/uncode_countdown.php:63
+msgid "seconds"
+msgstr "secondes"
+
+#: core/inc/main.php:324 vc_templates/uncode_index.php:1211
+msgid "Loading…"
+msgstr "Chargement..."
+
+#: core/inc/main.php:325
+#, fuzzy
+#| msgid "Slider"
+msgid "slide"
+msgstr "Slider"
+
+#: core/inc/main.php:326
+#, fuzzy
+#| msgid "Footer"
+msgid "footer"
+msgstr "Footer"
+
+#: core/inc/media-enhanced.php:4 core/inc/media-enhanced.php:304
+msgid "Add oEmbed, external IMG, SVG code, HTML or Shortcode"
+msgstr "Ajouter oEmbed, IMG externe, code SVG, HTML ou Shortcode"
+
+#: core/inc/media-enhanced.php:4
+msgid "Add Multimedia"
+msgstr "Ajouter Multimédia"
+
+#: core/inc/media-enhanced.php:304
+msgid "Add New"
+msgstr "Ajouter"
+
+#: core/inc/media-enhanced.php:308
+msgid "Item added to library."
+msgstr "Élément ajouté à la librairie."
+
+#: core/inc/media-enhanced.php:312
+msgid "Item updated."
+msgstr "Élément mis à jour."
+
+#: core/inc/media-enhanced.php:314
+msgid "Fill all the required fields."
+msgstr "Remplissez tous les champs obligatoires."
+
+#: core/inc/media-enhanced.php:322
+msgid "Enter title here*"
+msgstr "Entrez le titre ici*"
+
+#: core/inc/media-enhanced.php:330
+msgid "Permalink:"
+msgstr "Permalien :"
+
+#: core/inc/media-enhanced.php:332
+msgid "View Post"
+msgstr "Voir le Post"
+
+#: core/inc/media-enhanced.php:338
+msgid "Insert from URL*"
+msgstr "Insérer depuis l'URL*"
+
+#: core/inc/media-enhanced.php:344
+msgid "Caption"
+msgstr "Légende"
+
+#: core/inc/media-enhanced.php:373 core/inc/media-enhanced.php:379
+msgid "Publish"
+msgstr "Publier"
+
+#: core/inc/media-enhanced.php:382
+msgid "Save"
+msgstr "Enregistrer"
+
+#: core/inc/media-enhanced.php:386
+#: core/plugins_activation/class-tgm-plugin-activation.php:2878
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: core/inc/related-posts/class-hook-settings-page.php:20
+#, fuzzy
+msgid "Related Posts for WordPress"
+msgstr "Produits similaires"
+
+#: core/inc/template-tags.php:77
+msgid "Prev"
+msgstr "Précédent"
+
+#: core/inc/template-tags.php:78
+msgid "Next"
+msgstr "Suivant"
+
+#: core/inc/template-tags.php:187
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publié le %s"
+
+#: core/inc/template-tags.php:192
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "par  %s"
+
+#: core/inc/template-tags.php:209 core/inc/template-tags.php:215
+msgid ", "
+msgstr ", "
+
+#: core/inc/template-tags.php:211
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Publié dans %1$s"
+
+#: core/inc/template-tags.php:217
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Mot-clé %1$s"
+
+#: core/inc/template-tags.php:223
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: core/inc/template-tags.php:223
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: core/inc/template-tags.php:223
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: core/inc/template-tags.php:227
+msgid "Edit"
+msgstr "Modifier"
+
+#: core/inc/template-tags.php:250
+#, php-format
+msgid "Year: %s"
+msgstr "Année : %s"
+
+#: core/inc/template-tags.php:250
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: core/inc/template-tags.php:252
+#, php-format
+msgid "Month: %s"
+msgstr "Mois : %s"
+
+#: core/inc/template-tags.php:252
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: core/inc/template-tags.php:254
+#, php-format
+msgid "Day: %s"
+msgstr "Jour : %s"
+
+#: core/inc/template-tags.php:254
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F, Y"
+
+#: core/inc/template-tags.php:257
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: core/inc/template-tags.php:259
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galeries"
+
+#: core/inc/template-tags.php:261
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Images"
+
+#: core/inc/template-tags.php:263
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Vidéos"
+
+#: core/inc/template-tags.php:265
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citations"
+
+#: core/inc/template-tags.php:267
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Liens"
+
+#: core/inc/template-tags.php:269
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "États"
+
+#: core/inc/template-tags.php:271
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: core/inc/template-tags.php:273
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: core/inc/template-tags.php:276
+#, fuzzy, php-format
+msgid "Archives %s"
+msgstr "Archives : %s"
+
+#: core/inc/template-tags.php:282
+msgid "Archives"
+msgstr "Archives"
+
+#: core/inc/uncode-comment-walker.php:69
+#, fuzzy
+msgid "Edit this comment"
+msgstr "1 Commentaire"
+
+#: core/inc/uncode-comment-walker.php:71
+#, fuzzy
+#| msgid "Your comment is awaiting approval"
+msgid "Your comment is awaiting moderation"
+msgstr "Votre commentaire est en attente de modération"
+
+#: core/inc/uncode-comment-walker.php:74
+msgid "Reply"
+msgstr "Répondre"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:336
+#, fuzzy
+#| msgid "Install Plugins"
+msgid "Install or Update Plugins"
+msgstr "Installer les Plugins"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:337
+msgid "Install Plugins"
+msgstr "Installer les Plugins"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installation Plugin : %s"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:341
+#, fuzzy, php-format
+msgid "Updating Plugin: %s"
+msgstr "Installation Plugin : %s"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:342
+msgid "Something went wrong with the plugin API."
+msgstr "Quelque chose s'est mal passé avec l'API du plugin."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:345
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ce thème nécessite le plugin suivant : %1$s."
+msgstr[1] "Ce thème nécessite les plugins suivants : %1$s."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:358
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Le plugin suivant doit être mis à jour dans sa dernière version afin "
+"d'assurer une compatibilité maximale avec ce thème : %1$s."
+msgstr[1] ""
+"Les plugins suivants doivent être mises à jour vers leur dernière version "
+"afin d'assurer une compatibilité maximale avec ce thème : %1$s."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:364
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Il y a une mise à jour disponible pour : %1$s."
+msgstr[1] "Il y a une mise à jour disponible pour les plugins suivants : %1$s."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:370
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Le plugin requis suivant est actuellement inactif : %1$s."
+msgstr[1] "Les plugins requis suivants sont actuellement inactifs : %1$s."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Commencez à installer le plugin"
+msgstr[1] "Commencez à installer les plugins"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Commencez la mise à jour du plugin"
+msgstr[1] "Commencez la mise à jour des plugins"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Commencez l'activation du plugin"
+msgstr[1] "Commencez l'activation des plugins"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:396
+msgid "Return to Required Plugins Installer"
+msgstr "Revenir à l'installation des plugins requis"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:397
+#: core/plugins_activation/class-tgm-plugin-activation.php:928
+#: core/plugins_activation/class-tgm-plugin-activation.php:2677
+#: core/plugins_activation/class-tgm-plugin-activation.php:3776
+msgid "Return to the Dashboard"
+msgstr "Revenir au tableau de bord"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:398
+#: core/plugins_activation/class-tgm-plugin-activation.php:3352
+msgid "Plugin activated successfully."
+msgstr "Plugin activé avec succès."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:399
+#: core/plugins_activation/class-tgm-plugin-activation.php:3145
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Le plugin suivant a été activé avec succès :"
+msgstr[1] "Les plugins suivants ont été activés avec succès :"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Aucune mesure prise. Le plugin %1$s était déjà actif."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:403
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin non activé. Une version plus récente de %s est nécessaire pour ce "
+"thème. S'il vous plaît, mettez à jour le plugin."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:405
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tout les plugins ont été installés et activés avec succès. %1$s"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:406
+msgid "Dismiss this notice"
+msgstr "Rejeter cet avertissement"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:407
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:408
+msgid "Please contact the administrator of this site for help."
+msgstr "S'il vous plaît, contactez l'administrateur de ce site pour de l'aide."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:614
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Ce plugin a besoin d'être mis à jour pour être compatible avec votre thème."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:615
+msgid "Update Required"
+msgstr "Mise à jour requise"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:1037
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Le pack de plugin à distance ne contient pas de dossier avec la limace "
+"souhaitée et le renommage ne fonctionne pas."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:1037
+#: core/plugins_activation/class-tgm-plugin-activation.php:1040
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"S'il vous plaît, contactez le fournisseur du plugin et leur demander de "
+"conditionner leur plugin selon les lignes directrices de WordPress."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:1040
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Le pack de plugin à distance se compose de plus d'un fichier, mais les "
+"fichiers ne sont pas conditionnés dans un dossier."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:1255
+#: core/plugins_activation/class-tgm-plugin-activation.php:3135
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "et"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2123
+#, fuzzy, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA version %s"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2414
+msgid "Required"
+msgstr "Requis"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2417
+msgid "Recommended"
+msgstr "Recommandé"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2433
+msgid "WordPress Repository"
+msgstr "Répertoire WordPress"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2436
+msgid "External Source"
+msgstr "Source Externe"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2439
+msgid "Pre-Packaged"
+msgstr "Pré-paqueté"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2456
+msgid "Not Installed"
+msgstr "Pas installé"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2460
+msgid "Installed But Not Activated"
+msgstr "Installé mais pas activé"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2462
+msgid "Active"
+msgstr "Actif"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2468
+msgid "Required Update not Available"
+msgstr "Mise à jour requise Non Disponible"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2471
+msgid "Requires Update"
+msgstr "Mise à jour Requise"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2474
+msgid "Update recommended"
+msgstr "Mise à jour recommandée"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2483
+#, fuzzy, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2529
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tous <span class=\"count\">(%s)</span>"
+msgstr[1] "Tous <span class=\"count\">(%s)</span>"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2533
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "À installer <span class=\"count\">(%s)</span>"
+msgstr[1] "À installer <span class=\"count\">(%s)</span>"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2537
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Mise à jour disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Mises à jour disponibles <span class=\"count\">(%s)</span>"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2541
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "À Activer <span class=\"count\">(%s)</span>"
+msgstr[1] "À Activer <span class=\"count\">(%s)</span>"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2623
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "inconnu"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2632
+msgid "Installed version:"
+msgstr "Version installée :"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2641
+msgid "Minimum required version:"
+msgstr "Version requise minimum :"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2654
+msgid "Available version:"
+msgstr "Version disponible :"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2677
+#, fuzzy
+msgid "No plugins to install, update or activate."
+msgstr ""
+"Aucun plugins à installer, à mettre à jour ou à activer. <a href=\"%1$s"
+"\">Retour au tableau de bord</a>"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2693
+msgid "Plugin"
+msgstr "Plugin"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2695
+msgid "Type"
+msgstr "Type"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr "Source"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2700
+msgid "Version"
+msgstr "Version"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2701
+msgid "Status"
+msgstr "Statut"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2750
+#, fuzzy, php-format
+msgid "Install %2$s"
+msgstr "Installer %2$s"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2755
+#, fuzzy, php-format
+msgid "Update %2$s"
+msgstr "Mettre à jour %2$s"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2761
+#, fuzzy, php-format
+msgid "Activate %2$s"
+msgstr "Activer %2$s"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2839
+msgid "Upgrade message from the plugin author:"
+msgstr "Améliorez le message de l'auteur du plugin :"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2872
+msgid "Install"
+msgstr "Installer"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2881
+msgid "Activate"
+msgstr "Activer"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2912
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Aucun plugins n'ont été sélectionnés pour être installés. Aucune mesure "
+"prise."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2914
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Aucun plugins ont été sélectionnés pour être mis à jour. Aucune mesure "
+"prise ."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2961
+msgid "No plugins are available to be installed at this time."
+msgstr "Aucun plugins de disponibles pour être installés en ce moment."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:2963
+msgid "No plugins are available to be updated at this time."
+msgstr "Aucun plugins de disponibles pour être mis à jour en ce moment."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3083
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Aucun plugin n’a été sélectionné pour être activé. Aucune action prise."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3115
+msgid "No plugins are available to be activated at this time."
+msgstr "Aucun plugins de disponibles pour être mis à jour en ce moment."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3351
+msgid "Plugin activation failed."
+msgstr "L'activation du plugin a échoué."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3691
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Mise à jour du plugin %1$s (%2$d/%3$d)"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3694
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Une erreur est survenue pendant l'installation de %1$s : <strong>%2$s</"
+"strong>."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3696
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "L'installation de %1$s a échoué."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3700
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Le processus d’installation et d’activation commence. Ce processus peut "
+"prendre un certain temps, donc s’il vous plaît soyez patient."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3702
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s est installé et activé avec succès."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3703
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et activations sont terminées."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3705
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation du plugin %1$s (%2$d/%3$d)"
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3708
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Le processus d'installation commence. Ce processus peut prendre un certain "
+"temps sur certains hébergeurs, donc s'il vous plaît soyez patient."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3710
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installé avec succès."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3711
+msgid "All installations have been completed."
+msgstr "Toutes les installations sont terminées."
+
+#: core/plugins_activation/class-tgm-plugin-activation.php:3713
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation du plugin %1$s (%2$d/%3$d)"
+
+#: footer.php:121 partials/menus.php:1100 vc_templates/uncode_copyright.php:40
+msgid "All rights reserved"
+msgstr "| Tous droits réservés."
+
+#: footer.php:178 partials/headers.php:370
+#, fuzzy
+#| msgid "Content Block"
+msgid "Edit Content Block"
+msgstr "Bloc de contenu"
+
+#: footer.php:178
+#, fuzzy
+#| msgid "Content Block"
+msgid "Footer Content Block"
+msgstr "Bloc de contenu"
+
+#: functions.php:17
+#, fuzzy
+msgid "PHP version obsolete"
+msgstr "Version PHP"
+
+#: functions.php:18
+msgid "Ooops, obsolete PHP version"
+msgstr ""
+
+#: page.php:355 partials/elements.php:1392 single.php:345
+msgid "Pages:"
+msgstr "Pages :"
+
+#: partials/elements.php:1170
+msgid "Sticky"
+msgstr "Épinglé"
+
+#: partials/elements.php:1469
+#: woocommerce/single-product/add-to-cart/simple.php:62
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: partials/elements.php:1513 partials/elements.php:1515
+#, fuzzy
+msgid "by"
+msgstr "par "
+
+#: partials/elements.php:1537 partials/elements.php:2246
+msgctxt "comments"
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] "Commentaire"
+msgstr[1] "Commentaires"
+
+#: partials/elements.php:1998
+msgid "Sale!"
+msgstr ""
+
+#: partials/elements.php:2000
+#, fuzzy
+#| msgid "out of 5"
+msgid "Out of stock"
+msgstr "sur 5"
+
+#: partials/elements.php:2177 partials/elements.php:2201
+#: partials/elements.php:2269
+#, php-format
+msgid "View all posts in %s"
+msgstr "Voir tous les articles de %s"
+
+#: partials/elements.php:2179 partials/elements.php:2203
+#: partials/elements.php:2274
+#, fuzzy
+msgid "In"
+msgstr "Dans "
+
+#: partials/elements.php:2182 partials/elements.php:2230
+#, fuzzy
+msgid "By"
+msgstr "Par "
+
+#: partials/elements.php:2298
+#, fuzzy
+#| msgid "Home"
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "Accueil"
+
+#: partials/elements.php:2308
+msgid "Home"
+msgstr "Accueil"
+
+#: partials/elements.php:2311
+#, fuzzy
+msgid "Archive by Category"
+msgstr "Archive par Catégorie "
+
+#: partials/elements.php:2314
+#, fuzzy
+msgid "Search Results for"
+msgstr "Résultats de recherche pour "
+
+#: partials/elements.php:2317
+#, fuzzy
+msgid "Posts Tagged"
+msgstr "Mots-clés "
+
+#: partials/elements.php:2320
+#, fuzzy
+msgid "Articles Posted by"
+msgstr "Articles publiés par "
+
+#: partials/elements.php:2323
+msgid "Error 404"
+msgstr "Erreur 404"
+
+#: partials/elements.php:2522
+msgid "Page"
+msgstr "Page"
+
+#: partials/headers.php:370
+#, fuzzy
+#| msgid "Content Block"
+msgid "Header Content Block"
+msgstr "Bloc de contenu"
+
+#: partials/menus.php:92 partials/menus.php:203
+msgid "logo"
+msgstr ""
+
+#: partials/menus.php:553
+msgid "Search"
+msgstr "Recherche"
+
+#: partials/menus.php:562 searchform.php:11
+msgid "Search…"
+msgstr "Rechercher. . ."
+
+#: search.php:86
+msgid "Results for:"
+msgstr "Résultats pour :"
+
+#: searchform.php:11 woocommerce/product-searchform.php:27
+msgid "Search for:"
+msgstr "Recherche pour :"
+
+#: single-portfolio.php:463 woocommerce/single-product/share.php:35
+msgid "Share"
+msgstr "Partager"
+
+#: vc_templates/uncode_author_profile.php:34
+msgid "All author posts"
+msgstr ""
+
+#: vc_templates/uncode_author_profile.php:114
+#, php-format
+msgid "%1$s post page"
+msgstr ""
+
+#: vc_templates/uncode_index.php:532 vc_templates/vc_gallery.php:521
+msgid "Show all"
+msgstr "Tous"
+
+#: vc_templates/uncode_index.php:1193
+msgid "Nothing found."
+msgstr "Rien trouvé."
+
+#: vc_templates/uncode_index.php:1211
+msgid "Load more"
+msgstr "Charger plus"
+
+#: vc_templates/vc_accordion_tab.php:6
+msgid "Section"
+msgstr "Section"
+
+#: vc_templates/vc_accordion_tab.php:31
+msgid "Empty section. Edit page to add content here."
+msgstr "Section vide. Modifier la page d'ajouter du contenu ici."
+
+#: vc_templates/vc_tab.php:24
+msgid "Empty tab. Edit page to add content here."
+msgstr "Onglet vide. Modifier la page pour ajouter du contenu ici."
+
+#: woocommerce/cart/mini-cart.php:77
+msgid "No products in the cart."
+msgstr "Aucun produits dans le panier."
+
+#: woocommerce/cart/mini-cart.php:99
+msgid "View Cart"
+msgstr "Voir le Panier"
+
+#: woocommerce/order/order-details-customer.php:24
+#, fuzzy
+msgid "Customer details"
+msgstr "Détails personnalisés"
+
+#: woocommerce/order/order-details-customer.php:29
+#: woocommerce/order/order-details.php:77
+msgid "Note:"
+msgstr "Note :"
+
+#: woocommerce/order/order-details-customer.php:36
+msgid "Email:"
+msgstr "Email :"
+
+#: woocommerce/order/order-details-customer.php:43
+msgid "Telephone:"
+msgstr "Téléphone :"
+
+#: woocommerce/order/order-details-customer.php:59
+#, fuzzy
+#| msgid "Billing Address"
+msgid "Billing address"
+msgstr "Adresse"
+
+#: woocommerce/order/order-details-customer.php:62
+#: woocommerce/order/order-details-customer.php:79
+#: woocommerce/single-product/meta.php:24
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce/order/order-details-customer.php:76
+#, fuzzy
+#| msgid "Shipping Address"
+msgid "Shipping address"
+msgstr "Adresse de livraison"
+
+#: woocommerce/order/order-details.php:38
+#, fuzzy
+#| msgid "Order Details"
+msgid "Order details"
+msgstr "Trier les Détails"
+
+#: woocommerce/order/order-details.php:42
+#: woocommerce/single-product-reviews.php:23
+msgid "Product"
+msgstr "Produit"
+
+#: woocommerce/order/order-details.php:43
+msgid "Total"
+msgstr "Total"
+
+#: woocommerce/product-searchform.php:28
+#, fuzzy
+#| msgctxt "placeholder"
+#| msgid "Search Products&hellip;"
+msgid "Search products&hellip;"
+msgstr "Recherche de produits &hellip;"
+
+#: woocommerce/product-searchform.php:28
+#, fuzzy
+#| msgid "Search"
+msgctxt "submit button"
+msgid "Search"
+msgstr "Recherche"
+
+#: woocommerce/single-product/add-to-cart/variable.php:33
+msgid "This product is currently out of stock and unavailable."
+msgstr "Ce produit est actuellement en rupture de stock et indisponible."
+
+#: woocommerce/single-product/add-to-cart/variable.php:42
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:24
+msgid "SKU"
+msgstr "SKU"
+
+#: woocommerce/single-product/meta.php:29
+#, fuzzy
+msgid "Category"
+msgstr "Catégorie"
+
+#: woocommerce/single-product/meta.php:29
+#, fuzzy
+msgid "Categories"
+msgstr "Catégories"
+
+#: woocommerce/single-product/meta.php:29
+#: woocommerce/single-product/meta.php:34
+#, fuzzy
+msgid "<span class=\"detail-label\">"
+msgid_plural "<span class=\"detail-label\">"
+msgstr[0] "<span class=\"detail-label\">Tag</span>"
+msgstr[1] "<span class=\"detail-label\">Tags</span>"
+
+#: woocommerce/single-product/meta.php:34
+#, fuzzy
+msgid "Tag"
+msgstr "Sélectionner un tag pour l'élément"
+
+#: woocommerce/single-product/meta.php:34
+msgid "Tags"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:106
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/related.php:18
+#, fuzzy
+#| msgid "Related Products"
+msgid "Related products"
+msgstr "Produits similaires"
+
+#: woocommerce/single-product/review.php:59
+msgid "Your comment is awaiting approval"
+msgstr "Votre commentaire est en attente de modération"
+
+#: woocommerce/single-product/review.php:70
+msgid "verified owner"
+msgstr "client vérifié"
+
+#: woocommerce/single-product/tabs/additional-information.php:16
+#, fuzzy
+msgid "Additional information"
+msgstr "Information Supplémentaire"
+
+#: woocommerce/single-product/up-sells.php:51
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:23
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] "%s évaluation"
+msgstr[1] "%s évaluations"
+
+#: woocommerce/single-product-reviews.php:25
+msgid "Reviews"
+msgstr "Evaluations"
+
+#: woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr "Il n'y a pas encore de critiques."
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr "Ajouter une évaluation"
+
+#: woocommerce/single-product-reviews.php:60
+#, fuzzy, php-format
+#| msgid "Be the first to review"
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Soyez le premier à laisser un avis"
+
+#: woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Laisser une réponse à %s"
+
+#: woocommerce/single-product-reviews.php:67
+msgid "Name"
+msgstr "Nom"
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Email"
+msgstr "Email"
+
+#: woocommerce/single-product-reviews.php:72
+msgid "Submit"
+msgstr "Soumettre"
+
+#: woocommerce/single-product-reviews.php:78
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+#, fuzzy
+#| msgid "Your Rating"
+msgid "Your rating"
+msgstr "Votre Evaluation"
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Rate&hellip;"
+msgstr "Evaluez &hellip;"
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Perfect"
+msgstr "Parfait"
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Good"
+msgstr "Bien"
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Average"
+msgstr "Moyen"
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Not that bad"
+msgstr "Pas si mal"
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Very Poor"
+msgstr "Très Mauvais"
+
+#: woocommerce/single-product-reviews.php:92
+#, fuzzy
+#| msgid "Your Review"
+msgid "Your review"
+msgstr "Votre évaluation"
+
+#: woocommerce/single-product-reviews.php:101
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Seulement les clients connectés qui ont acheté ce produit peuvent laisser "
+"une évaluation."
+
+#, fuzzy
+#~ msgid "Your kits:"
+#~ msgstr "Vos kits : "
+
+#~ msgid "No kits found for the API key you provided."
+#~ msgstr "Pas de kits trouvés pour la clé API que vous avez fourni."
+
+#~ msgid "No kits ID inserted."
+#~ msgstr "Pas de kits ID inséré."
+
+#~ msgid "The following fonts were found for project %1$s:"
+#~ msgstr "Les polices suivantes ont été trouvés pour le projet %1$s :"
+
+#~ msgid ""
+#~ "No fonts found for project %1$s on %2$s. Make sure your project id is "
+#~ "correct and this domain is added to it in your Fontdeck account."
+#~ msgstr ""
+#~ "Pas de polices trouvées pour le projet %1$s dans %2$s. Assurez-vous que "
+#~ "votre ID de projet est correct et ce domaine est ajouté à votre compte "
+#~ "Fontdeck."
+
+#~ msgid "Sorry, there was an error accessing %1$s"
+#~ msgstr "Désolé, il y avait une erreur d’accès %1$s"
+
+#~ msgid "Delete"
+#~ msgstr "Supprimer"
+
+#, fuzzy
+#~ msgid "Date"
+#~ msgstr "Date"
+
+#~ msgid "WP Version"
+#~ msgstr "Version WP"
+
+#~ msgid "Language"
+#~ msgstr "Langage"
+
+#~ msgid "The current language used by WordPress. Default = English"
+#~ msgstr "Le langage actuellement utilisé par WordPress. Par défaut = anglais"
+
+#~ msgid "WP Multisite"
+#~ msgstr "WP Multisite"
+
+#~ msgid ""
+#~ "The maximum amount of memory (RAM) that your site can use at one time."
+#~ msgstr ""
+#~ "La quantité maximale de mémoire (RAM) que votre site peut utiliser à un "
+#~ "moment donné."
+
+#, fuzzy
+#~ msgid "Server Memory Limit"
+#~ msgstr "Limite Mémoire WP"
+
+#~ msgid ""
+#~ "The maximum number of variables your server can use for a single function "
+#~ "to avoid overloads."
+#~ msgstr ""
+#~ "Le nombre maximum de variables de votre serveur peut être utilisé pour "
+#~ "une fonction unique pour éviter les surcharges."
+
+#~ msgid "WP Debug Mode"
+#~ msgstr "WP Debug Mode"
+
+#~ msgid "Displays whether or not WordPress is in Debug Mode."
+#~ msgstr "Affiche ou non si WordPress est en mode Debug."
+
+#~ msgid "Add Medias"
+#~ msgstr "Ajouter des médias"
+
+#~ msgid "Medias selection"
+#~ msgstr "La sélection des médias"
+
+#~ msgid "Select medias"
+#~ msgstr "Sélectionnez les médias"
+
+#~ msgid "Remove All"
+#~ msgstr "Supprimer Tous"
+
+#~ msgid "Post media display"
+#~ msgstr "Afficher le média"
+
+#~ msgid "Carousel"
+#~ msgstr "Carrousel"
+
+#~ msgid "Stack"
+#~ msgstr "Stack"
+
+#~ msgid "Isotope"
+#~ msgstr "Isotope"
+
+#~ msgid "Medias"
+#~ msgstr "Médias"
+
+#~ msgid "Like"
+#~ msgstr "Like"
+
+#~ msgid "Likes"
+#~ msgstr "Likes"
+
+#~ msgid "Recommend this"
+#~ msgstr "Recommander ceci"
+
+#~ msgid "You already recommended this"
+#~ msgstr "Vous avez déjà recommandé ceci"
+
+#~ msgid "Most recommended posts"
+#~ msgstr "Articles les plus recommandés"
+
+#~ msgid "Your site’s most liked posts."
+#~ msgstr "Les articles les plus aimé de votre site."
+
+#~ msgid "Title:"
+#~ msgstr "Titre :"
+
+#~ msgid "Number of posts to show:"
+#~ msgstr "Nombre d'articles à afficher :"
+
+#~ msgid "Show post count"
+#~ msgstr "Montrer le comptage d'article"
+
+#~ msgid "There was an error when reading this WXR file"
+#~ msgstr "Il y a eu une erreur à la lecture du fichier WXR"
+
+#~ msgid ""
+#~ "Details are shown above. The importer will now try again with a different "
+#~ "parser..."
+#~ msgstr ""
+#~ "Les détails sont précisés ci-contre. L'outil d'importation essaiera de "
+#~ "nouveau avec un analyseur différent…"
+
+#~ msgid ""
+#~ "This does not appear to be a WXR file, missing/invalid WXR version number"
+#~ msgstr ""
+#~ "Ce fichier n'est pas au format WXR, numéro de version WXR manquant ou "
+#~ "invalide"
+
+#~ msgid "Install Demo"
+#~ msgstr "Installer la Démo"
+
+#~ msgid "No WordPress settings will be modified."
+#~ msgstr "Aucun réglages de WordPress seront modifiés."
+
+#~ msgid "Please click import only once and wait, it can take few minutes."
+#~ msgstr ""
+#~ "S'il vous plaît, cliquez sur Importer une seule fois et attendez, ceci "
+#~ "peut prendre quelques minutes."
+
+#, fuzzy
+#~ msgid "INSTALL DEMO"
+#~ msgstr "Installer la Démo"
+
+#, fuzzy
+#~ msgid "THEME OPTIONS"
+#~ msgstr "Options du thème"
+
+#, fuzzy
+#~ msgid "IMPORT MENU"
+#~ msgstr "Importer les options du thème"
+
+#~ msgid "Import completed!"
+#~ msgstr "Importation terminée !"
+
+#~ msgid "All demo medias deleted!"
+#~ msgstr "Tous les médias de la démo supprimés !"
+
+#, fuzzy
+#~ msgid "Uncode Core (required) - Plugin is not active"
+#~ msgstr "Le plugin requis suivant est actuellement inactif : %1$s."
+
+#, fuzzy
+#~ msgid "Are you sure?"
+#~ msgstr "Êtes-vous sûr de vouloir réinitialiser ces réglages par défaut ?"
+
+#~ msgid "Import in progress…"
+#~ msgstr "Importation en progression ..."
+
+#~ msgid "Don&#39;t close the browser or navigate away."
+#~ msgstr "Ne pas fermer le navigateur ou de naviguer."
+
+#~ msgid "Please be patient, the import procedure can take few minutes."
+#~ msgstr ""
+#~ "S'il vous plaît, soyez patient, la procédure d'importation peut prendre "
+#~ "quelques minutes."
+
+#~ msgid ""
+#~ "Theme options import data could not be read. Please try a different file."
+#~ msgstr ""
+#~ "Les options du thème importées ne peuvent pas être lues. S'il vous plaît, "
+#~ "essayez un autre fichier."
+
+#~ msgid "Widget import data could not be read. Please try a different file."
+#~ msgstr ""
+#~ "Les données d'importation Widget ne pouvaient pas être lues. S'il vous "
+#~ "plaît, essayez un autre fichier."
+
+#~ msgid "Sidebar does not exist in theme (using Inactive)"
+#~ msgstr "La Sidebar n'existe pas dans le thème (en utilisant inactif)"
+
+#~ msgid "Site does not support widget"
+#~ msgstr "Le site ne supporte pas le widget"
+
+#~ msgid "Widget already exists"
+#~ msgstr "Ce Widget existe déjà"
+
+#~ msgid "Imported"
+#~ msgstr "Importé"
+
+#~ msgid "Imported to Inactive"
+#~ msgstr "Importé sur inactif"
+
+#~ msgid "No Title"
+#~ msgstr "Aucun Titre"
+
+#~ msgid "Sorry, there has been an error."
+#~ msgstr "Désolé, il y a eu une erreur."
+
+#~ msgid "The file does not exist, please try again."
+#~ msgstr "Le fichier n'existe pas, essayez de nouveau."
+
+#~ msgid "Go ahead and visit the %s or start customizing %s"
+#~ msgstr "Allez-y et visitez le %s ou commencez à personnaliser %s"
+
+#~ msgid "front page"
+#~ msgstr "front page"
+
+#~ msgid "your theme"
+#~ msgstr "votre thème"
+
+#~ msgid "Import log"
+#~ msgstr "Journal d'importation"
+
+#~ msgid ""
+#~ "The export file could not be found at <code>%s</code>. It is likely that "
+#~ "this was caused by a permissions problem."
+#~ msgstr ""
+#~ "Le fichier d'export ne peut pas être trouvé dans <code>%s</code>. Il se "
+#~ "peut que cela soit du fait de problème de permissions."
+
+#~ msgid ""
+#~ "This WXR file (version %s) may not be supported by this version of the "
+#~ "importer. Please consider updating."
+#~ msgstr ""
+#~ "Ce fichier WXR (version %s) pourrait ne pas être supporté par cette "
+#~ "version de l'outil d'import. S'il vous plaît envisagez de le mettre à "
+#~ "jour."
+
+#~ msgid ""
+#~ "Failed to import author %s. Their posts will be attributed to the current "
+#~ "user."
+#~ msgstr ""
+#~ "Impossible d'importer l'auteur %s. Ses articles seront attribués à "
+#~ "l'utilisateur courant."
+
+#~ msgid "Assign Authors"
+#~ msgstr "Assigner les auteurs"
+
+#~ msgid ""
+#~ "To make it easier for you to edit and save the imported content, you may "
+#~ "want to reassign the author of the imported item to an existing user of "
+#~ "this site. For example, you may want to import all the entries as "
+#~ "<code>admin</code>s entries."
+#~ msgstr ""
+#~ "Pour qu'il vous soit plus simple de modifier et d'enregistrer le contenu "
+#~ "importé, vous souhaitez peut-être ré-attribuer l'auteur d'un item importé "
+#~ "à un utilisateur de ce site. Par exemple, vous pourriez vouloir importer "
+#~ "toutes les entrées comme des entrées  <code>admin</code>."
+
+#~ msgid ""
+#~ "If a new user is created by WordPress, a new password will be randomly "
+#~ "generated and the new user&#8217;s role will be set as %s. Manually "
+#~ "changing the new user&#8217;s details will be necessary."
+#~ msgstr ""
+#~ "Si un nouvel utilisateur est créé par WordPress, un nouveau mot de passe "
+#~ "sera généré aléatoirement et le rôle du nouvel utilisateur sera %s. Il "
+#~ "sera nécessaire de modifier manuellement les détails du nouvel "
+#~ "utilisateur."
+
+#~ msgid "Import Attachments"
+#~ msgstr "Importer les pièces jointes"
+
+#~ msgid "Download and import file attachments"
+#~ msgstr "Télécharger et importer les pièces jointes"
+
+#~ msgid "Import author:"
+#~ msgstr "Importer l'auteur :"
+
+#~ msgid "or create new user with login name:"
+#~ msgstr "ou créer un nouvel utilisateur avec l'identifiant :"
+
+#~ msgid "as a new user:"
+#~ msgstr "comme nouvel utilisateur :"
+
+#~ msgid "assign posts to an existing user:"
+#~ msgstr "attribuer les articles à un utilisateur :"
+
+#~ msgid "or assign posts to an existing user:"
+#~ msgstr "ou attribuer les articles à un utilisateur :"
+
+#~ msgid "- Select -"
+#~ msgstr "- Sélectionner -"
+
+#~ msgid ""
+#~ "Failed to create new user for %s. Their posts will be attributed to the "
+#~ "current user."
+#~ msgstr ""
+#~ "Impossible de créer un nouvel utilisateur pour %s. Ses articles seront "
+#~ "attribués à l'utilisateur courant."
+
+#~ msgid "Failed to import category %s"
+#~ msgstr "Impossible d'importer la catégorie %s"
+
+#~ msgid "Failed to import post tag %s"
+#~ msgstr "Impossible d'importer le mot-clé %s"
+
+#~ msgid "Failed to import %s %s"
+#~ msgstr "Impossible d'importer %s %s"
+
+#~ msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+#~ msgstr "Impossible d'importer %s : Type d'article invalide %s"
+
+#~ msgid "%s &#8220;%s&#8221; already exists."
+#~ msgstr "%s &#8220;%s&#8221; existe déjà."
+
+#~ msgid "Failed to import %s &#8220;%s&#8221;"
+#~ msgstr "Impossible d'importer %s &#8220;%s&#8221;"
+
+#~ msgid "Menu item skipped due to missing menu slug"
+#~ msgstr "Elément du menu ignoré en raison de l'absence du slug du menu"
+
+#~ msgid "Menu item skipped due to invalid menu slug: %s"
+#~ msgstr ""
+#~ "Elément du menu ignoré en raison de la non-validité du slug du menu : %s"
+
+#~ msgid "Fetching attachments is not enabled"
+#~ msgstr "La récupération des pièces jointes n'est pas activée"
+
+#~ msgid "Invalid file type"
+#~ msgstr "Type du fichier non valide"
+
+#~ msgid "Remote server returned %1$d %2$s for %3$s"
+#~ msgstr "Le serveur distant a renvoyé l'erreur %1$d %2$s pour %3$s"
+
+#~ msgid "Remote file is incorrect size"
+#~ msgstr "Le fichier distant a une taille incorrecte"
+
+#~ msgid "Zero size file downloaded"
+#~ msgstr "Fichier de taille zéro importé"
+
+#~ msgid "Remote file is too large, limit is %s"
+#~ msgstr "Le fichier distant est de taille trop importante, la limite est %s"
+
+#~ msgid "Import WordPress"
+#~ msgstr "Importer dans WordPress"
+
+#~ msgid ""
+#~ "A new version of this importer is available. Please update to version %s "
+#~ "to ensure compatibility with newer export files."
+#~ msgstr ""
+#~ "Une version plus récente de outil d'import est disponible. Veuillez "
+#~ "mettre à jour la version %s pour assurer la compatibilité avec les "
+#~ "fichiers exportés récemment."
+
+#~ msgid ""
+#~ "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll "
+#~ "import the posts, pages, comments, custom fields, categories, and tags "
+#~ "into this site."
+#~ msgstr ""
+#~ "Télécharger votre fichier WordPress eXtended RSS (WXR) sur le serveur et "
+#~ "nous importerons les articles, pages, commentaires, champs personnalisés, "
+#~ "catégories, and mots-clés vers ce site."
+
+#~ msgid ""
+#~ "Choose a WXR (.xml) file to upload, then click Upload file and import."
+#~ msgstr ""
+#~ "Sélectionner un fichier WXR (.xml), puis cliquer sur Télécharger et "
+#~ "importer."
+
+#~ msgid "Install Required Plugins"
+#~ msgstr "Installation des Plugins Requis"
+
+#~ msgid "This theme recommends the following plugin: %1$s."
+#~ msgid_plural "This theme recommends the following plugins: %1$s."
+#~ msgstr[0] "Ce thème recommande le plugin suivant : %1$s."
+#~ msgstr[1] "Ce thème recommande les plugins suivants : %1$s."
+
+#~ msgid "The following recommended plugin is currently inactive: %1$s."
+#~ msgid_plural ""
+#~ "The following recommended plugins are currently inactive: %1$s."
+#~ msgstr[0] "Le plugin recommandé suivant est actuellement inactif : %1$s."
+#~ msgstr[1] ""
+#~ "Les plugins recommandés suivants sont actuellement inactifs : %1$s."
+
+#~ msgid "Options Import/Export"
+#~ msgstr "Options Importer/Exporter"
+
+#~ msgid "Transparent"
+#~ msgstr "Transparent"
+
+#~ msgid "background-repeat"
+#~ msgstr "arrière-plan-répété"
+
+#~ msgid "background-attachment"
+#~ msgstr "arrière-plan-attaché"
+
+#~ msgid "background-position"
+#~ msgstr "arrière-plan-position"
+
+#~ msgid "background-size"
+#~ msgstr "arrière-plan-taille"
+
+#~ msgid "Title"
+#~ msgstr "Titre"
+
+#~ msgid "Failed to save the dynamics css files!"
+#~ msgstr "Echec de la sauvegarde des fichiers de la dynamique CSS !"
+
+#~ msgid "Specify the body background color and media."
+#~ msgstr "Spécifiez la couleur d'arrière-plan et le média du corps de page."
+
+#~ msgid "Section scroller"
+#~ msgstr "Section scroller"
+
+#, fuzzy
+#~ msgid ""
+#~ "Activate to create a section scroller navigation. NB. Every row must have "
+#~ "a unique name."
+#~ msgstr ""
+#~ "Activer la création d'une section de navigation de défilement. NB. Chaque "
+#~ "ligne doit avoir un nom unique."
+
+#~ msgid "Inherit"
+#~ msgstr "Inherit"
+
+#~ msgid "Menu"
+#~ msgstr "Menu"
+
+#~ msgid "Override the menu."
+#~ msgstr "Remplacer le menu."
+
+#~ msgid "Menu width"
+#~ msgstr "Largeur du menu"
+
+#~ msgid "Override the menu width."
+#~ msgstr "Remplacer la largeur du menu."
+
+#~ msgid "Full"
+#~ msgstr "Complet"
+
+#~ msgid "Limit"
+#~ msgstr "Limité"
+
+#, fuzzy
+#~ msgid "Remove transparency"
+#~ msgstr "Retirer la transparence"
+
+#, fuzzy
+#~ msgid ""
+#~ "Override to remove the transparency eventually declared in 'Customize -> "
+#~ "Light/Dark skin'."
+#~ msgstr ""
+#~ "Remplacer pour supprimer la transparence éventuellement déclarée dans "
+#~ "'Personnaliser -> Skin Claire/Foncé'."
+
+#~ msgid "Remove shadow"
+#~ msgstr "Retirer l'ombrage"
+
+#~ msgid ""
+#~ "Override to remove the shadow eventually declared in 'Menu -> Visuals'."
+#~ msgstr ""
+#~ "Remplacer pour supprimer l'ombre éventuellement déclarée dans 'Menu -> "
+#~ "Visuels'."
+
+#~ msgid "No Content Blocks found"
+#~ msgstr "Aucun blocs de contenu trouvés"
+
+#~ msgid "None"
+#~ msgstr "Rien"
+
+#~ msgid "Revolution Slider"
+#~ msgstr "Revolution Slider"
+
+#~ msgid "No sliders found"
+#~ msgstr "Aucun sliders trouvés"
+
+#~ msgid "LayerSlider"
+#~ msgstr "LayerSlider"
+
+#~ msgid "Override the header type."
+#~ msgstr "Remplacer le type d'header."
+
+#~ msgid "Basic"
+#~ msgstr "Basic"
+
+#~ msgid "Specify the Content Block."
+#~ msgstr "Spécifiez le bloc de contenu."
+
+#~ msgid "Revslider"
+#~ msgstr "Revslider"
+
+#~ msgid "Specify the Revolution Slider."
+#~ msgstr "Spécifiez le slider Revolution"
+
+#~ msgid "Specify the LayerSlider."
+#~ msgstr "Spécifiez le LayerSlider."
+
+#~ msgid "Container full width"
+#~ msgstr "Conteneur pleine largeur"
+
+#~ msgid "Activate to expand the header container to full width."
+#~ msgstr "Activer pour étendre le conteneur de l'header en pleine largeur."
+
+#~ msgid "Content full width"
+#~ msgstr "Contenu pleine largeur"
+
+#~ msgid "Activate to expand the header content to full width."
+#~ msgstr "Activer pour étendre le contenu de l'header en pleine largeur."
+
+#~ msgid "Custom inner width"
+#~ msgstr "Personnaliser la largeur intérieure"
+
+#~ msgid "Adjust the inner content width in %."
+#~ msgstr "Ajuster la largeur du contenu intérieur en %."
+
+#~ msgid "Content alignment"
+#~ msgstr "Alignement du contenu"
+
+#~ msgid "Specify the text/content alignment."
+#~ msgstr "Spécifiez l'alignement du texte/contenu."
+
+#~ msgid "Left"
+#~ msgstr "Gauche"
+
+#~ msgid "Center"
+#~ msgstr "Centre"
+
+#~ msgid "Right"
+#~ msgstr "Droite"
+
+#~ msgid ""
+#~ "Define the height of the header in px or in % (relative to the window "
+#~ "height)."
+#~ msgstr ""
+#~ "Définir la hauteur de l'header en px ou en % (par rapport à la hauteur de "
+#~ "la fenêtre de l'écran)."
+
+#~ msgid "Minimal height"
+#~ msgstr "Hauteur minimum"
+
+#~ msgid "Enter a minimun height for the header in pixel."
+#~ msgstr "Entrez la hauteur minimum de l'header en pixel."
+
+#~ msgid "Skin"
+#~ msgstr "Skin"
+
+#~ msgid "Specify the header text skin."
+#~ msgstr "Spécifiez le skin du texte de l'header."
+
+#~ msgid "Light"
+#~ msgstr "Claire"
+
+#~ msgid "Dark"
+#~ msgstr "Foncé"
+
+#~ msgid "Position"
+#~ msgstr "Position"
+
+#~ msgid "Specify the position of the header content inside the container."
+#~ msgstr ""
+#~ "Spécifiez la position du contenu de l'header à l'intérieur du conteneur."
+
+#~ msgid "Left Top"
+#~ msgstr "En haut à gauche"
+
+#~ msgid "Left Bottom"
+#~ msgstr "En bas à gauche"
+
+#~ msgid "Center Top"
+#~ msgstr "En haut Centré"
+
+#~ msgid "Center Center"
+#~ msgstr "Centré Centré"
+
+#~ msgid "Center Bottom"
+#~ msgstr "En bas centré"
+
+#~ msgid "Right Top"
+#~ msgstr "En haut à droite"
+
+#~ msgid "Right Center"
+#~ msgstr "Centré à droite"
+
+#~ msgid "Right Bottom"
+#~ msgstr "En bas à droite"
+
+#~ msgid "h1"
+#~ msgstr "h1"
+
+#~ msgid "h2"
+#~ msgstr "h2"
+
+#~ msgid "h3"
+#~ msgstr "h3"
+
+#~ msgid "h4"
+#~ msgstr "h4"
+
+#~ msgid "h5"
+#~ msgstr "h5"
+
+#~ msgid "h6"
+#~ msgstr "h6"
+
+#~ msgid "BigText"
+#~ msgstr "BigTexte"
+
+#~ msgid "Default CSS"
+#~ msgstr "CSS par défaut"
+
+#~ msgid "Featured image in header"
+#~ msgstr "Image vedette dans le header"
+
+#~ msgid "Activate to use the featured image in the header."
+#~ msgstr "Activer pour utiliser l'image vedette dans l'header."
+
+#~ msgid "Background"
+#~ msgstr "Arrière Plan"
+
+#~ msgid "Specify the background media and color."
+#~ msgstr "Spécifiez la couleur et le média d'arrière-plan."
+
+#~ msgid "Overlay color"
+#~ msgstr "Couleur de superposition"
+
+#~ msgid "Specify the overlay background color."
+#~ msgstr "Spécifiez la couleur de superposition de l'arrière-plan."
+
+#~ msgid "Overlay color opacity"
+#~ msgstr "Opacité de la couleur de superposition"
+
+#~ msgid "Set the overlay opacity."
+#~ msgstr "Réglez l'opacité de superposition."
+
+#~ msgid "Scroll opacity"
+#~ msgstr "Opacité sur défilement"
+
+#~ msgid "Activate alpha animation when scrolling down."
+#~ msgstr "Activer l'animation alpha lors du défilement vers le bas."
+
+#~ msgid "Scroll down arrow"
+#~ msgstr "Flèche défiler vers le bas"
+
+#~ msgid "Activate the scroll down arrow button."
+#~ msgstr "Activer le bouton de la flèche pour défiler vers le bas."
+
+#~ msgid "Header section name"
+#~ msgstr "Nom de la section de l'header"
+
+#~ msgid "Insert the header section name, required for the onepage scroll."
+#~ msgstr ""
+#~ "Insérez le nom de la section, nécessaire pour le défilement en une-page."
+
+#~ msgid "Parallax"
+#~ msgstr "Parallax"
+
+#~ msgid "Activate the background parallax effect."
+#~ msgstr "Activer l'effet parallax de l'arrière-plan."
+
+#~ msgid "Title in header"
+#~ msgstr "Titre dans le header"
+
+#~ msgid "Activate to show title in the header."
+#~ msgstr "Activer pour montrer le titre dans l'header."
+
+#~ msgid "Title font family"
+#~ msgstr "Famille de polices du titre"
+
+#~ msgid "Specify the font for the title."
+#~ msgstr "Spécifiez la police pour le titre."
+
+#~ msgid "Title font size"
+#~ msgstr "Taille Police du titre"
+
+#~ msgid "Specify the font size for the title."
+#~ msgstr "Spécifiez la taille de police du titre."
+
+#~ msgid "Title line height"
+#~ msgstr "Hauteur de ligne du titre"
+
+#~ msgid "Specify the line height for the title."
+#~ msgstr "Spécifiez la hauteur de ligne pour le titre."
+
+#~ msgid "Title letter spacing"
+#~ msgstr "Espace caractère du titre"
+
+#~ msgid "Specify the letter spacing for the title."
+#~ msgstr "Spécifiez l'espace des caractères pour le titre."
+
+#~ msgid "Title font weight"
+#~ msgstr "Importance de la police du titre"
+
+#~ msgid "Specify the font weight for the title."
+#~ msgstr "Spécifiez l'importance (gras) de la police pour le titre."
+
+#~ msgid "Title italic"
+#~ msgstr "Titre en italique"
+
+#~ msgid "Activate the font style italic for the title."
+#~ msgstr "Activer le style italique de la police pour le titre."
+
+#~ msgid "Title text transform"
+#~ msgstr "Transformer le texte du titre"
+
+#~ msgid "Specify the title text transformation."
+#~ msgstr "Spécifiez la transformation de texte du titre."
+
+#~ msgid "Uppercase"
+#~ msgstr "Majuscule"
+
+#~ msgid "Lowercase"
+#~ msgstr "Minuscule"
+
+#~ msgid "Capitalize"
+#~ msgstr "Capital"
+
+#~ msgid "Custom content"
+#~ msgstr "Contenu personnalisé"
+
+#~ msgid "Activate custom contents instead of the default page title."
+#~ msgstr ""
+#~ "Activer les contenus personnalisés à la place du titre de la page par "
+#~ "défaut."
+
+#~ msgid "Text content"
+#~ msgstr "Texte du contenu"
+
+#~ msgid "Text animation"
+#~ msgstr "Animation du texte"
+
+#~ msgid "Specify the entrance animation of the title text."
+#~ msgstr "Spécifiez l'animation d'entrée pour le texte du titre."
+
+#~ msgid "Top to bottom"
+#~ msgstr "Haut vers bas"
+
+#~ msgid "Left to right"
+#~ msgstr "Gauche vers droite"
+
+#~ msgid "Right to left"
+#~ msgstr "Droite vers gauche"
+
+#~ msgid "Bottom to top"
+#~ msgstr "Bas vers haut"
+
+#~ msgid "Zoom in"
+#~ msgstr "Zoom interne"
+
+#~ msgid "Zoom out"
+#~ msgstr "Zoom externe"
+
+#~ msgid "Alpha"
+#~ msgstr "Alpha"
+
+#~ msgid "Animation delay"
+#~ msgstr "Délai animation"
+
+#~ msgid ""
+#~ "Specify the entrance animation delay of the title text in milliseconds."
+#~ msgstr ""
+#~ "Spécifiez le délai d'animation d'entrée du texte du titre en "
+#~ "millisecondes."
+
+#~ msgid "ms 100"
+#~ msgstr "100 ms"
+
+#~ msgid "ms 200"
+#~ msgstr "200 ms"
+
+#~ msgid "ms 300"
+#~ msgstr "300 ms"
+
+#~ msgid "ms 400"
+#~ msgstr "400 ms"
+
+#~ msgid "ms 500"
+#~ msgstr "500 ms"
+
+#~ msgid "ms 600"
+#~ msgstr "600 ms"
+
+#~ msgid "ms 700"
+#~ msgstr "700 ms"
+
+#~ msgid "ms 800"
+#~ msgstr "800 ms"
+
+#~ msgid "ms 900"
+#~ msgstr "900 ms"
+
+#~ msgid "ms 1000"
+#~ msgstr "1000 ms"
+
+#~ msgid "ms 1100"
+#~ msgstr "1100 ms"
+
+#~ msgid "ms 1200"
+#~ msgstr "1200 ms"
+
+#~ msgid "ms 1300"
+#~ msgstr "1300 ms"
+
+#~ msgid "ms 1400"
+#~ msgstr "1400 ms"
+
+#~ msgid "ms 1500"
+#~ msgstr "1500 ms"
+
+#~ msgid "ms 1600"
+#~ msgstr "1600 ms"
+
+#~ msgid "ms 1700"
+#~ msgstr "1700 ms"
+
+#~ msgid "ms 1800"
+#~ msgstr "1800 ms"
+
+#~ msgid "ms 1900"
+#~ msgstr "1900 ms"
+
+#~ msgid "ms 2000"
+#~ msgstr "2000 ms"
+
+#~ msgid ""
+#~ "Specify the entrance animation speed of the title text in milliseconds."
+#~ msgstr ""
+#~ "Spécifiez la vitesse d'animation d'entrée du texte du titre en "
+#~ "millisecondes."
+
+#~ msgid "Default (400)"
+#~ msgstr "Par défaut (400)"
+
+#~ msgid "Override the content skin."
+#~ msgstr "Remplacer le skin du contenu."
+
+#~ msgid "Content width"
+#~ msgstr "Largeur du contenu"
+
+#~ msgid "Override the content width."
+#~ msgstr "Remplacer la largeur du contenu."
+
+#~ msgid "Custom width"
+#~ msgstr "Largeur personnalisée"
+
+#~ msgid "Define the custom width for the content area in px or in %."
+#~ msgstr ""
+#~ "Définir la largeur personnalisée pour la zone de contenu en px ou en %."
+
+#~ msgid "Show breadcrumb"
+#~ msgstr "Afficher le fil d'ariane"
+
+#~ msgid "Override to show the navigation breadcrumb."
+#~ msgstr "Remplacer pour afficher la navigation fil d'Ariane."
+
+#~ msgid "Yes"
+#~ msgstr "Oui"
+
+#~ msgid "No"
+#~ msgstr "Non"
+
+#~ msgid "Breadcrumb align"
+#~ msgstr "Aligner le fil d'ariane"
+
+#~ msgid "Specify the breadcrumb alignment"
+#~ msgstr "Spécifiez l'alignement du fil d'Ariane"
+
+#~ msgid "Show title"
+#~ msgstr "Montrer le titre"
+
+#~ msgid "Override to show the title in the content area."
+#~ msgstr "Remplacer pour afficher le titre dans la zone de contenu."
+
+#~ msgid "Show media"
+#~ msgstr "Montrer le média"
+
+#~ msgid "Override to show the media in the content area."
+#~ msgstr "Remplacer pour afficher le média dans la zone de contenu."
+
+#, fuzzy
+#~ msgid "Show tags"
+#~ msgstr "Montrer les détails"
+
+#, fuzzy
+#~ msgid "Override to show the tags module."
+#~ msgstr "Remplacer pour afficher la navigation fil d'Ariane."
+
+#, fuzzy
+#~ msgid "Tags alignment"
+#~ msgstr "Alignement du contenu"
+
+#, fuzzy
+#~ msgid "Specify the tags alignment."
+#~ msgstr "Spécifiez l'alignement du fil d'Ariane"
+
+#~ msgid "Left align"
+#~ msgstr "Aligner à gauche"
+
+#~ msgid "Center align"
+#~ msgstr "Aligner au centre"
+
+#~ msgid "Right align"
+#~ msgstr "Aligner à droite"
+
+#, fuzzy
+#~ msgid "Show share"
+#~ msgstr "Tous"
+
+#, fuzzy
+#~ msgid "Override to show the share module."
+#~ msgstr "Remplacer pour afficher la navigation fil d'Ariane."
+
+#, fuzzy
+#~| msgid "details layout"
+#~ msgid "Media layout"
+#~ msgstr "détails du modèle"
+
+#, fuzzy
+#~| msgid "Specify the layout template for all the %s posts."
+#~ msgid "Specify the layout mode for the product images section."
+#~ msgstr "Spécifiez le modèle de mise en page pour tous les articles %s."
+
+#, fuzzy
+#~| msgctxt "color picker"
+#~| msgid "Standard"
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+#, fuzzy
+#~ msgid "Media layout size"
+#~ msgstr "Taille de police par défaut"
+
+#, fuzzy
+#~| msgid "Specify the font size for the title."
+#~ msgid "Specify the size of the media layout area."
+#~ msgstr "Spécifiez la taille de police du titre."
+
+#, fuzzy
+#~| msgid "Text content"
+#~ msgid "Sticky content"
+#~ msgstr "Texte du contenu"
+
+#, fuzzy
+#~ msgid "on"
+#~ msgstr "Icône"
+
+#, fuzzy
+#~| msgid "Off"
+#~ msgid "off"
+#~ msgstr "Off"
+
+#, fuzzy
+#~| msgid "Zoom in"
+#~ msgid "Zoom"
+#~ msgstr "Zoom"
+
+#, fuzzy
+#~ msgid "Activate to enable drag zoom effect on product image."
+#~ msgstr "Activer pour utiliser l'image vedette dans l'header."
+
+#, fuzzy
+#~ msgid "Content Block - Before Content"
+#~ msgstr "Aucun blocs de contenu trouvés"
+
+#~ msgid "Background color"
+#~ msgstr "Couleur arrière-plan"
+
+#~ msgid "Specify a custom content background color."
+#~ msgstr "Spécifiez une couleur d'arrière-plan du contenu."
+
+#~ msgid "Content"
+#~ msgstr "Contenu"
+
+#~ msgid "Activate the sidebar"
+#~ msgstr "Activer la sidebar"
+
+#~ msgid "Override the sidebar visibility."
+#~ msgstr "Remplacer la visibilité de la sidebar."
+
+#~ msgid "Specify the sidebar."
+#~ msgstr "Spécifiez la sidebar."
+
+#~ msgid "Specify the position of the sidebar."
+#~ msgstr "Spécifiez la position de la sidebar."
+
+#~ msgid "Size"
+#~ msgstr "Taille"
+
+#~ msgid "Set the size of the sidebar."
+#~ msgstr "Réglez la taille de la sidebar."
+
+#~ msgid "Sticky sidebar"
+#~ msgstr "Sidebar fixe"
+
+#~ msgid "Activate to have a sticky sidebar."
+#~ msgstr "Activer pour avoir une sidebar fixée."
+
+#~ msgid "Override the sidebar text skin color."
+#~ msgstr "Remplacer la couleur de skin du texte de la sidebar."
+
+#~ msgid "Specify the sidebar background color."
+#~ msgstr "Spécifiez la couleur d'arrière-plan de la sidebar."
+
+#~ msgid "Sidebar filling space"
+#~ msgstr "Espace de remplissage de la Sidebar"
+
+#~ msgid "Activate to remove padding around the sidebar and fill the height."
+#~ msgstr ""
+#~ "Activer pour enlever le rembourrage autour de la sidebar et de remplir la "
+#~ "hauteur."
+
+#~ msgid "Details"
+#~ msgstr "Détails"
+
+#~ msgid "details"
+#~ msgstr "détails"
+
+#~ msgid "Override the %s visibility."
+#~ msgstr "Remplacer la visibilité %s."
+
+#~ msgid "details layout"
+#~ msgstr "détails du modèle"
+
+#~ msgid "Specify the layout template for all the %s posts."
+#~ msgstr "Spécifiez le modèle de mise en page pour tous les articles %s."
+
+#~ msgid "Details on the top"
+#~ msgstr "Détails sur le haut"
+
+#~ msgid "Details on the right"
+#~ msgstr "Détails sur la droite"
+
+#~ msgid "Details on the bottom"
+#~ msgstr "Détails sur le bas"
+
+#~ msgid "Details on the left"
+#~ msgstr "Détails sur la gauche"
+
+#~ msgid "Sidebar size"
+#~ msgstr "Taille de la sidebar"
+
+#~ msgid "Set the sidebar size."
+#~ msgstr "Régler la taille de la sidebar."
+
+#~ msgid "Specify the background color."
+#~ msgstr "Spécifiez la couleur d'arrière-plan."
+
+#, fuzzy
+#~ msgid "Navigation parent"
+#~ msgstr "Barre de navigation"
+
+#, fuzzy
+#~ msgid "Specify the parent page to create the navigation logic."
+#~ msgstr "Spécifiez l'espace des caractères pour le titre."
+
+#~ msgid "Footer width"
+#~ msgstr "Largeur du footer"
+
+#~ msgid "Override the footer width."
+#~ msgstr "Remplacer la largeur du footer."
+
+#, fuzzy
+#~ msgid "Custom fields"
+#~ msgstr ""
+#~ "Ce format, que nous appelons WordPress eXtended RSS ou WXR, contiendra "
+#~ "vos articles, pages, commentaires, champs personnalisés, des catégories "
+#~ "et tags."
+
+#, fuzzy
+#~ msgid "Page Options"
+#~ msgstr "Options Page"
+
+#~ msgid "404 content"
+#~ msgstr "Contenu 404"
+
+#~ msgid "Specify a content for the 404 page."
+#~ msgstr "Spécifiez un contenu pour la page 404."
+
+#~ msgid "Default"
+#~ msgstr "Par défaut"
+
+#~ msgid "No Revolution Sliders found"
+#~ msgstr "Aucun sliders Revolution trouvés"
+
+#~ msgid "No LayerSliders found"
+#~ msgstr "Aucun LayerSliders trouvés"
+
+#, fuzzy
+#~| msgid "Letter spacing"
+#~ msgid "Letter Spacing 0"
+#~ msgstr "Espace caractère"
+
+#~ msgid "No fonts activated."
+#~ msgstr "Aucune polices d'activées."
+
+#~ msgid "Manually entered"
+#~ msgstr "Indiquer manuellement"
+
+#~ msgid "Override the primary menu created in 'Appearance -> Menus'."
+#~ msgstr "Remplacer le menu principal créé dans 'Apparence -> Menus'."
+
+#~ msgid "Specify the header type."
+#~ msgstr "Spécifiez le type d'header."
+
+#~ msgid "Specify the RevSlider."
+#~ msgstr "Spécifiez le RevSlider."
+
+#~ msgid "Custom text"
+#~ msgstr "Texte personnalisé"
+
+#~ msgid ""
+#~ "Add custom text for the header. Every newline in the field is a new line "
+#~ "in the title."
+#~ msgstr ""
+#~ "Ajouter un texte personnalisé pour l'header. Chaque nouvelle ligne dans "
+#~ "le champ est une nouvelle ligne dans le titre."
+
+#~ msgid "Header width"
+#~ msgstr "Largeur Header"
+
+#~ msgid "Override the header width."
+#~ msgstr "Remplacer la largeur de l'header."
+
+#, fuzzy
+#~ msgid "Featured media in header"
+#~ msgstr "Image vedette dans le header"
+
+#~ msgid "Activate to show the navigation breadcrumb."
+#~ msgstr "Activer pour afficher la navigation du fil d'Ariane."
+
+#~ msgid "Activate to show the title in the content area."
+#~ msgstr "Activer pour afficher le titre dans la zone de contenu."
+
+#~ msgid "Activate to show the medias in the content area."
+#~ msgstr "Activer pour afficher les médias dans la zone de contenu."
+
+#, fuzzy
+#~ msgid ""
+#~ "Activate to show the tags and choose visbility by post to post bases."
+#~ msgstr ""
+#~ "Activer pour afficher les commentaires et choisir la visibilité par "
+#~ "message à poster."
+
+#~ msgid "Show comments"
+#~ msgstr "Afficher les commentaires"
+
+#~ msgid ""
+#~ "Activate to show the comments and choose visbility by post to post bases."
+#~ msgstr ""
+#~ "Activer pour afficher les commentaires et choisir la visibilité par "
+#~ "message à poster."
+
+#, fuzzy
+#~ msgid "Activate to show the share module."
+#~ msgstr "Activer pour afficher des bordures au menu."
+
+#~ msgid "Specify the content width."
+#~ msgstr "Spécifiez la largeur du contenu."
+
+#~ msgid "Single post width"
+#~ msgstr "Largeur de l'article"
+
+#~ msgid "Specify the single post width from 1 to 12."
+#~ msgstr "Spécifiez la largeur de l'article de 1 à 12."
+
+#~ msgid "Single teaser text length"
+#~ msgstr "Longueur du texte de l'annonce"
+
+#~ msgid ""
+#~ "Enter the number of words you want for the teaser. If nothing in entered "
+#~ "the full content will be showed."
+#~ msgstr ""
+#~ "Entrez le nombre de mots que vous voulez pour la bande annonce. Si rien "
+#~ "n'est entré, le contenu complet sera montré."
+
+#~ msgid "Activate to show the sidebar."
+#~ msgstr "Activer pour montrer la sidebar."
+
+#~ msgid "Navigation bar"
+#~ msgstr "Barre de navigation"
+
+#~ msgid "Activate to show the navigation bar."
+#~ msgstr "Activer pour montrer la barre de navigation."
+
+#~ msgid "Navigation index"
+#~ msgstr "Index de Navigation"
+
+#~ msgid "Specify the page you want to use as index."
+#~ msgstr "Spécifiez la page que vous voulez utiliser comme index."
+
+#~ msgid "Index custom label"
+#~ msgstr "Label de l'index personnalisé"
+
+#~ msgid "Enter a custom label for the index button."
+#~ msgstr "Entrez un label personnalisé pour le bouton de l'index."
+
+#~ msgid "Navigation titles"
+#~ msgstr "Navigation avec titres"
+
+#~ msgid "Activate to show the next/prev post title."
+#~ msgstr ""
+#~ "Activer pour afficher le titre des articles dans la barre suiv./préc."
+
+#~ msgid "Override the Content Block."
+#~ msgstr "Remplacer le Bloque de contenu."
+
+#, fuzzy
+#~ msgid ""
+#~ "Create here all the custom fields that can be used inside the posts "
+#~ "module."
+#~ msgstr "Créer ici tous les détails de label %s que vous avez besoin."
+
+#, fuzzy
+#~ msgid "Unique custom field ID"
+#~ msgstr "ID social unique"
+
+#~ msgid ""
+#~ "This value is created automatically and it shouldn't be edited unless you "
+#~ "know what you are doing."
+#~ msgstr ""
+#~ "Cette valeur est créée automatiquement et elle ne devrait pas être "
+#~ "modifiée, sauf si vous savez ce que vous faites."
+
+#, fuzzy
+#~ msgid "Authors"
+#~ msgstr "Auteurs :"
+
+#~ msgid "Logo"
+#~ msgstr "Logo"
+
+#~ msgid "Layout"
+#~ msgstr "Modèle"
+
+#~ msgid "Post"
+#~ msgstr "Article"
+
+#~ msgid "404"
+#~ msgstr "Page 404"
+
+#~ msgid "Palette"
+#~ msgstr "Palette"
+
+#~ msgid "Typography"
+#~ msgstr "Typographie"
+
+#~ msgid "Customize"
+#~ msgstr "Personnaliser"
+
+#~ msgid "Sidebars"
+#~ msgstr "Sidebars"
+
+#~ msgid "Connections"
+#~ msgstr "Connections"
+
+#, fuzzy
+#~ msgid "Google Maps"
+#~ msgstr "Cartes Google"
+
+#~ msgid "Redirect"
+#~ msgstr "Rediriger"
+
+#~ msgid "CSS & JS"
+#~ msgstr "CSS & JS"
+
+#~ msgid "Performance"
+#~ msgstr "Performance"
+
+#~ msgid "Site width"
+#~ msgstr "Largeur du site"
+
+#~ msgid "Enter the width of your site."
+#~ msgstr "Entrez la largeur de votre site."
+
+#~ msgid "Site layout align"
+#~ msgstr "Aligner le modèle du site"
+
+#~ msgid ""
+#~ "Specify the alignment of the content area when is less then 100% width."
+#~ msgstr ""
+#~ "Spécifiez l'alignement de la zone de contenu lorsqu'il est inférieur à "
+#~ "une largeur de 100%."
+
+#~ msgid "Boxed"
+#~ msgstr "Modèle Boxe"
+
+#~ msgid "Activate for the boxed layout."
+#~ msgstr "Activer pour le modèle Boxe."
+
+#, fuzzy
+#~ msgid "Body frame"
+#~ msgstr "Famille de polices du corps de page."
+
+#, fuzzy
+#~ msgid "Specify the thickness of the frame around the body"
+#~ msgstr ""
+#~ "Spécifiez la position du contenu de l'header à l'intérieur du conteneur."
+
+#, fuzzy
+#~ msgid "Specify the body frame color."
+#~ msgstr "Spécifiez la couleur accentuée du thème."
+
+#~ msgid "Content area full width"
+#~ msgstr "Zone de contenu pleine largeur"
+
+#~ msgid "Activate to expand the content area to full width."
+#~ msgstr "Activer pour étendre la zone de contenu en pleine largeur."
+
+#~ msgid "Switchable logo"
+#~ msgstr "Logo Switchable"
+
+#~ msgid "Activate to upload different logo for each skin."
+#~ msgstr "Activer pour uploader un logo différent pour chaque skin."
+
+#~ msgid "Upload a logo. You can use Images, SVG code or HTML code."
+#~ msgstr ""
+#~ "Envoyer un logo. Vous pouvez utiliser des Images, code SVG ou code HTML."
+
+#~ msgid "Logo - Light"
+#~ msgstr "Logo - Claire"
+
+#~ msgid "Upload a logo for the light skin."
+#~ msgstr "Envoyer un logo pour le skin claire."
+
+#~ msgid "Logo - Dark"
+#~ msgstr "Logo - Foncé"
+
+#~ msgid "Upload a logo for the dark skin."
+#~ msgstr "Envoyer un logo pour le skin foncé."
+
+#~ msgid "Logo height"
+#~ msgstr "Hauteur du logo"
+
+#~ msgid "Enter the height of the logo in px."
+#~ msgstr "Entrez la hauteur du logo en px."
+
+#~ msgid "Logo height mobile"
+#~ msgstr "Hauteur du logo sur mobile"
+
+#~ msgid "Enter the height of the logo in px for mobile version."
+#~ msgstr "Entrez la hauteur du logo en px pour la version mobile."
+
+#~ msgid "Specify the menu layout."
+#~ msgstr "Spécifiez le modèle du menu."
+
+#~ msgid "Menu horizontal position"
+#~ msgstr "Position horizontal du menu"
+
+#~ msgid "Specify the horizontal position of the menu."
+#~ msgstr "Spécifiez la position horizontale du menu."
+
+#~ msgid "Menu vertical alignment"
+#~ msgstr "Alignement vertical du menu"
+
+#~ msgid "Specify the vertical alignment of the menu."
+#~ msgstr "Spécifiez l'alignement vertical du menu."
+
+#~ msgid "Top"
+#~ msgstr "Haut"
+
+#~ msgid "Middle"
+#~ msgstr "Milieu"
+
+#~ msgid "Bottom"
+#~ msgstr "Bas"
+
+#~ msgid "Menu horizontal alignment"
+#~ msgstr "Alignement du menu horizontal"
+
+#~ msgid "Specify the horizontal alignment of the menu."
+#~ msgstr "Spécifiez l'alignement horizontal du menu."
+
+#~ msgid "Left Align"
+#~ msgstr "Aligner à gauche"
+
+#~ msgid "Center Align"
+#~ msgstr "Aligner au centre"
+
+#~ msgid "Right Align"
+#~ msgstr "Aligner à droite"
+
+#~ msgid "Vertical menu width"
+#~ msgstr "Largeur du menu vertical"
+
+#~ msgid "Vertical menu width in px"
+#~ msgstr "Largeur du menu vertical en px"
+
+#~ msgid "Menu full width"
+#~ msgstr "Pleine largeur du menu"
+
+#~ msgid ""
+#~ "Activate to expand the menu to full width. (Only for the horizontal "
+#~ "menus)."
+#~ msgstr ""
+#~ "Activer pour étendre le menu en pleine largeur. (seulement pour le menu "
+#~ "horizontal)."
+
+#~ msgid "Visuals"
+#~ msgstr "Visuels"
+
+#, fuzzy
+#~| msgid "Hide dropdown arrows"
+#~ msgid "Menu divider shadow"
+#~ msgstr "Cacher les flèches pour dérouler les sous-menus."
+
+#, fuzzy
+#~| msgid "Activate to show the menu shadows."
+#~ msgid "Activate to show the menu devider shadow."
+#~ msgstr "Activer pour afficher une ombre au menu."
+
+#, fuzzy
+#~| msgid "Hide dropdown arrows"
+#~ msgid "Menu dropdown shadow"
+#~ msgstr "Cacher les flèches pour dérouler les sous-menus."
+
+#, fuzzy
+#~ msgid "Extra Small"
+#~ msgstr "Extra"
+
+#, fuzzy
+#~ msgid "Small"
+#~ msgstr "Petit"
+
+#, fuzzy
+#~ msgid "Large"
+#~ msgstr "Large"
+
+#, fuzzy
+#~ msgid "Extra Large"
+#~ msgstr "Extra-Large"
+
+#, fuzzy
+#~| msgid "Hide dropdown arrows"
+#~ msgid "Menu dropdown darker shadow"
+#~ msgstr "Cacher les flèches pour dérouler les sous-menus."
+
+#~ msgid "Menu borders"
+#~ msgstr "Bordures du menu"
+
+#~ msgid "Activate to show the menu borders."
+#~ msgstr "Activer pour afficher des bordures au menu."
+
+#~ msgid "Hide dropdown arrows"
+#~ msgstr "Cacher les flèches pour dérouler les sous-menus."
+
+#~ msgid "Activate to hide the dropdow arrows."
+#~ msgstr "Activer pour cacher les flèches pour dérouler les sous-menus."
+
+#~ msgid "Animation"
+#~ msgstr "Animation"
+
+#~ msgid "Menu sticky"
+#~ msgstr "Menu fixe"
+
+#~ msgid ""
+#~ "Activate the sticky menu. This is a menu that is locked into place so "
+#~ "that it does not disappear when the user scrolls down the page."
+#~ msgstr ""
+#~ "Activer le menu fixé. Ceci est un menu qui est verrouillé en place afin "
+#~ "qu'il ne disparaît pas lorsque l'utilisateur fait défiler la page vers le "
+#~ "bas."
+
+#, fuzzy
+#~ msgid "Menu sticky mobile"
+#~ msgstr "Menu fixe"
+
+#, fuzzy
+#~ msgid ""
+#~ "Activate the sticky menu on mobile devices. This is a menu that is locked "
+#~ "into place so that it does not disappear when the user scrolls down the "
+#~ "page."
+#~ msgstr ""
+#~ "Activer le menu fixé. Ceci est un menu qui est verrouillé en place afin "
+#~ "qu'il ne disparaît pas lorsque l'utilisateur fait défiler la page vers le "
+#~ "bas."
+
+#, fuzzy
+#~ msgid "Menu centered mobile"
+#~ msgstr "Menu caché"
+
+#~ msgid "Menu hide"
+#~ msgstr "Menu caché"
+
+#~ msgid ""
+#~ "Activate the autohide menu. This is a menu that is hiding after the user "
+#~ "have scrolled down the page."
+#~ msgstr ""
+#~ "Activer le menu masquer automatiquement. Ceci est un menu qui se cache "
+#~ "lorsque l'utilisateur fait défiler la page vers le bas."
+
+#, fuzzy
+#~ msgid "Menu hide mobile"
+#~ msgstr "Menu caché"
+
+#, fuzzy
+#~ msgid ""
+#~ "Activate the autohide menu on mobile devices. This is a menu that is "
+#~ "hiding after the user have scrolled down the page."
+#~ msgstr ""
+#~ "Activer le menu masquer automatiquement. Ceci est un menu qui se cache "
+#~ "lorsque l'utilisateur fait défiler la page vers le bas."
+
+#~ msgid "Menu shrink"
+#~ msgstr "Menu rétréci"
+
+#~ msgid ""
+#~ "Activate the shrink menu. This is a menu where the logo shrinks after the "
+#~ "user have scrolled down the page."
+#~ msgstr ""
+#~ "Activer le menu rétréci. Ceci est un menu où le logo rétrécit lorsque "
+#~ "l'utilisateur fait défiler la page vers le bas."
+
+#, fuzzy
+#~ msgid "Menu sub-levels animated"
+#~ msgstr "Alignement vertical du menu"
+
+#, fuzzy
+#~ msgid "Menu open items animation"
+#~ msgstr "Alignement vertical du menu"
+
+#, fuzzy
+#~ msgid "Specify the menu items animation when opening."
+#~ msgstr "Spécifiez le skin de superposition du menu."
+
+#, fuzzy
+#~ msgid "Menu overlay animation"
+#~ msgstr "Alignement vertical du menu"
+
+#, fuzzy
+#~ msgid "Specify the overlay menu animation when opening and closing."
+#~ msgstr "Spécifiez le skin de superposition du menu."
+
+#~ msgid "Minimum logo height"
+#~ msgstr "Hauteur minimum du logo"
+
+#~ msgid "Enter the minimal height of the shrinked logo in <b>px</b>."
+#~ msgstr "Entrez une hauteur minimum pour le logo rétréci en <b>px</b>."
+
+#~ msgid "Menu first level uppercase"
+#~ msgstr "Premier niveau du menu en majuscule"
+
+#~ msgid "Activate to transform the first menu level to uppercase."
+#~ msgstr "Activer pour transformer le premier niveau du menu en majuscule."
+
+#~ msgid "Menu other levels uppercase"
+#~ msgstr "Autres niveaux du menu en majuscule"
+
+#~ msgid "Activate to transform all the others menu level to uppercase."
+#~ msgstr "Activer pour transformer les autres niveaux du menu en majuscule."
+
+#~ msgid "Additionals"
+#~ msgstr "Suppléments"
+
+#~ msgid "Hide secondary menu"
+#~ msgstr "Cacher le menu secondaire"
+
+#~ msgid "Activate to hide the secondary menu."
+#~ msgstr "Activez pour cacher le menu secondaire"
+
+#, fuzzy
+#~| msgid "Secondary menu skin"
+#~ msgid "Secondary menu padding"
+#~ msgstr "Skin du menu secondaire"
+
+#, fuzzy
+#~| msgid "Activate to hide the secondary menu."
+#~ msgid "Activate to increase secondary menu padding."
+#~ msgstr "Activez pour cacher le menu secondaire"
+
+#, fuzzy
+#~ msgid "Social icons"
+#~ msgstr "Liens Sociaux"
+
+#, fuzzy
+#~ msgid "Activate to show the social connection icons in the menu bar."
+#~ msgstr "Activez pour montrer l'icône de recherche dans la barre du menu."
+
+#~ msgid "Search icon"
+#~ msgstr "Icône de recherche"
+
+#~ msgid "Activate to show the search icon in the menu bar."
+#~ msgstr "Activez pour montrer l'icône de recherche dans la barre du menu."
+
+#, fuzzy
+#~ msgid "Search overlay animation"
+#~ msgstr "Réglez l'opacité de superposition."
+
+#, fuzzy
+#~ msgid "Specify the search overlay animation when opening and closing."
+#~ msgstr "Activer l'animation alpha lors du défilement vers le bas."
+
+#~ msgid "Woocommerce cart"
+#~ msgstr "Panier Woocommerce"
+
+#~ msgid "Activate to show the Woocommerce icon in the menu bar."
+#~ msgstr "Activer pour montrer l'icône Woocommerce dans la barre du menu."
+
+#, fuzzy
+#~ msgid "Woocommerce cart on menu bar"
+#~ msgstr "Panier Woocommerce"
+
+#~ msgid "Top line text"
+#~ msgstr "Texte de la ligne en haut"
+
+#~ msgid "Insert additional text on top of the menu."
+#~ msgstr "Insérer un texte supplémentaire sur le haut du menu."
+
+#~ msgid "Create here all the %s details label that you need."
+#~ msgstr "Créer ici tous les détails de label %s que vous avez besoin."
+
+#~ msgid "Unique %s detail ID"
+#~ msgstr "ID %s détail unique"
+
+#~ msgid "Specify the sidebar text skin color."
+#~ msgstr "Spécifiez la couleur de skin du texte de la sidebar."
+
+#~ msgid "Sidebar color"
+#~ msgstr "Couleur Sidebar"
+
+#~ msgid "Site sidebars"
+#~ msgstr "Sidebars du site"
+
+#~ msgid ""
+#~ "Define here all the sidebars you will need. A default sidebar is already "
+#~ "defined."
+#~ msgstr ""
+#~ "Définissez ici toutes les sidebars que vous aurez besoin. Une sidebar par "
+#~ "défaut est déjà définie."
+
+#~ msgid "Unique sidebar ID"
+#~ msgstr "ID de sidebar unique"
+
+#~ msgid "Custom fonts"
+#~ msgstr "Polices personnalisées"
+
+#~ msgid "Define here all the fonts you will need."
+#~ msgstr "Définir ici toutes les polices que vous aurez besoin."
+
+#~ msgid "Unique font ID"
+#~ msgstr "ID de police unique"
+
+#~ msgid "Specify a font."
+#~ msgstr "Spécifiez une police."
+
+#~ msgid "Font family"
+#~ msgstr "Famille de polices"
+
+#~ msgid "Enter a font family."
+#~ msgstr "Entrez une famille de polices."
+
+#~ msgid "Default font size"
+#~ msgstr "Taille de police par défaut"
+
+#~ msgid "Font size for p,li,dt,dd,dl,address,label,small,pre in <b>px</b>."
+#~ msgstr ""
+#~ "Taille de police pour p,li,dt,dd,dl,address,label,small,pre en <b>px</b>."
+
+#~ msgid "Font size H1"
+#~ msgstr "Taille police H1"
+
+#~ msgid "Font size for H1 in <b>px</b>."
+#~ msgstr "Taille de police H1 en <b>px</b>."
+
+#~ msgid "Font size H2"
+#~ msgstr "Taille police H2"
+
+#~ msgid "Font size for H2 in <b>px</b>."
+#~ msgstr "Taille de police H2 en <b>px</b>."
+
+#~ msgid "Font size H3"
+#~ msgstr "Taille police H3"
+
+#~ msgid "Font size for H3 in <b>px</b>."
+#~ msgstr "Taille de police H3 en <b>px</b>."
+
+#~ msgid "Font size H4"
+#~ msgstr "Taille police H4"
+
+#~ msgid "Font size for H4 in <b>px</b>."
+#~ msgstr "Taille de police H4 en <b>px</b>."
+
+#~ msgid "Font size H5"
+#~ msgstr "Taille police H5"
+
+#~ msgid "Font size for H5 in <b>px</b>."
+#~ msgstr "Taille de police H5 en <b>px</b>."
+
+#~ msgid "Font size H6"
+#~ msgstr "Taille police H6"
+
+#~ msgid "Font size for H6 in <b>px</b>."
+#~ msgstr "Taille de police H6 en <b>px</b>."
+
+#~ msgid "Define here all the additional font sizes you will need."
+#~ msgstr ""
+#~ "Définir ici toutes les tailles de polices supplémentaires que vous aurez "
+#~ "besoin."
+
+#~ msgid "Unique font size ID"
+#~ msgstr "ID taille de police unique"
+
+#~ msgid "Font size"
+#~ msgstr "Taille police"
+
+#~ msgid "Font size in <b>px</b>."
+#~ msgstr "Taille de police en <b>px</b>."
+
+#~ msgid "Custom line height"
+#~ msgstr "Hauteur de ligne personnalisée"
+
+#~ msgid "Define here all the additional font line heights you will need."
+#~ msgstr ""
+#~ "Définir ici toutes les tailles de polices supplémentaires que vous aurez "
+#~ "besoin."
+
+#~ msgid "Unique font height ID"
+#~ msgstr "ID hauteur de police unique"
+
+#~ msgid "Font line height"
+#~ msgstr "Hauteur de ligne de la police"
+
+#~ msgid "Insert a line height."
+#~ msgstr "Insérer une hauteur de ligne."
+
+#~ msgid "Custom letter spacing"
+#~ msgstr "Espace de caractère personnalisé"
+
+#~ msgid "Define here all the letter spacings you will need."
+#~ msgstr "Définir ici tous les espaces de caractère que vous aurez besoin."
+
+#~ msgid "Unique letter spacing ID"
+#~ msgstr "ID espace de caractère unique"
+
+#~ msgid "Letter spacing"
+#~ msgstr "Espace caractère"
+
+#~ msgid "Letter spacing with the unit (em or px). Ex. 0.2em"
+#~ msgstr "Espace de caractère avec l'unité (em ou px). Ex: 0.2em"
+
+#~ msgid "Color palettes"
+#~ msgstr "Palettes de Couleurs"
+
+#~ msgid "Define all the colors you will need."
+#~ msgstr "Définissez toutes les couleurs que vous aurez besoin."
+
+#~ msgid "Black"
+#~ msgstr "Noir"
+
+#~ msgid "Dark 1"
+#~ msgstr "Foncé 1"
+
+#~ msgid "Dark 2"
+#~ msgstr "Foncé 2"
+
+#~ msgid "Dark 3"
+#~ msgstr "Foncé 3"
+
+#~ msgid "Dark 4"
+#~ msgstr "Foncé 4"
+
+#~ msgid "White"
+#~ msgstr "Blanc"
+
+#~ msgid "Light 1"
+#~ msgstr "Claire 1"
+
+#~ msgid "Light 2"
+#~ msgstr "Claire 2"
+
+#~ msgid "Light 3"
+#~ msgstr "Claire 3"
+
+#~ msgid "Light 4"
+#~ msgstr "Claire 4"
+
+#~ msgid "Cerulean"
+#~ msgstr "Bleu ciel"
+
+#~ msgid "International Orange"
+#~ msgstr "Orange"
+
+#~ msgid "Malachite"
+#~ msgstr "Vert"
+
+#~ msgid "Sunglow"
+#~ msgstr "Jaune"
+
+#~ msgid "Unique color ID"
+#~ msgstr "ID de couleur unique"
+
+#~ msgid "Colorpicker"
+#~ msgstr "Sélectionneur de couleurs"
+
+#~ msgid ""
+#~ "Specify the color for this palette. You can also define a color with the "
+#~ "alpha value."
+#~ msgstr ""
+#~ "Spécifiez la couleur pour cette palette. Vous pouvez aussi définir une "
+#~ "couleur avec la valeur alpha."
+
+#, fuzzy
+#~ msgid "Gradient"
+#~ msgstr "Dégradé en haut"
+
+#, fuzzy
+#~ msgid ""
+#~ "Specify the gradient color for this palette. NB. You can use a gradient "
+#~ "color only as a background color."
+#~ msgstr ""
+#~ "Spécifiez la couleur pour cette palette. Vous pouvez aussi définir une "
+#~ "couleur avec la valeur alpha."
+
+#~ msgid "Light skin"
+#~ msgstr "Skin claire"
+
+#~ msgid "SVG/Text logo color"
+#~ msgstr "Couleur du logo SVG/Texte"
+
+#~ msgid "Specify the logo color if it's a SVG or textual."
+#~ msgstr "Spécifiez la couleur du logo si c'est un SVG ou un texte."
+
+#~ msgid "Menu text color"
+#~ msgstr "Couleur du texte du menu"
+
+#~ msgid "Specify the menu text color."
+#~ msgstr "Spécifiez la couleur de texte du menu."
+
+#~ msgid "Primary menu background color"
+#~ msgstr "Couleur d'arrière-plan du menu principal"
+
+#~ msgid "Specify the primary menu background color."
+#~ msgstr "Spécifiez la couleur d'arrière-plan du menu principal."
+
+#~ msgid "Primary menu background opacity"
+#~ msgstr "Opacité de l'arrière-plan du menu principal"
+
+#~ msgid "Adjust the primary menu background transparency."
+#~ msgstr "Ajuster la transparence de l'arrière-plan du menu principal."
+
+#~ msgid "Primary submenu background color"
+#~ msgstr "Couleur de l'arrière-plan du sous-menu principal"
+
+#~ msgid "Specify the primary submenu text color."
+#~ msgstr "Spécifiez une couleur de texte du sous-menu principal."
+
+#~ msgid "Primary menu border color"
+#~ msgstr "Couleur de bordure du menu principal"
+
+#~ msgid "Specify the primary menu border color."
+#~ msgstr "Spécifiez une couleur de bordure du menu principal."
+
+#~ msgid "Primary menu border opacity"
+#~ msgstr "Opacité de la bordure du menu principal."
+
+#~ msgid "Adjust the primary menu border transparency."
+#~ msgstr "Ajuster la transparence de la bordure du menu principal."
+
+#~ msgid "Secondary menu background color"
+#~ msgstr "Couleur d'arrière-plan du menu secondaire."
+
+#~ msgid "Specify the secondary menu background color."
+#~ msgstr "Spécifiez la couleur d'arrière-plan du menu secondaire."
+
+#~ msgid "Headings color"
+#~ msgstr "Couleur des Titres"
+
+#~ msgid "Specify the headings text color."
+#~ msgstr "Spécifiez une couleur pour les titres."
+
+#~ msgid "Content text color"
+#~ msgstr "Couleur du texte du contenu"
+
+#~ msgid "Specify the content area text color."
+#~ msgstr "Spécifiez la couleur du texte de la zone de contenu."
+
+#~ msgid "Content background color"
+#~ msgstr "Couleur d'arrière-plan du contenu"
+
+#~ msgid "Specify the content background color."
+#~ msgstr "Spécifiez la couleur d'arrière-plan du conetnu."
+
+#~ msgid "Dark skin"
+#~ msgstr "Skin foncé"
+
+#~ msgid "HTML body background"
+#~ msgstr "Arrière-plan HTML du corps de page"
+
+#~ msgid "Accent color"
+#~ msgstr "Couleur Accentuée"
+
+#~ msgid "Specify the accent color."
+#~ msgstr "Spécifiez la couleur accentuée du thème."
+
+#, fuzzy
+#~| msgid "Link Color"
+#~ msgid "Links color"
+#~ msgstr "Couleur du Lien"
+
+#, fuzzy
+#~| msgid "Specify the logo color if it's a SVG or textual."
+#~ msgid "Specify the color of links in page textual contents."
+#~ msgstr "Spécifiez la couleur du logo si c'est un SVG ou un texte."
+
+#~ msgid "Body font family"
+#~ msgstr "Famille de polices du corps de page."
+
+#~ msgid "Specify the body font family."
+#~ msgstr "Spécifiez une famille de polices du corps de page."
+
+#~ msgid "UI font family"
+#~ msgstr "Famille de polices UI"
+
+#~ msgid "Specify the UI font family."
+#~ msgstr "Spécifiez une famille de polices UI."
+
+#~ msgid "UI font weight"
+#~ msgstr "Importance police UI"
+
+#~ msgid "Specify the UI font weight."
+#~ msgstr "Spécifiez l'importance (gras) de la police UI."
+
+#~ msgid "Headings font family"
+#~ msgstr "Famille de polices des titres"
+
+#~ msgid "Specify the headings font family."
+#~ msgstr "Spécifiez une famille de polices des titres."
+
+#~ msgid "Headings font weight"
+#~ msgstr "Importance de la police des titres"
+
+#~ msgid "Specify the Headings font weight."
+#~ msgstr "Spécifiez l'importance (gras) de la police pour les titres."
+
+#, fuzzy
+#~ msgid "Activate to style all the input text with the underline."
+#~ msgstr "Activer pour afficher le titre dans la zone de contenu."
+
+#~ msgid "Overlay menu skin"
+#~ msgstr "Remplacer le skin du menu"
+
+#~ msgid "Specify the overlay menu skin."
+#~ msgstr "Spécifiez le skin de superposition du menu."
+
+#, fuzzy
+#~ msgid "Menu highlight color"
+#~ msgstr "Couleur du texte du menu"
+
+#~ msgid "Primary menu skin"
+#~ msgstr "Skin du menu principal"
+
+#~ msgid "Specify the primary menu skin."
+#~ msgstr "Spécifiez le skin du menu principal."
+
+#~ msgid "Primary submenu skin"
+#~ msgstr "Skin du sous-menu principal"
+
+#~ msgid "Specify the primary submenu skin."
+#~ msgstr "Spécifiez le skin du sous-menu principal."
+
+#~ msgid "Secondary menu skin"
+#~ msgstr "Skin du menu secondaire"
+
+#~ msgid "Specify the secondary menu skin."
+#~ msgstr "Spécifiez le skin du menu secondaire."
+
+#, fuzzy
+#~ msgid "Menu font size"
+#~ msgstr "Taille de police par défaut"
+
+#, fuzzy
+#~ msgid "Submenu font size"
+#~ msgstr "Taille de police personnalisée"
+
+#, fuzzy
+#~ msgid "Mobile menu font size"
+#~ msgstr "Taille de police par défaut"
+
+#, fuzzy
+#~ msgid "Specify the menu font size for mobile."
+#~ msgstr "Spécifiez une famille de polices du menu."
+
+#~ msgid "Menu font family"
+#~ msgstr "Famille de polices du menu"
+
+#~ msgid "Specify the menu font family."
+#~ msgstr "Spécifiez une famille de polices du menu."
+
+#~ msgid "Menu font weight"
+#~ msgstr "Importance de le police du menu"
+
+#~ msgid "Specify the menu font weight."
+#~ msgstr "Spécifiez l'importance (gras) de la police du menu."
+
+#~ msgid "Specify the content skin."
+#~ msgstr "Spécifiez le skin du contenu."
+
+#, fuzzy
+#~| msgid "Buttons text transform"
+#~ msgid "Buttons and Forms"
+#~ msgstr "Transformer le texte des boutons"
+
+#~ msgid "Buttons font family"
+#~ msgstr "Famille de polices des boutons"
+
+#~ msgid "Specify the buttons font family."
+#~ msgstr "Spécifiez une famille de polices des boutons."
+
+#~ msgid "Buttons font weight"
+#~ msgstr "Importance de la police des boutons"
+
+#~ msgid "Specify the buttons font weight."
+#~ msgstr "Spécifiez l'importance (gras) de la police pour les boutons."
+
+#~ msgid "Buttons text transform"
+#~ msgstr "Transformer le texte des boutons"
+
+#~ msgid "Specify the buttons text transform."
+#~ msgstr "Spécifiez la transformation du texte des boutons."
+
+#, fuzzy
+#~| msgid "Custom letter spacing"
+#~ msgid "Buttons letter spacing"
+#~ msgstr "Espace de caractère personnalisé"
+
+#, fuzzy
+#~| msgid "Specify the letter spacing for the title."
+#~ msgid "Specify the letter spacing value."
+#~ msgstr "Spécifiez l'espace des caractères pour le titre."
+
+#, fuzzy
+#~| msgid "Specify the font for the title."
+#~ msgid "Specify an effect on hover state."
+#~ msgstr "Spécifiez la police pour le titre."
+
+#, fuzzy
+#~ msgid "Outlined"
+#~ msgstr "Encadré"
+
+#~ msgid "Copyright area skin"
+#~ msgstr "Skin de la zone copyright"
+
+#~ msgid "Specify the copyright area skin color."
+#~ msgstr "Spécifiez la couleur de skin de la zone copyright."
+
+#~ msgid "Copyright area custom background color"
+#~ msgstr "Couleur d'arrière-plan personnalisée de la zone copyright"
+
+#~ msgid "Specify a custom copyright area background color."
+#~ msgstr ""
+#~ "Spécifiez une couleur personnalisée d'arrière-plan pour la zone du "
+#~ "copyright."
+
+#~ msgid "Smooth scroller"
+#~ msgstr "Défilement Lisse"
+
+#~ msgid "Activate the enhanced smooth scroller."
+#~ msgstr "Activer le défilement lisse du site."
+
+#, fuzzy
+#~ msgid ""
+#~ "Activate this to always have a constant speed when scrolling to point."
+#~ msgstr "Activer l'animation alpha lors du défilement vers le bas."
+
+#, fuzzy
+#~ msgid "Specify the scroll speed time in milliseconds."
+#~ msgstr ""
+#~ "Spécifiez la vitesse d'animation d'entrée du texte du titre en "
+#~ "millisecondes."
+
+#~ msgid "CPT"
+#~ msgstr "CPT"
+
+#, fuzzy
+#~ msgid "Enter a custom portfolio post type label."
+#~ msgstr "Entrez une limace personnalisée pour les articles du portfolio."
+
+#~ msgid "CPT slug"
+#~ msgstr "CPT slug"
+
+#~ msgid "Enter a custom portfolio post type slug."
+#~ msgstr "Entrez une limace personnalisée pour les articles du portfolio."
+
+#, fuzzy
+#~ msgid "Activate to show the Uncode help button in the WP admin bar."
+#~ msgstr "Activer pour montrer l'icône Woocommerce dans la barre du menu."
+
+#~ msgid "Footer full width"
+#~ msgstr "Pleine largeur du footer"
+
+#~ msgid "Expand the footer to full width."
+#~ msgstr "Etendre le footer en pleine largeur."
+
+#~ msgid "Widget area"
+#~ msgstr "Zone de widget"
+
+#~ msgid "Specify the Content Block to use as a footer content."
+#~ msgstr ""
+#~ "Spécifiez le bloc de contenu pour être utilisé comme contenu du footer."
+
+#~ msgid "Copyright area"
+#~ msgstr "Zone copyright"
+
+#~ msgid "Automatic copyright text"
+#~ msgstr "Texte du copyright automatique"
+
+#~ msgid "Activate to use an automatic copyright text."
+#~ msgstr "Activer pour utiliser le texte du copyright automatiquement."
+
+#~ msgid "Custom copyright text"
+#~ msgstr "Texte du copyright personnalisé"
+
+#~ msgid "Insert a custom text for the footer copyright area."
+#~ msgstr ""
+#~ "Insérez un texte personnalisé pour la zone de copyright dans le footer."
+
+#~ msgid "Specify the footer copyright text alignment."
+#~ msgstr "Spécifiez l'alignement du texte copyright dans le footer."
+
+#~ msgid "Social links"
+#~ msgstr "Liens Sociaux"
+
+#~ msgid "Activate to have the social icons in the footer copyright area."
+#~ msgstr ""
+#~ "Activer pour avoir les icônes des réseaux sociaux dans la zone copyright "
+#~ "dans le footer."
+
+#~ msgid "Scroll up button"
+#~ msgstr "Bouton retour en haut"
+
+#~ msgid "Activate to add a scroll up button in the footer."
+#~ msgstr "Activer pour ajouter un bouton \"retour en haut\" dans le footer."
+
+#, fuzzy
+#~ msgid "Scroll up button on mobile"
+#~ msgstr "Bouton retour en haut"
+
+#, fuzzy
+#~ msgid "Activate to add a scroll up button in the footer for mobile devices."
+#~ msgstr "Activer pour ajouter un bouton \"retour en haut\" dans le footer."
+
+#~ msgid "Social Networks"
+#~ msgstr "Réseaux sociaux"
+
+#~ msgid "Define here all the social networks you will need."
+#~ msgstr "Définir ici tous les réseaux sociaux que vous aurez besoin."
+
+#~ msgid "Unique social ID"
+#~ msgstr "ID social unique"
+
+#, fuzzy
+#~ msgid "Social Network Icon"
+#~ msgstr "Lien Réseau Social"
+
+#~ msgid "Specify the social network icon."
+#~ msgstr "Spécifiez une icône du réseau social."
+
+#~ msgid "Social Network Link"
+#~ msgstr "Lien Réseau Social"
+
+#~ msgid "Enter your social network link."
+#~ msgstr "Entrez votre lien du réseau social."
+
+#, fuzzy
+#~ msgid ""
+#~ "Activate to hide the social icon in the menu (if the social connections "
+#~ "in the menu is active)."
+#~ msgstr ""
+#~ "Activer pour avoir les icônes des réseaux sociaux dans la zone copyright "
+#~ "dans le footer."
+
+#~ msgid "CSS"
+#~ msgstr "CSS"
+
+#~ msgid "Enter here your custom CSS."
+#~ msgstr "Entrez ici votre CSS personnalisé."
+
+#~ msgid "Javascript"
+#~ msgstr "Javascript"
+
+#~ msgid "Enter here your custom Javacript code."
+#~ msgstr "Entrez ici votre code Javascript personnalisé."
+
+#~ msgid "Adaptive images"
+#~ msgstr "Images adaptatives"
+
+#~ msgid ""
+#~ "Activate to take advantage of the Adaptive Images system. Adaptive Images "
+#~ "detects your visitor's screen size and automatically delivers device "
+#~ "appropriate re-scaled images."
+#~ msgstr ""
+#~ "Activer pour profiter du système des images adaptatives. Les images "
+#~ "adaptatives détectent la taille de l'écran de vos visiteurs et le système "
+#~ "fournit automatiquement des images de remises à l'échelle appropriées."
+
+#, fuzzy
+#~ msgid "Asynchronous adaptive image system"
+#~ msgstr "Images adaptatives"
+
+#, fuzzy
+#~ msgid "Activate to use a bluring effect when loading the images."
+#~ msgstr "Activer pour utiliser l'image vedette dans l'header."
+
+#~ msgid "Image quality"
+#~ msgstr "Qualité d'image"
+
+#~ msgid "Adjust the images compression quality."
+#~ msgstr "Ajuster la qualité de compression des images."
+
+#~ msgid "Image sizes range"
+#~ msgstr "Tailles des Images"
+
+#~ msgid ""
+#~ "Enter all the image sizes you want use for the Adaptive Images system. "
+#~ "NB. The values needs to be comma separated."
+#~ msgstr ""
+#~ "Entrez toutes les tailles d'image que vous souhaitez utiliser pour le "
+#~ "système des images adaptatives. NB. Les valeurs doivent être séparées par "
+#~ "des virgules."
+
+#~ msgid "Apache Server Configs"
+#~ msgstr "Configs serveur Apache"
+
+#~ msgid ""
+#~ "Activate the enhanced .htaccess, this will improve the web site's "
+#~ "performance and security."
+#~ msgstr ""
+#~ "Activez le .htaccess améliorée, cela permettra d'améliorer la performance "
+#~ "et la sécurité du site web."
+
+#, fuzzy
+#~ msgid "Production mode"
+#~ msgstr "Produit"
+
+#~ msgid "Activate page redirect"
+#~ msgstr "Activaer pour rediriger une page"
+
+#~ msgid ""
+#~ "Activate to redirect all the website calls to a specific page. NB. This "
+#~ "can only be visible when the user is not logged in."
+#~ msgstr ""
+#~ "Activer pour rediriger tous les appels vers le site web une page "
+#~ "spécifique. NB. Cela ne peut être visible lorsque l'utilisateur est pas "
+#~ "connecté."
+
+#~ msgid "Redirect page"
+#~ msgstr "Rediriger une page"
+
+#~ msgid ""
+#~ "Specify the redirect page. NB. This page will be presented without menu "
+#~ "and footer."
+#~ msgstr ""
+#~ "Spécifiez la page de redirection. NB. Cette page sera présentée sans menu "
+#~ "et footer."
+
+#~ msgid "WooCommerce"
+#~ msgstr "WooCommerce"
+
+#~ msgid "Products"
+#~ msgstr "Produits"
+
+#~ msgid "Social Menu"
+#~ msgstr "Menu Social"
+
+#~ msgid "Cart icon"
+#~ msgstr "Icône du panier"
+
+#~ msgid "Specify the cart icon"
+#~ msgstr "Spécifier une icône du panier"
+
+#, fuzzy
+#~ msgid "Enable Hooks"
+#~ msgstr "Permettre la soumission AJAX ?"
+
+#, fuzzy
+#~ msgid "Activate this to enable default WooCommerce hooks on product loops."
+#~ msgstr "Activer pour utiliser l'image vedette dans l'header."
+
+#~ msgid "Justify"
+#~ msgstr "Justifier"
+
+#, fuzzy
+#~ msgid "Center Split"
+#~ msgstr "Aligner au centre"
+
+#~ msgid "Lateral"
+#~ msgstr "Lateral"
+
+#~ msgid "Offcanvas"
+#~ msgstr "Offcanvas"
+
+#~ msgid "Overlay"
+#~ msgstr "Superposer"
+
+#, fuzzy
+#~ msgid "Overlay Center"
+#~ msgstr "Couleur de superposition"
+
+#~ msgid "OptionTree Cleanup"
+#~ msgstr "Nettoyage OptionTree"
+
+#~ msgid ""
+#~ "OptionTree has outdated data that should be removed. Please go to %s for "
+#~ "more information."
+#~ msgstr ""
+#~ "OptionTree aura des données obsolètes qui devrait être éliminées. S'il "
+#~ "vous plaît aller à %s pour plus d'informations."
+
+#~ msgid "Multiple Media Posts"
+#~ msgstr "Multiples médias d'articles"
+
+#~ msgid ""
+#~ "There are currently %s OptionTree media posts in your database. At some "
+#~ "point in the past, a version of OptionTree added multiple %s media post "
+#~ "objects cluttering up your %s table. There is no associated risk or harm "
+#~ "that these posts have caused other than to add size to your overall "
+#~ "database. Thankfully, there is a way to remove all these orphaned media "
+#~ "posts and get your database cleaned up."
+#~ msgstr ""
+#~ "Il y a actuellement %s médias d'article OptionTree dans votre base de "
+#~ "données. À un certain moment dans le passé, une version de OptionTree a "
+#~ "ajouté de multiples %s objets de médias d'article ce qui encombre votre "
+#~ "table %s. Il n’y a pas d'autre risque ou préjudice associé que ces "
+#~ "articles ont causé d’augmenter la taille globale de votre base de "
+#~ "données. Heureusement, il y a un moyen de supprimer tous ces articles "
+#~ "orphelins et de nettoyer votre base de données."
+
+#~ msgid ""
+#~ "By clicking the button below, OptionTree will delete %s records and "
+#~ "consolidate them into one single OptionTree media post for uploading "
+#~ "attachments to. Additionally, the attachments will have their parent ID "
+#~ "updated to the correct media post."
+#~ msgstr ""
+#~ "En cliquant sur le bouton ci-dessous, OptionTree va supprimer les entrées "
+#~ "%s  et de les consolider en un seul article de médias OptionTree pour le "
+#~ "téléchargement de pièces jointes. En outre, les pièces jointes auront "
+#~ "leur ID de parent mis à jour."
+
+#~ msgid ""
+#~ "This could take a while to fully process depending on how many records "
+#~ "you have in your database, so please be patient and wait for the script "
+#~ "to finish."
+#~ msgstr ""
+#~ "Cela pourrait prendre un certain temps en fonction du nombre d'entrées de "
+#~ "votre base de données donc soyez patient et attendez la fin du script."
+
+#~ msgid ""
+#~ "%s Your server is running in safe mode. Which means this page will "
+#~ "automatically reload after deleting %s posts, you can filter this number "
+#~ "using %s if your server is having trouble processing that many at one "
+#~ "time."
+#~ msgstr ""
+#~ "%s Votre serveur tourne en mode sans échec. Ce qui signifie que cette "
+#~ "page se rechargera automatiquement après la suppression de tous les "
+#~ "articles %s , vous pouvez filtrer ce nombre en utilisant %s si votre "
+#~ "serveur a des problèmes pour tout effectuer en même temps."
+
+#~ msgid "Consolidate Posts"
+#~ msgstr "Consolider les articles"
+
+#~ msgid "Reloading..."
+#~ msgstr "Rechargement..."
+
+#~ msgid "Clean up script has completed, the page will now reload..."
+#~ msgstr "Le script de nettoyage a terminé, la page va se recharger..."
+
+#~ msgid "Outdated Table"
+#~ msgstr "Table obsolète"
+
+#~ msgid ""
+#~ "If you have upgraded from an old 1.x version of OptionTree at some point, "
+#~ "you have an extra %s table in your database that can be removed. It's not "
+#~ "hurting anything, but does not need to be there. If you want to remove "
+#~ "it. Click the button below."
+#~ msgstr ""
+#~ "Si vous avez mis à niveau depuis une version antérieure à 1.x de "
+#~ "OptionTree à un moment donné, vous avez une table %s supplémentaire dans "
+#~ "votre base de données qui peut être enlevée. Cela n’a aucune conséquence, "
+#~ "mais n’a pas besoin d’être là. Si vous voulez supprimer. Cliquez sur le "
+#~ "bouton ci-dessous."
+
+#~ msgid "Drop Table"
+#~ msgstr "Drop Table"
+
+#~ msgid "Deleting the outdated and unused %s table..."
+#~ msgstr "Suppression de la table %s obsolète et inutilisée …"
+
+#~ msgid ""
+#~ "The %s table has been successfully deleted. The page will now reload..."
+#~ msgstr ""
+#~ "La table %s a été supprimée avec succès. La page va maintenant se "
+#~ "recharger …"
+
+#~ msgid "Something went wrong. The %s table was not deleted."
+#~ msgstr "Quelque chose a mal tourné. La table %s n'a pas été supprimé."
+
+#~ msgid "Theme Options reset."
+#~ msgstr "Réinitialiser les options du thème."
+
+#~ msgid "Save Changes"
+#~ msgstr "Sauvegarder"
+
+#~ msgid ""
+#~ "The Theme Options UI Builder is being overridden by a custom file in your "
+#~ "theme. Any changes you make via the UI Builder will not be saved."
+#~ msgstr ""
+#~ "Le options UI Builder du thème ont été remplacées par un fichier "
+#~ "personnalisé dans votre thème. Toutes les modifications apportées via "
+#~ "l’interface UI Builder ne seront pas sauvegardées."
+
+#~ msgid "OptionTree"
+#~ msgstr "OptionTree"
+
+#~ msgid "Settings"
+#~ msgstr "Réglages"
+
+#~ msgid "Save Settings"
+#~ msgstr "Enregistrer les réglages"
+
+#~ msgid "Theme Options UI"
+#~ msgstr "Options Thème UI"
+
+#~ msgid "Import"
+#~ msgstr "Importer"
+
+#~ msgid "Layouts"
+#~ msgstr "Modèles"
+
+#~ msgid "Theme Options UI Builder"
+#~ msgstr "Theme Options UI Builder"
+
+#~ msgid "Settings XML"
+#~ msgstr "Paramètres XML"
+
+#~ msgid "Settings PHP File"
+#~ msgstr "Paramètres Fichier PHP"
+
+#~ msgid "Layout Management"
+#~ msgstr "Gérer le Modèle"
+
+#~ msgid "Documentation"
+#~ msgstr "Documentation"
+
+#~ msgid "Creating Options"
+#~ msgstr "Création d'options"
+
+#~ msgid "Option Types"
+#~ msgstr "Types d'options"
+
+#~ msgid "Function References"
+#~ msgstr "Références de fonction"
+
+#~ msgid "Theme Mode"
+#~ msgstr "Mode Thème"
+
+#~ msgid "Meta Boxes"
+#~ msgstr "Boxes Méta"
+
+#~ msgid "Code Examples"
+#~ msgstr "Exemples de code"
+
+#~ msgid "Layouts Overview"
+#~ msgstr "Aperçu des modèles"
+
+#~ msgid "Overview of available Theme Option fields."
+#~ msgstr "Vue d’ensemble des champs disponibles de l’option du Thème."
+
+#~ msgid "Option types in alphabetical order & hooks to filter them."
+#~ msgstr ""
+#~ "Types d’options dans l’ordre alphabétique et des crochets pour les "
+#~ "filtrer."
+
+#~ msgid "Function Reference:ot_get_option()"
+#~ msgstr "Référence fonction : ot_get_option()"
+
+#~ msgid "Function Reference:get_option_tree()"
+#~ msgstr "Référence fonction : get_option_tree()"
+
+#~ msgid "Code examples for front-end development."
+#~ msgstr "Exemples de code pour le développement front-end."
+
+#~ msgid "What's a layout anyhow?"
+#~ msgstr "Qu'est-ce qu'un modèle de toute façon ?"
+
+#~ msgid "The %s input field for %s only allows numeric values."
+#~ msgstr "Le champ d’entrée %s pour %s ne permet que des valeurs numériques."
+
+#~ msgid "The %s Colorpicker only allows valid hexadecimal or rgba values."
+#~ msgstr ""
+#~ "Le sélecteur de couleur %s permet uniquement des valeurs hexadécimales ou "
+#~ "rgba."
+
+#~ msgid "Are you sure you want to reset back to the defaults?"
+#~ msgstr "Êtes-vous sûr de vouloir réinitialiser ces réglages par défaut ?"
+
+#~ msgid "You can't remove this! But you can edit the values."
+#~ msgstr ""
+#~ "Vous ne pouvez pas supprimer cela ! Mais vous pouvez modifier les valeurs."
+
+#~ msgid "Are you sure you want to remove this?"
+#~ msgstr "Etes-vous sûr de vouloir supprimer ceci ?"
+
+#~ msgid "Are you sure you want to activate this layout?"
+#~ msgstr "êtes-vous sûr de vouloir activer ce modèle ?"
+
+#~ msgid "Sorry, you can't have settings three levels deep."
+#~ msgstr ""
+#~ "Désolé, vous ne pouvez pas avoir des paramètres à trois niveaux de "
+#~ "profondeur."
+
+#~ msgid "Delete Gallery"
+#~ msgstr "Supprimer la galerie"
+
+#~ msgid "Edit Gallery"
+#~ msgstr "Modifier la galerie"
+
+#~ msgid "Create Gallery"
+#~ msgstr "Créer une galerie"
+
+#~ msgid "Are you sure you want to delete this Gallery?"
+#~ msgstr "Etes-vous sûr de vouloir supprimer cette galerie ?"
+
+#~ msgid "Today"
+#~ msgstr "Aujourd'hui"
+
+#~ msgid "Now"
+#~ msgstr "Maintenant"
+
+#~ msgid "Close"
+#~ msgstr "Fermer"
+
+#~ msgid "Featured Image"
+#~ msgstr "Image Vedette"
+
+#~ msgid "Image"
+#~ msgstr "Image"
+
+#~ msgid "Option Tree"
+#~ msgstr "Option Tree"
+
+#~ msgid "Sample Text Field Label"
+#~ msgstr "Exemple du Champ Texte du Label"
+
+#~ msgid "Description for the sample text field."
+#~ msgstr "Description pour le champ de texte de l'exemple."
+
+#~ msgid "Settings updated."
+#~ msgstr "Paramètres mis à jour."
+
+#~ msgid "Settings could not be saved."
+#~ msgstr "Les paramètres n’ont pas pu être enregistrés."
+
+#~ msgid "Settings Imported."
+#~ msgstr "Paramètres Importés."
+
+#~ msgid "Settings could not be imported."
+#~ msgstr "Les paramètres n’ont pas pu être importés."
+
+#~ msgid "Data Imported."
+#~ msgstr "Données importées."
+
+#~ msgid "Data could not be imported."
+#~ msgstr "Les données n’ont pas pu être importées."
+
+#~ msgid "Layouts Imported."
+#~ msgstr "Modèles importés."
+
+#~ msgid "Layouts could not be imported."
+#~ msgstr "Les modèles n’ont pas pu être importés."
+
+#~ msgid "Layouts Updated."
+#~ msgstr "Modèles mis à jour."
+
+#~ msgid "Layouts could not be updated."
+#~ msgstr "Les modèles n’ont pas pu être mis à jour."
+
+#~ msgid "Layouts have been deleted."
+#~ msgstr "Les modèles ont été supprimés"
+
+#~ msgid "Layout activated."
+#~ msgstr "Modèle activé."
+
+#~ msgid "Border"
+#~ msgstr "Bordure"
+
+#~ msgid "Box Shadow"
+#~ msgstr "Boîte avec Ombre"
+
+#~ msgid "Category Checkbox"
+#~ msgstr "Catégorie à cocher"
+
+#~ msgid "Category Select"
+#~ msgstr "Sélectionner une catégorie"
+
+#~ msgid "Checkbox"
+#~ msgstr "Case à cocher"
+
+#~ msgid "Colorpicker Opacity"
+#~ msgstr "Opacité sélectionneur de couleurs"
+
+#~ msgid "Custom Post Type Checkbox"
+#~ msgstr "Type d'article personnalisé à cocher"
+
+#~ msgid "Custom Post Type Select"
+#~ msgstr "Sélectionner un Type d'Article Personnalisé"
+
+#~ msgid "Date Picker"
+#~ msgstr "Sélecteur de date"
+
+#~ msgid "Date Time Picker"
+#~ msgstr "Sélecteur de Date et heure"
+
+#~ msgid "Dimension"
+#~ msgstr "Dimension"
+
+#~ msgid "Gallery"
+#~ msgstr "Galerie"
+
+#~ msgid "Google Fonts"
+#~ msgstr "Polices Google"
+
+#~ msgid "JavaScript"
+#~ msgstr "JavaScript"
+
+#~ msgid "Link Color"
+#~ msgstr "Couleur du Lien"
+
+#~ msgid "List Item"
+#~ msgstr "Élément de liste"
+
+#~ msgid "Measurement"
+#~ msgstr "Mesurage"
+
+#~ msgid "Numeric Slider"
+#~ msgstr "Slider numérique"
+
+#~ msgid "On/Off"
+#~ msgstr "On/Off"
+
+#~ msgid "Page Checkbox"
+#~ msgstr "Page à cocher"
+
+#~ msgid "Post Checkbox"
+#~ msgstr "Article à cocher"
+
+#~ msgid "Post Select"
+#~ msgstr "Sélectionner un article"
+
+#~ msgid "Radio"
+#~ msgstr "Radio"
+
+#~ msgid "Radio Image"
+#~ msgstr "Image Radio"
+
+#~ msgid "Select"
+#~ msgstr "Sélectionner"
+
+#~ msgid "Sidebar Select"
+#~ msgstr "Sélectionnez une sidebar"
+
+#~ msgid "Social Links"
+#~ msgstr "Liens Sociaux"
+
+#~ msgid "Spacing"
+#~ msgstr "Espace"
+
+#~ msgid "Tab"
+#~ msgstr "Onglet"
+
+#~ msgid "Tag Checkbox"
+#~ msgstr "Mot-clé à cocher"
+
+#~ msgid "Tag Select"
+#~ msgstr "Sélectionner un mot-clé"
+
+#~ msgid "Taxonomy Checkbox"
+#~ msgstr "Taxonomie à cocher"
+
+#~ msgid "Taxonomy Select"
+#~ msgstr "Sélectionner une taxonomie"
+
+#~ msgid "Text"
+#~ msgstr "Texte"
+
+#~ msgid "Textarea"
+#~ msgstr "Zone de texte"
+
+#~ msgid "Textarea Simple"
+#~ msgstr "Zone de texte simple"
+
+#~ msgid "Textblock"
+#~ msgstr "Bloc de texte"
+
+#~ msgid "Textblock Titled"
+#~ msgstr "Bloc de texte du titre"
+
+#~ msgid "Upload"
+#~ msgstr "Uploader"
+
+#~ msgid "Left Sidebar"
+#~ msgstr "Sidebar à gauche"
+
+#~ msgid "Right Sidebar"
+#~ msgstr "Sidebar à droite"
+
+#~ msgid "Full Width (no sidebar)"
+#~ msgstr "Pleine Largeur (sans sidebar)"
+
+#~ msgid "Dual Sidebar"
+#~ msgstr "Double Sidebar"
+
+#~ msgid "Left Dual Sidebar"
+#~ msgstr "Double sidebar à gauche"
+
+#~ msgid "Right Dual Sidebar"
+#~ msgstr "Double sidebar à droite"
+
+#~ msgid "Link"
+#~ msgstr "Lien"
+
+#~ msgid "Enter the name of the social website."
+#~ msgstr "Entrez le nom du site du réseau social."
+
+#~ msgid "Enter the text shown in the title attribute of the link."
+#~ msgstr "Entrez le texte affiché dans l'attribut titre du lien."
+
+#~ msgid ""
+#~ "Enter a link to the profile or page on the social website. Remember to "
+#~ "add the %s part to the front of the link."
+#~ msgstr ""
+#~ "Entrez un lien vers le profil ou la page de réseau social. N'oubliez pas "
+#~ "d’ajouter %s avant le lien."
+
+#~ msgid "Unable to write to file %s."
+#~ msgstr "Impossible d'écrire dans le fichier %s."
+
+#~ msgid "edit"
+#~ msgstr "modifier"
+
+#~ msgid ""
+#~ "<strong>Section Title</strong>: Displayed as a menu item on the Theme "
+#~ "Options page."
+#~ msgstr ""
+#~ "<strong>Titre</strong> : Affiché comme un élément de menu d'aide "
+#~ "contextuelle sur la page des options du thème."
+
+#~ msgid ""
+#~ "<strong>Section ID</strong>: A unique lower case alphanumeric string, "
+#~ "underscores allowed."
+#~ msgstr ""
+#~ "<strong>ID de la section</strong> : Une chaîne alphanumérique unique, "
+#~ "underscores permis."
+
+#~ msgid ""
+#~ "<strong>Label</strong>: Displayed as the label of a form element on the "
+#~ "Theme Options page."
+#~ msgstr ""
+#~ "<strong>Label</strong> : Affiché comme l’étiquette d’un élément de "
+#~ "formulaire sur la page des options du thème."
+
+#~ msgid ""
+#~ "<strong>ID</strong>: A unique lower case alphanumeric string, underscores "
+#~ "allowed."
+#~ msgstr ""
+#~ "<strong>ID</strong> : Une chaîne alphanumérique en minuscule uniquement, "
+#~ "underscores autorisé."
+
+#~ msgid ""
+#~ "<strong>Type</strong>: Choose one of the available option types from the "
+#~ "dropdown."
+#~ msgstr ""
+#~ "<strong>Type</strong> : Choisissez l’une des types d’options disponibles "
+#~ "dans le menu déroulant."
+
+#~ msgid ""
+#~ "<strong>Description</strong>: Enter a detailed description for the users "
+#~ "to read on the Theme Options page, HTML is allowed. This is also where "
+#~ "you enter content for both the Textblock & Textblock Titled option types."
+#~ msgstr ""
+#~ "<strong>Description</strong> : Entrez une description détaillée pour les "
+#~ "utilisateurs à lire sur la page des options du thème, le HTML est "
+#~ "autorisé. C’est aussi là que vous entrez le contenu pour les types "
+#~ "d’options à la fois le Textblock & Textblock Intitulée."
+
+#~ msgid ""
+#~ "<strong>Choices</strong>: This will only affect the following option "
+#~ "types: Checkbox, Radio, Select & Select Image."
+#~ msgstr ""
+#~ "<strong>Choix</strong> : Cela n'affectera que les types d'options "
+#~ "suivantes : case à cocher, Radio, Sélectionner & Sélectionner l'mage."
+
+#~ msgid "Add Choice"
+#~ msgstr "Ajouter un Choix"
+
+#~ msgid ""
+#~ "<strong>Settings</strong>: This will only affect the List Item option "
+#~ "type."
+#~ msgstr ""
+#~ "<strong>Paramètres</strong> : Cela affectera uniquement l'élément de "
+#~ "liste du type d'option."
+
+#~ msgid "Add Setting"
+#~ msgstr "Ajouter Réglage"
+
+#~ msgid ""
+#~ "<strong>Standard</strong>: Setting the standard value for your option "
+#~ "only works for some option types. Read the <code>OptionTree-"
+#~ ">Documentation</code> for more information on which ones."
+#~ msgstr ""
+#~ "<strong>Standard</strong> : Réglage de la valeur standard pour que votre "
+#~ "option ne fonctionne que pour certains types d’options. Lisez la "
+#~ "<code>Documentation->OptionTree</code> pour plus d’informations."
+
+#~ msgid ""
+#~ "<strong>Rows</strong>: Enter a numeric value for the number of rows in "
+#~ "your textarea. This will only affect the following option types: CSS, "
+#~ "Textarea, & Textarea Simple."
+#~ msgstr ""
+#~ "<strong>Rangées</strong>: Entrez une valeur numérique pour le nombre de "
+#~ "lignes dans votre zone de texte. Cela affectera seulement les types "
+#~ "d’options suivants : CSS, zone de texte, et zone de texte simple."
+
+#~ msgid ""
+#~ "<strong>Post Type</strong>: Add a comma separated list of post type like "
+#~ "'post,page'. This will only affect the following option types: Custom "
+#~ "Post Type Checkbox, & Custom Post Type Select."
+#~ msgstr ""
+#~ "<strong>Type d'article</strong> : Ajouter une liste de type d'article "
+#~ "séparés par des virgules comme 'article, page'. Cela affectera seulement "
+#~ "les types d’options suivantes : Type d'article personnalisé à cocher, et "
+#~ "un type d'article Sélectionné."
+
+#~ msgid ""
+#~ "<strong>Taxonomy</strong>: Add a comma separated list of any registered "
+#~ "taxonomy like 'category,post_tag'. This will only affect the following "
+#~ "option types: Taxonomy Checkbox, & Taxonomy Select."
+#~ msgstr ""
+#~ "<strong>Taxonomie</strong> : Ajouter une liste séparée par des virgules "
+#~ "de taxonomies enregistrées comme 'catégorie, mot-clé_article‘. Cela "
+#~ "affectera seulement les types d’options suivantes : Taxonomie à cocher et "
+#~ "Taxonomie sélectionnée."
+
+#~ msgid ""
+#~ "<strong>Min, Max, & Step</strong>: Add a comma separated list of options "
+#~ "in the following format <code>0,100,1</code> (slide from <code>0-100</"
+#~ "code> in intervals of <code>1</code>). The three values represent the "
+#~ "minimum, maximum, and step options and will only affect the Numeric "
+#~ "Slider option type."
+#~ msgstr ""
+#~ "<strong>Min, Max, et Etape</strong> : Ajouter une liste d’options "
+#~ "séparées par des virgules dans le format suivant <code>0,100,1</code> "
+#~ "(diapositive à partir de <code>0-100</code> à des intervalles de <code>1</"
+#~ "code>). Les trois valeurs représentent le minimum, maximum et options "
+#~ "d'action et affectera uniquement le type d’option du Slider Numérique."
+
+#~ msgid ""
+#~ "<strong>CSS Class</strong>: Add and optional class to this option type."
+#~ msgstr ""
+#~ "<strong>Class CSS</strong> : Ajouter une class css facultative à ce type "
+#~ "d'option."
+
+#~ msgid ""
+#~ "<strong>Condition</strong>: Add a comma separated list (no spaces) of "
+#~ "conditions in which the field will be visible, leave this setting empty "
+#~ "to always show the field. In these examples, <code>value</code> is a "
+#~ "placeholder for your condition, which can be in the form of %s."
+#~ msgstr ""
+#~ "<strong>Condition</strong> : Ajouter une liste séparée par une virgule "
+#~ "(sans espaces) des conditions dans lesquelles le champ sera visible, "
+#~ "laissez ce paramètre vide pour montrer toujours le champ. Dans ces "
+#~ "exemples, <code>la valeur</code> est un espace réservé pour votre "
+#~ "condition, qui peut être sous la forme de %s."
+
+#~ msgid ""
+#~ "<strong>Operator</strong>: Choose the logical operator to compute the "
+#~ "result of the conditions."
+#~ msgstr ""
+#~ "<strong>Opérateur</strong> : Choisir l'opérateur logique pour calculer le "
+#~ "résultat des conditions."
+
+#~ msgid "and"
+#~ msgstr "et"
+
+#~ msgid "or"
+#~ msgstr "ou"
+
+#~ msgid "Label"
+#~ msgstr "Label"
+
+#~ msgid "Value"
+#~ msgstr "Valeur"
+
+#~ msgid "Image Source (Radio Image only)"
+#~ msgstr "Source de l'image (Image Radio seulement)"
+
+#~ msgid ""
+#~ "<strong>Title</strong>: Displayed as a contextual help menu item on the "
+#~ "Theme Options page."
+#~ msgstr ""
+#~ "<strong>Titre</strong> : Affiché comme un élément de menu d'aide "
+#~ "contextuelle sur la page des options du thème."
+
+#~ msgid ""
+#~ "<strong>Content</strong>: Enter the HTML content about this contextual "
+#~ "help item displayed on the Theme Option page for end users to read."
+#~ msgstr ""
+#~ "<strong>Contenu</strong> : Entrez le contenu HTML de cette élément d'aide "
+#~ "contextuelle affichée sur la page des options du thème à lire pour les "
+#~ "utilisateurs."
+
+#~ msgid "Link URL"
+#~ msgstr "URL du Lien"
+
+#~ msgid "Link Title"
+#~ msgstr "Lien du titre"
+
+#~ msgid "Quote"
+#~ msgstr "Citation"
+
+#~ msgid "Source Name (ex. author, singer, actor)"
+#~ msgstr "Source du Nom (ex. auteur, acteur)"
+
+#~ msgid "Source URL"
+#~ msgstr "Source URL"
+
+#~ msgid "Source Title (ex. book, song, movie)"
+#~ msgstr "Source du titre (ex: livre, son, film)"
+
+#~ msgid "Source Date"
+#~ msgstr "Source Date"
+
+#~ msgid ""
+#~ "Embed video from services like Youtube, Vimeo, or Hulu. You can find a "
+#~ "list of supported oEmbed sites in the %1$s. Alternatively, you could use "
+#~ "the built-in %2$s shortcode."
+#~ msgstr ""
+#~ "Vidéo intégrée à partir des services comme YouTube, Vimeo, ou Hulu. Vous "
+#~ "pouvez trouver une liste de sites supportant la pris en charge dans le "
+#~ "%1$s. Sinon, vous pouvez utiliser l'intégration avec le shortcode %2$s."
+
+#, fuzzy
+#~ msgid "WordPress Codex"
+#~ msgstr "Wordpress Codex"
+
+#~ msgid "Audio"
+#~ msgstr "Audio"
+
+#~ msgid ""
+#~ "Embed audio from services like SoundCloud and Rdio. You can find a list "
+#~ "of supported oEmbed sites in the %1$s. Alternatively, you could use the "
+#~ "built-in %2$s shortcode."
+#~ msgstr ""
+#~ "Audio intégré à partir des services comme SoundCloud et Rdio. Vous pouvez "
+#~ "trouver une liste de sites supportant la pris en charge dans le %1$s. "
+#~ "Sinon, vous pouvez utiliser l'intégration avec le shortcode %2$s."
+
+#~ msgid "Sorry, this function does not exist"
+#~ msgstr "Désolé, cette fonction n'existe pas"
+
+#~ msgid "background-image"
+#~ msgstr "arrière-plan-image"
+
+#~ msgid "width"
+#~ msgstr "largeur"
+
+#~ msgid "unit"
+#~ msgstr "unité"
+
+#~ msgid "style"
+#~ msgstr "style"
+
+#~ msgid "offset-x"
+#~ msgstr "offset-x"
+
+#~ msgid "offset-y"
+#~ msgstr "offset-y"
+
+#~ msgid "blur-radius"
+#~ msgstr "blur-radius"
+
+#~ msgid "spread-radius"
+#~ msgstr "spread-radius"
+
+#~ msgid "No Categories Found"
+#~ msgstr "Aucune Catégories Trouvées"
+
+#~ msgid "Choose One"
+#~ msgstr "Choisissez-en un"
+
+#~ msgid "No Posts Found"
+#~ msgstr "Aucun Articles Trouvés"
+
+#~ msgid "height"
+#~ msgstr "hauteur"
+
+#~ msgid "Remove Google Font"
+#~ msgstr "Retirer Police Google"
+
+#~ msgid "-- Choose One --"
+#~ msgstr "-- Choisissez-en une --"
+
+#~ msgid "Add Google Font"
+#~ msgstr "Ajouter Police Google"
+
+#~ msgctxt "color picker"
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+#~ msgctxt "color picker"
+#~ msgid "Hover"
+#~ msgstr "Survol"
+
+#~ msgctxt "color picker"
+#~ msgid "Active"
+#~ msgstr "Actif"
+
+#~ msgctxt "color picker"
+#~ msgid "Visited"
+#~ msgstr "Visité"
+
+#~ msgctxt "color picker"
+#~ msgid "Focus"
+#~ msgstr "Focus"
+
+#~ msgid ""
+#~ "You can re-order with drag & drop, the order will update after saving."
+#~ msgstr ""
+#~ "Vous pouvez r&eacute;ordonner par glisser-d&eacute;poser, l&acute;ordre "
+#~ "sera mis &agrave; jour apr&egrave;s l&acute;enregistrement."
+
+#~ msgid "On"
+#~ msgstr "On"
+
+#~ msgid "Off"
+#~ msgstr "Off"
+
+#~ msgid "No Pages Found"
+#~ msgstr "Aucune Pages Trouvées"
+
+#~ msgid "Default Sidebar"
+#~ msgstr "Sidebar par défaut"
+
+#~ msgid "No Sidebars"
+#~ msgstr "Aucune Sidebars"
+
+#~ msgid "LinkedIn"
+#~ msgstr "LinkedIn"
+
+#~ msgid "Pinterest"
+#~ msgstr "Pinterest"
+
+#~ msgid "Dribbble"
+#~ msgstr "Dribbble"
+
+#~ msgid "Github"
+#~ msgstr "Github"
+
+#~ msgid "Forrst"
+#~ msgstr "Forrst"
+
+#~ msgid "Digg"
+#~ msgstr "Digg"
+
+#~ msgid "Delicious"
+#~ msgstr "Delicious"
+
+#~ msgid "Tumblr"
+#~ msgstr "Tumblr"
+
+#~ msgid "Skype"
+#~ msgstr "Skype"
+
+#~ msgid "SoundCloud"
+#~ msgstr "Soundcloud"
+
+#~ msgid "VK.com"
+#~ msgstr "VK.com"
+
+#~ msgid "top"
+#~ msgstr "haut"
+
+#~ msgid "right"
+#~ msgstr "droite"
+
+#~ msgid "bottom"
+#~ msgstr "bas"
+
+#~ msgid "left"
+#~ msgstr "gauche"
+
+#~ msgid "No Tags Found"
+#~ msgstr "Aucun Mots-clés Trouvés"
+
+#~ msgid "No Taxonomies Found"
+#~ msgstr "Aucune Taxonomies Trouvées"
+
+#~ msgid "Warning!"
+#~ msgstr "Attention !"
+
+#~ msgid ""
+#~ "Go to the %s page if you want to save data, this page is for adding "
+#~ "settings."
+#~ msgstr ""
+#~ "Aller à la page %s si vous voulez sauvegarder les données, cette page est "
+#~ "faite pour un ajout de paramètres."
+
+#~ msgid ""
+#~ "If you're unsure or not completely positive that you should be editing "
+#~ "these settings, you should read the %s first."
+#~ msgstr ""
+#~ "Si vous n'êtes pas sûr ou pas complètement positif pour modifier ces "
+#~ "paramètres, vous devriez lire ceci %s en premier."
+
+#~ msgid ""
+#~ "Things could break or be improperly displayed to the end-user if you do "
+#~ "one of the following:"
+#~ msgstr ""
+#~ "Les choses pourraient se briser ou être incorrectement affiché à "
+#~ "l'utilisateur final si vous faites une des actions suivantes :"
+
+#~ msgid ""
+#~ "Give two sections the same ID, give two settings the same ID, give two "
+#~ "contextual help content areas the same ID, don't create any settings, or "
+#~ "have a section at the end of the settings list."
+#~ msgstr ""
+#~ "Donnez à deux sections le même ID, donner à deux paramètres le même ID, "
+#~ "donner à deux zones de contenu d’aide contextuels le même ID, ne créez "
+#~ "aucun réglages, ou avoir une section à la fin de la liste des paramètres."
+
+#~ msgid ""
+#~ "You can create as many settings as your project requires and use them how "
+#~ "you see fit. When you add a setting here, it will be available on the "
+#~ "Theme Options page for use in your theme. To separate your settings into "
+#~ "sections, click the \"Add Section\" button, fill in the input fields, and "
+#~ "a new navigation menu item will be created."
+#~ msgstr ""
+#~ "Vous pouvez créer autant de paramètres que votre projet nécessite et de "
+#~ "les utiliser pour voir comment ça rend. Lorsque vous ajoutez un paramètre "
+#~ "ici, il sera disponible sur la page des options du thème pour une "
+#~ "utilisation dans votre thème. Pour séparer vos paramètres en sections , "
+#~ "cliquez sur le bouton  \"Ajouter une Section\", remplissez les champs de "
+#~ "saisie, et un nouvel élément de menu de navigation sera créé."
+
+#~ msgid ""
+#~ "All of the settings can be sorted and rearranged to your liking with Drag "
+#~ "& Drop. Don't worry about the order in which you create your settings, "
+#~ "you can always reorder them."
+#~ msgstr ""
+#~ "Tous les paramètres peuvent être triées et réarrangées à votre goût par "
+#~ "Glisser-Déposer. Ne vous inquiétez pas de l’ordre dans lequel vous créez "
+#~ "vos paramètres , vous pouvez toujours les réordonner."
+
+#~ msgid "Add Section"
+#~ msgstr "Ajouter une Section"
+
+#~ msgid "Contextual Help"
+#~ msgstr "Aide contextuelle"
+
+#~ msgid "Contextual Help Sidebar"
+#~ msgstr "Aide contextuelle sidebar"
+
+#~ msgid ""
+#~ "If you decide to add contextual help to the Theme Option page, enter the "
+#~ "optional \"Sidebar\" HTML here. This would be an extremely useful place "
+#~ "to add links to your themes documentation or support forum. Only after "
+#~ "you've added some content below will this display to the user."
+#~ msgstr ""
+#~ "Si vous décidez d’ajouter une aide contextuelle à la page Option du "
+#~ "Thème, entrez l’option “Sidebar” HTML ici . Ce serait un endroit "
+#~ "extrêmement utile d’ajouter des liens vers la documentation de vos thèmes "
+#~ "ou forum de support. Seulement après que vous avez ajouté un contenu ci-"
+#~ "dessous, il sera afficher à l’utilisateur."
+
+#~ msgid "Add Contextual Help Content"
+#~ msgstr "Ajouter une Aide Contextuelle au Contenu"
+
+#~ msgid ""
+#~ "This import method has been deprecated. That means it has been replaced "
+#~ "by a new method and is no longer supported, and may be removed from "
+#~ "future versions. All themes that use this import method should be "
+#~ "converted to use its replacement below."
+#~ msgstr ""
+#~ "Cette méthode d’importation a été désapprouvée . Cela signifie qu’elle a "
+#~ "été remplacé par une nouvelle méthode et n'est plus pris en charge, et "
+#~ "peut être retiré des futures versions . Tous les thèmes qui utilisent "
+#~ "cette méthode d’importation doivent être convertis pour utiliser son "
+#~ "remplacement ci-dessous."
+
+#~ msgid ""
+#~ "If you were given a Theme Options XML file with a premium or free theme, "
+#~ "locate it on your hard drive and upload that file by clicking the upload "
+#~ "button. A popup window will appear, upload the XML file and click \"%s\". "
+#~ "The file URL should be in the upload input, if it is click \"Import XML\"."
+#~ msgstr ""
+#~ "Si vous avez reçu un fichier XML Options du thème avec un thème premium "
+#~ "ou gratuit, localisez-le sur votre disque dur et télécharger ce fichier "
+#~ "en cliquant sur le bouton de téléchargement. Une fenêtre contextuelle "
+#~ "apparaîtra, téléchargez le fichier XML et cliquez sur “%s”. Le fichier "
+#~ "devrait être dans l’entrée de téléchargement, et après cliquez sur "
+#~ "“Importer XML”."
+
+#~ msgid "Import XML"
+#~ msgstr "Importer XML"
+
+#~ msgid "Add XML"
+#~ msgstr "Ajouter XML"
+
+#~ msgid ""
+#~ "To import your Settings copy and paste what appears to be a random string "
+#~ "of alpha numeric characters into this textarea and press the \"Import "
+#~ "Settings\" button."
+#~ msgstr ""
+#~ "Pour importer vos paramètres par copier et coller ce qui semble être une "
+#~ "chaîne aléatoire de caractères alphanumériques dans cette zone de texte "
+#~ "puis appuyez sur le bouton \"Importation des Paramètres\"."
+
+#~ msgid "Import Settings"
+#~ msgstr "Importer les paramètres"
+
+#~ msgid ""
+#~ "Only after you've imported the Settings should you try and update your "
+#~ "Theme Options."
+#~ msgstr ""
+#~ "Seulement après que vous avez importé les paramètres, vous devriez "
+#~ "essayer et mettre à jour vos options du thème."
+
+#~ msgid ""
+#~ "To import your Theme Options copy and paste what appears to be a random "
+#~ "string of alpha numeric characters into this textarea and press the "
+#~ "\"Import Theme Options\" button."
+#~ msgstr ""
+#~ "Pour importer vos Options du thème par copier et coller ce qui semble "
+#~ "être une chaîne aléatoire de caractères alphanumériques dans cette zone "
+#~ "de texte puis appuyez sur le bouton \"Importation Options du thème\"."
+
+#~ msgid "Import Theme Options"
+#~ msgstr "Importer les options du thème"
+
+#~ msgid ""
+#~ "Only after you've imported the Settings should you try and update your "
+#~ "Layouts."
+#~ msgstr ""
+#~ "Seulement après que vous avez importé les paramètres, vous devrez essayer "
+#~ "de mettre à jour vos modèles."
+
+#~ msgid ""
+#~ "To import your Layouts copy and paste what appears to be a random string "
+#~ "of alpha numeric characters into this textarea and press the \"Import "
+#~ "Layouts\" button. Keep in mind that when you import your layouts, the "
+#~ "active layout's saved data will write over the current data set for your "
+#~ "Theme Options."
+#~ msgstr ""
+#~ "Pour importer vos mises en page par copier et coller ce qui semble être "
+#~ "une chaîne aléatoire de caractères alphanumériques dans cette zone de "
+#~ "texte puis appuyez sur le bouton «Importer les modèles\". Gardez à "
+#~ "l'esprit que lorsque vous importez vos mises en page, les mises en page "
+#~ "actifs enregistrées seront écrites sur l'ensemble de vos options du thème "
+#~ "actuelles."
+
+#~ msgid "Import Layouts"
+#~ msgstr "Importer les Modèles"
+
+#~ msgid ""
+#~ "Export your Settings into a fully functional %s file. If you want to add "
+#~ "your own custom %s text domain to the file, enter it into the text field "
+#~ "before exporting. For more information on how to use this file read the "
+#~ "documentation on %s. Remember, you should always check the file for "
+#~ "errors before including it in your theme."
+#~ msgstr ""
+#~ "Exportez vos paramètres dans un fichier %s entièrement fonctionnel. Si "
+#~ "vous souhaitez ajouter votre propre domaine de texte personnalisé %s au "
+#~ "fichier, entrez dans le champ de texte avant de l'exporter. Pour plus "
+#~ "d'informations sur la façon d'utiliser ce fichier lire la documentation "
+#~ "sur %s. Rappelez-vous, vous devez toujours vérifier le fichier pour les "
+#~ "erreurs avant de l'inclure dans votre thème."
+
+#~ msgid "Export Settings File"
+#~ msgstr "Exporter les Paramètres"
+
+#, fuzzy
+#~ msgid ""
+#~ "Export your Settings by highlighting this text and doing a copy/paste "
+#~ "into a blank .txt file. Then save the file for importing into another "
+#~ "install of WordPress later. Alternatively, you could just paste it into "
+#~ "the <code>Options Utils->Settings->Import</code> <strong>Settings</"
+#~ "strong> textarea on another web site."
+#~ msgstr ""
+#~ "Exportez vos paramètres en mettant en évidence ce texte et de faire un "
+#~ "copier/coller dans un fichier .txt vide. Puis enregistrez le fichier à "
+#~ "importer dans une autre installation de WordPress pour plus tard. "
+#~ "Alternativement, vous pouvez simplement le coller dans <code>Option Tree-"
+#~ ">Paramètres>Importer</code> <strong>Paramètres</strong> zone de texte sur "
+#~ "un autre site web."
+
+#, fuzzy
+#~ msgid ""
+#~ "Export your Theme Options data by highlighting this text and doing a copy/"
+#~ "paste into a blank .txt file. Then save the file for importing into "
+#~ "another install of WordPress later. Alternatively, you could just paste "
+#~ "it into the <code>Options Utils->Settings->Import</code> <strong>Theme "
+#~ "Options</strong> textarea on another web site."
+#~ msgstr ""
+#~ "Exportez vos données des options du thème en mettant en évidence ce texte "
+#~ "et de faire un copier/coller dans un fichier .txt vide. Puis enregistrez "
+#~ "le fichier à importer dans une autre installation de WordPress pour plus "
+#~ "tard. Alternativement, vous pouvez simplement le coller dans "
+#~ "<code>OptionTree->Paramètres>Importer</code> <strong>Options du thème</"
+#~ "strong> zone de texte sur un autre site web."
+
+#, fuzzy
+#~ msgid ""
+#~ "Export your Layouts by highlighting this text and doing a copy/paste into "
+#~ "a blank .txt file. Then save the file for importing into another install "
+#~ "of WordPress later. Alternatively, you could just paste it into the "
+#~ "<code>Options Utils->Settings->Import</code> <strong>Layouts</strong> "
+#~ "textarea on another web site."
+#~ msgstr ""
+#~ "Exportez vos mises en page en mettant en évidence ce texte et de faire un "
+#~ "copier/coller dans un fichier .txt vide. Puis enregistrez le fichier à "
+#~ "importer dans une autre installation de WordPress pour plus tard. "
+#~ "Alternativement, vous pouvez simplement coller dans le <code>OptionTree-"
+#~ ">Paramètres->Importer</code> <strong>Modèles</strong> zone de texte sur "
+#~ "un autre site web."
+
+#~ msgid ""
+#~ "To add a new layout enter a unique lower case alphanumeric string (dashes "
+#~ "allowed) in the text field and click \"Save Layouts\"."
+#~ msgstr ""
+#~ "Pour ajouter une nouvelle mise en page entrez une chaîne unique en "
+#~ "minuscules alphanumériques (tirets autorisés) dans le champ de texte et "
+#~ "cliquez sur \"Enregistrer les modèles\"."
+
+#~ msgid ""
+#~ "As well, you can activate, remove, and drag & drop the order; all "
+#~ "situations require you to click \"Save Layouts\" for the changes to be "
+#~ "applied."
+#~ msgstr ""
+#~ "En outre, vous pouvez activer, supprimer et glisser-déposer dans l'ordre; "
+#~ "toutes les situations requises que vous cliquez sur \"Enregistrer les "
+#~ "Modèles\" pour les changements à appliquer."
+
+#~ msgid ""
+#~ "When you create a new layout it will become active and any changes made "
+#~ "to the Theme Options will be applied to it. If you switch back to a "
+#~ "different layout immediately after creating a new layout that new layout "
+#~ "will have a snapshot of the current Theme Options data attached to it."
+#~ msgstr ""
+#~ "Lorsque vous créez une nouvelle mise en page, elle devient active et "
+#~ "toutes les modifications apportées aux options du thème seront "
+#~ "appliquées. Si vous revenez à une mise en page différente immédiatement "
+#~ "après la création d'une nouvelle mise en page ce nouveau modèle aura un "
+#~ "aperçu des données actuelles des options de thème qui s'y rattachent."
+
+#, fuzzy
+#~ msgid ""
+#~ "Visit <code>Options Utils->Documentation->Layouts Overview</code> to see "
+#~ "a more in-depth description of what layouts are and how to use them."
+#~ msgstr ""
+#~ "Visiter <code>OptionTree->Documentation->Présentation des modèles</code> "
+#~ "pour voir une description plus approfondie de ce que sont les mises en "
+#~ "page et la façon de les utiliser."
+
+#~ msgid "Save Layouts"
+#~ msgstr "Enregistrer les Modèles"
+
+#~ msgid ""
+#~ "OptionTree is installed as a plugin and also embedded in your current "
+#~ "theme. Please deactivate the plugin to load the theme dependent version "
+#~ "of OptionTree, and remove this warning."
+#~ msgstr ""
+#~ "OptionTree est installé comme un plugin et est également intégré dans "
+#~ "votre thème actuellement. S'il vous plaît désactivez le plugin pour "
+#~ "charger la version du thème dépendante d'OptionTree, et de supprimer cet "
+#~ "avertissement."
+
+#~ msgid "Subtotal"
+#~ msgstr "Sous-Total"
+
+#, fuzzy
+#~ msgid "Customer Details"
+#~ msgstr "Détails personnalisés"
+
+#~ msgid "Billing Address"
+#~ msgstr "Adresse"
+
+#~ msgid "Shipping Address"
+#~ msgstr "Adresse de livraison"
+
+#~ msgid "Order Details"
+#~ msgstr "Trier les Détails"
+
+#~ msgctxt "label"
+#~ msgid "Search for:"
+#~ msgstr "Recherche pour :"
+
+#~ msgid "Be the first to review"
+#~ msgstr "Soyez le premier à laisser un avis"
+
+#~ msgid "Your Rating"
+#~ msgstr "Votre Evaluation"
+
+#~ msgid "Your Review"
+#~ msgstr "Votre évaluation"
+
+#~ msgid "Add to cart"
+#~ msgstr "Ajouter au panier"
+
+#~ msgid "Placeholder"
+#~ msgstr "Espace réservé"
+
+#~ msgid "Related Products"
+#~ msgstr "Produits similaires"
+
+#~ msgid "Rated %d out of 5"
+#~ msgstr "Evalué %d sur 5"
+
+#~ msgid "out of 5"
+#~ msgstr "sur 5"
+
+#~ msgid "Additional Information"
+#~ msgstr "Information Supplémentaire"
+
+#~ msgid ""
+#~ "Shows a price filter slider in a widget which lets you narrow down the "
+#~ "list of shown products when viewing product categories."
+#~ msgstr ""
+#~ "Affiche un filtre de prix dans un widget qui vous permet d’affiner la "
+#~ "liste des produits présentés lors de l’affichage des catégories de "
+#~ "produits."
+
+#~ msgid "WooCommerce Price Filter"
+#~ msgstr "Filtre de prix WooCommerce"
+
+#~ msgid "Filter by price"
+#~ msgstr "Filtrer par prix"
+
+#~ msgid "Min price"
+#~ msgstr "Prix min"
+
+#~ msgid "Max price"
+#~ msgstr "Prix max"
+
+#~ msgid "Filter"
+#~ msgstr "Filtrer"
+
+#~ msgid "Price:"
+#~ msgstr "Prix :"
+
+#, fuzzy
+#~| msgid "WooCommerce Price Filter"
+#~ msgid "WooCommerce price filter"
+#~ msgstr "Filtre de prix WooCommerce"
+
+#~ msgid "Uncode"
+#~ msgstr "Uncode"
+
+#~ msgid "http://www.undsgn.com/uncode"
+#~ msgstr "http://www.undsgn.com/uncode"
+
+#~ msgid ""
+#~ "Uncode is a pixel perfect WordPress Theme designed with terrific "
+#~ "attention to details"
+#~ msgstr ""
+#~ "Uncode est un Thème WordPress parfait au pixel près conçu avec une "
+#~ "attention aux détails terribles"
+
+#~ msgid "Undsgn"
+#~ msgstr "Undsgn"
+
+#~ msgid "http://www.undsgn.com"
+#~ msgstr "http://www.undsgn.com"
+
+#~ msgid "Menu shadows"
+#~ msgstr "Ombres du menu"
+
+#, fuzzy
+#~ msgid "IMPORT LAYOUTS"
+#~ msgstr "Importer les Modèles"
+
+#~ msgid "Show Details"
+#~ msgstr "Montrer les détails"
+
+#~ msgid "Hide Details"
+#~ msgstr "Cacher les détails"
+
+#, fuzzy
+#~ msgid "Specify the menu font size."
+#~ msgstr "Spécifiez une famille de polices du menu."
+
+#, fuzzy
+#~ msgid "Specify the submenu font size."
+#~ msgstr "Spécifiez une famille de polices du menu."
+
+#~ msgid "Buttons"
+#~ msgstr "Boutons"
+
+#~ msgid "dismiss"
+#~ msgstr "rejeter"
+
+#~ msgid ""
+#~ "%s is up and running! Check that all the requirements below are fulfilled "
+#~ "and labeled in green.<br>Enjoy and free your imagination with %s!"
+#~ msgstr ""
+#~ "%s est en place et fonctionne ! Vérifiez que toutes les exigences ci-"
+#~ "dessous sont remplies et marquées en vert.<br>Profitez-en bien et libérez "
+#~ "votre imagination avec %s !"
+
+#~ msgid "Option Tools"
+#~ msgstr "Outils Option"
+
+#~ msgid "Install Fonts"
+#~ msgstr "Installer les polices"
+
+#~ msgid "WordPress Environment"
+#~ msgstr "Environnement WordPress"
+
+#, fuzzy
+#~ msgid "Uncode Help"
+#~ msgstr "Uncode"
+
+#, fuzzy
+#~ msgid "Amount of Posts"
+#~ msgstr "sur 5"
+
+#, fuzzy
+#~ msgid "Heading text"
+#~ msgstr "Texte du titre"
+
+#, fuzzy
+#~ msgid "Restart the wizard?"
+#~ msgstr "Revenir au tableau de bord"
+
+#, fuzzy
+#~ msgid "Show love?"
+#~ msgstr "Montrer le titre"
+
+#, fuzzy
+#~ msgid "Related posts"
+#~ msgstr "Produits similaires"
+
+#, fuzzy
+#~ msgid "Install demo content"
+#~ msgstr "Installer la Démo"
+
+#~ msgid ""
+#~ "No existing posts, pages, categories, images, custom post types or any "
+#~ "other data will be deleted or modified."
+#~ msgstr ""
+#~ "Aucun articles, pages, catégories, images, types de poste personnalisés "
+#~ "ou d'autres données seront supprimés ou modifiés."
+
+#~ msgid "Posts, pages, some images, some widgets and menus will get imported."
+#~ msgstr ""
+#~ "Articles, pages, quelques images, certains widgets et des menus vont "
+#~ "s'importer."
+
+#~ msgid "Images will be downloaded from our server."
+#~ msgstr "Les images seront téléchargées à partir de notre serveur."
+
+#~ msgid "Important:"
+#~ msgstr "Important :"
+
+#~ msgid ""
+#~ "Deactivate all the plugins except the one listed  %s under the section "
+#~ "'Plugins used in the Uncode demo site' if you are planning to use them."
+#~ msgstr ""
+#~ "Désactiver tous les plugins sauf celui listé %s dans la section 'Les "
+#~ "Plugins utilisés dans le site de démonstration Uncode' si vous prévoyez "
+#~ "de les utiliser."
+
+#~ msgid "here"
+#~ msgstr "ici"
+
+#~ msgid ""
+#~ "Make sure that of the server requirements in %s > Welcome page are "
+#~ "fulfilled."
+#~ msgstr ""
+#~ "Assurez-vous que les exigences du serveur dans %s > Page de bienvenue "
+#~ "sont remplies."
+
+#~ msgid ""
+#~ "It's always recommended to run the import on a clean installtion of "
+#~ "WordPress."
+#~ msgstr ""
+#~ "Il est toujours recommandé d'exécuter l'importation sur une installation "
+#~ "propre de WordPress."
+
+#~ msgid ""
+#~ "Some of the images imported will not match the demo site since they are "
+#~ "copyrighted material."
+#~ msgstr ""
+#~ "Certaines des images importées ne correspondra pas au site de "
+#~ "démonstration, car ils sont la propriété matérielle."
+
+#~ msgid ""
+#~ "In case of import failure, when coming from a clean WordPress "
+#~ "installation, we recommend to reset if before try it again. We suggest to "
+#~ "use %s plugin."
+#~ msgstr ""
+#~ "En cas d'échec de l'importation, lorsqu'ils proviennent d'une "
+#~ "installation de WordPress propre, nous conseillons de réinitialisé avant "
+#~ "d'essayer à nouveau. Nous vous suggérons d'utiliser le plugin %s."
+
+#~ msgid "WordPress Reset"
+#~ msgstr "Réinitialiser Wordpress"
+
+#, fuzzy
+#~ msgid "Content Block - After Content"
+#~ msgstr "Aucun blocs de contenu trouvés"
+
+#~ msgid "404 content block"
+#~ msgstr "Bloc de contenu 404"
+
+#, fuzzy
+#~ msgid "Define the content block to use."
+#~ msgstr "Remplacer le Bloque de contenu."
+
+#~ msgid "To allow the correct style to work, make <code>%s</code> writable."
+#~ msgstr ""
+#~ "Afin de permettre au style de travailler correctement, faire <code>%s</"
+#~ "code> en écriture."
+
+#~ msgid "Author: %s"
+#~ msgstr "Auteur : %s"
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugins."
+#~ msgstr[0] ""
+#~ "Désolé, mais vous ne disposez pas des autorisations nécessaires pour "
+#~ "installer le plugin %1$s."
+#~ msgstr[1] ""
+#~ "Désolé, mais vous ne disposez pas des autorisations nécessaires pour "
+#~ "installer les plugins %1$s."
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugins."
+#~ msgstr[0] ""
+#~ "Désolé, mais vous ne disposez pas des autorisations nécessaires pour "
+#~ "mettre à jour le plugin %1$s."
+#~ msgstr[1] ""
+#~ "Désolé, mais vous ne disposez pas des autorisations nécessaires pour "
+#~ "mettre à jour les plugins %1$s."
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
+#~ "plugins."
+#~ msgstr[0] ""
+#~ "Désolé, mais vous ne disposez pas des autorisations nécessaires pour "
+#~ "activer le plugin %1$s."
+#~ msgstr[1] ""
+#~ "Désolé, mais vous ne disposez pas des autorisations nécessaires pour "
+#~ "activer les plugins %1$s."
+
+#~ msgid "Set the parent_slug config variable instead."
+#~ msgstr "Réglez la configuration de la variable parent_slug."
+
+#~ msgid "<span class=\"detail-label\">Category</span>"
+#~ msgid_plural "<span class=\"detail-label\">Categories</span>"
+#~ msgstr[0] "<span class=\"detail-label\">Catégorie</span>"
+#~ msgstr[1] "<span class=\"detail-label\">Catégories</span>"
+
+#~ msgid "Home URL"
+#~ msgstr "URL Accueil"
+
+#~ msgid "The URL of your site's homepage."
+#~ msgstr "L'URL de votre page d'accueil"
+
+#~ msgid "Site URL"
+#~ msgstr "URL du Site"
+
+#~ msgid "The root URL of your site."
+#~ msgstr "L'URL racine de votre site."
+
+#~ msgid "Server Info"
+#~ msgstr "Info du Serveur"
+
+#~ msgid ""
+#~ "Information about the web server that is currently hosting your site."
+#~ msgstr ""
+#~ "Informations sur le serveur Web qui héberge actuellement votre site."
+
+#~ msgid "The version of PHP installed on your hosting server."
+#~ msgstr "La version de PHP installée sur votre serveur d'hébergement."
+
+#~ msgid "The recommended version is the 5.6."
+#~ msgstr "La version recommandée est la 5.6."
+
+#~ msgid ""
+#~ "You are running an obsolete version of PHP. For your security and a "
+#~ "proper functioning of the theme you have to upgrade it a newer version "
+#~ "(5.6 is recommended). Please contact your hosting provider."
+#~ msgstr ""
+#~ "Vous utilisez une version obsolète de PHP. Pour votre sécurité et le bon "
+#~ "fonctionnement du thème, vous devez mettre à niveau une version plus "
+#~ "récente (5.6 est recommandé). Veuillez communiquer avec votre fournisseur "
+#~ "d'hébergement."
+
+#~ msgid "Couldn't determine PHP version because phpversion() doesn't exist."
+#~ msgstr ""
+#~ "Impossible de déterminer la version de PHP parce que phpversion() "
+#~ "n'existe pas."
+
+#, fuzzy
+#~ msgid "Real Memory Available"
+#~ msgstr "Mise à jour requise Non Disponible"
+
+#~ msgid "PHP Post Max Size"
+#~ msgstr "Taille Max Post PHP"
+
+#~ msgid "The largest filesize that can be contained in one post."
+#~ msgstr ""
+#~ "La plus grande taille de fichier qui peut être contenue dans un poste."
+
+#~ msgid ""
+#~ "%s - Raccomended value is at least 32. <a href=\"%s\" target=\"_blank"
+#~ "\">Please increase it.</a>"
+#~ msgstr ""
+#~ "%s - La valeur recommandée est d'au moins 32. <a href=\"%s\" target="
+#~ "\"_blank\">S'il vous plaît augmentez ceci.</a>"
+
+#~ msgid "PHP Time Limit"
+#~ msgstr "Limite d’exécution PHP"
+
+#~ msgid ""
+#~ "The amount of time (in seconds) that your site will spend on a single "
+#~ "operation before timing out (to avoid server lockups)"
+#~ msgstr ""
+#~ "La quantité de temps (en secondes) que votre site va passer sur une seule "
+#~ "opération avant d'expirer (pour éviter les blocages de serveur)"
+
+#~ msgid ""
+#~ "%s - Raccomended value is at least 120. <a href=\"%s\" target=\"_blank"
+#~ "\">Please increase it.</a>"
+#~ msgstr ""
+#~ "%s - La valeur recommandée est d'au moins 120. <a href=\"%s\" target="
+#~ "\"_blank\">S'il vous plaît augmentez ceci.</a>"
+
+#~ msgid ""
+#~ "Raccomended value is at least 3000. <a href=\"%s\">Please increase it.</a>"
+#~ msgstr ""
+#~ "La valeur recommandée est d'au moins 3000. <a href=\"%s\">S'il vous plaît "
+#~ "augmentez ceci.</a>"
+
+#~ msgid "SUHOSIN Installed"
+#~ msgstr "SUHOSIN Installé"
+
+#~ msgid ""
+#~ "Suhosin is an advanced protection system for PHP installations. It was "
+#~ "designed to protect your servers on the one hand against a number of well "
+#~ "known problems in PHP applications and on the other hand against "
+#~ "potential unknown vulnerabilities within these applications or the PHP "
+#~ "core itself. If enabled on your server, Suhosin may need to be configured "
+#~ "to increase its data submission limits."
+#~ msgstr ""
+#~ "Suhosin est un système de protection de pointe pour les installations "
+#~ "PHP. Il a été conçu pour protéger vos serveurs d'une part contre un "
+#~ "certain nombre de problèmes bien connus dans les applications PHP et "
+#~ "d'autre part contre les vulnérabilités inconnues au sein de ces "
+#~ "applications ou du noyau de PHP lui-même. Si il est activé sur votre "
+#~ "serveur, faudra peut-être configurer Suhosin pour augmenter ses limites "
+#~ "de soumission des données."
+
+#~ msgid "MySQL Version"
+#~ msgstr "Version MySQL"
+
+#~ msgid "The version of MySQL installed on your hosting server."
+#~ msgstr "La version MySQL installé sur votre serveur d'hébergement."
+
+#~ msgid "Max Upload Size"
+#~ msgstr "Taille Upload Max"
+
+#~ msgid ""
+#~ "The largest filesize that can be uploaded to your WordPress installation."
+#~ msgstr ""
+#~ "La plus grande taille de fichier qui peut être téléchargée sur votre "
+#~ "installation de WordPress."
+
+#~ msgid "Allow URL fopen"
+#~ msgstr "Autoriser URL fopen"
+
+#~ msgid ""
+#~ "Disabled - For the import of the demo data this value needs to be "
+#~ "enabled. <a href=\"%s\" target=\"_blank\">Please enabled it.</a>"
+#~ msgstr ""
+#~ "Désactivé - Pour l'importation des données de démonstration, cette valeur "
+#~ "doit être activé.<a href=\"%s\" target=\"_blank\">S'il vous plaît, "
+#~ "activez ceci.</a>"
+
+#~ msgid "Default Timezone is UTC"
+#~ msgstr "Le fuseau horaire par défaut est UTC"
+
+#~ msgid "The default timezone for your server."
+#~ msgstr "Le fuseau horaire par défaut de votre serveur."
+
+#~ msgid "Default timezone is %s - it should be UTC"
+#~ msgstr "Par défaut le fuseau horaire est %s - il devrait être UTC"
+
+#~ msgid "Theme"
+#~ msgstr "Thème"
+
+#~ msgid "The name of the current active theme."
+#~ msgstr "Le nom du thème actif."
+
+#~ msgid "The installed version of the current active theme."
+#~ msgstr "La version installée du thème actif."
+
+#~ msgid "Author URL"
+#~ msgstr "URL Auteur"
+
+#~ msgid "The theme developers URL."
+#~ msgstr "URL Développeurs du thème"
+
+#~ msgid "Displays whether or not the current theme is a child theme."
+#~ msgstr "Affiche ou non si le thème actuel est un thème enfant."
+
+#~ msgid ""
+#~ "If you're modifying uncode or a parent theme you didn't build personally "
+#~ "we recommend using a child theme. See: <a href=\"%s\" target=\"_blank"
+#~ "\">How to create a child theme</a>"
+#~ msgstr ""
+#~ "Si vous modifiez Uncode ou un thème parent, que vous n'avez pas construit "
+#~ "personnellement, nous vous recommandons d'utiliser un thème enfant. "
+#~ "Voir : <a href=\"%s\" target=\"_blank\">Comment créer un thème enfant</a>"
+
+#~ msgid "Parent Theme Name"
+#~ msgstr "Nom Thème Parent"
+
+#~ msgid "The name of the parent theme."
+#~ msgstr "Le nom du thème parent."
+
+#~ msgid "Parent Theme Version"
+#~ msgstr "Version Thème Parent"
+
+#~ msgid "The installed version of the parent theme."
+#~ msgstr "La version installée du thème parent."
+
+#~ msgid "Parent Theme Author URL"
+#~ msgstr "URL Auteur du Thème Parent"
+
+#~ msgid "The parent theme developers URL."
+#~ msgstr "URL des développeurs du thème parent."
+
+#~ msgid "Active Plugins"
+#~ msgstr "Plugins Actifs"
+
+#~ msgid "Visit plugin homepage"
+#~ msgstr "Visiter la page d'accueil du plugin"
+
+#~ msgctxt "by author"
+#~ msgid "by %s"
+#~ msgstr "par %s"
+
+#, fuzzy
+#~ msgid "Menu on hover color"
+#~ msgstr "Couleur du texte du menu"
+
+#, fuzzy
+#~ msgid "Back to "
+#~ msgstr "Retour"
+
+#~ msgid "Download file%s"
+#~ msgstr "Télécharger un fichier %s"
+
+#~ msgid "(Includes %s)"
+#~ msgstr "(Comprend %s)"
+
+#~ msgid "Refunded:"
+#~ msgstr "Remboursement :"
+
+#~ msgid "Telephone"
+#~ msgstr "Téléphone"
+
+#~ msgid "Back"
+#~ msgstr "Retour"
+
+#~ msgid "Clear selection"
+#~ msgstr "Effacer la sélection"
+
+#~ msgid "Tag: %s"
+#~ msgstr "Mot-clé : %s"
+
+#~ msgid "%1$s: %2$s"
+#~ msgstr "%1$s : %2$s"
+
+#~ msgid "Social Network Name"
+#~ msgstr "Nom Réseau Social"

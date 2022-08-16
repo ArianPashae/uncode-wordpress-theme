@@ -1,0 +1,15 @@
+body#tinymce.wp-editor {
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+	font-size: 14px;
+	color: #5b636b;
+	line-height: 1.75;
+	-webkit-font-smoothing: subpixel-antialiased !important;
+}
+
+body#tinymce.wp-editor[data-id=wpb_tinymce_content] {
+	font-size: 13px;
+}
+
+body#tinymce.wp-editor.wp-autoresize {
+	margin: 0 20px;
+}
