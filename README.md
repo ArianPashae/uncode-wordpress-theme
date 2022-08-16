@@ -29,7 +29,7 @@
   </a>
   </div>
   <h2>💜🇬🇧 English 🇬🇧💜</h2>
-<p>🌹XTRA is a creative, responsive, live drag and drop and easy-to-use WordPress theme for any kind of websites.<br> It allows you to create sites for a wide range of businesses and styles.<br> If you are a designer or freelancer looking for a website with flair, then look no further.<br> XTRA has been built with creative passion at heart, collaborating with top designers, you will find eye popping slick designs we know you will love.🌹</p>
+<p>🌹Uncode is a pixel-perfect creative WordPress Theme for any kind of website (portfolio, agency, freelance, blog) and a top WooCommerce Theme for shops (eCommerce, online store, business).<br> Uncode is designed with incredible attention to detail, flexibility, and performance.<br> In addition, the Uncode Website Builder includes responsive templates and allows you to edit your pages without touching a single line of code: anything you can think of can be built!🌹</p>
   <br>
   <br>
   <div>
